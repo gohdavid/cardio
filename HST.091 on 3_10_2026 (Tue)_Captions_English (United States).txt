@@ -1,0 +1,2503 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Hello? Can you hear me? Yeah.
+
+So we're going to do SVT and A-fib, and we're going to try to do a little introduction to ventricular arrhythmias at the end,
+
+because some of those will appear on the EKGs also. So I wanted you to have seen them all.
+
+But I wanted to start. There was we were rounding yesterday morning on the inpatient service.
+
+So this is the electrophysiology service where we get consulted for patients in the hospital that have arrhythmia problems.
+
+And it was a really nice example of a physiology based electrophysiology observation.
+
+So I thought that I would just show you this case real quick, because I think it will preview some of the things you'll see when doctor starts.
+
+Does, um, coronary artery disease. So when a person has a myocardial infarction there are basically three.
+
+Can you see that if I do that. Yeah. There are three arteries that supply blood to the heart that come off of the aortic root.
+
+Um, this is the right coronary here. This is the left coronary which divides into left anterior descending coronary artery and
+
+the left circumflex coronary artery that goes off and mostly supplies the back wall.
+
+But what's very interesting about the left anterior descending coronary artery and the
+
+proximal bundle is that they are served by these little branches that come off of the ladder,
+
+which are called septal perforate.
+
+So if you look at them, if you shoot an angiogram, you see these little blushing small small vessels that all go into the inter ventricular septum.
+
+And not unsurprisingly, I guess they, they actually sub tend parts of the conduction system.
+
+So if you have what's called an anterior myocardial infarction you block off the Lad at different levels.
+
+Now if you brought block off the ladder really proximally, like just as it comes off of the left main coronary artery, which is this one.
+
+You can actually start to pick off portions of the heist bundle.
+
+So I wanted to show you just an example that you guys could recognize that.
+
+So this is a 62 year old guy presented chest pain, anterior myocardial infarction.
+
+They took him to the catheterization lab, and they put a stent in this artery to stop his myocardial infarction.
+
+They put a little balloon in there. They blow up the balloon, they get rid of the blockage, and then they put a stent in there to keep it open.
+
+And so six months ago, this was his EKG.
+
+What do we see? Normal sinus rhythm. Right.
+
+Normal p-wave axis PR interval looks pretty normal.
+
+Maybe a touch prolonged, but not too bad. The axis looks pretty normal.
+
+The pre cordial progression looks pretty normal, right?
+
+The shoe restoration looks normal. The morphology of the shoes looks pretty good.
+
+The interval looks pretty normal. So six months ago pretty normal.
+
+And now this is like after the whole infarction is done.
+
+You know Colin's going to talk to you in the future about all the wacky things that happened to your EKG.
+
+But this is like after the stent. So what do you notice has happened?
+
+The QRS is wide now. Yeah. And what else have you noticed?
+
+Is our wave progression good? No, it's really bad, right?
+
+There's no hour wave hardly at all in V6, right?
+
+This resembles a little bit a right bundle branch block, but it's pretty wide.
+
+So this is a lot of conduction system disease. The axis is actually a little bit hard even to calculate because they're very low volts in lead three.
+
+And I know I told you that this is usually the isoelectric axis.
+
+But if you look here these guys are negative. These guys are negative.
+
+The main axis in lead one is negative. So this is actually a pretty northwest looking axis.
+
+So very unusual. Axis. And then you see the PR interval is now long.
+
+So this is all just evidence.
+
+I wanted to show you that you guys can see that there's been a massive change to this guy's heart just by looking at these, these two EKG.
+
+So you basically went from this. To this because.
+
+This artery got blocked off in a very like for a short period of time.
+
+A lot of his anterior wall of his heart from a functional standpoint recovered.
+
+But the his Purkinje system didn't totally recover. And we can see the sign of this injury by seeing that very wide QRS and the
+
+delay in his ventricular activation and the loss of the our waves over here.
+
+So I just wanted to show you that is like this stuff happens every day that we look at.
+
+Yeah. So you don't.
+
+You know that from the history, this could have happened from a variety of different reasons.
+
+So the reasons that people can get changes in their AV conduction are many.
+
+So you can get them from myocardial events. You can get it from, uh, just calcification.
+
+Probably the most common things as people get older, a lot of things in their heart calcify and they can get calcified conduction system disease.
+
+It's probably the most common reason people get a pacemaker eventually as they get older.
+
+Um, but when it happens, like one moment to the next, we worry about certain things.
+
+And one of them is this, um, there's also an autoimmune disease that attacks the conduction system.
+
+They're inherited other things that that, uh, that can cause this.
+
+But this is just, um, knowing the guy's history, we know what caused this conduction system abnormality.
+
+Okay, so just a really quick review. Last time we talked about some of the super ventricular tachycardia.
+
+And this one is AV node reentry tachycardia.
+
+This is the one where the circuit is basically in the center of the heart.
+
+And there's simultaneous activation of the atrium and the ventricle from the from the center of the heart.
+
+It produces a narrow complex tachycardia. Very hard to see the P waves, but they just barely peek out from after the QRS.
+
+And they can cause a pseudo R prime in V1.
+
+They can cause a little s wave in the inferior leads, like what you see here.
+
+And the P waves appear, of course, upside down because they're retrograde.
+
+And then the other one that we talked about was accessory pathway mediated tachycardia.
+
+So that could be um. From a reentry circuit.
+
+So there's an accessory pathway over here that provides an extra electrical
+
+connection besides the AV node and the natural conduction system over here.
+
+And you can get AVR, which is a circuit that goes down the AV node and up the accessory pathway.
+
+That's called ortho dramatic AVR.
+
+We even talked about an example where it could go the other direction and make a wide complex tachycardia called anti-drone AVR.
+
+We also talked about accessory pathways and atrial fibrillation and how they can put you at risk for sudden death.
+
+And that ablation of the accessory pathway can cure this condition.
+
+We also sort of finished talking a little bit about atrial tachycardia.
+
+We did it really fast at the end. So I thought we should review it a little bit.
+
+So atrial tachycardia is the third most common mechanism of SVT that we see in patients.
+
+It's usually a focal arrhythmia.
+
+Think of it as just an extra like a sinus node, but it usually fires much more rapidly than the sinus node that arises from the atrial myocardium.
+
+And unlike the other two cases that we talked about, where many of the patients have totally normal hearts.
+
+The atrial tachycardia patients tend more to have something abnormal.
+
+They either have something abnormal happening in that they're ill from something,
+
+or that their heart is structurally abnormal and their scar tissue in the upper chambers of the heart.
+
+And that's what leads to the abnormal pacemaker activity.
+
+So it's usually one spot that's firing too fast.
+
+The EKG shows a p wave. It shows a regular narrow, complex tachycardia.
+
+It shows a p wave that's different from sinus rhythm.
+
+And the r p is much greater than the PR interval.
+
+The PR interval should look sort of normal. It should similar to what you'd see in sinus rhythm.
+
+We talked about medicines that we sometimes give to stop SVT.
+
+So one example of that is adenosine. But also those vagal maneuvers we talked about that kids do.
+
+They basically block the AV node conduction. This arrhythmia is coming just from the upper chamber of the heart.
+
+And doing those maneuvers doesn't affect it at all because blocking the AV node.
+
+It might slow it briefly, because there might be fewer of those signals that make it down to the ventricle when you block the AV node.
+
+But as soon as that reflexes over, it'll go right back to where it was before.
+
+It won't stop it. Unlike these kinds of arrhythmias, where it actually depends on the AV node.
+
+And if you block this for just a moment, it'll stop everything and you'll go back to normal rhythm.
+
+So here's an example of an atrial tachycardia. I've blown up the inferior leads here.
+
+So this is two three and AVF. And what you can see is that it is tachycardia right where we're faster than 100 beats a minute.
+
+Probably like 130 or so here. You see that there's a p wave that you can really clearly see in front of the QRS, like unlike the first,
+
+like the event where you couldn't see the P waves very well, or the AVR where the P waves were like about here.
+
+Here. You see, the P is really long and the p r is pretty normal ish, right?
+
+The P waves, though they're not coming from high to low towards the inferiorly.
+
+So we said that when you're in sinus rhythm the sinus node is up high, leads two three and AVF are inferior leads.
+
+So they're low down. So this signal that would be heading towards them.
+
+And it should make the p-wave positive in sinus rhythm here it's going exactly the opposite.
+
+It's heading away from the inferior leads. So we know that the origin of these p waves is very unlikely to be the sinus node.
+
+So it's some ectopic site. Some people will call this ectopic atrial tachycardia.
+
+Ectopic just means another spot that's abnormal in the heart.
+
+So you see here in lead two three AVF the P waves are negative.
+
+And so that's how we identify that this is a atrial tachycardia.
+
+And they don't have to be negative. They just have to be different from sinus rhythm P waves.
+
+That could be a lot of different configurations. You can see if those p.
+
+So that helps us to move on to the next, uh, tachycardia we're going to talk about.
+
+So. We talked about atrial fibrillation briefly when we talked about Wolfe, Parkinson, white.
+
+This is not atrial fibrillation,
+
+but a lot of people mistake it for atrial fibrillation because you look at it is it regular or is it irregular irregular.
+
+Right. There are only two narrow complex tachycardia that fall in the irregular bucket.
+
+And that's this an atrial fibrillation. This is something called multifocal atrial tachycardia.
+
+So what you what you're looking for in this is you're looking for a fast, irregular rhythm.
+
+And you want more than three different p-wave morphologies.
+
+You should be able to identify a p-wave pretty much in front of every QRA QRS complex.
+
+But the P waves all look different. So take a or many of the P waves look different.
+
+So take a look here. This is probably sinus rhythm still here.
+
+But here you have this p wave. We have this p wave.
+
+We have one that looks like this. We have one that looks like this.
+
+Like there are many many different types of p waves. Right.
+
+So this is automatic activity that comes from a lot of different areas in the heart.
+
+And the reason that that's important is because that means that the patient is
+
+sick and they're sick with something that's not primarily involving their heart.
+
+Usually it's a sign that you should see that, like the worst case of this that I ever saw was over at MDH when I was a resident.
+
+It was a guy that had a giant abscess in the apex of his lung.
+
+It dumped a bunch of bacteria into his lung, and he got incredibly sick.
+
+And he did this. And everyone's looking at his monitor saying, look, the monitor looks so bad.
+
+I'm like, no. Look at his lungs. His lungs look so bad.
+
+And that's kind of the message for this arrhythmia, that the way it gets better is you fix the bad, bad thing that's happening.
+
+That's not the heart that's going on. And so the diagnostic tool, you often see this in elderly patients with pulmonary disease.
+
+So you could see it in patients that have I know you guys are doing some lung stuff now right.
+
+COPD. Does that sound familiar? Yeah. Like if you see people with a really bad flare.
+
+Really bad pneumonia. Um, those are common, uh, conditions that could cause us.
+
+Controlling the rate with medicines is often extremely difficult because it's
+
+the it's the whole situation that's happening that's driving the tachycardia.
+
+So people have a lot of trouble controlling it.
+
+But I think the big message with this is to treat the underlying illness.
+
+So there are two conditions that give you many different P waves.
+
+One is this multifocal atrial tachycardia that we were just talking about.
+
+But there's another benign sort of cousin of that that we see in older patients,
+
+which is the wandering atrial pacemaker, which is a totally benign thing.
+
+And that's usually in older patients. You we were talking about how they calcify things as they get older.
+
+The other thing that happens is every decade of life, our sinus node gets a little slower.
+
+Unfortunately, it happens at different rates for different people.
+
+But some of the patients, as they get older,
+
+they both have their sinus node slowing down and they accumulate a certain amount of scar tissue in their atria.
+
+We're going to talk about that a lot when we talk about atrial fibrillation.
+
+But for those patients as there especially as their sinus node slows down,
+
+there are parts of the crista terminus in particular that can act as backup pacemakers.
+
+And those can sometimes take over the rhythm.
+
+So you'll look at an EKG and you'll be like, wow, sometimes it's coming from really low in the right atrium.
+
+Sometimes it's coming from high, sometimes it's in the middle, like here.
+
+If you look at these, this EKG, some of the P waves look like this.
+
+Some of them look like this. Some of them are even upside down.
+
+Right. And so the wandering atrial pacemaker is a totally benign thing and doesn't require any treatment.
+
+If the patient, especially if the patient is asymptomatic, sometimes they're aware a little bit that their heart rate is irregular,
+
+but you don't really want to do anything to make those extra pacemakers go away, because then your heart rate might be significantly slower,
+
+because the natural it's usually a sign that the natural pacemaker is starting to slow down,
+
+which is totally the opposite of the people with the multifocal atrial tachycardia, which is often seen in critically ill patients.
+
+So here's just a blown up version of the multifocal atrial tachycardia where you can see those P waves a lot better.
+
+You see here that you can really see a p wave in front of each one of the QRS.
+
+So that's how you know that it's that disease and that is in direct contrast.
+
+Oh we were going to talk about that after one more one more atrial arrhythmia before we do that.
+
+Okay, so this is another SVG. This one in contrast, is regular.
+
+And we see that there are P waves in front of each QRS.
+
+Does anyone see? Additional P waves.
+
+If I told you like. These two are both P waves superimposed.
+
+On the shows. If you kind of look from far away, you can see that this has what they call a sawtooth pattern.
+
+So like this St segment looks a little unusual. It's almost like if you imagine the P waves superimposed on there.
+
+So there are actually twice as many. Actually you see it really well, only three here.
+
+If there are, there are twice as many atrial contractions.
+
+So the atrium is going at 300 and the ventricles going at 150.
+
+So this is a condition called atrial flutter. You can blow that up to see the sawtooth there.
+
+So in atrial flutter, the rate the atrial rate is usually 250 to 350 beats per minute.
+
+They often present with 2 to 1 ventricular conduction at 150 beats a minute.
+
+So if you see someone that's parked right at 150, it is probably worth it to look really closely for those flutter waves,
+
+because 150 is usually that's like a particular heart rate for typical atrial flutter.
+
+So just look very closely and see if you see that sawtooth in some of the leads, because sometimes you won't see it in some of the leads.
+
+So well like over here, maybe you don't see it so well, but in the inferior leads you totally see it.
+
+So this is a macro reentrant circuit which we'll look at in the right atrium.
+
+It's basically a circuit going around and around the tricuspid valve on the floor of the right atrium.
+
+It's more often seen in patients with structural heart disease, or at least with high blood pressure or some other things that older people.
+
+Um, you can see people with ischemia, heart disease, inflammatory, particularly people who get inflammation on the outside of the heart.
+
+So like people get a viral illness and sometimes it involves the sac around the heart is called pericarditis.
+
+Pericarditis is a very strong trigger for atrial flutter. Um, so like during Covid, we saw a lot of people with.
+
+Um, and then alcohol intoxication, like we're talking a big binge of alcohol can trigger atrial flutter as well.
+
+So counterclockwise circuit is the usual one. We'll look at what this means.
+
+This doesn't mean too much to you. It's just looking at it like this.
+
+But a counterclockwise circuit going around the tricuspid valve makes negative p waves in two, three and AVF.
+
+And then it's the heart is really abnormal. The circuit can actually go the other way and cause positive P waves one two, three and AVF.
+
+So this particular arrhythmia is very amenable to, um, catheter ablation.
+
+So let's look at the atria a little bit to understand why flutter happens.
+
+So remember we talked. The sinus node is kind of up here. This is the right atrium at the superior vena cava.
+
+Inferior vena cava. And so almost like I grabbed the tricuspid valve and took it off.
+
+And that's the whole we're looking at there for the most part. So.
+
+This is where the inferior vena cava comes in. The veins, when they enter the heart, they're pretty much electrically silent.
+
+So they create natural electrical barriers within the atrium.
+
+So the IVC produces an electrical barrier.
+
+The superior vena cava produces an electrical barrier.
+
+And the fossa ovals, as well as the coronary sinus contribute to some electrical abnormalities of conduction.
+
+Um, those are all like structures in the right atrium. Remember we talked about the crista terminal as we said that has anisotropic conduction.
+
+Does anybody remember what anisotropic conduction is? Mhm.
+
+Exactly. So it means in this case that the terminal's conduct really fast in the up down direction and really slow in the lateral septal direction.
+
+So that creates almost a natural barrier as well.
+
+So all of these structures kind of conspire to create a natural corridor on the floor of the right atrium.
+
+This is seeing it from a little different angle.
+
+And it basically promotes this circuit that bumps up against the Krista terminals on one side and shoots down to the floor,
+
+and then all those structures on the floor, kind of they almost corral the electrical flow into this one particular area.
+
+And so this is where the slow conduction area tends to occur when we want to do a catheter ablation.
+
+We actually zap right across there from the edge of the tricuspid valve, which now is included in this picture right to the vena cava.
+
+And that can stop the flutter. And 95% of the time it will not come back.
+
+So that's just a physiology thing. And here you can see the crista terminal is kind of peeled away from the side.
+
+So that's what atrial flutter is. And this is a summary.
+
+Of some of the narrow complex tachycardia that we've talked about.
+
+And what's really helpful, what I like from this paper, even though it's a little bit old,
+
+is it shows the adenosine response to to the tachycardia or the tachycardia response to it.
+
+And seen when we give adenosine it blocks the AV node just for like ten beats or something.
+
+And then the then the rhythm comes back. I should I say it very casually.
+
+The patient feels really terrible during those 10s like it does a lot of other things to your body.
+
+So people have had adenosine. They hate it, but it's very helpful diagnostically to figure out what's going on.
+
+So here we've got a. So this is the one with the accessory pathway that goes on outside of the, the um the heart.
+
+Of the avenue outside of the avenue. We give the adenosine.
+
+It stops. The tachycardia right now goes back to normal rhythm.
+
+This is the HIV node reenter and tachycardia. We give the adenosine.
+
+It also stops the tachycardia and it goes back.
+
+This is not totally normal yet, but it will be normal as soon as the adenosine goes away.
+
+Atrial tachycardia. Take a look at this. So these are those negative P waves we were looking at with 1 to 1 conduction to the ventricle.
+
+What happens when we give the adenosine? Nothing important, right?
+
+The atrium keeps going as if nothing happened.
+
+Right? But the ventricular. The ratio of conduction to the ventricle changes.
+
+So here every A had a V. And after we give the adenosine for a few seconds,
+
+there are some A's that don't connect to the ventricle because the AB node is blocked, but it does not stop the tachycardia.
+
+As soon as the adenosine goes away, you're back to exactly what you had before.
+
+And the same thing happens with atrial flutter. So this is a person in atrial flutter they give the adenosine.
+
+But the one thing that's very helpful is sometimes you look at that tachycardia at 150 and you're like is that a sawtooth.
+
+I'm really not sure. I can't tell if it's atrial flutter or not.
+
+When you give the adenosine to those patients,
+
+you can really see the P waves that are going faster that you maybe couldn't have identified so well because they're buried in the QRS and the T wave.
+
+So it helps diagnostically to figure out that that's what's happening.
+
+Now, why do we care about the difference between atrial tachycardia and atrial flutter?
+
+You could say it seems a little bit like atrial flutter is just a faster version of atrial tachycardia.
+
+Now the slower rates that are typical for atrial tachycardia,
+
+if you had a special ultrasound and you could look at the atria, they're still preserving their contractile function.
+
+They're still working in the same way the upper chambers of the heart.
+
+When they go really fast like this 300 beats a minute, they don't empty of blood fully on each heartbeat.
+
+Um, the atria can even look like they're frozen or just quivering a little bit during atrial flutter.
+
+And the problem with that, and the reason it's important for us to identify,
+
+is you can get a clot in the upper chamber of the heart during this rhythm,
+
+which, when you pop back to sinus rhythm, could break off and cause a stroke or heart attack.
+
+The same thing happens during atrial fibrillation. So we're going to be talking about that in a little bit.
+
+Do you want to do a couple of EKGs before we go to the next part?
+
+So what do you guys think about the axis? Who wants to try this one?
+
+I was thinking for Thursday, if we could print out a bunch of these, that would be really helpful.
+
+Yeah. Nobody wants to try.
+
+Somebody try. Yeah.
+
+You want to give it a try? Huh? Mhm.
+
+Who? Oh, yeah.
+
+Uh huh. Yes. Right.
+
+Oh. Yes.
+
+Mhm. Mhm.
+
+Then. Yep.
+
+Oh, not quite there. I think I would say that three is a little bigger.
+
+The other thing that you could but your your idea is exactly right.
+
+The other great place to look is lead one. So look at lead one.
+
+It's mainly negative. So you know that puts you in the left half of the circle.
+
+Right. So that puts you. And so what would you say the axis is.
+
+You see what I'm saying. So like if both one and evil are mainly negative, that puts you in the left half of the circle.
+
+Um, so that's a quick and easy way of doing it. And then the question is just, are you in this part or this part of the circle?
+
+And you're because lead three is positive here in this part.
+
+Yeah but that's great. So you have right axis deviation.
+
+And this is that person I told you about that had the, uh, pulmonic stenosis and a big right ventricular hypertrophy.
+
+We talked about right ventricular hypertrophy where you have a big tall hour wave in V1 like this.
+
+And right axis deviation. So that's the example of this.
+
+But that was great. That was perfect. Does anyone want to try this?
+
+Uh, yeah. So this is a Holter monitor.
+
+This is a monitor that you can give to a patient to wear for 24 hours, or for a couple weeks in hopes of catching.
+
+They'll say, oh, I have this feeling that my heart races every now and then and I don't like I don't know what it is.
+
+So you give them this monitor, um, and it'll automatically record when they go into tachycardia.
+
+Yeah. It is one strip.
+
+Yeah, that's fair to say. So it doesn't give you regular leads like what you're used to.
+
+Like there are three leads that are there, but there may not be specific like V1 or lead two or anything like that.
+
+But um, this the three things are happening simultaneously.
+
+So let's go through each of the beats here. So here's a sign of speed.
+
+Here's a sign of speed. Here's a sign of speed. What do you think about that beat?
+
+The wave looks different, right? So the P wave is different here.
+
+It conducts to the ventricle. What about this one?
+
+The P wave also. Yeah. What were you saying? Long PR.
+
+So we've got two extra beats from the upper chamber of the heart.
+
+The next beat is has a long PR and what do we notice at the end of the QRS?
+
+An upside down. Yeah. Retrograde p-wave somebody said, right.
+
+And we're basically off to the races at that point.
+
+So if we talked about a particular arrhythmia that initiates with prolongation of the time through the AV node,
+
+which allows enough time for another thing to happen and create a circuit, which one would you say that's the most consistent with?
+
+Avi nt right. Exactly. So this is an example.
+
+You don't often see it this beautiful. This is like tracing I've kept for years and years.
+
+But this is a nice example of something you can almost prove that it's not just from the whole to monitor most of the tachycardia.
+
+As we see, we see a lot of features that are suggestive. But this one is really nice.
+
+So the answer is number two. Again how about this one a little easier.
+
+Yes. Good. Oh, sorry y y sorry sorry, sorry I thought was so obvious, but.
+
+Yes, y. The sawtooth right sawtooth pattern.
+
+The atria going at. 300.
+
+In this case, it's not 2 to 1 conduction. This is probably 4 to 1 conduction.
+
+So the ventricle is going. Like.
+
+Like 75 beats a minute. Like. Yeah. Mhm.
+
+Right. Cool. Okay, this one's a little harder.
+
+We did talk about it. Oh. Sorry, sir. Question.
+
+Yes. Yeah. This one or the one before this one?
+
+Yeah. Mhm.
+
+Yeah, it's probably your baseline adrenaline state, honestly.
+
+So even if you saw somebody laying in bed who's like this, if you got them up and walked them around on a monitor, you'd see them go 2 to 1.
+
+We even see young people go 1 to 1, which is crazy.
+
+They go like 300 beats a minute. So those are usually people that go into flutter and they try to like exercise in some way,
+
+like they run up some stairs and stuff and they almost pass out because their heart rate goes up to transiently up to 300.
+
+So you can see the problem with atrial flutter is you're stuck with multiples of the atrial rate as your ventricular rate.
+
+I had a very interesting guy that was a cyclist, and he had this app that would track his heart rate as you would do these long, long bike bike rides.
+
+And he's like some days I just can't do it. And on the days that he couldn't do it, you could see that his heart rate went like this.
+
+And he was going into atrial flutter when he was biking.
+
+On those days.
+
+This is sort of like an extra credit question, but if you figure out the first one, then you can guess what's going on in the second one.
+
+Any ideas? So somebody tell me about the intervals in the first side.
+
+On the first side. What do you think? It's sort of sinus bradycardia, right?
+
+What do you think about the intervals? Yeah.
+
+The QRS is a little bit wide. Yeah. And what do you think of the PR interval?
+
+It's very short. Yeah. Yes.
+
+And what happened between the two? Between the two strips.
+
+Oh. There you have the Delta wave.
+
+Right. And so what happened between the two strips? Do you see it on this one? Yes, it got ablated.
+
+Yeah. So on this one, you see this weird down going thing with the slur and two and three.
+
+And then here we don't see the slurring nearly as well. It's a young kid.
+
+So they PR is kind of still a little bit short. But it certainly doesn't have this slurring that the that this side had.
+
+And it's because we set up the pathway. Great.
+
+And one more. Before we go on to the next thing.
+
+Regular or irregular. You're regular. Does it scare you?
+
+Yes. It should scare you a little bit. Um, so.
+
+This was a 17 year old kid that came into the E.R. at the Brigham.
+
+He's like, I don't feel very good, but he's sitting there in the chair.
+
+You know, he's not having a cardiac arrest or anything, but what's the heart rate?
+
+The fastest heart rate is crazy, right?
+
+Faster than 300 beats in that the fastest ones are closer together than.
+
+One big box, right? So remember how we talked about with Woolf Parkinson White?
+
+What other thing can you get? You can get the reentry arrhythmia, but what else can you get?
+
+You can get atrial fibrillation, right? When you're in atrial fibrillation, your atria go more than 400 beats a minute, right.
+
+And they bombard usually the AV node which prevents them from going.
+
+Prevents your heart from going crazy fast. But if you have an accessory pathway that's big enough that can support fast enough rhythms,
+
+many, many, many of those signals can get through to the ventricle.
+
+And one of the clues that this could be Wolfe Parkinson White is see this narrow beat right here.
+
+That is one beat that snuck through the natural conduction system during this whole nonsense that's happening.
+
+But one of the things we talked about is the way to tell. So the problem with this arrhythmia is it can turn easily into ventricular fibrillation,
+
+which is a dangerous, life threatening arrhythmia that can make you have a cardiac arrest.
+
+The way that we can tell that he's at risk for that happening is if the RR intervals get shorter than one big box plus one little box,
+
+which he easily does, right? Easily does.
+
+So you're worried about this guy? There are some. So this is pretty excited atrial fibrillation in a patient with well Parkinson white.
+
+And we zapped his pathway to you. Yeah.
+
+So the difference is a little bit the clinical scenario.
+
+But the other thing is ventricular fibrillation is always changing.
+
+So we'll talk about ventricular fibrillation close to the end if we get close to there.
+
+But what's happening in ventricular fibrillation is you have rapid activity of in the ventricles.
+
+That's not following one path. It's constantly changing.
+
+So if you look at it from any electrode, you're going to see changing axis on almost every beat.
+
+If you look at this, except for these narrow captured beats, this guy and maybe this guy, almost all of them have about the same shape right there.
+
+Negative in the inferior leads. They're positive and leads one in AVL.
+
+They're positive in the pre cordial leads. They're not like shifting around a little bit.
+
+You see the baseline moving. That's because the patient's breathing like this.
+
+But that's what makes like lead V4 looks like look like it's going down like that.
+
+But the general shape of each beat is the same. Ventricular fibrillation.
+
+It's always shifting and much more disorganized.
+
+Yeah. Yeah. And sometimes people like this will present with a passing out spell, and this will stop on its own.
+
+And then you do an electrophysiology study and identify the pathway some people present with a cardiac arrest.
+
+We had a young boy that was playing baseball with a friend and had this happened, collapsed,
+
+and there was luckily an IED there that could shock the patient back to normal, brought him in.
+
+And the good thing about this, this is still totally curable. If we can get to the patient and fix it.
+
+Yeah. Correct?
+
+Correct. And we call it pre excited atrial fibrillation because it's mainly going down the accessory pathway.
+
+That's why it's called pre excited. Yeah. So it's not Vtec because it's not regular.
+
+So it's not so much even the rate. We'll talk about Vtec towards the end though.
+
+I hope if we get there. There is one more.
+
+You. Yeah.
+
+So there's, there's a lot of clues from the vectors from the EKG.
+
+Probably a little more than you guys need to know from this class.
+
+But if it's negative in two, three and AVF.
+
+So the pathways are all along the valve annually.
+
+So they're either right along the tricuspid valve or right along the mitral valve.
+
+And if they're negative in two, three and AVF they're coming from low to high which is the posterior region.
+
+And what you notice is the amplitude is much less in V1 than it is in V2.
+
+So something happened. So V1 and v2 are right here. So between here and here we got to see a lot more of the pathway.
+
+And probably the pathway that's also V2 is probably where it's the biggest on the EKG.
+
+So the location of the pathway we know is really low.
+
+And it's like just towards V2.
+
+So that's on the LV side. Usually that's the mitral side but the most septal part.
+
+So the most rightward part of the mitral annulus.
+
+So we would usually go a little bit like I showed you in the last class we showed that trans septal to go over to the left side of the heart.
+
+You would go over there to to look for it.
+
+But finding them is usually not that hard because they're all kind of clustered right around the mitral annulus.
+
+There are a few that are harder to find, but.
+
+The harder thing is picking up who has this problem when people don't get routine EKGs when they're teenagers?
+
+Oh, what do we do acutely. So it depends.
+
+So there are a couple of things we talked a little bit about why you don't want to give drugs that block the A.V. node to people like this,
+
+because it might make more of the pathway conduction happen.
+
+But there's a medicine called prochaine amide, which is a sodium channel blocker, and it is, um, an infusion medication.
+
+It's not a pill, and it basically blocks atrial and ventricular tissue equally and doesn't have very much a V node activity.
+
+So what's nice about that medicine is you can slowly run it as a drip.
+
+Like supposing this guy's blood pressure's like 80 systolic like not the highest blood pressure.
+
+But you can run that medicine in really slowly because they feel okay.
+
+And usually once you get a gram or so of that into the patient, they go back to sinus rhythm.
+
+Typically if they don't you can always in the emergency department you have stuff where you can sedate somebody and do a cardioversion,
+
+which is different from what we do. When someone's having a cardiac arrest.
+
+We do a synchronized cardioversion where we tie it to one of the QRS complexes and convert them back to sinus rhythm.
+
+Yep. So this is just one of those. One of those situations.
+
+But what I would say is the general rule of thumb is if the patient's saying,
+
+no, no, don't shock me, if they're awake, then you don't want to shock them.
+
+Then they're usually okay for medications. So this is what atrial fibrillation looks like.
+
+Let me know when I should pause or whatever. We should pass that around.
+
+And then people like have the hot seat kind of thing. So this is sort of the next than what atrial fibrillation usually looks like.
+
+If you I think I have it blown up. Yeah. So if you look here.
+
+If I asked you to find the P waves. You're really not going to be able to find anything.
+
+You might see some bumps here and there that look like little wiggles, but you don't see any.
+
+What I would say is organized atrial activity. You don't see a p wave like with the multifocal atrial tachycardia.
+
+You could really see a p wave in front of each QRS. The stuff in front of the P waves looks like this.
+
+And that's because we were just talking about ventricular fibrillation.
+
+Atrial fibrillation is the same thing, except it's happening in the atrium.
+
+So I said that the heart is beating at 400 beats a minute.
+
+It's not really beating.
+
+There's random electrical disorganized conduction happening in the atrium that bombards the AV node at rates higher than 400 beats a minute.
+
+But if you were to sort of do an electrical map, it would look just like random signals going all over the atrium in a very rapid, disorganized way.
+
+And that's why on the EKG, it just kind of looks like this little.
+
+These are called defibrillator waves. They just look like little undulations.
+
+They aren't very organized. And if you could take a look at the atrium in this case,
+
+instead of even seeing any kind of contraction of the atrium, you would just see what the see fibrillation.
+
+You see the it looks like a bag of worms, basically.
+
+And this is also another situation where we worry a lot about blood clots forming in the upper chambers of the heart.
+
+It's probably one of the biggest causes of stroke in the United States.
+
+So that's sort of what we think about the sort of model for atrial fibrillation is that there are these they call them macro circuits,
+
+but they're usually not stable circuits. They're shifting in time and space.
+
+Well, while they're occurring there's just a lot of disorganized activity.
+
+And the sinus node is doing nothing. And all of those signals are basically bombarding every node.
+
+So to identify atrial fibrillation, it has an irregularly irregular ventricular response.
+
+It's often associated with structural heart disease, but there are plenty of people that have it with no, um, structural heart disease.
+
+They're often people with atrial fibrillation in their family, like usually a patient like that.
+
+You'll talk to them and be like, oh, yeah, my uncle has, my dad has it, you know, that kind of thing.
+
+We don't know all of the genetics, uh, that contributes to it.
+
+But it definitely coalesces in families.
+
+There's currently a two component model for how atrial fibrillation happens.
+
+There are triggers which are usually some SVT.
+
+It could be an atrial tachycardia. It could be flutter.
+
+Most often it's atrial tachycardia from a structure called the pulmonary veins, which we're going to look at in just a moment.
+
+And then the substrate is scarring or enlargement of the atria.
+
+So it's usually happens in conditions where the atria see more pressure.
+
+So like a leaking valve where you see higher pressures in the atria, the valve or the ventricle gets really thick.
+
+So the diastolic pressures of the heart are really high. It transmits higher pressures to the atrium and the atrium becomes big.
+
+It affects the conduction velocity in the atrium and predisposes to this problem.
+
+So this is the most prevalent arrhythmia in the world, really?
+
+Atrial fibrillation. Um, many, many people in the world have atrial fibrillation.
+
+What's really not clear is why it seems to, um, be more diagnosed in, like, North America than other parts of the world.
+
+We don't know if that's related to screening risk factors.
+
+It definitely goes with obesity, for example, in hypertension, which are really prevalent in our community.
+
+Is it related to life expectancy? It definitely correlates with age as well.
+
+We don't know exactly why that's the case, but it's also like.
+
+Increasing very rapidly the number of the number of incident incidents,
+
+patients with atrial fibrillation, and multiple studies with multiple projections.
+
+But it's a very, very common arrhythmia that's just becoming more prevalent in the United States over time.
+
+And so this is, um, a graph of a few different studies that show the incidence of atrial fibrillation by age.
+
+And there there's a researcher in this space that jokes that if we all live to be 130, we would all be in atrial fibrillation,
+
+because it increases so dramatically with age, because you look at the patients in their 80s and a third of them have atrial fibrillation, right.
+
+So that's that idea that you get more and more fibrosis in your atrium over over time.
+
+And what are the common risk factors for developing older age?
+
+High blood pressure. Diseases of the heart valves. Weakening of the heart muscle.
+
+So cardiomyopathy, um, obesity, uh, having coronary artery disease and then having metabolic causes.
+
+You can have, uh, thyroid gland. The thyroid gland is in your neck.
+
+Do you guys know about that? It's it regulates your metabolic state. Um, acute alcohol intoxication.
+
+Actually, chronic alcohol intoxication is very closely related to atrial fibrillation risk, um, after surgery.
+
+So even not heart surgery, but people who have, like, their appendix out or the gallbladder out, they can have, uh,
+
+atrial fibrillation afterwards and then diseases that cause inflammation of the heart,
+
+just like that viral illness type of situation that I mentioned before.
+
+And sometimes we can't pinpoint an exact cause.
+
+So this is kind of if you look at the contributors in the population to the risk of atrial fibrillation,
+
+you can see that kind of being overweight and being having high blood pressure like the big ones.
+
+Those are probably the big, big ones.
+
+If we could kind of eliminate those things, we would eliminate more than a third of the atrial fibrillation that we have.
+
+To not be able to do it yet. So these are the different types of atrial fibrillation.
+
+There are three types. There's paroxysmal atrial fibrillation.
+
+So that's probably the earliest where you have episodes that kind of start.
+
+And they might last even a few minutes and then stop. Then they can get they usually get longer and longer.
+
+They can last several hours. There are some some people that are like, I was in atrial fibrillation.
+
+I went to bed and when I woke up in the morning, it was gone. That definitely happens.
+
+Those patients, the development of their atrial fibrillation is mainly from triggers in the pulmonary veins.
+
+Now this picture here is from an MRI of the heart.
+
+We generated a three dimensional reconstruction of the left upper chamber of the heart.
+
+And we're looking at it from the back. So it's as if you were looking through my back like that.
+
+So the lungs you've got on either side. So the right lung would be over here.
+
+The left lung would be over here. And these veins that are coming into the left atrium are the pulmonary veins.
+
+They bring the oxygenated blood from the lungs back to the heart, goes down to the left ventricle to be pumped out to the body.
+
+So the junction of these veins, it's very interesting I think I have a picture of in a subsequent slide.
+
+They have myocardium that actually goes up into the ostia of these veins.
+
+And when they become a little enlarged, it really promotes, uh, pacemaker activity from the orifices of the veins.
+
+So those vein triggers, we think the majority of the people are the triggers for their atrial fibrillation to start.
+
+So when they have when you're early in your atrial fibrillation, it's the trigger that's mainly starting it.
+
+As you get more scar tissue in the upper chamber of the heart, the episodes become more and more persistent and they can last from days to weeks.
+
+And then eventually, if your atrium becomes so scarred, it can't really go back to sinus again.
+
+There are too many, like blind corridors in the conduction system of the atrium.
+
+It can never go back to sinus rhythm. This is a picture of a trans esophageal echocardiogram.
+
+So this is an ultrasound of the heart that's put down your throat through your esophagus.
+
+And it turns out the esophagus. This is the left atrium yourself.
+
+Yes it's right there. So if you put an ultrasound in the esophagus you can see the left atrium very well.
+
+So this is the left atrium here. And this is supposed to be a structure called the left atrial appendage.
+
+It's a little ear that basically comes off of the front part of the lefty left atrium.
+
+That area when you're in atrial fibrillation is very prone to developing a clot.
+
+So the heart is sort of like this. And that part is not ejecting.
+
+And you end up with a big clot there. In the left atrium.
+
+So there are risk scores for developing clots.
+
+This is sort of it's congestive heart failure hypertension age having diabetes, having a previous stroke um vascular disease and your gender,
+
+although that's much more, uh, controversial now is probably going to be taken out in the next, uh, guideline.
+
+Um, so these all give you the risk of having a stroke per year?
+
+We think that the pathophysiology is. What I was mentioning before,
+
+is that you basically get some kind of disease process that leads to stretching of the atria and electrical ear irritability,
+
+and they kind of fall into these different categories, and both of them promote scar tissue.
+
+This is a biopsy of somebody's left atrium. The little blue cells are normal heart cells.
+
+And the sorry the pink cells are the normal heart cells.
+
+And the blue is fibrosis between the between the cells and then the electrical irritability from the pulmonary veins.
+
+Here's that biopsy that I was talking to you about, showing the myocardial sleeve around the pulmonary veins.
+
+You can actually stick a catheter right in there and measure the rapid activity from that.
+
+The veins as they trigger atrial fibrillation. That's what's shown here.
+
+And that there are many people. Should we take a break? The time to take. I saw you come in with your coffee.
+
+I don't know. Oh, it's my coffee. I see. They don't have any coffee.
+
+I think, yeah, we can stop here. We can stop here. There's just a little bit in the.
+
+We'll do a ventricular afterwards. Why don't we take the break? No fair for me to have coffee on.
+
+Okay, everybody, should we start up again? We have to finish a lot of stuff.
+
+So we're going to everybody.
+
+Can you please take your seats? Thank you so much.
+
+So we're going to finish up atrial fibrillation and then do a little bit of ventricular arrhythmias so that you guys have a little bit of that.
+
+Because some of the EKGs um on Thursday are going to have some ventricular arrhythmias on there.
+
+Um, so we were talking a little bit about atrial fibrillation and atrial scarring.
+
+So, um, this these are some figures from a paper.
+
+There's a group at the University of Utah that did a lot of MRI analyzes of, uh,
+
+left atria and trying to show who has the different stages of atrial fibrillation.
+
+So we had talked about a little bit me, because if we look at this kind of progression,
+
+like the people with paroxysmal persistent and permanent atrial fibrillation,
+
+these guys we're trying to see if you could tell from looking at the scar tissue who is going to have which kind of, um, arrhythmia.
+
+And the reason that that's important also is that a lot of these patients feel kind of terrible in their atrial fibrillation because that's,
+
+you know, the heart pumping is, for some people, like 10 to 20% dependent on the atrial contraction.
+
+And other people, they notice it less like a more fit person at rest.
+
+Probably wouldn't notice if they went into atrial fibrillation and they lost their atrial contraction.
+
+But an older person that's like a little less fit certainly notices it right away when they lose their atrial contribution to their cardiac output.
+
+So a lot of them come for either medicines or ablation procedures to try to control their atrial fibrillation.
+
+And because this is such a diffuse process, it's a lot harder to control some of them.
+
+And so the idea of this study was to sort of look and see if we could tell from the MRI who was
+
+likely going to be able to respond to ablation and who is not going to respond to ablation.
+
+And so these are just different patients.
+
+This is a patient with a normal heart who basically has that lone atrial fibrillation, where you don't have any other abnormality with your heart.
+
+You just have atrial fibrillation that's usually paroxysmal.
+
+This is a person with persistent atrial fibrillation who has obesity and high blood pressure.
+
+And so if you the idea of these little reconstructions are that, um,
+
+the green areas are the fibrosis areas, the scar tissue in the, in the upper chamber of the heart.
+
+So you can see it's a lot more than normal, but it's not as much as this one.
+
+The other thing you notice as we go from each of these chambers, they're kind of at the same scale.
+
+So the atrium is getting bigger.
+
+Also, as we look at these patients with more scar tissue, typically they as the atrium sees more pressure, it becomes more enlarged.
+
+So these these two groups of people typically do respond to medicines and procedures to control their atrial fibrillation.
+
+But this one here is a patient with severe mitral regurgitation.
+
+So this is a person that basically almost needs a surgery to fix their mitral valve to to stop severe mitral regurgitation.
+
+It's been going on for a while and two things have happened.
+
+One is that the atrium has become giant. It's like at least two times the volume of the normal atrium.
+
+And it's also gotten a lot of scar tissue. And you might notice that it's a little bit regional, which is kind of interesting.
+
+When the valve leaks, it's often one valve leak, one part of the valve leaflet leaking more than the other,
+
+and it creates a directionality to the regurgitation jet that can hit the wall of the the back wall of the left atrium.
+
+That kind of can cause fibrosis to happen in a more regional way, like what you see here.
+
+So that's kind of how we think of these people. It's not quite the same as how we think of a patient with AV node reentry.
+
+Right. They everybody's kind of got this similar AV node, similar size.
+
+It has a similar response to treatments. But these are this is much more of a systemic disease that produces atrial fibrillation.
+
+That's kind of the end game. And we were just talking a moment ago about alcohol intake and atrial fibrosis.
+
+So um, the teaching when I was in medical school was that the main role of alcohol and atrial arrhythmias was in the holiday heart syndrome.
+
+We were just talking about exactly that. So that's if that's when you like drink too much in a very short period of time.
+
+And the next day you basically go into atrial flutter.
+
+If you have a normal atrium or atrial fibrillation, if your atrium is a little bit abnormal.
+
+And the thought was that that was just like a one time thing, and you really weren't paying any cost for that down the road.
+
+But what's been increasingly appreciated, there's a group in Australia that's done a lot of preventative.
+
+Work on atrial fibrillation. And they've studied both obesity and alcohol intake.
+
+In a lot of detail. And they were able to show examples like this where these are left atrial maps.
+
+So these are uh these are created in a procedure where the patient is under anesthesia.
+
+They're usually getting an ablation procedure for atrial fibrillation.
+
+You put catheters up into the right side of the heart, we poke over to the left side of the heart.
+
+And then you have a multi electrode mapping catheter that we move around the inside surface of the of the atrium.
+
+And it creates a 3D geometry. So it's got y points.
+
+So it has locations for each of the spots with the multi where the multi electrode mapping catheter goes.
+
+But then there's also a data data that can be assigned to it.
+
+And in this case it's a voltage assignment at each at each location.
+
+So purple is in the range of normal voltage.
+
+Um anything follows the the rainbow basically the red is the lowest voltage most severely disease and everything in between.
+
+Anything that's not in that purple kind of area is is abnormal in some way.
+
+So basically like this atrium has no fibrosis.
+
+This atrium has a little fibrosis, and this atrium has relatively a lot of fibrosis.
+
+And they were able to show that if you looked at people with different drinking habits,
+
+you could show that as you drink more, you would get more atrial fibrosis, more persistent atrial fibrillation.
+
+And then the question was, can you reverse that process?
+
+Like will it go back to being normal again?
+
+And what they did is they basically say as an Australian population, you'll notice the author on this is the same as the first author on that.
+
+It's the same group.
+
+Uh, and keeping in mind that like moderate drinkers in Australia might be a little bit heavier drinkers than moderate drinkers in,
+
+in the US population, especially lately,
+
+but they basically took 140 adults with regular alcohol consumption greater than ten standard
+
+drinks per week and assign them either to control where they continued their normal habits,
+
+and then an abstinence from alcohol program for six months.
+
+And they were able to show a very significant difference in atrial fibrillation between the groups.
+
+So it suggests that, um, this process that happens, like a lot of things that injure the heart,
+
+there are many things that are a lot better this way that for a period of time there's a reversible component.
+
+But if you continue, uh, to expose the heart to whatever is injuring it for a long period of time, eventually the fibrosis will become permanent.
+
+Yeah. Yeah.
+
+Right. So it's a little bit of the George Burns problem.
+
+Do you guys probably don't even know who George Burns anyway? No.
+
+George Burns was a real really old guy who smoked a lot of cigars, who lived to be in his 90s, and everyone was like, look, he smokes cigars.
+
+He lives in his 90s. He doesn't have oral cancer. Isn't that great? Means that doesn't mean that cigars don't cause oral cancer.
+
+So everyone has their own susceptibility to alcohol.
+
+And I would say it's not fair. It's one of these things that everyone's a little bit different.
+
+I've known a cardiologist in town here who, like, if he even has a half a glass of red wine, [INAUDIBLE] be in A-fib the next day, like, guaranteed.
+
+And there are a lot of people that are like that. Um, there are also you.
+
+You'll find people that can drink alcohol and not get atrial fibrillation,
+
+which is just it's probably it's a lot of it's genetic underlying susceptibility.
+
+Um, but on a population level like these are unselected people.
+
+There's probably an effect for everybody with atrial fibrillation.
+
+So if you're a person with atrial fibrillation I use it usually advise people to at the very least minimize their alcohol intake.
+
+And it's a big disappointment for them because for years and years,
+
+certain epidemiologic studies had suggested that like one glass of red wine a day or something was good for their heart,
+
+and they get very disappointed when you tell them that in this case, it's really not the case that the that that's, uh, what you should be doing.
+
+So there is a pretty good, uh, pretty good correlation. Yeah.
+
+Right. So we don't really know. The problem with studying humans is that they're very hard, especially with respect to stuff like that, to study.
+
+What we know is if you look at people who have AFib, so this study is like people who have AFib already,
+
+they're coming in for a catheter ablation procedure, and you map their heart rate.
+
+You find that if you stratify them by their drinking status, you find you'll find that the ones that are heavier drinkers have more fibrosis.
+
+In the ones that are less lighter, drinkers have less fibrosis.
+
+And then in this study, you take people who have AFib and are already moderate drinkers, right.
+
+And try to get some of them to stop and see if you can show that they improve.
+
+So that's all we know. We don't like have basic mechanisms or causality.
+
+Totally. Yeah, it's very hard to study. So the problems people have from atrial fibrillation is this irregular heartbeat.
+
+So they can feel palpitations. They can feel heart racing. There's this risk of clotting in the in the atria.
+
+So that can put you at risk for stroke.
+
+But then the other problem is the loss of myocardial performance, which can be a big problem both for people with relatively normal hearts.
+
+But it can be an enormous problem for people who have heart failure, because they're already teetering on the edge of not having good heart function,
+
+and you take away the atrial component to their function, and then they can go into even shock,
+
+like, I have a patient that went into cardiogenic shock from going into.
+
+Because their pumping function was so, so low. So the therapies for AFib are what you'd expect then.
+
+So to prevent the stroke risk we recommend blood thinners.
+
+Um and that can be anticoagulation either with warfarin or with some of the newer agents that you see advertised on TV a lot.
+
+Eliquis Xarelto Pradaxa I don't know if you guys watch TV at the right time or TV with commercials nobody watches anymore anyway.
+
+But that's kind of people might see those on TV. Um, then you can get rate control to slow down the fast rhythms,
+
+but then rhythm control, which can be either a medication or increasingly, procedures.
+
+The reason we don't use medications as much as we used to is a lot of the primary
+
+rhythm medicines that we use in electrophysiology have a variety of toxicities,
+
+and they interact a lot with other drugs like antibiotics and things like that.
+
+And so they're not often well tolerated by patients for a long term, especially if they're relatively young.
+
+Um, so the the goal of the ablation procedure, which is what's become kind of the standard for this,
+
+is to address the pulmonary veins, because they're usually the triggers for the majority of people.
+
+And so if I talk to you even two years ago, this map is what I would have shown you for what we do for the ablation.
+
+So this is, um, that MRI picture of the left atrium.
+
+These are the pulmonary veins here. And here's from the back.
+
+The pulmonary veins are here.
+
+And our goal is to kind of block the electrical signals from coming out of those myocardial sleeves in the pulmonary veins.
+
+And so what we used to do is go with this tiny little catheter and make a whole
+
+bunch of little zaps around the pulmonary veins could sometimes take a long time.
+
+It's just a couple of years ago.
+
+Know this I have this I joke, but this second picture down here is the biggest advance in my field that's happened in 20 years.
+
+It's like amazing. So whatever. But so the problem with this, with doing this old way is so what we did was radiofrequency ablation.
+
+Like we talked about with um, the, the the pathway ablation.
+
+And so that involves heating up the tissue and essentially cauterizing it like a lot of things get pretty hot when you, uh, zap them.
+
+And what did I say about the esophagus when we were looking at the trans esophageal echo?
+
+This was your left atrium. The esophagus is right back here.
+
+It turns out there's a saying. I'm not allowed to say it here.
+
+Right. What do they say? You don't. Whatever with the esophagus, right?
+
+That's a rule. It's a rule in surgery that you don't.
+
+Whatever with the esophagus. And the esophagus is right behind the left atrium.
+
+So when you burn. Excuse me. The left atrium from the inside, the blood goes by and cools the catheter right away.
+
+But when you if you secondarily heat the esophagus with to these blue lines are the location of the esophagus during the ablation.
+
+If you burn the esophageal tissue, it does not cool down because it's mostly stagnant, especially when you're under general anesthesia.
+
+It's very stagnant. And so you can end up with a fistula between your esophagus.
+
+They see it in your left atrium, but it's really with the pericardium that's right there.
+
+And that is horrible and lethal. Um, like they say on ads for drugs, the rare but serious side effect, like that's the rare but serious side effect.
+
+It's luckily occurs in like 1 in 10,000 cases or one in somewhere between 1 and 1000 and 1 in 10,000 cases.
+
+But it was always like the big, big scary thing that could happen during this kind of an ablation procedure.
+
+So there is a new kid on the block, and this is the map from that which is pulsed field ablation.
+
+So the catheters are really different. They're multipolar I think I actually have them.
+
+Yeah. So these are this is sort of the progression of the ablation techniques.
+
+But basically these multipolar catheters are kind of the new thing.
+
+I don't actually use this flower shaped one. I usually there's one that's a ball that has multiple electrodes on it.
+
+But the idea is that you have a shock, a DC shock between all of the combinations of the electrodes that occurs at the same time.
+
+And it electro operates the cells rather than burning them.
+
+And so that process they used to call it non thermal.
+
+It's not totally non thermal but it generates very little heat and certainly doesn't damage extra cardiac structures.
+
+Uh as you know as a routine. So now it's really changed a lot because the ablation happens almost instantaneously and it's much more effective.
+
+And it appears to be safer as well. So it's a procedure that used to take us about four hours to do.
+
+It's taking two hours to do. Um, which is really it's amazing.
+
+It's really like, I can't even. It makes me feel really old that I spent my whole life doing this.
+
+And, like, now we're doing this, and and I can also teach my fellows to do it in practically a day.
+
+Like, if you're somebody that already knows how to put catheters in the heart, this is very, very easy.
+
+For people to learn. So it's, it's a, it's like it's the biggest advance in our.
+
+Field in a long time. So um, so the success rates of ablation have really improved.
+
+Like when we first started giving this talk,
+
+I would probably say that the success rate was about 55% and the majority of people were needing to procedures.
+
+And now we say that it's close to 85%, maybe even a little higher.
+
+And with most people having one procedure, um, I think I've had to reduce since we started using pulsed field.
+
+So the complications are definitely, uh, improving.
+
+So the things that we worry about, it's not that we're not.
+
+The whole field hasn't switched completely to the post field operation, but it's definitely in the process of doing that.
+
+So it's still there is some risk of this atrial esophageal fistula.
+
+That's what we were talking about just a moment ago.
+
+There used to be also with the radiofrequency ablation, some risk of the pulmonary veins becoming narrow,
+
+which appears that it doesn't happen with this pulsed field ablation either.
+
+Um, there's also used to be a risk of phrenic nerve injury, which is the nerve that controls the diaphragm, makes it go up and down that you lose.
+
+There is a risk with radiofrequency ablation that could damage that.
+
+And that's also, uh, essentially. That's a really great advance.
+
+Oh, it's the right. So it turns out. Yeah. I don't know if I have a picture that it turns out.
+
+So if you look at the left atrium, the right upper pulmonary vein and the superior vena cava are right next to each other,
+
+and the phrenic nerve goes right between them. So it's the right the right phrenic nerve.
+
+Yeah. Okay? Yeah. I know, it's crazy.
+
+It's crazy. So it's not like it happened overnight. So the first demonstration of pulsed field ablation I saw was in 2010.
+
+So like these kinds of technological advances don't really happen in the space of two years.
+
+The very first prototype for a catheter I saw was years ago.
+
+And everyone laughed at it actually, because they were like, what?
+
+You're going to shock stuff in the heart. You're going to set off a little explosion essentially in the heart and like, and all that kind of stuff.
+
+People were worried that the red blood cells would get destroyed, that you weren't going to be able to control the voltage.
+
+Well, um, that it was going to damage other structures in the heart.
+
+Um, so it definitely was a long road to here, but I think that people that believed in it, like, really, um,
+
+they did their homework and slowly kept working on it because I think everyone always knew there's
+
+another aspect of this kind of ablation that solves a problem that we had with radiofrequency ablation.
+
+It turns out that when you have fibrosis, it's insulating.
+
+The fibrosis itself.
+
+And so radiofrequency ablation didn't work well in exactly the times when you wanted it to work well, which is when you have fibrosis.
+
+Right? Um, and so the problem that was kind of why people felt like we really needed a better solution,
+
+because a lot of the people that would come back and have recurrent ablations already had fibrosis in their atrium,
+
+and you knew they were going to come back because you could ablated right then,
+
+but it wasn't going to be durable because of the insulating nature of the fibrosis that was already there.
+
+So the nice thing about the the pulsed field ablation is that the E field pretty much determines the kill zone of the catheter,
+
+and that can go past the fibrosis region.
+
+Yeah. But, uh, yeah. So Europe actually got it four years ago.
+
+They did a lot of, uh, preliminary patient work in Europe.
+
+There is a big, big series showing safety and efficacy in a European population.
+
+And then it was approved for use. Probably. The first catheter, I think.
+
+Let me see where 2000. Was the first one was 2024.
+
+End of the year. Yeah.
+
+Oh, they're totally are. There are centers that. Yeah.
+
+There are some. There are some there. Well, there are certain areas that we still have to use.
+
+Uh, so it's not a total panacea. It has its own risks.
+
+So doing post field ablation in the region of the coronary arteries, uh,
+
+has some risks because you do electric operate the endothelial cells of the arteries that are nearby.
+
+Um, they heal up pretty well, it seems like. But acutely people get vaso spasm.
+
+And so it's fine when you're doing the pulmonary veins, you're not doing other stuff.
+
+But if you're anterior up by the mitral annulus, the coronary actually goes right around the mitral annulus.
+
+So people worry that you're more at risk for a coronary artery spasm, uh, bleeding there.
+
+So people will use radiofrequency more anteriorly and use that more posteriorly.
+
+Um, but there's there's plenty of places that are doing AFib every day that don't even have pulsed field ablation yet.
+
+Yeah. But I would say if you're getting an ablation for a-fib.
+
+You should not go there. So let's us we're going to switch gears.
+
+Any other questions about A-fib before we move on? So we're going to talk a little bit about ventricular tachycardia.
+
+And we're going to talk about devices I think my next one which is or my last one which is next week.
+
+So what are ventricular rhythms? We've sort of alluded to them before.
+
+They're they're rhythms that come out of the lower chamber myocardium.
+
+So they're not driven by the AV node. They're not driven by the atria.
+
+They're not driven by the sinus node. And they're characterized usually by a wide complex QRS.
+
+They usually have an origin in the ventricular tissue.
+
+There are sometimes ventricular tachycardia that can use little damaged parts of the his Purkinje system and maybe be a tiny bit narrower.
+
+But generally speaking, they're wide and bizarre looking.
+
+They don't really look like any of the bundle branch blocks that we've been looking at or any of the other wide QRS.
+
+Is they more they just look like wide bizarre beats, and they come in different, uh, flavors.
+
+So there's premature ventricular contractions or PVCs, which are probably the most common.
+
+And I guarantee you, everybody in this room at one time or another while we've been sitting here has had a PVC.
+
+Um, it's they're very, very common. Uh, they're basically extra beats from the lower chamber of the heart.
+
+They very often come from the outflow tract region.
+
+So that's up by the pulmonary valve and the aortic valve right around the valve annually.
+
+And we think that they're there because of lost pacemakers from development.
+
+So I don't know if you guys talk about cardiac development that much later.
+
+So the heart starts is a long tube and it like twists around to make the heart in that pose that we're
+
+used to seeing the heart and the pacemaker cells at some point migrate to the appropriate locations.
+
+But a common thing is for little pacemaker cells to be lost or to their transitional cells.
+
+They're not really pacemaker cells like the scientists note, or.
+
+They get lost in wind up in specific places, but too often around the valve annually, either the pulmonic valve or the aortic valve most commonly.
+
+So a lot of people get those, and the thought is that you need what's called a second hit to turn them on.
+
+So sometimes people will have anxiety can do it as viral infection can do it.
+
+Um. Trying to think pregnancy can do it.
+
+Some people, even with their menstrual cycle, will have cycles where they have.
+
+When they are late, they'll get more PVCs for like a week, and then they'll go back to their normal pattern when they're not doing that.
+
+So we see a lot of a lot of that. You don't have to ovulate 30.
+
+Um, the other kind of beats that we see are ventricles.
+
+So PVCs generally are benign, I should say.
+
+And then but rarely people get a lot of them. So like anything, if you get too many it can cause trouble.
+
+So we're talking about people who wear 20% of their beats are PVCs instead of just like having a couple over a couple hours.
+
+Like that's a really different thing. So people who have really, really frequent PVCs can actually cause cardiomyopathy.
+
+And we do actually do catheter procedures to zap PVCs for people like that.
+
+It's not the usual treatment. Most of the time people don't need any treatment at all for PVCs.
+
+But um, there's a whole range. And then there are also rarely PVCs,
+
+especially those ones that come out of damaged Purkinje tissue that can trigger dangerous arrhythmias like a ventricular.
+
+Ventricular tachycardia, which we had talked about before. It can be either sustained or non sustained.
+
+Um, and so that's usually wide complex beats that are regular.
+
+And they have no association with the atrial activity because they're just coming from the ventricle.
+
+Um, and uh when sustained just means they go on for 30s or more without stopping.
+
+And non sustain means anything shorter than that.
+
+Those can actually also be benign or life threatening if those come from the same little pacemakers that cause the PVCs.
+
+Those can be what we call idiopathic VTE and can be totally benign in terms of prognosis.
+
+They can cause symptoms and stuff like that, but they are not associated with dying suddenly.
+
+But then there are other types of ventricular tachycardia usually more associated with structural heart disease.
+
+So people with old heart attacks, cardiomyopathy,
+
+other kinds of things where the ventricular tachycardia can be life threatening or at least be a clue like the non sustained ones,
+
+are often a clue that we need to investigate further to see if they're at risk for other types of arrhythmias happening.
+
+And then we talked a little bit about ventricular fibrillation which is also life threatening.
+
+So here are some examples. This one up here is a this is a rhythm strip and this is an arterial tracing.
+
+So this is a little tube that's put into the radial artery.
+
+It's called an arc in a line. An arterial line is a little cannula in there.
+
+It's connected to a pressure transducer. And it transducers your pulse.
+
+And it also gives you an idea of like if you feel the pulse what will you feel.
+
+Because a lot of people who have this rhythm that I'm about to show you, tell you, you know, sometimes I feel my pulse and it's really slow.
+
+I don't understand why. And so what's happening in this case we see a sinus rhythm beat here.
+
+Here's a P wave a shows a T wave. And this is a PVC.
+
+Here's another sinus rhythm beat shortwave BBC.
+
+So every other beat here is a PVC. That's a rhythm called by Germany.
+
+So that's called Ventricular by Gemini. You can get by Gemini from the atrium too if you have every other beat is a pack.
+
+We would call it atrial by Gemini but this is ventricular by Gemini.
+
+The thing that's very interesting is in this type of a rhythm, there are two things at work here.
+
+So when you have a beat from the lower chamber of the heart that's outside of the natural conduction system,
+
+it usually doesn't cause as efficient contraction of the heart from that location.
+
+Like the wave front just goes through the heart in like a very inefficient way.
+
+And it doesn't. It takes longer to contract. Um, but also when you try to get the ventricle to contract really soon after, it's just contracted.
+
+It doesn't generate much of a pulse wave either. So what do we see on this pulse wave?
+
+We see this arterial tracing which is from this QRS.
+
+So if I'm feeling a pulse I'm like oh that's from that. But the next one.
+
+Doesn't generate much of a pulse, right? You don't see it very much.
+
+And if you're feeling it with your fingers, that's probably a not enough of a pulse for you to feel with your fingers.
+
+So we see this a lot that people will come in with this and they'll say, oh, their heart rate is 30, but it'll turn out their heart rate is really 60,
+
+which is not it's not dangerous to have this happening, and it can make you feel a little weird,
+
+but it doesn't mean that you need your heart rate to be made faster. It means that you need something to be done about your PVCs.
+
+So this is this is called pseudo bradycardia.
+
+If you see that that's in it's just because the p the PVCs themselves may not generate much of a of a pulse wave.
+
+Here. Here's an example of what we call. So these PVCs we would call unique focal because they all look the same.
+
+Right. They're all coming from probably the same spot. This is an example of multifocal PVCs.
+
+So this one. And this one, they're both happening, but they're coming from probably different spots in the heart, and it's more descriptive.
+
+It's not that it means something incredibly important that they're coming from different spots, but it's interesting just to note it.
+
+And that's something that we describe when we look at the the thing. And this one is a sinus rhythm.
+
+And this person has a widened. She's also just in sinus rhythm.
+
+So they may have some kind of heart disease already. Now, this one is very interesting.
+
+We see a normal beat here. But we also see these little wide beads.
+
+Coming. They're pretty regular. Is this ventricular tachycardia.
+
+It's ventricular, but it's not technically tachycardia. It's less than 100 beats a minute.
+
+Right? So this is something called accelerated video.
+
+Ventricular rhythm. And this is an automatic.
+
+We see this a lot after a heart attack. Actually, if you have a big heart attack, they do a stent.
+
+Open up your artery. The good blood goes back in, but the tissue is very irritable because it's just been infarction.
+
+Because the artery was closed. You'll see little pacemakers from the his Purkinje system start to send out beats like this.
+
+And this is okay. It's not an it's not a dangerous rhythm.
+
+The patient can feel it. Uh but they but it's not something that's dangerous.
+
+And there usually is. It's a little hard maybe, for me to convince you, but there's often a p wave hidden in the St segment like a retrograde p wave.
+
+It may not be on every beat that you see it here.
+
+Not perfect on this one, but. But you'll often see that. So that's wide.
+
+Complex. Regular. Less than 100 beats a minute. Accelerated idiot ventricular rhythms.
+
+So we call it IVR. Like if we were writing on a strip that you're reading, you've read IVR.
+
+So let's talk about the two different types of wide complex tachycardia.
+
+There's mono morphic VTE and polymorphic.
+
+So mana morphic is what we were talking about earlier, that every beat pretty much resembles the one before, and the QRS is wide.
+
+Right. And we have to do some things to prove that it's coming from the lower chamber of the heart.
+
+But once we've done that, it's been tricky. Tachycardia.
+
+Polymorphic VTE comes in two flavors there's ventricular fibrillation and something called torso deployment,
+
+which is what comes from acute prolongation.
+
+So we'll talk about that in. So when you see a wide complex regular tachycardia.
+
+One of the things we say in medicine is the differential diagnosis.
+
+Do you guys know what that means? The differential diagnosis. So the differential diagnosis of this is that it could be an SVT with a Barents Sea.
+
+What does that mean? When your heart goes fast you can develop a bundle branch block just because the rhythm is fast.
+
+So we call that a Baron CC. Most commonly you get a right bundle branch block, but you can also get a left bundle branch block.
+
+So sometimes you'll take somebody who at baseline they have a normal EKG,
+
+but you put them into SVT, say an atrial tachycardia, and it conducts with a left bundle.
+
+And it just means that the left bundle can't keep up with the rate at that rate.
+
+So in those cases, supposing you had an atrial tachycardia with left bundle branch block,
+
+you would still have a 1 to 1 relationship with the atria and the ventricles.
+
+Right. In ventricular tachycardia.
+
+So the differential diagnosis when you see a wide complex regular tachycardia is is it.
+
+Come. Is it an SVT or is it VTi? Right.
+
+So is it. Is it SVT conducting with a wide complex or is it VTI?
+
+The way to prove that it's VTI is you have to show something called V a dissociation.
+
+So what's the best way to show that? So if we think about like our ladder diagram.
+
+So when we. Are in sinus rhythm.
+
+Right. Supposing every one of those lines is an atrial beat.
+
+And then we go into ventricular tachycardia. Right.
+
+The relationship between the A's and the bees. Thank you.
+
+Can everybody see that? Um, the relationship between the A's and the bees is completely dissociated.
+
+So one of the things you can sometimes see on the EKG is like a p wave hanging out in space between the R races,
+
+that can sometimes be a little bit hard to see, but there's a little suggestion here that there might occasionally be a p wave.
+
+So you see it on both of the leads here. You see one here that's not really doing anything.
+
+It's just sitting there not doing anything. So that's one eye.
+
+That's one sign of a V or it's actually V.
+
+I should call it V dissociation.
+
+But then there are two other things that you can see sometimes while you're in this kind of a tachycardia is if the A comes at exactly the right time,
+
+it can do something else. It can go down the Purkinje system and cause a normal QRS to happen.
+
+And here you can see. That here.
+
+See there's a p wave right here. And see this narrow access right here.
+
+That's called a capture beat. The other thing that can happen.
+
+Is you can have a beat that comes. This is really bad.
+
+Here we go. Comes this way. And it collides with a beat of the beat.
+
+That's already happening. So you get a QZ.
+
+That's a fusion between the VTI.
+
+And what a normal QRS would look like. And that's what this one is.
+
+See how this one is a little bit wider and a little bit notched compared to this one?
+
+And both of them kind of have a p wave sitting in front of them.
+
+You see that? So when you first look at this, it gives you the impression that it's irregular, but it's not really irregular.
+
+The arrhythmia is regular, but every now and then there's an interjected beat this one and this one, and otherwise it's regular.
+
+Does everybody get that? That's how you prove.
+
+Yeah. Correct?
+
+Correct, correct. Yes, exactly. So VA dissociation equals.
+
+Yeah. That's that's how you prove that the ventricles are separate from the atrium.
+
+You can't always prove it.
+
+And part of the reason that we do catheter studies for people is sometimes to answer that question if we're not able to figure it out,
+
+like if you imagine that the person was in atrial fibrillation before they went into VTE.
+
+You can't tell that, right? So there are times when it's still a question.
+
+There's parts of the 12 lead EKG that we can use to try to prove it, 1 or 1 way or the other, but that's probably a little too advanced for us here.
+
+So that's but that's I think the level of what we want to be looking at here.
+
+So that's a capture beat. That's a fusion cop. Okay.
+
+So let's talk first about monomer morphic VTI without structural heart disease.
+
+So that's that normal ventricle. That's like the same as the PVCs that we talked about.
+
+But the person is actually having ventricular tachycardia for that.
+
+From that there. If 2 to 1 female predominance it can be more active in pregnancy.
+
+It's important to make sure that the heart is totally structurally normal.
+
+So we often will do an echocardiogram, a cardiac MRI, make sure there's no funny family history of any type of cardiac diseases.
+
+The prognosis is excellent, but sometimes causes symptoms or lightheadedness or fainting.
+
+You can treat them with medications, or we can try to zap the area where the, uh, the arrhythmia comes from.
+
+With a catheter. The catheter ablation can be very effective for these as long as there are enough PVCs.
+
+So we'll talk a little bit about where these arrhythmias come from.
+
+So this is that picture of the heart with the EKG leads around it again.
+
+And the thing we were talking about before is that the pulmonary outflow tract and the aortic outflow tract,
+
+which is down here, are often the site of of these idiopathic arrhythmias.
+
+So what would you see there? You would see that in leads two, three and AVF which are your inferior leads.
+
+You're going to have positive deflections just like we were seeing with the P waves in sinus rhythm.
+
+Right. Because there's the site of origin will be up high here.
+
+And we'll head down towards two three. And if this is actually I should show it to.
+
+Or 2 or 3 and apfr. They'll be up here and heading down this way.
+
+We usually call that just because it's because it's coming from a Pi and heading towards the inferior leads.
+
+We call that inferiorly directed. And if it's heading away, we call it superiorly directed.
+
+When we're trying to decide where a ventricular tachycardia is coming from.
+
+We usually look at the morphology in V1. If it's negative in V1, we call it a left bundle.
+
+Uh, just a morphology. It's a morphologic description. It has nothing to do with the bundle branch block.
+
+Um, if it's positive in V1, we call it a right bundle.
+
+So if it's a left bundle, it's coming from the RV, it's going away from V1.
+
+If it's coming from the LV, it'll be heading toward V1 and it will inscribe a positive deflection on V1.
+
+So that's those are probably the most important things for us to look at. So here's an example of an outflow tract ventricular tachycardia.
+
+This is a little bit hard to see the VA dissociation.
+
+So you might have to take my word for it. That's a that it's a, uh, ventricular tachycardia.
+
+But it is uh and what do we notice.
+
+So v one is down going right.
+
+So that means if it's down going it means it's coming from the right ventricle.
+
+And then in two, three and AVF. It's positive.
+
+So it means it's coming from somewhere up in the outflow tract.
+
+So this is what ventricular tachycardia for idiopathic ventricular tachycardia with a normal heart would typically look like.
+
+Does that make sense? And we don't really look at the same stuff like the axis and all that kind of stuff.
+
+Once we've determined that it's been regular tachycardia, we don't really look at that kind of stuff in the same way,
+
+unless we're planning to go and zap it, in which case we look at it in a lot of detail because it tells us where to go to do that.
+
+And here's an example of outflow tract PVCs instead.
+
+So here you can see the sinus speeds right.
+
+We have sinus rhythm. The showers are pretty normal looking right.
+
+They have good pre cordial transition. The QRS is narrow.
+
+And we see these PVCs. So on these EKGs this is all simultaneous.
+
+This is all simultaneous and this is all simultaneous right.
+
+The bottom shows this rhythm strip. And I'm sorry it got cut off.
+
+But this is usually V1. And this is usually lead.
+
+So this is you can see this over here. Looks like the guys over here.
+
+If you're interested in looking to see if all the extra beats look the same, you can kind of look across the rhythm strip much more easily to see.
+
+So we would call these kind of unique focal PVCs like we saw for that first strip.
+
+And where do we think they're coming from. They're down going in V1.
+
+So that makes them that left bundle configuration. So that means that they're coming from the right ventricle.
+
+And then they're coming from high to low, so they're outflow tract.
+
+There. So does that make sense?
+
+So the majority, though, of the ventricular tachycardia that we see in, especially in hospitalized patients, is in patients with abnormal hearts.
+
+So the most common cause of Vtec is an old heart attack.
+
+And one of the big mysteries of electrophysiology is why it takes so long sometimes for the ventricular tachycardia to show up.
+
+So I would say in the people that I see with a morphic ventricular tachycardia who present for medical therapy of some kind,
+
+they're usually like ten, sometimes 15 years out from their initial from their infarction.
+
+Um, and so what we know is when you get an in fact, we think of this chunk of heart muscle dying, right?
+
+But it's not usually well demarcated.
+
+It's not like this dies and this is alive right next to it.
+
+What often happens is near the area. So like here in this this is a heart section.
+
+The inside surface is shown here. The outside surface.
+
+The Guardian is here. You can usually identify the epic cardiac muscle because it has fat on the outside.
+
+You can see that that looks like like for those of you that that like eat meat I
+
+understand that this looks like something you can identify in a piece of meat.
+
+You can see the outside with the, the the fatty tissue there.
+
+So this is the inside surface where the valve stuff is like there's speculations and everything.
+
+The actual in fact, for this, uh, patient was over here.
+
+And one of the things you can see is that the heart muscle becomes thinner.
+
+Right? But the edge is very modeled.
+
+So there's areas of fibrosis with normal tissue, interdigital with it.
+
+So what happens to the local myocardial conduction there.
+
+There are areas that have conduction block. There are areas with slow and variable conduction.
+
+And then there are areas not that far away that have normal conduction.
+
+So this is a set up for reentry circuits to form.
+
+So the model for which we think a lot of these fits happen is that you have two areas of
+
+conduction block with areas with surviving myocytes nearby that have slow conduction.
+
+And then you can have a circuit that forms through that substrate.
+
+And that can happen for a whole variety of reasons. It can happen because of an old heart attack.
+
+It can happen because of a cardiomyopathy. It can happen because they have, um.
+
+Uh, old viral infection that involved the heart muscle.
+
+This is one of the maps that we can create during our procedures, where we try to oblate the substrate for these arrhythmias.
+
+This is a patient with a giant anterior old myocardial infarction.
+
+So this is very similar to what we were looking at with the atria.
+
+And you can see how big this infarct is. So the purple is the normal and the red is the dead.
+
+So that is like it's. A lot of this heart is dead, but it's not completely dead.
+
+Because when you put a catheter in there, you can see that there are little signals that wander around in that giant infected piece of tissue,
+
+and they have variable conduction properties.
+
+So this is actually while the patient is not in ventricular tachycardia, even just in sinus rhythm.
+
+So the stuff that's coming over from the right side is coming this way in sinus rhythm.
+
+And we see that there are a couple the white are areas of conduction block.
+
+And you can see that there's like a little channel on this front wall that's naturally formed
+
+because of the two bounded barriers that have occurred and that there's really slow conduction.
+
+The very latest activated area in this heart is the purple area here.
+
+We'll see when it flips around again to the anterior wall. It's actually kind of amazing that comes over from this side.
+
+It hits this area. It comes over from here.
+
+It hits this area of conduction block and then goes over this area to here.
+
+And the two latest activated areas are here. In here.
+
+And it turns out that if you can create conduction block across these areas, you can eliminate that person's ventricular tachycardia.
+
+So that's the kind of model in your head for what we think about with the structural heart disease people that get modern morphic.
+
+So let's talk then about polymorphic VTE and ventricular fibrillation.
+
+So the most common cause of polymorphic VTI.
+
+So this you can see here this is a person going into polymorphic CBT.
+
+They're actually a couple of PVCs and that it triggers this irregular rhythm.
+
+But like we were talking about before it looks really different than the pre excited atrial fibrillation in the Wolfe Parkinson white patient.
+
+Because each of the QRS looks really different. And it's also extremely fast.
+
+I mean it could be that some of this is similarly fast to that kid.
+
+But the problem with this is because it's shifting around and it's doing the same thing that we were talking about in the atrium.
+
+It doesn't produce any ventricular ejection like the patient's blood pressure goes to zero.
+
+Like if you have an arterial line and you see it measuring like this, it doesn't go to zero zero.
+
+What does it go to call.
+
+And don't you guys measure that in some lab work that you do where the pressure goes to like when there's no circulation, it's like 40 or something?
+
+Yes. Are you still doing that? No. Oh, sorry. From the past.
+
+If you were to do it in an animal, you would see that the pressure's like 40. When you do that, it's not compatible with life.
+
+So what happens is, um, you if you go into ventricular fibrillation, it's actually really amazing.
+
+Does anyone read the New York Times? No. There was a.
+
+It's a newspaper. Yeah. They don't read the newspaper.
+
+Okay. There was an article that was talking about how long you can stay awake when you lose your blood pressure.
+
+I don't know why they were talking about that, but there's some that don't. That is.
+
+But it turns out that if you have no vascular disease to your brain and you immediately have a rhythm like this,
+
+you can actually stay awake for several seconds just because there's enough ongoing metabolic activity in your brain to keep things going for a.
+
+But not for very long. And it is if you if you go into one of these rhythms, we have to shock you to get you back to normal rhythm very soon.
+
+Otherwise you'll have. Damage, and we'll talk a lot about that next week.
+
+So when we'll talk about resuscitation and stuff. The most common cause of polymorphic TVF is acute myocardial ischemia.
+
+So if you hear about somebody having a heart attack and having a sudden death episode,
+
+that is usually because they had an artery that got blocked off.
+
+A whole bunch of muscle doesn't have enough blood flow.
+
+It starts to behave really abnormally from a conduction standpoint, and it initiates ventricular fibrillation.
+
+Most of the people like that. When you open their artery, that problem goes away.
+
+And so those people, they need to be shocked.
+
+They need the EMTs to come with some kind of defibrillator, defibrillate them, bring them to the cath lab and open their artery.
+
+The other. The next most common group that we see, our patients who have what's called twisted to plant, which means twisting of the points.
+
+Um, and that's with usually associated with prolongation.
+
+So do you remember I showed you that case of the woman that had when she had a biopsy done,
+
+she had the really long interval and they did a incision for a breast biopsy,
+
+and she went into ventricular fibrillation and had a cardiac arrest, and they shocked her.
+
+Those people are the ones that have to are sad to plant. And that is usually induced by a long, short interval.
+
+Uh, just like what you see here, this is actually an example of torture to plant.
+
+And the reason it's called that is because there's this like little envelope to the ventricular fibrillation that's sort of the twisting of the axis.
+
+Um, and that can be acquired, like if you take an antibiotic or something like that, that prolongs your interval.
+
+Um, or it can be congenital. You could be born with an abnormality of a sodium or potassium channel in your heart that makes your cut too long.
+
+You can also have PVC triggered polymorphic VTI and VF.
+
+The most common cause of that is something called mitral valve prolapse, which is an abnormality of the mitral valve.
+
+Normally it opens and closes like this, but if there's too much tissue of the mitral valve, it'll flop into the atrium on each beat.
+
+What happens with that is the tips of the leaflets are attached to papillary muscles, which plug in to the lateral walls of the left ventricle.
+
+So when it flops like that, every bit tugs on the papillary muscle.
+
+And eventually you get fibrosis of the papillary muscle. And those extra beats that are from there can initiate ventricular fibrillation.
+
+In some people it's called arrhythmia, genic mitral valve prolapse.
+
+And then another common disease that we see where you can get ventricular fibrillation is Brigada syndrome,
+
+which is a sodium channel blocking sodium channel congenital abnormality.
+
+So I think one of the first things that you want to make sure you look at, and this is a really obvious example, but I think it helps to see.
+
+Take a look at this first strip.
+
+I find that people in this class are actually much better at this problem, because you've seen signals in other contexts before.
+
+You guys can all appreciate, right, that this is a QRS complex, right?
+
+This is probably a curious complex. This is a QRS complex.
+
+This is this is that is that is that is that is.
+
+And there's not really an arrhythmia going on.
+
+The baseline tracing is just very, very noisy.
+
+And probably I don't know if you're on cardio cardiology consults probably once every two times you're on consults.
+
+Right. You'll get called for some abnormality on the monitor.
+
+If somebody is on a telemetry unit in the hospital, the alarm might go off for this.
+
+And it might call a call. It would be tach. It'll say Vtec or VTV.
+
+It'll say something like that. And it needs at least these days it needs to human to look at it and say that it's not.
+
+Someday I think they're going to be much smarter about making that determination,
+
+but it's really important to look at that really closely because that's indistinct,
+
+you know, because there can be stuff that looks very much like ventricular fibrillation.
+
+There are a lot of stories in the hospital, like the old lady that's doing her knitting and like whines up the ball of her knitting and puts,
+
+makes this thing on the monitor that looks just like this with a brushing their teeth or something in them.
+
+And they're on the monitor and it looks like that.
+
+And one of the key things to do is to look at different leads, because on the monitor you can usually get up to six leads.
+
+Uh, and make sure that it's not an artifact. So artifact is really important thing to rule out.
+
+Um, and this shown here is just another example of a person with atrial fibrillation and very excited AFib.
+
+So you guys can appreciate here again like that other example that we looked at.
+
+You see these white beads but each one resembles the other one except for occasional beats that maybe get through with a different compact complex.
+
+Really different from something like that, right? Really different.
+
+So the most common cause, like we said, is acute ischemia,
+
+infarction and factors that increase the risk of ventricular fibrillation during ischemia might be elevated.
+
+Sympathetic tone. Actually, the worst are like someone who's done cocaine and then gotten a heart attack.
+
+And then they're in the hospital with yeah, like that's like the worst, worst, worst.
+
+Um hypokalemia prior in fact, with inducible VTi.
+
+What does that mean? So sometimes we'll have somebody with an old heart attack that has lightheaded spells.
+
+We'll put a monitor on them and identify non sustained VTE.
+
+And we'll say huh I wonder if they might have sustained.
+
+So if you put in a catheter and paste the heart and induce arrhythmias, it tells you something about their arrhythmia risk in the future.
+
+So that's what that means. And then there's probably a genetic predisposition because some people who have a myocardial infarction.
+
+The moment their artery closes, they're in VF. And then there are other people that have a myocardial infarction and they didn't even know it.
+
+And they show up a week later. Have you had one of those where it's like they show up,
+
+maybe because I have a guy who it was picked up that he had the heart attack because he got the big scar.
+
+He got a clot in his heart and threw through a small piece of the clot to his toe.
+
+He presented with a blue toe and that was his myocardial infarction.
+
+And it was all done. Yeah. So there's clearly a big genetic difference between people who have a closed artery.
+
+Some of them immediately have arrhythmias. And some of them, uh, some of them don't notice it so much.
+
+Here's our cute prolongation. Lady, this is that same EKG I showed you before.
+
+When we're talking about the intervals where the cut is massively prolonged and you're at least at risk for to our side to plant.
+
+What is that to plant look like? We looked at this briefly, too.
+
+Sometimes this is so long that the next P wave gets blocked because it can't conduct.
+
+Because the cut is so, so long. We here we have the long cut.
+
+Call it causing what's called an early after depolarization.
+
+It's a spontaneous secondary depolarization of the action potential that occurs
+
+and causes these polymorphic VTA runs that can sometimes be non sustained,
+
+but they can also be sustained and cause sudden death. You see, this person's interval is measured here at 680, which is really long.
+
+We said 420 to 440 was normal. One important thing to keep in mind when you see patients with acute prolongation is what drugs are they on?
+
+Um, so I think that probably the one that everybody's been seeing a lot of, right, is hydroxychloroquine when we're doing Covid,
+
+because there are all kinds of people that were crazily taking that in order of helped and
+
+thinking they were going to help their Covid and they gave themselves massive prolongation.
+
+But, um, the things that make acute prolongation worse are Rita cardia,
+
+electrolyte abnormalities, potassium, magnesium, calcium and tea with arrhythmic medications.
+
+A lot of them prolong the interval. A lot of psych meds prolong the interval.
+
+So Haldol, tricyclic antidepressants, SSRI like Prozac and other things, they all prolong the q.t a little bit.
+
+Um, some are worse than others, like among the SSRI is probably Celexa is the one that prolongs the cut the most.
+
+And so it's always tricky picking antidepressants for people with congenital long syndrome.
+
+Certainly. And then a lot of antibiotics and antifungals antimalarials.
+
+And then the other one that's really tricky. So people who are heroin addicts or other kind of opiate addicts often get placed on
+
+a medication called methadone to help them come off of their illegal street drug,
+
+whatever it is, and they are maintained like through a methadone clinic with certain doses of methadone, which itself is an opiate.
+
+But the idea is that they're kept on this, this like steady dose of the opiate to keep them from going into withdrawal,
+
+but also to get them, um, separated from the behavior that makes their addiction happen.
+
+The problem we have with methadone is it has a prolonging effect, sometimes really dangerous in people.
+
+And there's not a lot of great substitutes for methadone in our, in our, uh, in our panoply of choices.
+
+There's a medication, there's a website that's maintained by the University of Arizona called Credible
+
+Med Storage that keeps a list of new medicines that can cause prolongation.
+
+Really important to keep in mind, because probably polypharmacy is the biggest cause of prolongation related sudden death, especially in the elderly.
+
+In the elderly, like they get one little med to sleep, one little med for their hypertension and one little med for their pneumonia.
+
+And the next thing you know, there is 600 and have a cardiac arrest, right?
+
+So let's talk a little bit about congenital lung syndrome.
+
+We're almost done. So these are mutations in genes that encode for cardiac potassium or sodium channels.
+
+There are autosomal dominant and recessive forms. You guys know what that means right.
+
+That they can either you need two copies of the bad gene or one copy of a bad gene.
+
+And they have what's called variable penetrance.
+
+So it's very common when you see somebody that has prolongation that you talk to them about their family.
+
+They're like, you know, I don't have anybody in my family that has this disease.
+
+But if you go and look at their EKGs of the family members, a lot of them might be abnormal.
+
+So it's it's a little bit of a tricky, tricky one to track the familial, uh, progression through the different generations.
+
+Uh, the presenting symptoms are usually syncope, sudden death, uh, long Q2 they have different triggers.
+
+So like, long cute one is more exercise. Um, like you teach who is more surprise and alarms.
+
+I was a horrible story from a family that I saw once, where they were playing hide and seek in the backyard,
+
+and someone jumped out from behind a tree and the child had sudden death.
+
+Um, it was it's a really horrible. And so those kids, like, you want to make sure they don't have alarm clocks.
+
+You want to make sure that they don't have anything, uh, like that in their, in their immediate surroundings.
+
+And they are at risk for a to a sad to plant. This is just another example of that.
+
+Uh. That dangerous arrhythmia with the envelope that you see there.
+
+So the idea of, um, long cute syndrome is that you have a defective G and usually potassium channel,
+
+most commonly that, um, it causes basically defective ion transplant ion transport through the cells.
+
+You end up with the energy in, which is that potassium channel that we're talking about that has less channels than you would expect.
+
+And you develop early after depolarization. So spontaneous depolarization of the action potential.
+
+You early after depolarization, spontaneous depolarization during the repolarization phase of an action potential in cardiac myocytes.
+
+And that's enough to start the polymorphic.
+
+This is just an example of the mitral valve prolapse situation.
+
+So this is a picture of the left ventricle.
+
+Here you can see the aortic valve. This is the left ventricular outflow tract.
+
+But I like this picture because it shows those papillary muscles here.
+
+And the papillary muscles are so interesting here. You can see them as well.
+
+Here they look like little parachutes maybe attached to the mitral valve.
+
+Here they have a, uh caudate tendon which are basically fibrous structures.
+
+And then the part that plugs into the ventricular wall is myocardium.
+
+And when you have prolapse like this, you can see it would stretch the, uh, papillary muscles here.
+
+And the papillary muscles, I think I yes, I have this, uh,
+
+that the papillary muscles are so interesting because they're almost like little hearts on their own.
+
+They have their own little artery, they have their own little Purkinje system, and they have their own myocardium.
+
+So the interesting thing about the his Purkinje system is it's supposed to be insulated.
+
+So if you imagine that one papillary muscle, it's supposed to be insulated along its whole length.
+
+So it's not supposed to have communication to the neighboring myocardial cells.
+
+But when you get fibrous changes in the papillary muscle, it breaks down that barrier,
+
+the insulation of the wire, essentially, and you end up with reentry.
+
+That can happen from that Purkinje tissue to get out to the myocardium and then back to the Purkinje tissue again.
+
+And that's part of why we think that arrhythmic mitral valve prolapse is so dangerous.
+
+And this is what the PVCs look like from there. So if we imagine for just a moment.
+
+That it's this papillary muscle. So they have two names the poplar muscle.
+
+This is called the anterior lateral. And this is the poster medial.
+
+For whatever reason it seems like it's more commonly the poster medial that's affected.
+
+But it could be either one. So imagine we're having PVCs from the posterior medial papillary muscle.
+
+What would we think they should be. They should be positive in V1 because they're coming from the left ventricle forward right.
+
+They should be negative in the inferior leads because they're coming from fairly low to fairly high.
+
+And then they're not. They're not, like all the way at the apex, and they're not all the way at the base.
+
+So we see this kind of pattern where they're positive, positive, and then they turn negative halfway.
+
+That means that they come from the middle of the chamber. So you can sort of guess a little bit that these are poster medial papillary muscle PVCs.
+
+The PVCs by themselves are not dangerous as long as they don't trigger other arrhythmias that are dangerous.
+
+And so this is the kind of thing that can be dangerous that they get, that they can trigger.
+
+So if you have a PVC here, you see that they have this triggered polymorphic VTI or bunch of rapid heartbeats.
+
+And look at the pulse waveform.
+
+So the first PVC does like what we saw at the beginning of this section, where it produces a tiny little blip on the on the pulse waveform.
+
+But then this one comes in and we go into polymorphic VTI and look at this blood pressure immediately extremely low.
+
+If that were to continue the patient would collapse if they were standing.
+
+So it's really important, uh, and to control this type of arrhythmia.
+
+And then just a couple things on Brigada syndrome. Riguarda syndrome has a particular EKG form where you have St elevation in v1, v2 and maybe V3.
+
+You have to have two millimeters of elevation in two contiguous leads in order to diagnose Brigada syndrome,
+
+and it has to be in the setting of not having any structural heart disease or coronary artery disease.
+
+Um, but these this, uh, mutation in a sodium channel, uh, leads to sudden death episodes that occur during sleep.
+
+And it's more commonly in men. The average age at the first event is 41 years.
+
+There are even, um, it's like, more common in, like, the Thai population.
+
+Laos population of the mutations are very common.
+
+Um, and uh, the risk of cardiac arrest can be up to 10% per year in those populations.
+
+Interestingly, in more European populations, the disease appears to be a little less malignant than in the Asian, um, population.
+
+So these are the EKG criteria. Mainly I would look for the type one pattern.
+
+We don't usually look for so much for the type two pattern anymore,
+
+but I usually look at the type segment and I make kind of a line across for myself.
+
+And then I look to see where the St segment starts. So here I'd make a line here.
+
+And so it should be two contiguous leads either v1 and v2, v2 and v3 like that that have two millimeters or more of starvation.
+
+The other thing that's really interesting about Brigada syndrome is it's not always there.
+
+The EKG, sometimes the EKG can look normal. It can be triggered by fever, alcohol, dehydration.
+
+I had a patient I think I have an EKGs after this who's a type one diabetic also.
+
+And he went into diabetic ketoacidosis. That's when your blood sugar gets really high.
+
+And he had this. So let's take a look at his EKG.
+
+This is very common that you have kind of this incomplete right bundle branch block kind of configuration like he's trying to have in our prime.
+
+But the QRS isn't that wide. Looks a little funny, but it's not totally there.
+
+So we see these guys. And then this is when he was in ketoacidosis.
+
+You guys can all appreciate that. That's different, right?
+
+So in V2 and V3, who can't quite measure the TP segment, but it's pretty clear that there's more than two millimeters.
+
+Best to. That's another example of his abnormal EKG.
+
+I think that that's all I've got. Oh, I've got one more thing.
+
+Right. Preview of next time. So next time we're going to talk about implantable defibrillators.
+
+Yeah. Uh, I see, so.
+
+So no two millimeters of elevation. So, like the this this direction.
+
+So these are five millimeters going like that. So if I draw a line I wish I could draw on this.
+
+I draw a line through here. You don't even really see the the St segment here is actually below the line here.
+
+So I wouldn't measure anything there. Here maybe I would measure maybe one millimeter because the St segment starts at the tip of my arrow.
+
+There you can see that the QRS kind of ends and there's a little notching down.
+
+That's where this segment kind of starts. Right there.
+
+But then when we look at when it elevates. It's this part.
+
+See this? So now if I were to measure the TCP segment, there's more than two millimeters of starvation there.
+
+If I look here to. See how the test segment went from being like this.
+
+To being like this. There's probably 3 or 4mm of elevation.
+
+And then here also this is different from before. Here it has like what would they call a saddle back appearance which is supposed to be a low risk.
+
+Configuration, but then when he develops his type one forgot it becomes this code.
+
+Code appearance. So just to, um, preview for next time, this is the trace.
+
+What we do for patients with Boogaard syndrome is it's very hard to prevent their episodes.
+
+How do you prevent them from having fever?
+
+Um, you can maybe try to get the diabetic person to not go into ketoacidosis once you know they're diabetic,
+
+but, um, we often implant a defibrillator.
+
+And so here's just an example of a person going into ventricular fibrillation who has a implantable defibrillator.
+
+And the defibrillator can save them from the episode. So we'll talk more about that next lecture in a week.
+
+Oh. Um.
+

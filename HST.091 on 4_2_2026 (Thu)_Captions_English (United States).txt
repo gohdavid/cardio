@@ -1,0 +1,1124 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Again with just a little bit of a review of what you have learned thus far, and try to put all of the work into context,
+
+because these are things that we will be revisiting over and over again as we go into, uh, pathophysiology.
+
+Yeah. And so the pathophysiology block will be a lot easier insofar as you can get these concepts ingrained in your mind.
+
+So first thing we started out talking about the cardiovascular system.
+
+And you can group the cardiovascular system into two big blocks.
+
+So there is the heart lung pumping unit. Blood returns to the heart lung pumping unit and from this unit goes out to the peripheral circulation.
+
+Very simple lumped parameter model. So the heart lung pumping unit.
+
+Just just to review blood returns to the right heart.
+
+The right atrium goes to the right ventricle. Pulmonary arteries from the pulmonary arteries goes to the.
+
+What organ? Lungs. The lungs. Returned blood to the.
+
+The left side of the heart. Correct. Let's be a little bit more granular.
+
+Blood from the lungs go to. Pulmonary veins, which goes to the baby, which goes to the.
+
+Goes out to the. Excellent.
+
+And then we go to the peripheral circulation. Each of these we can break this down.
+
+Just this is just what you have just articulated to me.
+
+Let's you. Right. Heart. Right. Atrium.
+
+Right ventricle. The valve between the right atrium and the right ventricle is the.
+
+Tricuspid valve. The valve from the right ventricle to the pulmonary artery is.
+
+Pulmonic valve goes through the. Pulmonary section goes to the left.
+
+You just told me this. Yeah.
+
+Left atrium. But what's the what's the what's the structure? No no no no no.
+
+You're getting ahead. So from the from the pulmonary circulation, the pulmonary veins, the valve between the pulmonary veins and the left atrium is.
+
+No, there are no valves. That was a trick question.
+
+I was like yes. Okay. All right. So left atrium to the left ventricle.
+
+Via what valve? Right. Mitral valve.
+
+And then then we, uh. So we'll stop there. Stop there. That's the end point of there.
+
+So this now, we talked about modeling the right heart.
+
+And in particular we're going to talk about the right ventricle. This model is, uh, to spring.
+
+Model spring in a relaxed state. Which is this diastolic curve.
+
+And a spring in an active state. So in this and that's the systolic curve.
+
+Yeah. Now, this is not you know, it's not a it's not a, uh uh, uh, uh, tension length relationship that you would typically have in the spring model.
+
+This is a pressure volume relationship, but the concepts are the same.
+
+There's a relaxed state where there are actin myosin are not bound to one another.
+
+And and in this state actin and myosin are bound together.
+
+So it's a very tense muscle as opposed to very relaxed muscle. Yeah.
+
+The um the volume on the x axis mimics stretching of the, of this spring.
+
+Right. The greater the volume, the greater the stretch of the muscle of the muscle fibers.
+
+Yes. And the pressure mimics this tension relationship that you can measure from a spring.
+
+So this is a force. This is a simple Hooke's law relationship.
+
+Except it's now applied in the context of the vent of the ventricle.
+
+Resting model and active model.
+
+And then we have our four phases. So this is filling right eye contraction ejection relaxation.
+
+That's the right ventricle. We can apply the same principle to the left ventricle.
+
+So all concepts you should know for the exam.
+
+From this I have explicitly written, or we have explicitly written what the particular volumes are.
+
+From this you could get the stroke volume. Yeah, this you could get the stroke volume.
+
+Yes, yes. And then stroke volume times the heart rate gives you the cardiac output.
+
+So these are the parameters that are important. We can combine all of these data.
+
+To get one. Representation from the output.
+
+Flow per unit time from the heart lung pumping unit.
+
+Yes. Some assumptions are here because you'll notice this all depends on characteristics of the right ventricle.
+
+There's nothing in from the left ventricle that appears. So now.
+
+So there are some assumptions in which this relationship is true.
+
+And f is the frequency. Heart rate.
+
+Beats per unit time. Some assumption.
+
+We assume that the pulmonary arterial pressure is constant.
+
+That is these these are the characteristics that make this relationship true.
+
+Let's you. So these are the mathematical, um, relationships that must hold.
+
+What does this mean from a teleological standpoint? That the right ventricular volume is not maximal.
+
+So the right ventricle is not, um, it's not failing.
+
+It's in a regime in which it operates in the way that you would expect, and also that the left ventricle is not failing.
+
+Yeah. So the systemic aortic pressure is below the maximal pressure that the left ventricle can, can um, can operate.
+
+So three things. Pulmonary arterial pressure is relatively constant.
+
+Right ventricle is in its operating zone that it likes to be at.
+
+And the left ventricle is not failing. If all of these things are true then this relationship holds.
+
+Yeah. Right ventricle is happy.
+
+Left ventricle is happy. Pressures are constant.
+
+Okay. So what is it? So in a normal state and this is the normal state,
+
+all of us are operating in this state where our cardiac output is influenced most by the right ventricle performance.
+
+Yeah. So. And that's kind of easy to understand, right.
+
+If you think about this. So I used to use an analogy with um.
+
+Pee-Wee Herman and Arnold Schwarzenegger. But.
+
+As time goes on. Nobody knows who Pee-Wee Herman is.
+
+That's before your time. So I'm going to try to come up with another analogy that is going to be apropos.
+
+So. So let's say you had a, uh, third grader.
+
+And a, uh, a, uh, a, uh, a, uh, uh, a bodybuilder.
+
+Two individuals. Yes. And they're doing a, um, water race.
+
+Yeah. So the third grader has to take a bucket of water.
+
+Run over to the bodybuilder, who then takes the bucket of water and dumps it into some big, fat bath.
+
+Right. And it's got to be that the the race is over when the bath is full.
+
+The rate at which the water goes into is dictated by the third grader, not by the bodybuilder.
+
+Right? It's the third grader that will determine the rate at which that that bath gets filled.
+
+And it's the same thing with the left and right heart. Yeah.
+
+Right heart is weaker. It can. The left ventricle can handle any load.
+
+Because it's all of the reasons that we've talked about. It's a thicker muscle.
+
+It has a pump against higher pressure. It's the bodybuilder. Yeah.
+
+And the right ventricle is the third grader. Makes sense.
+
+You should look up Pee-Wee Herman. Just get it. Um.
+
+Yeah, yeah. So here and now.
+
+So this is a bit out of order. So here the for the peripheral circulation we had this model.
+
+This was our circuit model. That we had to model this.
+
+All of these slides should be loaded. Should be loaded. And from this we get a venous return curve.
+
+And this is our win Vin Kessel model. There are a set of ordinary differential equations which dictate this.
+
+We had some. We had to make some definitions for the mean systemic feeling pressure.
+
+All of that is is really not that germane.
+
+This but is on this slide really typifies the normal physiology that is important to note.
+
+Um, moving forward and and for the exam.
+
+This is just a mathematical representation of the venous return curve.
+
+Yeah. So we've got our venous return. We've got our Venus return.
+
+Uh, that's flow associated with the peripheral circulation.
+
+Got a flow associated. Yeah. With the heart lung pumping unit at steady state.
+
+These have to be equal. That's the definition of steady state.
+
+So you can, um, uh, do substitutions is just as a mathematical relationship.
+
+And this is the exact relationship for the cardiac output at steady state.
+
+Right. And so it has factors in it. It's influenced by what happens in the peripheral circulation.
+
+We have this fixed pulmonary arterial pressure. We have arterial of the, uh.
+
+Um, compliance. So all said and done, the frequency, the heart rate applies here, but it's not.
+
+It's actually not that um, intuitive looking at this, looking at this equation.
+
+Yeah. So there's another way that we can do this instead of doing this.
+
+Uh, looking at the mathematical representation, more oftenly and I think has been done on the oftenly.
+
+More often. And I think this is what was has been done on the set.
+
+It's it's graphical relationships that help you understand a steady state.
+
+And now changes in different parameters, um, affect the steady state.
+
+Case in point resistance does not appear here.
+
+So it's really got to have its effect on the venous return curve, which will then influence the steady state position.
+
+So how do I say that. How can you say that. So this is your, uh venous return curve from the peripheral circulation.
+
+Means a stomach filling. Precious. An open chest bottle. So that the, uh, inter thoracic pressure is zero.
+
+Your slope. Is this. Right.
+
+And that's just a straightforward application here. Right. And this is I mean systemic selling pressure.
+
+On the side of the, um, the cardiac output.
+
+This is your cardiac output curve. Simplified representation.
+
+Slope. Maximum value, a point at which it becomes flat Vmax over c sub d, right.
+
+And a similar relationship from using the arterial uh rtl pressure in systolic and diastolic.
+
+If you know this relationship, you can answer any question.
+
+Any questions given to you, right. What happens to the resistances?
+
+You know, if the resistance goes up or down, this changes the slope.
+
+Yeah. What happens if Vmax or you know, what happens in terms of the height?
+
+How the frequency affects the slope. What does not affect the slope?
+
+Does that make sense? So you can understand the intact system and perturbations to that system.
+
+Precisely. This is a very, I think, an important, um, and a summary way of all of the information that's here.
+
+And it provides a good backdrop in which to answer questions about how different perturbations will affect the cardiac output.
+
+Yes. Questions. All review.
+
+This is all review. So this all holds.
+
+All of these relationships hold given these assumptions.
+
+Yep. This is an assumption we're not going to violate. We're always going to assume this.
+
+It just makes things a lot simpler that the PR pressures are approximately, uh.
+
+Are, for the most part, constant. We'll get well, maybe on.
+
+This Thursday on Tuesday will try to address with cases when that's not the case.
+
+But again, all of the plots that I've shown you again, right ventricle is happy, left ventricle is happy.
+
+But that's not always the case. So do you remember this plot? Remember this?
+
+Yes. So all of this stuff that we've talked about is this zone one.
+
+Right ventricle controls. Yes.
+
+So this these are all says the right ventricle is happy, the filling pressures are low and the left ventricle is happy.
+
+Zone two. Here is when the right ventricle, um.
+
+The volume is maximized. So the pressures are quite high.
+
+The right ventricle cannot augment its cardiac output.
+
+Very, very hard for it to do because it's pressure. It's maximally dilated.
+
+So here this says the left ventricle is happy and the right ventricle is not because the filling pressures are very high.
+
+This is just an application of this where vbox is replaced for the for the right ventricular.
+
+Uh. Volume. And then in the latter case, when the left ventricle fails.
+
+So that's when the right ventricle fails and the left ventricle.
+
+And we'll talk when we get to heart failure. Cardiomyopathy.
+
+We'll talk about we'll talk about these things.
+
+The vast majority of what you will see and what you've seen up until now, because you have not seen any pathophysiology is just restricted to.
+
+Which is encompassed by the relationships that I showed in previous. Yeah.
+
+Makes sense. Quick summary.
+
+Normal physiology. Important things to know for the exam.
+
+Okay. But there was something else we talked about that will be on the exam.
+
+And that's the electrocardiogram. Yeah. Yes.
+
+No. Yeah. Okay. So this is our model.
+
+Um, that allows us to derive some simplifying fundamental insights into how the what the electrocardiogram is.
+
+Yes. So I'm not going to go over the assumptions.
+
+You know, that there's we ignore the, you know, capacitance, contribution to the impedance,
+
+uniform resistance and so forth that that stuff is not really, not really, really important.
+
+What is important here is this relationship. That is the upshot of the mathematics that arise from this.
+
+So for each lead, what you're measuring. It's a different.
+
+Between two values. Right.
+
+So here we have an electrode electrode measures the electrostatic surface potential at a particular point.
+
+As to right arm electrode, you have the left arm electrode.
+
+And lead one. Is the difference between these two?
+
+Left arm minus. Right on. Yeah.
+
+So again the machine is to all of this is review. I'm repetition just helps stuff marinate in the.
+
+In the, uh, in the, uh, in the cortex.
+
+So you are continuously recording electrostatic potential at the right on the left arm.
+
+And then what you see plotted is a difference between the two. The all of these readings are obtained simultaneously.
+
+Yes. Is this like, should I not go over this?
+
+Is this like to like two? Yeah. This is good. Yeah.
+
+I'm okay. So the but the upshot here.
+
+So let's forget about the differences and the precise math. What is the take home message.
+
+And it's a qualitative one. So this vector.
+
+It's is time dependent. This is the net dipole moment.
+
+Each little myocardial cell. Has its, you know, transports its own ions.
+
+And we'll talk about that next. But you could at any point in time.
+
+Yeah. Get a dipole moment from that. My from that myocytes.
+
+So another experiment I am my heart is beating.
+
+Yeah. And at some point in time uh time t equals zero I take my heart out and I put it in a zero Kelvin bath.
+
+Stops all ionic movement. Yeah.
+
+So then I take the heart out and I measure the dipole moment at different points at about every myocytes.
+
+And so I've got lots of vectors and I sum them all up.
+
+And that's my net vector at time zero.
+
+That's what this is. I could restart my heart, let it beat and a time delta t put it back into a zero degree Kelvin bath.
+
+Do the same experiment. Measure the dipole moment at each of the myocytes.
+
+Sum them together and this may be in a different orientation and have a different magnitude.
+
+Yes. So this is time dependent.
+
+But at time zero where it's frozen and I have a fixed orientation and magnitude to this vector, what does that correspond to I need one.
+
+It's just the projection of this vector on this line.
+
+That's all the electrocardiogram measurements. It's projections of this time dependent dipole.
+
+And you can think about it very discretely TA0 delta t two delta t delta t small.
+
+And you could do this experiment. Get the dipole moment the net dipole moment.
+
+And um know exactly how it would project on each of these on each of these lines.
+
+That's the electrocardiogram. So I review again.
+
+This is the same. This is the experiment that I've just articulated.
+
+So this, uh, signal begins at the signal node.
+
+That's the heart's, um, built in pacemaker depolarize.
+
+These cells are all electrically coupled.
+
+You have gap junctions between the myocytes, ways to allow information transfer from one myocytes to another.
+
+And then I freeze the heart, put it in my zero Kelvin bath. I measured my dipole moment at all of these different myocytes.
+
+And this is the sum. So what was this correspond to or lead?
+
+What? Well, I'm going to take this. I've got to transport it down to my I Tobin triangle.
+
+And I could get the projection on each of the three leads.
+
+Yeah. So it'll be slightly upward. And lead one the three and lead two.
+
+Yeah I can after the all of the atria are depolarize.
+
+Then something funny happens because atria and the ventricles are only electrically coupled through a specific structure,
+
+and that's the AV node bundle of his and the left and right bundles.
+
+Yeah. So whereas here it starts and it gets spread all throughout the atria.
+
+It gets to the AV node. And then there's a specific pathway in which the signal is transported.
+
+Just transported first down the left bundle and goes from left to right.
+
+Now. So the most anterior structure and chamber of the heart is what?
+
+What chamber? Right ventricle RV.
+
+Right ventricle. Yeah. Uh, you're in an accident with an RV, you're most likely to harm the right ventricle.
+
+Yeah. So one way to remember it. Now that I've said it, you will never forget.
+
+And I promise you it'll come. It'll come back as morbid as it has.
+
+So the right ventricle is in front, so the left atrium is on top.
+
+So depolarization of the atria goes this way and then it goes out.
+
+Right? So down and out. Now it's not completely orthogonal to the plane defined by the right arm, left arm, and left leg.
+
+So it has a little bit of signal left. So it's out. It's kind of like that.
+
+Oops. So take this.
+
+Oh, there's a huge component of this that's out that we're not seeing out of the board.
+
+So we're just seeing the it's actually projection in that plane and the consequently lead one.
+
+It's negative positive and lead story negative and lead to.
+
+We can run this experiment all day, like zero Kelvin bath, doing the addition of all of the dipoles,
+
+getting the net current dipole, putting in a token triangle and getting the associated positions.
+
+So ventricular depolarization is complex.
+
+It's not a single spike right? The p wave is one hump.
+
+It's H of depolarization. But the ventricular depolarization we refer to as a q r s.
+
+Yeah, the Q the Q part, that's the intervention killer septum depolarization down towards the left ventricular apex.
+
+And then the lateral wall which gives you the S wave. Yeah.
+
+Okay. So across. Left ventricle depolarization, and then the whole system is depolarized.
+
+And you see here the S wave doesn't appear in every lead.
+
+It's not prominent in every lead. The fundamental physical, uh.
+
+Um, process is the same, but the view differs a lot depending on the lead, because each lead is a different view of the same underlying process.
+
+Yes, but you can, you can you can dissect that.
+
+If I gave you an alien. Have they had an alien? Hard problem.
+
+Yeah, right. Uh, for the for the egg. So. Right. So if you have, um,
+
+if I could give you a complex alien heart and you could tell me what you would expect to see in terms of the projections using the same principle.
+
+You know, one of the things that is a little bit, um.
+
+Confusing. It's the p wave is H of depolarization.
+
+The q r s wave. Is ventricular depolarization.
+
+You don't see atrial repolarization, right?
+
+Why? It's.
+
+That's right. It's happening in here. This shows.
+
+Um. Strictly speaking, is a summation not only of ventricular depolarization, but atrial repolarization.
+
+Because the magnitude is so small, it doesn't really change very much if you saw it, if it was there or not.
+
+The other thing that is confusing is that the T wave.
+
+It's upright. Yeah.
+
+The tea wave goes in the same direction as the P wave.
+
+But they represent very different things. Yeah. The tea wave represents what?
+
+Ventricular repolarization, and the P wave represents atrial depolarization.
+
+Why are they the same? Why are they the same? Direction.
+
+Um. Uh, I think Sam, for.
+
+Can you say that? Louder. That is 90.
+
+That is correct. Why, though? Yeah.
+
+You got. You got it. You got. I'm just. I'm just pushing you on purpose. Yeah.
+
+If you got the wrong answer, I left you alone. But you got the right answer. And anybody.
+
+Yeah. Uh, people are.
+
+Yes. Right. So. So that is I would if you could articulate that just a little bit.
+
+Um. Yeah. These are both erudite comments.
+
+I just wonder if I can make them a bit more a bit more precise. Both of these statements are correct.
+
+Let's see if we can parse that just a little bit. Uh, repolarization happens outward.
+
+And as Sam Sam said, because the effective refractory time of the epic cardio myocardium is less than the than the then a sub and a sub in the cardio.
+
+This will become important when we talk about ischemia.
+
+The difference in the relative refractory times of the of the myocytes from epic cardio to end differ.
+
+So these. Start to polarize first.
+
+So if I did my zero Kelvin experiment.
+
+Yeah. And so here it's depolarized. It's depolarized.
+
+The polarization starts I stop my stop the heart by putting in a zero degree Kelvin bath.
+
+Take it out and measured all of these dipoles. It would be the same direction as in depolarization.
+
+Yeah, because the arrow goes from the depolarized to the not depolarized tissue.
+
+Is that? That makes sense. So it looks the same because a process happens backwards.
+
+The physical principle that is important here is a relative refractory time of the myocytes, from the radium to the end card.
+
+It makes sense. So hence the T wave is upright.
+
+So all of this is three leagues one, two and three.
+
+These are the leads. Right. Yeah.
+
+Um. But there are some additional leads that are used in practice.
+
+And these are called the augmented. Now, I've said that the important point with each of the leads, the way that we can understand it,
+
+is it is the projection of that, um, that, uh, the heart dipole, the net current dipole on some line.
+
+The lines are clear when the electrodes are on the arm. These are mathematical relationships.
+
+What really are we trying to encompass? What is the dipole.
+
+The net current dipole. So I'm going to use net current dipole.
+
+Net heart dipole. Interchangeably I mean the same physical thing because it depending on what you read it's called all different different things.
+
+What is a projection. So this is my heart dipole.
+
+This is the line that connects the heart and the left arm.
+
+So it's a little counter-intuitive or a little maybe a little bit hard to parse,
+
+because in the limb leaves there are two electrodes I can point to one electrode,
+
+I can point to the electrode, and there's the line that connects them.
+
+But for the augmented limb leads, you can point to one electrode, but you can't point to the other.
+
+The intention, though, is that it mimics the from the heart.
+
+To the left arm, right arm or left leg.
+
+Mathematically, it's this. So here.
+
+This is what this is. This is, um. Or this should be, uh, on the market anyway.
+
+It is the left arm. Let's see. But, uh, what?
+
+You get the electrostatic surface potential from the left arm, and it's the average of the other two.
+
+So the so the reference point. So the left arm and the average of the other two, which is approximately where the heart is located.
+
+That's the intent. That's the intent. That makes sense.
+
+You've only got three measurements to work with to calculate these.
+
+You only have your electrostatic surface potential the left arm, the right arm, and the left leg.
+
+So if one is, if you're going to the first one that you subtracting the first reference point, it's a left arm.
+
+The other reference point comes from the other two. And it's just the average of the two.
+
+Does that make sense? So while these are the mathematical relationships, these this is how you should think about it.
+
+Right in terms of our formalism, where the dqg measures the projection of the heart dipole on some light.
+
+Does that make sense? Yeah. So we have.
+
+All of our vectors. Now we can write them in the following way.
+
+One. Two three. AVL AVR.
+
+And we have the angles here. So this you should know. Now, what do I mean by no.
+
+Yeah. You guys can bring a cheat sheet. Yes. Is it?
+
+Was it is it, uh, two by four inches? And you can use front and back.
+
+This is something that I would say it's 8.5 hours. Yes, I would, I would when I point to things that I say that you should know.
+
+Yeah. I am advising you as to things that you have at your disposal at the.
+
+Okay. Now.
+
+Yeah. So here I'm going to go through these different leads again. With just, um, how the, um, how the signal originates.
+
+Yeah. So the signal, Rachel node is located where?
+
+Cool. Yes. Yes, but I was looking for a bit more specific.
+
+On the cardio. Yeah, right.
+
+So it starts here and you get depolarization of the side of each field.
+
+Note down this way. So this is what it looks like on lead to positive deflection.
+
+Then it goes from the, you know, there's this specialized tissue I talked to you about.
+
+Write a note and it goes on the left. On the left to right.
+
+That's slightly negative. In late two. Down towards a left ventricular apex.
+
+Very positive. Lots of muscle getting depolarized and then depolarization towards because it goes down and around and up.
+
+So it's slightly negative. And then repolarization happens in the same.
+
+Yeah. Now, one thing to note. These are not independent, right?
+
+Yeah. So we're not viewing really six independent leads.
+
+In fact, mathematically, then nobody can tell me how many leads you need to be able to derive the others.
+
+So there are six. There are six leads, but they're not independent.
+
+Alexi. Yeah. Two. Yeah. You only need two of them in practice.
+
+The other four are, um. It's, uh, linear combinations of the others.
+
+Right. But it's hard to do the math in your head, and each of them do provide incremental information.
+
+So just as a just as a point of, uh, point of reference. Why do I say that?
+
+Because this is. What it. But it looks like only two.
+
+And I think in the group that was I was working with, he went with it.
+
+What would you expect to see in AVR? Approximately.
+
+Yes. The inverse. Yeah, because it's in the opposite direction.
+
+So in principle, I could give you a few leads, but you could really infer approximately what you would expect to see in another lead.
+
+Yeah. Because it's just a mathematical transformation.
+
+You know, for the most, for the most part from one to the other. But we could go through this process.
+
+All of you could see AVL and the three. This is negative.
+
+This is positive. So these are similar relationships.
+
+Um, but I can the point I was trying to make is that from the net,
+
+from the pathway in which depolarization happens, you can map out what the electrostatic.
+
+Sorry. What the. What the, uh, egg would look like on any of these?
+
+Any of these six leaves? Yep.
+
+With me so far. Should I keep going?
+
+Or is this like, um, yeah. Okay. So the egg moves in three dimensions, right?
+
+So the all of these data come from three electrodes.
+
+Three points to find a plane.
+
+So it is impossible for any of the any of the information arising from these to give you data about how, um, the dipole moves outside of this plane.
+
+Yeah. So that's why you have the chess leads.
+
+The chess leads give you information that, um,
+
+about movement of this dipole outside of the plane defined by the left arm, the right arm, and the left leg.
+
+So chest leads v1, not lead one V1 is distinct from lead one.
+
+We talked about lead one before. It's the left arm and the right arm. This fourth intercostal space on the right side along.
+
+Um V6 and uh mid axillary.
+
+Mid axillary. And what do they represent?
+
+Again, a guiding principle is that a tracing on any particular lead.
+
+It's a projection of the heart dipole on the line.
+
+So if I want to understand what the readings would read on each of these, I have to tell you what's the line.
+
+Yeah. So the line goes from the heart to that electrode.
+
+So mathematically it's, you know. You know, these are all approximations.
+
+You take the average or the I'm sorry or the some, some average,
+
+but doesn't matter of the, of the, of the, um, of the readings from each of the leads.
+
+But the idea here is what is represented. It is the projection of the line formed by the heart and that particular.
+
+So let's do the same thing that we did previously when we did, um.
+
+Um, h of depolarization. And in the Italian triangle with slim leads.
+
+So depolarization begins right at that juncture.
+
+On the cardio side. Defined by the superior vena cava and the right atrium.
+
+Remember, right ventricle is a most anterior. Left atrium is the most posterior structure.
+
+Chamber right up against the esophagus. So depolarization Hap starts out here, but it goes left and right.
+
+So the p-wave in V1 is biphasic and that is normal.
+
+There's an upward deflection that represents the right atrial depolarization and a downward deflection that represents the left of the polarization.
+
+So yes, I know I see people staring at this. This is intended to be somewhat, um, downward.
+
+There's a downward component to this. I should have made it more obvious, but I was trying to convey that the.
+
+The, uh, the negative deflection is small with respect to the positive deflection.
+
+That's what I was trying to convey. Then was depolarization of the ventricles.
+
+Remember, it starts out left. To right ventricle.
+
+And that's this. So that's positive. So in the, um, Q wave, right.
+
+Represents the inter ventricular depolarization of inter ventricular septum.
+
+Yeah, but in the, um.
+
+And the chest leads the prick cordially. It's the positive deflection.
+
+So it's again just just highlights the fact that it's the same fundamental physical process.
+
+Um that but is looks very different depending on where you look.
+
+Yeah. Makes sense. And then in the, um, little leads was the archway wave.
+
+That was the big ventricular depolarization. But here it's the S wave.
+
+So what is important in this, in this diatribe is that the the names of the waves q, r, s can mean different things.
+
+I mean, they correspond. I'm sorry. They correspond to the same physiologic process.
+
+Right. But the, um, ah, wave at V1 is something different than the wave in lead one.
+
+Does that make sense? Yeah. So this is why we talk about the q r s complex.
+
+And we try to group them together as being ventricular depolarization because of precise components.
+
+Yeah. Might mean different things. Does that make sense?
+
+Yeah. Okay. And then we have finally the t wave, which is normally inverted.
+
+In league. In li V11 thing.
+
+So the second, what do you think about the T wave? It's a typically goes to the direction of the maximal crest complex.
+
+This is mainly ventricular depolarization. The repolarization mimics ventricular depolarization.
+
+Yeah. So the the Q Rs is mainly positive.
+
+Indeed, once the T wave is positive and what you need v1, the QR is is mainly negative.
+
+So the T wave is. Yeah. Charles. Yeah.
+
+Good question. So, um. Let's, uh, let's let's, uh, let's think, think, think through this.
+
+So the what's the best way to look at the posterior aspect of the left ventricle?
+
+So this is not drawn to scale. This is a schematic.
+
+But if the posterior wall of the left ventricle here. Is here.
+
+You additional leads give you information. Direct information.
+
+The information here is not different, frankly, than some of the information here, but it's easier to see.
+
+Yeah. Similarly the right ventricle, not the scale.
+
+We can do right sided. We. To get information about the right ventricle.
+
+So it's really these leads do not encompass all of the, um, all of the regions of the heart that may be of interest,
+
+because some of them are just harder to see because the projections are weak based on where the electrodes are located.
+
+That that makes sense. And typically the signal that you get is much lower in amplitude.
+
+Yes. Yeah. When you do posterior leads and right side, it leads.
+
+Yeah. So you can follow this exercise all the way around to get what the.
+
+Uh, but check to projections would look like on each of the, um, records or chess leagues.
+
+Yeah. So a full electrocardiogram.
+
+Just 12 leads. Six of them.
+
+Are the pre cordially. That's projection outside of the planes.
+
+Standard. Sagittal plane. Left arm. Right arm. Left leg. That's here.
+
+And then projections outside. Almost not quite orthogonal, but certainly in a different direction.
+
+Outside of that plane with a recording. So 12 lead.
+
+Electrocardiogram. Just the last thing to review here.
+
+So remember all of these electrodes are recording simultaneously.
+
+Yes. Yeah. So you, um.
+
+Here, you're just plotting the difference between the left arm and the right arm.
+
+Yeah. This your plotting the difference between the right arm electron and the average of the other two.
+
+But then there's a switch in terms of what's being plotted. Yeah. Um, this is, uh, the electrostatic, uh, potential along v one.
+
+Again, the reference u minus the average of the other two not.
+
+That's the I'm not I don't want to harp on the reference point, but then you switch to v4 all simultaneous when you interpret your electrocardiograms.
+
+Yeah. You can use the simultaneous action.
+
+To help you in diagnosing. So here.
+
+These all are simultaneous. These all are simultaneous.
+
+Yeah. So if I didn't see a p wave here, it's like, well, you know, I'm not quite sure.
+
+What about the other leads along the side. Is there a p wave there.
+
+Right. So you can use the fact that that these are simultaneous speeds to help you in diagnosing things like atrial fibrillation.
+
+What is h of. That's a characteristic.
+
+Who said that? That's a characteristic of atrial fibrillation.
+
+It's great when you see something that is irregularly irregular.
+
+Think of the relation. What does irregularly irregular mean?
+
+Some striving a little bit away from the definition. So asking another question we'll return to that.
+
+What does irregularly irregular mean. Uh, sorry.
+
+We get Jackie. For A-fib.
+
+Oh, so you getting to the definition? No, no, no, it's okay.
+
+We'll come back. We'll come back to that. But this is sort of an English question, right.
+
+What does irregularly irregular mean?
+
+Yeah. American. It's.
+
+It's okay. So I think you're that is that is that is that is correct.
+
+I'm going to say that sort of in a slightly different way. It has to do with predictability.
+
+Yeah. So regular. Um. Uh.
+
+Yeah. Irregular. Yeah.
+
+You see. But I can predict when. And I'm going to hear the next impulse. Irregularly irregular means it's not predictable.
+
+Yeah. So that you have a sequence of beats and the appearance is, you know, this is not, you know, depends.
+
+Random is a charged word, but I'll use that just for the sake of clarity.
+
+It's random. You can't predict what the next beat will be. So the spacing between them is very, very arbitrary.
+
+When you see that you should suspect each a fibrillation until otherwise.
+
+But now let's return what is. I think Jackie was started to.
+
+So I cut you I cut you off guard. Uh, did you want to articulate the definition of, uh, uh, of offense?
+
+So. So yes, the sentiment is absolutely correct. The macro engine circuits are more of apropos for flutter.
+
+We'll get to that in a minute. Oh, Kyle, do you wanna say something? Yes.
+
+Same have a lot of great. To.
+
+So this connects to my original discussion about finding p waves, which is why I diverged into this H of revelation.
+
+So in H a fibrillation there are no. Cannot find.
+
+Because all of the myocytes in the atria are all depolarizing independently of one another.
+
+Yeah. So instead of having concerted contractions,
+
+you've got them all doing this and they have to work together to pump to generate a p wave means that they all have to contribute.
+
+Each of these current dipoles have to be added if if they're random, they really don't.
+
+They're not additive. In a productive manner.
+
+So you really don't see any P waves, no P waves and a regularly irregular rhythm?
+
+Yeah. Is atrial fibrillation until proven otherwise?
+
+Typically with atrial fibrillation.
+
+All of these individual myocytes, they're sending impulses down to the AV node because they want to conduct down into the ventricles.
+
+But this AV node is being bombarded with lots of different information.
+
+And some of them hit at the um within the relative refractory period and able to pass through some or not.
+
+But because it's not at a set frequency in which this is because it is random, the subsequent ventricular beats are random.
+
+Yeah. And the heart rate tends to be very fast because there's lots although the frequency,
+
+it's not a set frequency, it's much more frequently the interval.
+
+The the cycle length is on average much faster. So in normal hearts.
+
+So in order to add an irregular irregular rhythm no p waves and fast typically it's tachycardic.
+
+The definition of tachycardia is. I'm sorry.
+
+Greater than 100. Greater than 100.
+
+Yeah. Yes. I'm actually. Just make.
+
+If I could. Us.
+
+Yeah. No, that's that's that's a good question.
+
+I'm not quite sure that I'm aware of people that have done the rigorous that have done the studies to answer that precise question.
+
+You do see variations in the magnitude. Um, but that's usually averaged over some, you know.
+
+Um, these things are usually averaged over some region of the myocardium.
+
+Moreover, the patients that have chronic a-fib, they have a lot of fibrosis in their in the atria and the fibrosis itself can be,
+
+um, can, um, help in organizing the current and also can be places in which these currents start as well.
+
+So I don't have a satisfactory. Answer to that.
+
+I'm just not aware of any data that answers that in that way. But the but the observations are as I've articulated.
+
+Okay, so things to keep in mind for atrial flutter.
+
+Jackie alluded to this. What is atrial flutter? Charles.
+
+Yeah. Excellent, excellent. So let's talk about characteristically what do we see.
+
+Whereas in tribulation it's irregularly irregular.
+
+In atrial flutter it's typically regular. And you do see.
+
+Because unlike um, in atrial fibrillation, all of the myocytes.
+
+Are sort of, uh, beating and depolarizing independently.
+
+In atrial flutter, there is concerted movement.
+
+Now, if the heart rate, if the heart rate is fast is typically about 300.
+
+You still get a lot of stagnant blood. That's around because it's not a full contraction like these partial contractions that happen.
+
+So there's still a lot of stagnation of blood. But you do see the P waves.
+
+Now the air of so most of flutter we call common atrial flutter.
+
+Bless you. And the p waves are inverted.
+
+In The Inferiorly. A flutter.
+
+P waves p wave rate is about 300 beats per minute.
+
+Yeah. And the P waves are inverted. This is what we refer to as a sawtooth pattern.
+
+And the ventricular rate is typically 300 divided by n, where n is an integer.
+
+So if every one of those p waves conducts down, the ventricular rate is 300.
+
+If every other one gets conducted, then the rate is 150.
+
+You say that's 2 to 1 block. A common rhythm seen in atrial flutter, atrial flutter with 2 to 1 block, and a heart rate of 100 and.
+
+Yeah. I didn't put any examples of any of these rhythms here, because I know that, um,
+
+the future Doctor Jail is going to have some examples that she will opine upon on, um, on, on Monday.
+
+And I didn't want to take. All of the time to to, uh, to do this.
+
+So atrial flutter rhythm. You should know. Fibrillation.
+
+You should know. Ventricular tachycardia.
+
+What's ventricular tachycardia? Oh, my.
+
+Very fast ventricular rhythm. And you.
+
+So let's let's pass past that a little bit. So ventricular tachycardia the ventricles ventricular tachycardia are beating fast.
+
+The beats are ventricular. There may be P waves.
+
+They may not be p ways. The ventricles don't care because the rhythm begins in the ventricles.
+
+Doesn't matter what the atria doing. Yeah.
+
+So it's a it's a rate greater than 100. And because it begins in the ventricles, typically it's outside of the normal conduction system.
+
+So typically the queue is wide. Why she's looks different than the baseline.
+
+She's rate of 100. May you may see P waves.
+
+You may not see P waves. Oftentimes when you see P waves they are unrelated to the ventricular rhythm.
+
+So this is what we call v a dissociation a rate greater than the atrial rate.
+
+And then the, uh, ventricular rate is, uh. And then the ventricle beats themselves up quite wide.
+
+Um, make make sense? It's a coffee. Okay.
+
+I, um. So a couple of other things.
+
+And maybe what I'll do is electric again on Tuesday. Maybe I'll bring some of that.
+
+It depends. Um. I can bring some examples of some, uh, rhythms.
+
+Yes. No. Um, and then we could go over them in some, uh, some detail, some more detail.
+
+But things you should know if a fib, a flutter, ventricular tachycardia, and the heart blocks.
+
+Heart blocks. What we should do. I'll just give a just give a short, uh, statement about those.
+
+So. One of the things about cardiology that I have mentioned over and over again is that it is so simple.
+
+It is so simple. You have a few simple guiding principles a heart block.
+
+What is hard for? So there are three types of heart block.
+
+Yeah. And listen how simple this is right. So. And type one.
+
+Every P wave is conducted. It's just slow.
+
+And type three. No P waves are conducted. And type two is somewhere in the middle.
+
+Some P waves are conducted and some aren't. That's simple.
+
+That's simple. We can break it down into the different types of type two block.
+
+When you block non winky barking maybe I'll leave that for for next time.
+
+But those are the three categories. So the normal PR interval is what?
+
+Lesson 200 because some budding cardiologists in the in the uh.
+
+Yeah. Right. So so we have uh, so it's less than 200 milliseconds.
+
+Yes. And so in first of the heart block, the PR interval is greater than 200 milliseconds, but every P wave is followed by a QRS.
+
+And every QRS is preceded by a P wave, 1 to 1 correspondence and third degree heart block.
+
+The P wave has some rate. The QRS complex has a completely different rate.
+
+Which is less than the P wave, right?
+
+To make the diagnosis typically of third degree heart block, the p wave rate has to be greater than the ventricular rate.
+
+Yeah, and they're unrelated. They're unrelated.
+
+So sometimes you see a p wave running into a QRS complex so that you know it's not conducted,
+
+but that and in the end, if you know it's not one of those two, it's always easier to deal with the extremes, right?
+
+Is it first degree or is it third degree. And if not, then it's second degree.
+
+And we can talk about differentiating the types of second degree. Um, later.
+
+Okay. Any any questions? I wanted to devote some time for this review, and then, um, we'll take a break.
+
+We'll come back. We'll start when? We'll start talking about hypertension. Five.

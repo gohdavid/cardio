@@ -1,0 +1,2183 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Good morning, Lord. All right. Good.
+
+So how is everybody? Good.
+
+The weekend is near. Good. All right.
+
+So, uh, our roadmap for today is that I'll briefly review what we did last Tuesday.
+
+So. Just to let it marinate for a little bit more.
+
+Uh, then we'll switch gears. Uh, we'll briefly talk about, uh, the sliding filament theory.
+
+Uh, excitation contraction coupling. What happens at the sort of molecular level, uh, of contracting, uh, cardiac myocytes.
+
+But the the bulk of today's lecture is probably going to be over here.
+
+We're going to take a systems level view of the isolated, um, ventricle.
+
+And we'll talk about pressure volume relationships and the cardiac cycle.
+
+But the cardiac cycle not from a pressure versus time perspective as we've done it in the second lecture.
+
+But from the pressure volume perspective.
+
+And the same kind of terminology will come up. But um, from a slightly different perspective.
+
+Okay. So where did we leave it last time?
+
+Uh, we talked about the peripheral circulation, meaning everything from the aorta all the way back to the right atrium.
+
+Systemic circulation, peripheral circulation. That's. We use this interchangeably.
+
+So we divided our cardiovascular system into four major blocks right heart,
+
+pulmonary circulation, left heart and right heart, pulmonary circulation, and left heart.
+
+Um, we also collectively called the Heart Lung Pumping Unit.
+
+Right. We talked about this over here and only this over here.
+
+Right. Today we'll talk about either the left ventricle. The right ventricle doesn't really matter which ventricle we have in our mind.
+
+And on Tuesday we'll talk about the heart lung pumping unit.
+
+We've put everything together.
+
+What we did is we said we want to get the input output relationship of the peripheral circulation in terms of two variables.
+
+One the independent variable is the downstream pressure.
+
+The filling pressure over here, which we also define as the mean right atrial pressure with reference to atmosphere.
+
+Atmosphere swirled around us. And I'll clarify that with reference to atmosphere in a second.
+
+And the volumetric fluoride going through the peripheral circulation, which is cardiac output.
+
+When steady state, nothing is changing. Right.
+
+Okay, so we went through all of this.
+
+We went through the biophysical properties. Where are the resistances?
+
+What are compliances? Where are the compliances? What are the larger compliances?
+
+What are the smaller compliances. About 2ml/mm mercury for the entire arterial larger artery arterial system compliance compared to 100mm of mercury.
+
+Uh, 100ml per millimeters of mercury that's sitting here on the venous side.
+
+Large capacitance vessels. Right. A lot of storage.
+
+Right. High pressure over here. Low pressure over here. High resistance over here.
+
+Very low resistance to venous return. Right.
+
+And we said that we we, um, model this.
+
+It's simply in terms of two. Uh, elements.
+
+The elasticity of the arteries and the veins. The vascular elasticity.
+
+Right. And the resistance to flow. What we think of this here as the elasticity or compliance of the arterial system or the systemic arterial system.
+
+This is the elasticity or the compliance of the systemic system.
+
+Okay. Major resistance at the level of the micro circulation.
+
+Approximately one peripheral resistance units. Millimeters times seconds per milliliter.
+
+Right. Compare that to the resistance to venous return.
+
+Over here. It's almost two orders of magnitude slower. All right.
+
+Nothing is time changing. Nothing is nonlinear.
+
+We know these are significant simplifications, and there will be times where we run up against those simplifications and these assumptions.
+
+All right. And then we engaged in a little bit of algebra.
+
+Applying the constitutive relationships for the resistance, the pressure flow relationship, and the pressure volume relationships over here.
+
+And what we wanted to do is we wanted to get rid of the dependent variables p v over PA over here.
+
+And express the flow that's going through this in steady state, purely as a function of the independent variable f over here,
+
+and the parameters of the system that are shown over here, plus the volumes that we impose.
+
+Right. Total volume and total zero pressure filling. And when we did this, we came up with it with a description that is shown down here.
+
+This is sort of the algebraic solution and this is a graphical solution.
+
+All right. This was the major result of our lecture last time of our labors.
+
+Over. Uh. Um. Two slides of of of mathematical manipulations.
+
+And I said, fear not, because this looks should look familiar, right?
+
+We have a pressure. We have a flow going through a resistive capacitive network over here in steady state.
+
+That flow is given by a pressure difference in the numerator over some resistance in the denominator.
+
+Right. The units pan out because this is in millimeters of mercury.
+
+Both of these and that weighting factor over here in front of this RA is unitless right.
+
+You have compliance in the numerator. You have the compliance in the denominator.
+
+Right. So it's just a weighted sum of the two resistances that are in the system.
+
+In the way. The reason why it looks so maybe a little, um, strange at the beginning is because we replace the upstream pressure.
+
+Which ostensibly we would say intuitively,
+
+is par right by a representative of a characteristic pressure that is only dependent on other parameters in the system,
+
+which we call the mean systemic pressure. And the mean systemic pressure is defined as the total distance in blood volume.
+
+So v total minus the total zero pressure filling volume.
+
+Over the total capacitance of the peripheral circulation car plus CV.
+
+All right. So the only dependent. Independent variable here.
+
+And the only dependent variable is Q. We try to argue intuitively.
+
+Does this make sense? Right? If our feeling pressure is up.
+
+Miss mean systemic pressure. The numerator is zero.
+
+We have no flow going through the system. But now we're lowering the downstream pressure right.
+
+You have more flow going through the pipe. And our model holds beautifully.
+
+Up until a certain point here.
+
+And the argument that I made over there is here our assumptions break down because we are no longer talking over a pipe.
+
+We're talking about collapsible vessels. Right.
+
+And so our beautiful constitutive law that says flow is equal to the pressure difference over the resistance no longer holds.
+
+Or you could say it still holds, but the resistance becomes nonlinear. Right.
+
+But the argument that I made is this argument over here.
+
+Right.
+
+If you're trying to aspirate your smoothie through a collapsible tube, you can try to generate as much negative pressure as you want with your cheeks.
+
+Right. You will not get more flow rate through because at some point that straw will buckle, right.
+
+And when it buckles, it constricts and the resistance will go up and therefore the flow will not go up.
+
+Right. This competition between how much more negative pressure downstream you can generate and how much higher the resistance will go, right.
+
+If you go way to negative, then yes, it can go into a state of constant collapse.
+
+But that doesn't happen in the cardiovascular system. Usually there are conditions where you can actually get that to happen.
+
+But it's stayed that I said a flow limitation, meaning that the flow that's going through the system becomes independent of the downstream pressure.
+
+That's exactly what you see over here, right? This is the P2.
+
+Here is the downstream pressure plays the role of our filling pressure.
+
+The moment that we hit that zero trans neural pressure point.
+
+Right. I can try to generate more and more negative pressure downstream, but the flow is not going to go up.
+
+It's just going to stay constant because it's driven by the upstream pressure minus the external pressure,
+
+no longer by the upstream pressure minus the downstream.
+
+Now, you might ask, does this actually happen in the cardiovascular system yet it does happen.
+
+Where does this flow limitation actually occur? Here is our heart, right?
+
+Is our thorax. Diaphragm. With the chest closed.
+
+The pressure external to the heart is intra thoracic pressure or pleural pressure.
+
+Right. That pressure is a negative. Meaning even if the right atrial pressure or feeling pressure is zero.
+
+The transmittal pressure is still approximately four millimeters of mercury positive.
+
+Right. Because you have zero minus -four millimeters of mercury.
+
+All right. It's four millimeters of mercury.
+
+So turns out that even if this is zero over here, the intra thoracic structures are venous structures are actually still distended.
+
+Simply because it has a negative pressure around it. So where does the flow collapse actually occur?
+
+It occurs at the entry point of the superior and the inferior vena cava.
+
+Into the thorax. Because if this pressure is zero over here, you have very, very little pressure drop from the IVC and the SEC to the right atrium.
+
+These are when distended large vessels. Right. So if this is let's say -0.5 you might have zero over here.
+
+I know if this is zero you might have just like. Point five over here, right?
+
+The pressure. External. To add.
+
+You know, the entry point here in the neck and in the abdomen is essentially atmospheric pressure.
+
+Unless we constrict our muscles right of the abdomen.
+
+Our intra abdominal pressure is our intra abdominal cavity is not pressurized.
+
+It is essentially zero. Same with our tissue over here.
+
+Right? You see, you have some elasticity on your neck, right?
+
+It's essentially zero. Uh, the tissue pressure is essentially zero over here.
+
+So the point where that flow limitation occurs is really at the entry point here of the inferior vena cava and the superior.
+
+Okay. Typically not. At the level in the closed chest, typically not at the level of the right atrium.
+
+Now. As we would point out in the next lecture.
+
+The development that we've done so far with that need happening at zero filling pressure is strictly.
+
+Speaking for an OpenShift configuration.
+
+If you have a closed chess configuration, then the collapse really a feeling pressure of its mean right atrial pressure,
+
+a reference to atmosphere happens at a slightly lower point.
+
+Right? Around -four millimeters of mercury because you have the intra thoracic pressure that holds these structures open.
+
+We'll get back to that when we talk about the heart lung pumping unit and taking inter thoracic pressure into account.
+
+Okay, so not happening in the closed chest at the level of the right atrium or the intra
+
+thoracic compartment is just at that entry point where that flow limitation occurs.
+
+Then we said, does this have anything to do with reality? Um, or what's the benefit?
+
+Let me take a step back. The benefit is that I can ask you the question.
+
+What happens to all of the things being equal, the flow through the peripheral circulation if you double the resistance.
+
+Right. Well you can look at this performance characteristic curve if you will.
+
+This is the normal for normal parameters. And you drop right by a factor of half.
+
+You can actually compute what that would look. If you double it.
+
+You can compute what that would look like. So you can start to predict the behavior of the system.
+
+Which otherwise might have not been a priori obvious. You can also tell me immediately that if I only change resistance.
+
+That the mean systemic pressure would not change. Because it's purely dependent on the volume.
+
+Total volume, minus total zero pressure filling volume over the capacitance resistance and entering into TMS.
+
+Right. Okay. And we looked at the very end briefly through experimental data.
+
+This is from a dog where I said this fistula. Yeah.
+
+How would you change the resistance? Here. Yeah.
+
+So experimentally, it's not trivial. Right.
+
+So as I also said, uh, that we think of the resistances and the compliances to actually to, to be independent variables.
+
+Right. And let's say you give a drug that affects the vascular smooth muscle.
+
+It should affect both the arteries and veins.
+
+Right. So it can affect the filling status by the veins constricting.
+
+Right. It can bring down the uh the zero pressure within the filling volume.
+
+Right. But it could also affect the compliance. So the compliance part we will talk about when we talk about control right now,
+
+the the fact that you might be selectively changing the resistance right is done over here by this fistula.
+
+Right where you say I'm not actually infusing a drug. What I'm actually doing is I'm just opening a short circuit.
+
+Right. But if I were to give a drug, let's say an alpha agonist that both constricts.
+
+Smooth muscle on the arterial. On the business side, you would be affecting both the volume status of the of the animal and the resistance.
+
+So that is the art of experimentation, that you can actually just isolate something.
+
+Um, and you have to think very carefully of how you would do it.
+
+If you want to do it with drugs, you have to look at drugs that selectively, you know,
+
+do alpha constriction at the level of the arterials rather than the venous vents.
+
+But here is a mechanical right here is what we just do a short circuit.
+
+We are dropping resistance significantly by doing that.
+
+And you see that the mean systemic pressure here doesn't change but the slope changes quite substantially.
+
+You're also still plateauing off at, you know, approximately the same level.
+
+Right. It's not a sharp edge as we've seen in the in our diagrammatic representation, but it's really more of a roll of.
+
+Now, what happens if you change PMS? Well, strictly speaking, if we only change PMS, it's only the offset that we're moving around over here.
+
+The slopes are going to change. Right. At least theoretically.
+
+Now here what is done is we are manipulating blood volume.
+
+And what I pointed out last time already is exactly to the point that was just made, right?
+
+Yes. The first order effect is that we are moving this intersection point to the right and to the left,
+
+depending on how much volume we give or withdraw, right. But you can also see that there is actually a slight change in the slope.
+
+So these parameters are not truly independent as we assume over here.
+
+Right. Okay. This is where we stopped.
+
+There's one more piece that I want to, uh, wrap up from the last lecture.
+
+And that is what is called here, the winkle approximation. And, uh, this is now our model for the peripheral circulation.
+
+And as I said on Tuesday, we'll put all of these things together and look at the, uh, closed loop behavior of the intact cardiovascular system.
+
+But oftentimes we're just interested in the arterial pulse. We are only interested in the arterial side of the system.
+
+How do we relate, for example, pulse pressure to stroke volume?
+
+Can we do that? Right. And one recognition that was made is the fact that this capacitance over here is very large,
+
+meaning it would take significant amount of volume to change this pressure.
+
+Another way to say this, or another sort of different observation, but in a similar line,
+
+is that the feeling pressure here is approximately equal to zero.
+
+Right? I mean, right atrial pressure with reference to atmosphere is approximately equal to zero.
+
+This resistance is very small. So the difference between this pressure and this pressure is going to be very, very small.
+
+So one recognition is why don't we just. So two points.
+
+Number one this is very small compared to this right. This is about 90.
+
+This is about zero. And the other one, it takes a lot of volume to actually make this pressure move.
+
+So why don't we actually just short circuit this? Why don't we actually make this the ground and say this venous pressure here is essentially zero?
+
+Right. Just keep it at zero. And that means that we are actually forgetting about this resistance.
+
+We forget about this compliance, and we just connect this point to this point over here.
+
+And that's what you see over here. Right. So this model over here ignores the venous side of the peripheral circulation.
+
+It just says the downstream pressure is essentially zero and it ain't changing.
+
+Right. But what it does teach us is about the arterial pots.
+
+Right. So we still have that 2ml/mm mercury of.
+
+A compliance of the arterial tree. And we still have Ray, which is our total peripheral resistance.
+
+Right. One peripheral resistance units. So what would a model like this help us understand?
+
+Well, it helps us understand the shape of the arterial pressure waveform.
+
+That positivity. Right. Uh, in relation to the source, which is not shown over here, which is the heart.
+
+And allow us to maybe estimate some of this. Parameters are a Ka and stroke volume from the peripheral arterial points.
+
+Right. So it doesn't get more condensed than that.
+
+And so we do need a heart. So he has a heart shown as a current source.
+
+Just think of this that every three seconds there's an impulse ejection that's happening.
+
+Something you deposit an amount of stroke volume in the arterial tree over a very short period of time.
+
+Right. So? Essentially impulse ejection.
+
+Right. When you do this, when one of these pulses comes in here.
+
+Right. You cannot instantaneously push that fluid through the resistance.
+
+Just not possible. Right. So essentially all of this delta v over here that you inject is deposited on this capacitance.
+
+So instantaneously that pressure over here will jump up.
+
+And it jumps. It jumps up. By how much?
+
+Well. By C times Delta v.
+
+By Delta V here being the volume. Right.
+
+And see being the compliance. So that but that delta P that is being sort of produced over here is our pulse pressure.
+
+All right. And then our systolic ejection period is very, very small in this particular presentation is infinitesimally small.
+
+Right. But then the rest of that period before you get the next ejection is all diastole diastole.
+
+Right. So now you've actually this pressure here has jumped up.
+
+Right. And now you have all of that time for that pulse actually to decay before the next pulse comes and you decay.
+
+So it's essentially, as I said, a model of the arterial pulse in a very, very rudimentary manner.
+
+So if you start at zero and you have the first pulse.
+
+Right? That delta uh, that delta p over here is delta V over K.
+
+Then the capacitor discharges.
+
+You know, the arterial, the arteries recoils through the peripheral resistance.
+
+You have this run off and boom, the next one comes. Right, then repeats itself same repeats itself.
+
+Several pieces. What's the time constant of decay over here?
+
+Right. It's our eight times the. What's the time constant of the overall behavior at which you actually reach steady state?
+
+Also eight times the. So if you're interested in sort of the temporal dynamics of the arterial tree,
+
+you can estimate that either from within a beat or longer term variations.
+
+You know, across many beats. But the point here is that this is a performance representation of the arterial pulse.
+
+Of course, we know it has like a finite ejection period.
+
+And then there might be some reflection and so on and so forth. Right.
+
+But it represents the phenomenology.
+
+Of the arterial pulse. You have quick ejection. You have decay.
+
+Quick ejection. Decay. Right. And as I said, you start from zero over here and eventually you reach some steady state.
+
+Cardiovascular system doesn't blow up. Right. So that steady state is reached when the amount of flow,
+
+or the amount of volume that's injected in one beat is exactly equal to the
+
+amount of volume that is lost into the periphery during the diastolic runoff.
+
+Right. Okay, so the power of the Wind Castle model is that it really allows you to conceptualize the arterial path and that you can say,
+
+well, if I have the pulse pressure over here. Right.
+
+And I know that the arterial compliance is about two milliliters per millimeters of mercury.
+
+You could say well approximately what's the stroke volume. All right.
+
+You can compute that. Because that would be also pressure.
+
+Council compliance. Yeah. So exactly right.
+
+So doing the ejection. Because what we are assuming over here is that the ejection is essentially instantaneous.
+
+Right. All of that volume initially is deposited on the capacitance.
+
+You cannot push your current instantaneously through. I mean an impulsive current through the through a resistance.
+
+Right. So during that very brief ejection period, all of that volume delta v is deposited on this.
+
+It's essentially like think of it physiologically right. So the heart ejects very rapidly.
+
+What the arterial system is going to do is just going to expand.
+
+Right. Because you have that balloon ish kind of behavior of the large arteries.
+
+Right. The elastic. Right. So they will expand.
+
+They will they will accommodate that stroke volume. And then during the diastolic phase, they will passively recoil.
+
+And that's when you have the runoff. Of course, in reality you have a finite injection period over here.
+
+And if you have a finite injection period, then doing that injection period there will be a little bit of runoff.
+
+Okay, so anything to do with reality again?
+
+Here is the pressure. Arterial pressure and the flow.
+
+Um, in a dog. Uh, rabbit. Not dog.
+
+Rabbit. Aorta. So ultrasonic flow probe was placed around the root of the aorta.
+
+Right. So you can measure the volumetric flow rate that's coming out instantaneously.
+
+And you have a catheter in the root of the aorta.
+
+Now when? Don't have any impulsive ejection over here.
+
+Right. We do have a finite ejection period.
+
+In that finite rejection period here coincides with the rise of the arterial pressure waveform.
+
+Right. And when that becomes zero, somewhere over here. The aortic valve closes and you're going into the diastolic phase.
+
+All right. At this point. Over here, we engaged in a maneuver called vagal stimulation.
+
+Yeah. We haven't told you yet what the vagus nerve is, but we will talk a lot about it when we talk about the control of the cardiovascular system.
+
+It's one of the major cardio depressor nerves, meaning that if I stimulate that,
+
+it will slow your heart rate down to the point of full cardiac arrest.
+
+Right. And you might have heard about a carotid massage that some patients engage in some of the maneuver.
+
+Talk about all of this. Here what we've done is we've we've dissected the neck of the rabbit.
+
+We used stimulator electrodes and we stimulated the vagus nerve.
+
+And so what it does, it comes a lot of acetylcholine on the SA node.
+
+And essentially stops the heartbeat altogether. When you do that, you see a beautiful, nice exponential decay.
+
+Of the arterial blood pressure waveform. Because there's no more reflected waves that are coming back.
+
+There's no more ejection going into it, demonstrating that.
+
+In aggregate, the arterial system. Acts in accordance to essentially of increased representation,
+
+or the Winchester representation is a good representation of the aggregate behavior of the cardiovascular system.
+
+All other things like reflected ways, you know, having died out.
+
+Right. Question what ultimately if you if we were to actually let that go all the way
+
+for a long period of time before we actually stop stimulating the vagus nerve?
+
+What is the name of the pressure that this would equilibrate towards?
+
+It's the mean systemic pressure. Very good. Right.
+
+Very good. Because now we are exactly in that behavior. We are saying, all right, we're stopping all inflow.
+
+We're not stopping the outflow. It was stopping all inflow.
+
+But I guess we're stopping the outflow because the heart stopped, right? Stopping all inflow.
+
+Stopping all outflow. Arterial pressure will come down. Venous pressure will come up.
+
+Not shown over here. Your collaborating ultimately to mean systemic pressure on the order of ten millimeters of mercury.
+
+Okay. So we'll have some. Yeah.
+
+So I think what I said is that the Winchester approximation is a good a good model for the behavior of the arterial systemic arterial tree.
+
+If we stop the heart, right, then you have that rock.
+
+And this here is just to demonstrate that that sort of mono exponential decay that is implied by, by this model over here.
+
+Right. So there's only one time constant here that, that is related to RA times Ka right.
+
+Is actually what we see in, in the behavior of the actual system.
+
+Does that make more sense? It's.
+
+Oh, yeah. Okay, so that's the time constant of the decay over here, right?
+
+There is a time constant that is, tau is ra time ka.
+
+The ancillary point that I've made is that if you have a longer term dynamics where the system behaves or responds to perturbations over longer,
+
+let's say a step change over a longer period of time, that time constant is also RA times.
+
+Because it's the only time constant we have. So you could if you're interested in I think I mean, at that point,
+
+if you're interested in estimating that time constraint, you can do that from within a cycle or across many cycles.
+
+So the decay that I'm showing in the rabbit here is the the fact that you could actually,
+
+you could try to estimate the time constant from the decay over here.
+
+Right. The point that was done over here is the stop, the hard.
+
+Right and prevent the next bit from coming.
+
+You have a much longer timescale and you see more prominently sort of the mono exponential nature of that decay.
+
+Right, would be difficult. I mean, here you could already say it's like, well, Thomas, I mean, you could also fit a line to this, right?
+
+What are you talking about? Right.
+
+So but once you actually say, all right, let me actually stop the heart and see how that decay happens over a longer timescales.
+
+It is truly sort of a mono exponential nature. Exactly right in that approximation, right?
+
+Okay. All right. You'll have some, some some, uh, opportunity to play with that.
+
+I think in the next homework assignment that we'll post later today. All right.
+
+So. Switching gears. Now we talk about the heart.
+
+We park the peripheral circulation to the second half of or to the last third of the Tuesday lecture,
+
+and we just have to review a little bit about the physiology of, of excitation contraction coupling.
+
+And then we'll talk about the behavior of the isolated ventricle.
+
+So we talked about. The heart.
+
+We talked about the myo fibers, the orientation, um, and and the thickness of the walls over here compared to over here.
+
+And the reason or at least given an explanation of why we think that towards the apex, the wall thickness is thinner than what is depicted over here.
+
+If we start to zoom in. We see individual.
+
+Muscle cells. But we also see that the the arrangement of these cells.
+
+Is essentially like a network and for a long period of time, um.
+
+Physiologist, physicist. Physiologist thought that. That the muscle cells in skeletal muscles in the heart would actually be a network.
+
+Would not be individual cells, but would be a network. Um, and so incision essentially.
+
+Uh, of of uh units of, of of um cells or of, of um elemental units.
+
+But it would actually. Uh, not really have a cellular structure underneath.
+
+Now, we know that the elemental building block of any organ is the cell.
+
+Right. But functionally, it still acts as a own system and still acts as a network.
+
+Right. And that it is tightly connected. These are tightly connected to one another.
+
+There's some structure to it that we already talked about in terms of the, um, in terms of the, uh, the fiber orientation.
+
+Um. When we zoom in a little bit more.
+
+Right. We also see functional units over here. We see these characteristic striations that we have in skeletal muscle.
+
+Also in the in the cardiac muscle. Over here we also have these things called gap junctions.
+
+Which are low resistance pathways,
+
+as we will see further in the electrophysiology part when we're talking about the electrical activity of these cells.
+
+So today we're only talking about the mechanical behavior a little bit about the lecture, but mostly about the mechanical.
+
+But this is low resistance pathways for currents to path from one cell to another,
+
+meaning that the communication in terms of electrical signals from one cell to the other is really
+
+greatly benefited by the fact that there are regions in the cell wall over here where that,
+
+um, uh, where there is low resistance and, and currents can flow fairly easily.
+
+Details are not important, um, at this stage, but the there are, um, uh,
+
+channels that are very specific to these gap junctions and can be open and
+
+closed and that these channels are responsible for that low resistance pathway.
+
+As I said, we'll talk a little bit more about this when we talk about, uh, um.
+
+The, um, uh, the electrophysiology.
+
+When we go from the muscle fiber over here to the individual fiber, meaning that it's a sort of an arrangement of of, uh, many of these, um, uh.
+
+Fiber, fibrous structures and zoomed successively in, we come to the level of the individual sarcomere.
+
+You've probably all heard about these kinds of things, but we have to talk briefly about this in the context of, um, cardiac contract contraction.
+
+This is sort of this parallel arrangement of actin myosin filaments and cross bridge cycling that occurs between those,
+
+um, at the level of these individual functional units that we have now,
+
+depending on where you actually cut this over here, you might have very little overlap of the actin molecules,
+
+the thin one and the myosin molecules, the thick ones over here.
+
+Or you can have a lot of overlap that will be important for the behavior of the cardiovascular system.
+
+We have the Sako lemma.
+
+We have nations here of the plasma membrane into the um or surrounding this um um structure that provides stability but also provides pathways,
+
+uh, deep into the cellular structure for ionic currents to occur.
+
+Primarily through that tubule over here that we'll talk about in a second.
+
+Right. But it provides a mechanical, um, structure.
+
+And it uh, also provides, um, connection to the sarcoplasmic reticulum, which will um, uh, play a very important role over here.
+
+As I said, we have this increasing resolution over here at the level of the individual unit.
+
+We have this banding structure which comes from that parallel arrangement of the actin myosin filaments.
+
+We have the thick myosin filaments with the myosin heads.
+
+And we have the thin actin filaments, uh, that has the uh troponin and tropomyosin molecules wrapped around them.
+
+And the interaction of those two and the control of those two is what gives, um, rise to the, um, uh, to that cross bridge cycling.
+
+And let me actually just jump over the next two ones over here. Just to say over here, we have the, um, we have the, um, uh, actin molecule.
+
+Over here we have the tropomyosin chain that's sort of helix wrapped around it.
+
+And then we have the troponin molecule, which is the main regulatory unit.
+
+All of this is in your book over described to about a couple of pages, 2 to 3 pages in chapter one.
+
+Um, so uh, will assign that to reading.
+
+I can describe all of this in words, but let me go to this one over here.
+
+See whether the speaker works and let the robotic lady, uh, explain to you.
+
+Much better than I would be able to. Is it coming?
+
+No. Nothing's coming. Okay. So much for that.
+
+One second. Let me see what I can run it off my speaker.
+
+Technology at MIT doesn't always work. Does this work?
+
+The sarcomere shortens when myosin. Can you hear?
+
+Is it loud enough? Let's see that again.
+
+The sarcomere shortens when myosin heads. The formation of a cross bridge is initiated when calcium ions released from the sarcoplasmic.
+
+Tropomyosin moves away from the myosin binding sites on actin, allowing the myosin head.
+
+To bind actin and form across bridge. Also note that the myosin head must be activated before a cross bridge cycle can begin.
+
+This occurs when ATP binds to the myosin head and is hydrolyzed to ADP and inorganic phosphate.
+
+The energy liberated from the hydrolysis of ATP activates the myosin head, forcing it into the position.
+
+A cross bridge cycle may be divided into four steps.
+
+Step one cross bridge formation.
+
+The activated myosin head binds to actin, forming a cross bridge.
+
+Inorganic phosphate is released. And the bond between myosin and atom becomes stronger.
+
+The power stroke ATP is released and the activated myosin head pivots, sliding the thin myofilaments toward the center of the sarcomere.
+
+Step three Cross bridge detachment.
+
+When another ATP binds to the myosin head.
+
+The link between the myosin head and actin weakens and the myosin head detaches.
+
+Just for reactivation of the myosin head, ATP is hydrolyzed to ADP and inorganic phosphate.
+
+The energy released during hydrolysis reactivates the myosin head.
+
+Returning it to the current position. As long as the binding sites on actin remain exposed, the cross bridge cycle will repeat.
+
+And as the cycle repeats, the thin myofilaments are pulled toward each other and the sarcomere shortens.
+
+This shortening causes the whole muscle to contract. Cross bridge cycling ends when calcium ions.
+
+Are actively transported back into the sarcoplasmic reticulum.
+
+Troponin returns to its original shape, allowing triple myosin to glide over and cover the myosin binding site in.
+
+All right. You have been properly instructed.
+
+In the sliding filament theory. Now, what are the important pieces of this?
+
+Right. Probably many of you have seen this before. If you haven't.
+
+As I said, it's in your book. Um, the details to be understood on a conceptual level.
+
+Where that actual contraction comes from.
+
+Number one, when I show, I mean, when I, when I see this video, it's always like nature is amazing, right?
+
+If you had to design this from scratch, good luck. Right?
+
+I mean, in some sense, that's why we don't. Artificial organs. Right.
+
+Difficult. Difficult to compete with something like this that have, you know.
+
+Millions of years to evolve and optimize, right? That's number one.
+
+Number two is what are the important pieces here? Right.
+
+At the very beginning. It was the calcium binding.
+
+Of. The binding of calcium to troponin.
+
+Right. That's what initiated everything. That's number one.
+
+Number two is the role of ATP and ATP, which is ultimately oxygen dependent.
+
+So those are the two key things that we need to recognize here.
+
+When we talk about excitation contraction, coupling excitation being the electrical impulse that rules it all,
+
+that begins the whole process contraction, ultimately resulting in that cross bridge cycling.
+
+Right. We have to recognize the role of calcium and the role of oxygen in both of them.
+
+All right. So let's go through this. Number one.
+
+And action potential comes by.
+
+You haven't defined that yet, but let's say that the electrical polarity of the cell or part of the cell membrane changes.
+
+Right. That can change the permeability of calcium channels.
+
+Meaning it allows calcium to enter the cells. The amount of calcium that enters the cells typically very, very small.
+
+Think of that as a trigger. It's called here.
+
+I think somewhere it calls a spark, right? Well, it's called the spark over here.
+
+Consider this a trigger. And we're talking about calcium induced calcium release.
+
+Right. By calcium entering the cell.
+
+They bind to so-called reality and receptors at the level of the sarcoplasmic reticulum.
+
+Major stores of calcium inside of the cardiac myocytes.
+
+Right. And what then happens is that the sarcoplasmic reticulum.
+
+Releases a lot of calcium into the cytosol.
+
+Ultimately binding. Here to the troponin.
+
+And then the whole machinery that was just described in that video takes place, right?
+
+The rotation of the tropomyosin cross, the attachment of the head, the cross bridge cycling.
+
+Right. And that continues to happen. This crawling continues to happen.
+
+Until when? Until the calcium is no longer available.
+
+You remove calcium substrate from this process.
+
+It dissociates from the troponin um binding site.
+
+Right. And and the cross bridge cycling stops because the tropomyosin moves back into its protected position.
+
+How does this happen? Well, it happens because there's a constitutive pumping that's happening over here.
+
+Also the sarcoplasmic reticulum where there's even a feedback mechanism between
+
+the calcium level over here that pumps the calcium back into the cells.
+
+It's right into the into the sarcoplasmic reticulum. Calcium induced calcium release competes with the reuptake of calcium into the sarcoplasmic.
+
+So this is what is written out over here. And to spell it out a little bit further, to break it up into contraction and relaxation.
+
+Right. Is that you have this action potential.
+
+It opens the calcium channels, calcium into calcium release and binds to calcium and covers the binding sites.
+
+Crush with psyche the muscle, construct a contract.
+
+Right. So re polarizes meaning it goes back into its, its regular sort of electrical polarity.
+
+Right. But the cytosolic calcium is pumped back into the sarcoplasmic reticulum and small amount is pumped back out of the cell through pumps.
+
+Focal myosin covers the binding site and actin, the quadrupole cycling stops and the muscle relaxes.
+
+But that. Spark calcium versus the uptake of calcium, that is, is that balance between contraction relaxation contraction relaxation.
+
+But the unbinding also depends on oxygen. So we think of the cardiac contraction as oxygen dependent.
+
+But the relaxation is also. So if there's a mismatch between the oxygen supply to the heart.
+
+And the demand of the heart. It's not just the systolic or the contractive phase of the cardiac cycle that might be affected.
+
+It can also affect the degree to which the heart can relax effectively.
+
+And both of these are important if we are describing the function of the heart as a pump.
+
+So zooming in over here, we could spend lectures just on this unit over here.
+
+And the pasta, you know. That was done.
+
+The key element here is that we are talking at the level of the sarcoplasmic reticulum.
+
+There's this forceful lamba and um, um, uh.
+
+Complex that pumps the, um.
+
+The calcium back into the sarcoplasmic reticulum, and it's under the influence of what is called cerca.
+
+We might revisit that when we talk about heart failure and mishandling of calcium under certain conditions.
+
+So that's why I want to just mention this over here at the current state of affairs of our knowledge.
+
+Right. The important piece is that we have the calcium entering the cell,
+
+calcium induced calcium release through these free antigen receptors that provide troponin with the substrate to bind and cover the binding sites.
+
+Cross bridge cycling to occur under the influence of oxygen, right then the constitutive re uptake of calcium back into the sarcoplasmic reticulum.
+
+The pumping out of calcium out of the cell right, reducing the substrate covering of the binding sites under oxygen consumption,
+
+relaxation or crossbreed site cycling stops and binding of the myosin head relaxation can occur.
+
+Yeah. Substrate availability.
+
+Right. So it's Macgillis mentioned kind of relationships.
+
+Okay, so, so much for the cellular machinery, right.
+
+Take a look at it. If it's if if you haven't seen it before.
+
+Otherwise I probably haven't told you much new here.
+
+Suffice it to say, when we talk about vascular smooth muscle, it's slightly different.
+
+There's also actin. There's also myosin right. The arrangement is different.
+
+And as we will see the controlling unit is also different.
+
+Right. So the rest of today's lecture will be on the heart as a pump.
+
+But I would say let's start to take the break now. We'll come back at 11, let's say 1140.
+
+And then we'll cover the main topic for today's lecture.
+
+All right, let's get settled. We'll continue.
+
+Okay. So we talked about the cellular machinery.
+
+But now we want to sort of zoom up to the system level and um,
+
+go from sort of the the mile side cost per cycling to length tension relationship
+
+of muscle fibers and then to pressure volume relationships of the entire chamber.
+
+So. Modeling the heart as a pump.
+
+And we'll start with a simple experiment. Assume that we can take one of those muscle fibers out of the heart.
+
+We can keep it alive. And at the macro level we want to measure its length tension, relationship.
+
+Sorry, both in the relaxed state but also in the activated state.
+
+And understand how the muscle fibers actually go from the relaxed state when we then stimulate it and it generates a tension in what that dynamics is.
+
+All right. So but the experimental apparatus is very high tech.
+
+Thank you. I think they did.
+
+It's just that it, you know, they were kind enough not to point it out.
+
+All right. Why am I reminded of Waldorf and Statler?
+
+Get off the stage, you bum. Um. So, uh.
+
+Yes. Longstanding relationship. So we have all muscle fiber over here, right?
+
+So we can do two things. We can make it contract against the constant load.
+
+And that's what you're what's shown over here. This is a weight, right?
+
+So if you stimulated it contracts.
+
+But it lifts against the constant load. Constant, uh, weight.
+
+Right. And you can change that weight. What's. It's lighter weight.
+
+It's heavier, but it's, um, in some sense we can call it an isotonic contraction because you're contracting cancer in constant load.
+
+Now, you can also. Bolt this thing down, right.
+
+And then you can still activate this muscle and it will still generate a force, but at constant length because you don't allow it to constrict.
+
+Right. So that would be an um. Uh iso volumetric or iso length contraction.
+
+Okay. So but here what we're doing is we're allowing the muscle fiber to actually lift this weight off the floor.
+
+And what we're showing over here is the active tension that's being generated.
+
+So it's a change in the tension that you measure at the beginning and at the end as a function of that sarcomere length.
+
+All right. Meaning at the at as a, you know, as a function of what we, what we would call the preload.
+
+So by how much do you actually stretch this fiber to begin with.
+
+Right. And what you remember is that you have we have these actin myosin filaments that that have overlap.
+
+And they need this overlap in order to form these, um, cross bridges.
+
+Right. If there's no overlap, you cannot you cannot cycle.
+
+Right. But what this shows as a function of the initial sarcomere length,
+
+you can actually over a certain range or regime here of your sarcomere length generate a higher pressure.
+
+Meaning the more I initially stretch. The more tension the muscle fiber can actually generate up to a certain point when you plateau.
+
+And if you were to stretch this even further, you would probably roll off again.
+
+The way that this is often described is if these actin myosin filaments are too, um.
+
+Tightly crossed in some sense, right?
+
+You can generate a certain force, but you don't have the dynamic range to actually do much cross bridge cycling.
+
+Now, as I actually stretch this muscle,
+
+there might be an optimal overlap between how many of these myosin heads can actually bind and how much space you have in order to do that.
+
+Cross bridge cycling. And that what ultimately generates that plot over here right now,
+
+once you actually stretch beyond that, you're again reducing the number of myosin actin connections.
+
+And that's where you're falling off that that edge.
+
+But it's not showing over here. So that tension that you can generate is reduced.
+
+This is a series of these experiments.
+
+It's actually fairly important to understand, uh, for the behavior of the car of, of the, uh, of the myocytes and what is done over here.
+
+So let me let me explain this. You what is done over here is essentially the passive stretching of the muscle fiber over here.
+
+Same apparatus. Right. What I do is I have the muscle fiber here.
+
+I just passively stretch it and I say, what's the tension that I'm actually generating by stretching this muscle fiber.
+
+So essentially what you all did or you've all seen with, uh, Hooke's law, right,
+
+in your intro physics lectures in high school or in college, I'm sure that there was like a huge.
+
+Spring there was dangling from the ceiling, right. And you saw it bounce up and down and probably had to compute the cycle length.
+
+Right? Same over here. You have a rubber band. You stretch it a little bit. What's the tension?
+
+You stretch a little more. What's the tension. Right. That's what this one is down here.
+
+So that's why this is called passive. I passively just simply stretch this.
+
+The more I stretch it, the more tension is being generated.
+
+Right. Or I have to generate more tension in order to stretch it more, depending on how you want to look at it, right?
+
+But then I stimulate it, stimulate this muscle fiber, stretch it to a certain length, I provide a certain preload before I stimulate,
+
+and then I can stimulate it either at constant length, asymmetrically right, or at constant afterload, or at constant, um, weight.
+
+Right. Or it goes over here. So two different experiments that I can make.
+
+So let's say I stretch it against a constant length.
+
+And by the time it's done with its action, you know, excitation, contraction, coupling.
+
+Turns out that the peak force that's being generated is this one over here.
+
+Right. Now I go back to my initial state and I do exactly the same stimulation, but I let it contract against the constant load.
+
+Right? And then it's this point that is recovered over here.
+
+The remarkable piece of information here is.
+
+And then I can do this, you know, for different reloads. Right.
+
+It's shown over here. The remarkable point over here is no matter whether I contract against the constant load.
+
+Or at constant length. The peak force that's being generated by our muscle fibers all lie around one characteristic curve.
+
+All right. It doesn't matter. There's no two curves depending on whether I go horizontally or whether I go.
+
+Vertically. So it doesn't matter whether the in some sense whether, you know, I keep the note in some sense,
+
+it doesn't matter whether I keep the length constant or keep the load constant.
+
+The peak forces generated all collapse fall on one characteristic curve.
+
+Meaning how I get there doesn't matter. What matters is that I can I go to a certain preload, right.
+
+I end up on this same curve, no matter whether it's constant load or constant length.
+
+Why is it important to some of the contraction of the heart?
+
+Is it constant? Uh, load.
+
+Right. Some of it is a constant lack. If you have a contraction, you have ejection, right?
+
+It's not completely constant as we will see, but we will make that obstruction for now.
+
+Okay. So important to realize whether we go this way or we go that way.
+
+In the end, the collection of all the points for different reloads end up on the same curve.
+
+So what does this allow us to do? We can think of the individual muscle fiber essentially as a two state spring model.
+
+Right. We have our spring over here. We have a delta L that's being generated over here.
+
+L minus L naught. Right. If it's in its relaxed state, it's just like that spring.
+
+Just like that rubber band. We have a spring constant K over here.
+
+Right. That is K passive. Okay. Rest. If it's in its contracted state.
+
+It also behaves like a spring, but with a different spring constant, right?
+
+So all the dynamics of the of that muscle fiber happens between is just that switching between being floppy and being stiff.
+
+Floppy stiff, right? So these are sort of the boundaries of.
+
+Our behavior of that muscle fiber. Right.
+
+So it's either in one state or the other state and all that, that excitation contraction coupling does, it switches between that state.
+
+Right. Cross cycling happens. You have maximum tension.
+
+It takes a little bit of time to do that. Right. Because as you saw, this thing has to happen.
+
+Right.
+
+But all of that does is over a very short period of time, it actually switches the spring constant of the muscle fiber from this state to that state.
+
+Right. And then the relaxation switches it from that state back to the state.
+
+Okay. So that's at the level of the individual muscle fiber.
+
+And the remarkable piece now is that if we go from the muscle fiber and we translate tension to pressure and length to volume.
+
+At the same behavior. Still holds true.
+
+Right. Intra ventricular pressure. Ventricular volume.
+
+Passive relationship up to a certain point linear over here.
+
+So that's the ventricle. Left ventricle.
+
+Right ventricle. Right. You just allow it.
+
+It's in its relaxed state. And you're just pushing more and more volume in.
+
+And you're saying what's the wall tension that's actually being what's the pressure that's being generated.
+
+Not the wall tension. What's the pressure that I need to impose in order to fill it to a certain volume of what I push the volume?
+
+What's the pressure that's being generated? Right.
+
+It is linear for a certain period of time, and then you get into sort of a non-linear behavior as you,
+
+you know, do with any elastic material reaching the elastic limit.
+
+Then you do exactly the same experiment. You actually stretch it to a certain length or volume,
+
+stretching the muscle fibers to a certain length or ventricular, uh, chamber volume, uh, the entire chamber.
+
+And you allow it to contract. And all of these and systolic pressure volume points begin fall on one line.
+
+So we call this the diastolic pressure volume relationship.
+
+And this is the end systolic pressure volume.
+
+Kind of, you know, emphasis here is that throughout the entire diastole, right.
+
+We are operating on this curve, right? And at the end of systole, at peak pressure, that's being at the end of systole.
+
+We're touching this line over here. But for all other things being equal, there's two characteristic curves.
+
+There's the passive curve. And then there's the active curve.
+
+Right. And all the other behavior happens between those two elements.
+
+Again a two state system within the relaxed state where you are in the contracted state, right?
+
+But if you're in the relaxed state, you have essentially some elasticity around it.
+
+And if you're in the end systolic state or the peak contracted state, you're on that end systolic pressure one.
+
+Then you. So.
+
+Because, as we will see shortly. Right. You are essentially when you are filling your moving wheels.
+
+We'll show this just a few slides from now. When you are filling, you're actually moving passively along this curve, right?
+
+But then when you are actually contracting, you're only touching this curve at one point.
+
+And that's the end of. Okay, we'll get to that.
+
+Okay now. There's also, um.
+
+Sort of lack or limit of of the systolic pressure volume relationship over here.
+
+For all intents and purposes, what we will do is we will look at this as a linear part over here.
+
+And would make that a hard threshold.
+
+When we reach the elastic limit, the volume limit of the ventricle, and we are only considering this as a linear pressure volume relationship.
+
+Here we very rarely, if ever look at supraventricular pressures over here at the level of 250.
+
+Okay. So then how can we model the single ventricle?
+
+We can model that ventricle. Again as an element that has elasticity.
+
+Same way that we had that element of elasticity for a vessel.
+
+But we can truly think of the of, of the ventricle as, as a balloon.
+
+Right. You fill it at a certain elasticity or compliance, then it changes its wall behavior.
+
+Due to the excitation contraction coupling.
+
+Right. And then it ejects. So.
+
+It's this capacitive element because it has elasticity, it has the ability to store volume.
+
+That's what this. Symbol represents the error.
+
+Arrow through here represents its ability to be time varying.
+
+Meaning that this compliance compared to the CIA and the CV that we had, the peripheral circulation is not constant.
+
+In fact, is actually time varying. And what is that time variability?
+
+Um. Well before we get there.
+
+So the way that we can model the ventricle then is we have an inlet valve.
+
+Represented by this symbol. Over here. Then we have our storage element, our volume storage element over here, which is our our ventricle.
+
+And we have a valve on the outflow side.
+
+Talking about the left ventricle. We have mitral.
+
+And aortic valve. Right? We're not worrying right now about the atria only talking about the ventricle.
+
+And so how do we model this C of T over here.
+
+We can be in a high capacitive or floppy state.
+
+Right. Or low capacity capacitance or contracted state.
+
+Right when it's in a high capacity state. It.
+
+As I said, this is floppy. It will have the filling phase.
+
+Right. And then it switches to that and systolic.
+
+Spring constant, so to speak, right? And you have that injection.
+
+Now. Nature is not does not have usually these sharp edges.
+
+Right. So there are some dynamics. It takes time to for calcium to enter, for cross recycling to happen and so on.
+
+But can we actually. Can we actually determine this representation over here?
+
+Right from experimental data. Yes we can.
+
+And what is done over here is not the capacitance that has been measured in, um, in dogs, I think.
+
+Yeah, but it's one over the capacitance, which is the elasticity.
+
+So what they measured over here is not milliliters per millimeter or mercury but is millimeters of mercury per milliliter.
+
+So it's just the inverse of that. But what you see over here is the experimental data.
+
+This has been done with uh, um conductance catheter.
+
+So you can actually put a catheter into the left ventricle and you can measure
+
+the pressure and the volumes at the same time to some degree of approximation.
+
+Right. And what was done over here is again, you see this experimental data over here.
+
+And then the fit that was done over here is simply raised and scaled.
+
+Sines and cosines. Why didn't you say that? The man.
+
+There might be more of a linear approximation of you that might be better just to get a smooth curve.
+
+And this is normalized to the peak license over here. And it's normalized to the systolic period.
+
+Right. So this would be the transition from the high capacitance to the low capacitance state.
+
+Right. And so this would be the the initiation of the contract, a contraction.
+
+Then this would be the relaxation and this would be the, um, the, the uh, the rest of the diastolic period.
+
+Now that's the license compliance is one over that.
+
+Right. So if we just simply take and appropriately scale this for the dog in terms of the,
+
+the timing, but also in terms of the amplitude, you take one over this.
+
+This is what we're getting over here. Right.
+
+So while the edges over here are a little rounder, it is actually a pretty reasonable approximation what we have over here, right?
+
+We have a high compliance date during filling, low compliance date during, um, ejection.
+
+And for all intents and purposes, this does look very similar to sort of this two state system.
+
+There's a little bit of dynamics related to the fact that we cannot nature can have really true, um, step functions.
+
+Right. But the experimental data.
+
+Provide reasonable, um, justification for us to actually the first order approximation,
+
+simply use this switching capacitor model for the behavior of the isolated ventricle.
+
+Okay. All right. So.
+
+We can put some numbers to this and we can compute the compliance over here.
+
+So this is data I think also um I think it's for humans.
+
+So the systolic compliance approximately 0.4ml per millimeters of mercury.
+
+And the diastolic compliance on the order of 15 ish or so milliliters per millimeter.
+
+Point for 15. Very different. Okay.
+
+So what about that cycle? What about that dynamics and how do we represent the cardiac cycle now in that view of this pressure volume relationship.
+
+And for that let's take the ventricle out of the animal right.
+
+And hook it up to. A.
+
+Reservoir. That provides constant preload.
+
+Preload. We call this our feeling pressure over here.
+
+Same feeling pressure that we introduced previously when we describe the peripheral circulation.
+
+All right. Forget about the dynamics of the event of the atrium.
+
+We are only interested in the ventricle right now.
+
+We hook up the outflow tract of the ventricle to also a constant reservoir.
+
+And we make sure that the moment that this ventricle ejecting, it's truly ejecting against the constant reservoir.
+
+So we have runoff instantaneously from the afterload reservoir into the preload reservoir.
+
+So we keep both of them constantly going throughout the entire cycle period.
+
+Okay. So that's the experiment.
+
+So now let's look at what that pressure volume relationship actually, um, that pressure volume relationship actually is.
+
+Oops. So afterload is constant.
+
+Right. And preload is constantly. Meaning we are filling at a constant pressure and we're pumping against constant pressure.
+
+So let's start at point number one over here.
+
+Which we call end of diastole. Right.
+
+We call this the end diastolic pressure. PFF or end diastolic pressure.
+
+And the associated volume is what we call the end diastolic volume.
+
+Now. We switch.
+
+From the diastolic state to the systolic state. Right.
+
+When that happens, immediately the pressure increases because now we have a certain volume.
+
+Why? We would change from a, um.
+
+Uh, from a low capacity state, from a high capacity state to a low capacity state.
+
+That means that the pressure is actually jumping up right instantaneously, making that spring constant step.
+
+At a constant length. That means that the tension shoots up at constant volume.
+
+That tension shoots up right until the pressure exceeds.
+
+So this. This valve closes. Right.
+
+Until that pressure exceeds the pressure in the in the afterload reservoir, so it exceeds the afterload.
+
+At that point this valve opens right. And we're injecting into and against a constant afterload.
+
+Right. Meaning at point two. So at point one, mitral valve closes.
+
+We're going through a very brief period of ice volume contraction.
+
+Point two aortic valve opens and we're ejecting against a constant afterload.
+
+If the aortic valve wouldn't open, we would end up over here.
+
+But now that the aortic valve is open, we end up over here.
+
+At which point the ventricle starts to relax with switching back to the high capacitance.
+
+Feeling. State of the heart of the of the ventricular capacitance.
+
+Right. Aortic valve closes. We drop down to the level of the feeling pressure, at which point the mitral valve opens and we're feeling a constant.
+
+Preload until the cycle repeats itself.
+
+So the dynamics of the isolated ventricle traces a loop in that pressure volume representation of the ventricle right where you have filling.
+
+I see volume contraction. Ejection and ISO volume equalization.
+
+Exactly. The four phases of the cardiac cycle that we talked about two lectures ago,
+
+when we looked at the pressure of the left ventricle as a function of time.
+
+And we said that the opening and closing of the two valves as viewed from the point of view of the left ventricle.
+
+Uniquely defined the four states of the cardiac cycle. Mitral valve.
+
+Open aortic valve. Closed killing. Mitral valve open.
+
+Aortic valve closed. But. Contraction being generated by economic contraction.
+
+Mike. Aortic valve. Open mitral valve closed. Ejection.
+
+Aortic valve closed. My fingers crossed, but relaxation is.
+
+Okay? Yeah. So constant.
+
+So constant afterload and constant preload only simplify things for us right here,
+
+because what we want to understand is the behavior of the isolated ventricle.
+
+Right. Again, if you actually were to do this exactly the same thing as we would do in a moment, or do we have it today or maybe.
+
+Maybe later today. Um, in the intact circulation.
+
+Right. The aortic pressure against which we pump would not be independent of the flow that the heart is giving out.
+
+Right. So the reason why we are taking a step back over here, we're looking at the isolated ventricle is let's forget about changing afterload.
+
+Let's forget about a changing preload. Right.
+
+We just want to isolate the behavior of the ventricle. Crystallize that out first.
+
+And then we will see how it actually behaves inside.
+
+The changes that we will have to make to this view.
+
+Are actually fairly minimal, but it's easier to do it in such an experimental setting first to understand the major concept.
+
+Of these four phases of the cardiac cycle and how they are represented in the pressure volume loop over here.
+
+The heart is contracting, right? But what we are measuring here is the pressure over here.
+
+At this point. The pressure that it generates is dictated by the height of this reservoir.
+
+Right. And because we have this runoff over here, as the heart is ejecting, the height of this reservoir is not changing.
+
+Meaning if we didn't have this runoff over here, right then this would go up and there would be a time varying.
+
+Afterload. Right. So essentially when this is opening over here, it is pumping against a constant load.
+
+And it just it just exceeds it just meets that load.
+
+Does that make sense? If this height were changing or if you were in situ, then this would no longer be flat.
+
+Right and the heart would adjust to that. Okay.
+
+Exactly right. That run off is exactly just to keep a constant preload and a constant afterload throughout the entire cardiac cycle.
+
+Okay. Any other questions about this? Are you guys cool over there?
+
+And diastolic volume is this volume that corresponds to this point one over here at the point end of diastole at the end of filling.
+
+In corresponding end diastolic pressure is F over here.
+
+Right. And systolic volume is a volume that corresponds to that point three over here.
+
+And the end systolic pressure is here.
+
+Over here is what we also call the. Okay.
+
+These two points. End of diastole. End of systole.
+
+And was cycling around in one heartbeat. Right.
+
+Next heartbeat comes next heartbeat. Okay.
+
+So the circuit representation for what I've just shown you over here is this.
+
+We have a constant preload. We have a constant afterload.
+
+Only interested in the dynamics of that switching capacitance model as a function of that.
+
+So that's just what this is now. We looked at.
+
+The cardiac output. And we said cardiac output is heart rate times stroke volume.
+
+Right. In this view over here.
+
+We can actually. Right. This is heart rate times and diastolic volume minus and systolic volume where edv is.
+
+And diastolic air.
+
+Volume and ESV is and.
+
+Systolic. Volume.
+
+Make sense? This is the filling state of the heart at end of diastole.
+
+This at the end of systole. The difference between these two volumes I call this volume and diastolic volume.
+
+Edv this volume and systolic volume ESV.
+
+The difference between those is a stroke volume because this is one cardiac cycle.
+
+So this differences over here is what the heart is pushing out with one stroke.
+
+And stroke for you now. We can express the end diastolic volume.
+
+In the end, systolic systolic volume in terms of the zero pressure filling volume or the dead volume of the ventricle.
+
+And this just one of the ventricle.
+
+Here we can write that this is heart rate. Times dead volume of the ventricle plus the diastolic compliance.
+
+Times the how do we write it over here?
+
+The feeling pressure. This is our end diastolic volume minus the dead volume.
+
+Minus the systolic compliance times the afterload.
+
+Here we assume that the NDIS, the dead volume of the zero pressure filling volume of the ventricle in Sicilian diastole at the same.
+
+Strictly speaking. Probably not, but.
+
+We assume that they're the same, right? And so the difference is probably very negligible.
+
+So what we can then write that this is heart rate times.
+
+Diastolic capacitance of the ventricle times the filling pressure minus systolic capacitance times afterload.
+
+That's what's shown over here. All right.
+
+There's an increasing amount of whispering. Let us know of the questions you might have.
+
+Okay. Yeah. Yeah. So all I'm doing is I'm expressing this volume over here, right?
+
+In terms of the dead volume that we have over here.
+
+Right? Um. So in your mind, you kind of have to flip this around, because this is one city over here.
+
+Right. But essentially what I'm saying is, what is this point over here?
+
+Right. As a function of the pressure.
+
+So we have a dead volume over here. And then we have a linear slope of the volume as a function of the pressure.
+
+And that is. The intercept over here, plus the constant slope times.
+
+Pressure. The same over here. All right.
+
+So what I've done over here, I've written stroke three is in diastolic volume minus in systolic volume.
+
+And then I've done this linear approximation or this linear representation of
+
+the and diastolic volume as the dead volume of the ventricle plus CD times
+
+VF minus in parentheses and systolic volume represented in the same way right as V plus yes minus PR because there's a negative sign that translates.
+
+Then the dead volumes cancel out over here and we're left with this.
+
+So from the perspective of the single ventricle.
+
+The stroke volume is given by CdPH minus CcpA.
+
+Is an important performance characteristic that we will talk about a lot when we talk about heart failure, and that is the ejection fraction.
+
+F. Ejection.
+
+Fraction. And this is the end diastolic volume.
+
+Um sorry. The stroke volume over the end diastolic volume.
+
+So first point of emphasis is hard, not empty at the end of systole, right?
+
+You're not squeezing the heart till it's empty. Right.
+
+There's an end systolic volume that's left in the ventricle.
+
+And what? The ejection fraction over here.
+
+What what it measures is how much essentially what's the fraction of the diastolic volume that's ejected as a stroke volume.
+
+User lounge what, 5,560% of normal healthy subjects?
+
+But when we get to certain types of heart failure, then we might see something like 20%, meaning that you might have a big heart that does this.
+
+Right. As opposed to a smaller heart that does this.
+
+So it's an important performance metric of the heart as a pump.
+
+And we can write this as in diastolic volume minus and systolic volume over entire static volume, or it's one minus and systolic volume over entire.
+
+Okay. All right. So, so far, so good.
+
+So question to you guys.
+
+What's the stroke work? What's the work that the heart is doing?
+
+Is that represented here? Right.
+
+It's the area. Right. So someone asked me earlier about the Carnot cycle, right?
+
+Who was who? Ask me about the kernel cycle. Uh, over there.
+
+All right. You should have answered that question. So if we're interested in in the work that the heart is doing.
+
+Right. It's really the area of this. So PDV.
+
+You might remember from your thermodynamics class where mechanics classes PDV is a is a measure of work.
+
+Right. And so if you integrate over PDV over here, so you actually compute the area of this, this is the work that the hard is doing.
+
+Meaning if you have hypertension, you have very high blood pressure against which the heart has to pump, right?
+
+All other things being equal, the heart has to do a lot more work. Right.
+
+So I pretension not good. For the heart.
+
+Okay. So. We can't feel the heart at infinitum.
+
+And when we said that even for that individual fireside, when we actually stretch it to a certain distance, right.
+
+Ultimately you might reach the elastic limit and you're not going to get more length for more tension.
+
+So you're. Pressure volume relationship length tension relationship becomes curvilinear.
+
+That is indicated here by this, um, dashed line.
+
+Again. Rather than dealing with curvilinear functions, we just say, all right, you reach a certain limit and then you hit a wall.
+
+Right. You're perfectly elastic. Until you hit the wall and you can't fill it anymore.
+
+So then if we're interested in the cardiac output. All right.
+
+Sorry. Should be careful. If we're interested in the ventricular output.
+
+So what's the output of the single isolated ventricle?
+
+As a function of the preload to the heart.
+
+Right. This equation over here is what gives this to us.
+
+And what I should say is just to make it clear. Let's call this V0 for ventricular output, not cardiac output.
+
+We will reserve cardiac output as much as I will be able to pay attention to this for the output of the heart lung pumping unit.
+
+Right. What is the ventricular output as a function of preload.
+
+Right. It's given over here. Essentially.
+
+I was saying essentially is because you could equate this to zero.
+
+And you say for which filling pressures.
+
+Would this be zero or negative? You can't have negative output.
+
+The heart doesn't pump in the opposite direction, right?
+
+But if you equate this to zero, you will see that p f equals kappa over KD is what is shown over here.
+
+If the feeling pressure is less than that. You will have zero output, meaning you will not generate enough tension to overcome.
+
+You have to load. Right. You're not generating enough pressure for the aortic valve to open.
+
+You can generate that pressure, you're not going to put anything out. Now there is a range.
+
+For PV. Where as you increase the filling pressure, you will linearly increase.
+
+The output. And the slope of this curve is shown as f, c, d over here, F being the frequencies.
+
+The heart rate right here is saying this heart rate times city right that slope.
+
+Right heart rate times CD is f times KD meaning the more preload I give.
+
+The more the heart is able to put out. Right.
+
+That has to do with that stretching of the actin myosin filaments.
+
+Right. Remember that that curve that I showed. Of the active tension that's being generated as a function of the sarcomere length, right?
+
+The more preload I provide for an initial, you know, sort of curled up,
+
+bunched up actin myosin molecules that you have better overlap, better overlap, better overlap.
+
+And you create more and more and more output because you have more of these cross friction cycles.
+
+But then if. You reach a certain preload or if your if if your if your ventricle.
+
+If you reach the heart, stop. If you hit the wall with the kind of volume to which you can fill the ventricle.
+
+Then you essentially become independent of the filling process.
+
+You can try to force more in, but if you have a stiff ventricle that's filled to its limit, you will not increase further the ventricular.
+
+Okay. Unbeknownst to you?
+
+Probably. Maybe not. As a studio observers.
+
+What have we done? We have characterized.
+
+The input output relationship of the isolated ventricle in terms of the filling pressure.
+
+And the output it can generate. All right.
+
+Not quite there yet because this is the isolated ventricle.
+
+It's not the heart lung pumping unit yet. But we are well on our path to generating the input output relationship of the heart lung pumping unit.
+
+Because what we've just done is we've characterized the input output relationship of the length of the isolated ventricle.
+
+We haven't put any numbers to that. It could be the right ventricle. It could be the left ventricle.
+
+So what we have to do on Tuesday is just put the right with the left together,
+
+figure something out about the pulmonary circulation, because that's in between the both of them.
+
+And then figure out of what is that total input output.
+
+It would be a very surprising result, I might add. Okay.
+
+So three phases or three regimes, not three phases, three regimes.
+
+You have the regime where the ventricle itself cannot generate enough pressure to overcome the afterload.
+
+So the output of the ventricle is zero.
+
+A regime where for an incremental increase in the feeling pressure, we get a concomitant linear increase in the ventricular output.
+
+Right. And then a regime where the volume, the elastic limit of the ventricle is reached and becomes limiting in terms of the output of the ventricle.
+
+Okay. All right. So.
+
+We talked about the pressure versus time curves.
+
+In the second lecture today, we talked about the pressure volume relationship or the representation of the cardiac cycle
+
+in the time domain and the representation of the cardiac cycle in the pressure volume domain.
+
+Now, if we give you timing information and if you give you volume information, you can go back and forth.
+
+Because the mechanical element mitral valve closure, aortic valve opening, peak systolic pressure, and systolic pressure.
+
+Mitral and aortic valve closure. Mitral valve opening are exactly represented in this diagram over here.
+
+Now, what you see over here comes through the it goes back to the question that was asked.
+
+Here when we look at the heart or the ventricle inside to.
+
+We're not pumping against the constant afterload.
+
+We're not drawing from a constant preload because as the heart is ejecting into the left ventricle, it's ejecting into the aorta, right.
+
+The aortic pressure is going up. So incrementally with each delta V with each, you know, volume increment that we're pushing in the aorta.
+
+The afterload gets a little bit higher right. Until it has time to run off a little bit.
+
+So here when we are doing this representation in situ in the PV loop,
+
+we are not you know, we don't have a flat line over here and a flat line over here.
+
+But as we are starting to inject the pressure in the order, it's going up, up up, up, up until we reach the peak systolic pressure.
+
+Right. And then the ventricular pressure starts to fall again until the aortic valve closes.
+
+And I see volume equalization. And.
+
+Mitral valve opens, right? But now you're at a very low pressure.
+
+High capacitance state. Mitral valve opens the right atrium.
+
+The left atrium have started to fill. They are actually quite full.
+
+Right. It opens and you have a rapid influx which reduces.
+
+The left atrial pressure in this case quite rapidly.
+
+So you're coming down onto the entire solid curve.
+
+But then all the filling is along the end diastolic pressure volume relationship.
+
+Until the cycle repeats itself. While. So neither the ventricles nor the atria are empty at.
+
+That's not completely empty. It becomes a passive conduit doing filling.
+
+Right. Because the mitral valve or the tricuspid valve is open, backflow into the atria occur continuously.
+
+Right. So when the when the atrioventricular valves are open, it's essentially becomes a passive conduit.
+
+But it never empties to the point that you know.
+
+It collapses. Okay. Yeah. Then you.
+
+So if so, the the essentially um, if, if you're exceeding so CD times is a is a is a does in diastolic volume right CD times PV.
+
+Right. And what this equation is essentially saying if CD CD is constant we think of CD as a constant.
+
+Yeah, right. If the filling pressure exceeds.
+
+Vmax over CD or if the descending volume.
+
+That you would get for a certain pressure. Exceeds what? The maximum.
+
+Right. It's the maximum that wins. You can't push the ventricle to have more volume than it can.
+
+It can, uh, it can reach at it at its elastic limit.
+
+That's essentially what this is saying over here. Okay.
+
+So the other point that I wanted to make over here is, um.
+
+How do we. How do. How can we increase stroke? Right. Right.
+
+All other things being equal, if you actually were to move up slightly on the end diastolic pressure volume loop, uh, relationship over here.
+
+Afterload being the same. You would end up exactly at the same point over here.
+
+But you stroke volume would be increased. So we'll look at that in a little bit more detail here.
+
+All of the things being equal. What if we increase the afterload?
+
+Right. We have two identical twins.
+
+One has hypertension, the other one doesn't. Right.
+
+So here. What happens to your stove on?
+
+Decreases quite substantially. Right.
+
+Because if you have very high blood pressure, the diastolic blood pressure, arterial blood pressure will be high.
+
+Right. In this particular case where the aortic valve opens.
+
+You know, is is up here. It's a much higher pressure.
+
+Right. Then we eject. And as we said, we always end up on this curve no matter how we want to get there.
+
+Right at the end of systole, we end up on this curve unless we change something about the performance of the heart.
+
+Right. So stroke volume significantly reduced.
+
+Right. Now. Can we restore a stroke volume?
+
+Yes we can. Right. What if we actually move the and diastolic pressure up just a little bit.
+
+Right. So here's the end. Diastolic pressure. And now look what happens if you just move a few millimeters up.
+
+Right. A few millimeters up. Here.
+
+We had to increase the afterload by probably about, I would say somewhere between 50 and 100%.
+
+Right. This distance over here, this distance would be almost the same.
+
+Right. Massive reduction in stroke volume.
+
+But we had to increase the afterload quite substantially. Here.
+
+Because one over CD is so small or CD is so high.
+
+If we go from an entire solid pressure, let's say this is eight millimeters of mercury and let's say this is ten 12mm of mercury,
+
+we are moving way far out to the right on this curve over here right now.
+
+All other things being equal. We would get a stroke volume, which is much, much larger.
+
+But we can already draw from this that modifications in filling pressure in preload to the heart.
+
+Can have very significant changes. On stroke one.
+
+Just a few millimeters of mercury, right? Where is most of our capacitance?
+
+Vascular capacitance, not cardiac. Vascular capacitance.
+
+On the veins. What do the veins connect to? The right atrium.
+
+Right. So let's say you have all of that blood volume sitting right next to the right atrium.
+
+What do they have? They have smooth muscle. They constrict.
+
+You can give yourself essentially an auto transfusion.
+
+You can change that feeling pressure by a few millimeters of mercury can modulate stroke volume with that cardiac output quite substantially.
+
+Right. Ingenious. Right has all to do with the fact that this overlap of the actin myosin filaments might have some optimum,
+
+and you can actually generate you can actually move up and down that curve here by just a few millimeters of mercury.
+
+Now again, this has anything to do with reality.
+
+Again, we can we can use our animal of choice. We can measure these pressure volume loops.
+
+And what you can see over here is what was done is the end diastolic pressure or internal sonic volume was, was uh, modulated.
+
+And we go from a pressure volume like this to one that is wider to one this is much wider.
+
+So you modulate the feeling state of the heart. And you can you can move that in in diastolic pressure volume group.
+
+You know along this line over here. Now here they also changed the afterload.
+
+Right. But all of this is borne out in in reality.
+
+Okay. So far, we haven't changed anything about the heart, right?
+
+We didn't. We said the heart does its thing, right?
+
+We're not modulating. We're not messing around with anything of that calcium handling.
+
+Right. There's a spark that comes stimulated.
+
+There's a spark. It does. It's calcium induced calcium release.
+
+Right. Whatever it is, however much calcium is being released or however much of that calcium is being taken up again.
+
+But we can also modulate that loop where that loop operates by changing the end systolic pressure,
+
+the slope of that end systolic pressure volume relationship, essentially by changing CHS.
+
+The slope of that end systolic pressure volume relationship we call the contractility of the heart.
+
+Or we will also call it the I know trophic state of the heart.
+
+Um. Isotropic state of the heart contractility so we can increase contractility.
+
+Make this deeper. Over here. Yes, more.
+
+We can decrease the contractility. And we make the heart less efficient.
+
+Increased efficiency. Decreased efficiency.
+
+What do you think happens when you have a heart attack? To decrease.
+
+The efficiency. So you actually mess with the, um, the, uh, effectiveness with, with the and systolic pressure one.
+
+Really? You call this a contractility?
+
+Now, a term for the end diastolic pressure volume relationship is, uh, often called Lucy therapy.
+
+Not going to use that much. But we said that both the contraction and the relaxation are oxygen dependent.
+
+Let's say you are in a state where the heart demands more oxygen than the poor coronary circulation is able to provide.
+
+You would expect that the efficiency of the pump is reduced at the systolic level, and its ability to relax is also reduced.
+
+So you might be lifting off the bottom here, which makes the.
+
+To the two extremes of where you're operating a lot more inefficient, right?
+
+The loop, the pressure volume loop will be a lot smaller. And that's what's shown over here.
+
+So. Stroke volume and diastolic volume.
+
+We already said ejection fraction is a stroke volume over the entire volume normal for us about 60%.
+
+All right. Dogs can go much higher. But normal for 60%.
+
+60% of the way. That sort of violence that's being ejected. Right.
+
+So stroke volume is the difference over here. We're going around the loop.
+
+We're again in the constant and diastolic and systolic pressure volume relationship.
+
+Uh. Um. Constant afterload. Constant preload. Now we decrease the contractility.
+
+For all other things being equal. Now we're hitting that end systolic pressure volume relationship much earlier.
+
+Right. So our loop is like this. What happens to.
+
+Ejection fraction decreases. Right.
+
+We're keeping our end diastolic volume the same. Right.
+
+But the stroke volume is massively reduced. Right.
+
+So that when you have ischemia right, your heart is not in a good state and its performance as a pump is going down.
+
+What if we exercise, right? If we exercise.
+
+There are newer humoral mechanisms that we will speak about that might actually increase.
+
+Contractility, meaning that that CSS is getting smaller one over CSS is getting larger, the slope is getting larger over here.
+
+So we exercise all of the things being equal same end diastolic volume.
+
+Right. But you're increasing your stroke volume quite significantly.
+
+All right. So ejection fraction is going up. Yeah.
+
+That would make it easy for in exchange for a.
+
+Yeah. So the way to think about contractility goes back to calcium, right?
+
+If I can, if I can be a lot more efficient in dumping more calcium right into the cell.
+
+Or into the cytosol from the sarcoplasmic reticulum.
+
+Right. You have a lot more cost. Recycling availability.
+
+Right. So that will increase the tension at the end of systole or throughout this historic cycle.
+
+At the same time we. The efficiency with which the calcium is taken up also goes up.
+
+Turns out that the second defensive linemen are actually responsive to the concentration of calcium.
+
+So the more calcium there is, the more efficient it becomes.
+
+So at the end of that relaxation cycle, you have dumped more calcium into the cell and you have taken up more calcium from the cell.
+
+At the end of that process, you're pretty much at the same state.
+
+Passive state. And so the end diastolic pressure, one relationship doesn't change all that much.
+
+The kind of teleological explanation, but essentially the fact that the circa and the for lumber is also,
+
+uh, it's efficiency depends is increased with increased calcium.
+
+Actually leaves you with less, with, um, more or less the same calcium at the end of this entire process that we're in the state.
+
+Right? Then you would lift off the diastolic portion of it.
+
+Okay. That's a good question. All right. Again.
+
+Can we see this in animals? Yes we can.
+
+Right here is we're changing the isotropic state, meaning that we're changing that contractility state with some drug to mean, for example.
+
+And a common question that we like to ask at homework assignments or exams like this, is how many contractile states are represented in this figure?
+
+One. Two. Three. Six.
+
+Two. Right. So when we think about the contractile state is.
+
+This is one. Right, because you have one slope of the systolic pressure volume relationship.
+
+And here is another. Right.
+
+One of your colleagues from the previous year said, well, but isn't the diastolic set also technically of contract health status like.
+
+All right. Right. Then it's like how many states of constant contractility are represented here too, right?
+
+So one state of contractility is given by one of those lines, not by one of those points okay.
+
+So but yes, you can vary that. And we do that all the time.
+
+We stand up. The moment that you send up over here your contractility is going up.
+
+Right because your cardiovascular system is adapting to the change.
+
+In blood pressure. Right changing cardiac output.
+
+Right as you're in a reasonably semi recumbent position over here while I'm lecturing.
+
+Right. Yes, Charles. Thank you. I said semi recumbent and you just slid down.
+
+Um. Your contractility might be going down a little bit because you are in a relaxed state.
+
+All right. So that modulation is one of the key cardiovascular mechanisms of changing cardiac output.
+
+The other one being. Heart rate.
+
+Right. So one of them. Yes, the other one hr.
+
+And we'll talk more about this when we talk about the, um, control of the cardiovascular system.
+
+Okay. Yes it does, and we'll get to that.
+
+It's called the tropic phenomenon.
+
+Phenomenon because it actually it actually reduces the cycle length and therefore it reduces the amount of time available for the calcium re uptake.
+
+So there's there's a coupling effect. Good point.
+
+Diastolic pressure volume relationship. So we only looking at the diastolic portion over here right.
+
+Want to emphasize. And drive home the message that.
+
+Between the control state and the angina state. Doctors still talk about engine in our case presentation in the first case.
+
+Right. The end diastolic pressure volume relationship changes.
+
+Right. Because relaxation being an oxygen dependent process.
+
+So it's not just that you affecting the systolic pressure volume relationship.
+
+If you are a state of mismatch between oxygen demand and oxygen supply of the heart, you're also changing the diastolic pressure volume relationship.
+
+Diastolic compliance we've already talked about. So if you are in a state where you where you are changing the diet.
+
+So and systolic we talked about and diastolic we are changing state like in angina.
+
+Right. Then you're also reducing the stroke volume available.
+
+Okay. So I think that's that's about it. How can we measure this?
+
+Well, there's there's various methods. Uh, 3D echo.
+
+So echocardiography, ultrasound scene, MRI, meaning that we're getting the MRI to the cardiac cycle,
+
+and we are getting slices at different parts of the cardiac cycle.
+
+Other types? Gated CT, one that has never really translated into the clinical domain.
+
+It's the impedance catheter and all of the data that I've shown you about the the actual data that
+
+I've shown you about the pressure volume relationship was done with this impedance catheter.
+
+Essentially it's very nice for the left ventricle. You can put the catheter through the aortic valve so you have an arterial access.
+
+Into sort of the centerline of the left ventricle and the left ventricle.
+
+Being essentially a volume of revolution, having sort of, um, um, rotational symmetry.
+
+What you can do is you can inject a high frequency current.
+
+From this electrode to this electrode, there is a certain conductivity that the blood has.
+
+And then you can measure the voltage drop along the way of the catheter.
+
+And you can make approximations that each between each one of these electrodes you have a cylinder.
+
+Um, you can make then approximations about what that conductivity is over here,
+
+what the length of this catheter or the delta L of the height of the of these
+
+cylinders are and you can measure the volume details here are not important.
+
+The point here is that we can do that. And.
+
+We can then do experiments like this where we measure the pressure volume relationship over many cardiac cycles.
+
+We are varying the preload of the heart, but as we vary the preload of the heart, the end systolic pressure long relationship essentially the same.
+
+The way that the preload of the heart here was varied is you have a balloon catheter of the one that I actually passed around of that type.
+
+You put it into the inferior or the superior vena cava. You blow it up a little bit and you're reducing thereby the flow that returns to the heart.
+
+Okay. And then you can give drugs.
+
+As I said over here. This is control.
+
+Then you give a drug like dobutamine, which interferes overuse, which enhances the release of calcium in the sarcoplasmic reticulum.
+
+You can go to a different. Okay.
+
+I think that's it for today. We've talked now about the isolated ventricle.
+
+We've have the input output relationship of that of that ventricle.
+
+What we'll do on Tuesday when we meet at four 370 is the room number right.
+
+It's in your notes. It's has been announced. So don't come here. If you come here you didn't pay attention.
+
+So we knew immediately who did. But, uh, what we do is we will actually now think about the vasc, the pulmonary vasculature.
+
+And then we would pull we put together the right ventricle,
+
+the pulmonary vasculature and the left ventricle to then look at the whole input output relationship of the heart lung pumping unit.
+
+And then we'll put that together with what we learned about the peripheral circulation.
+
+So that's on Tuesday. Have a good weekend.
+
+Let's see you then.
+

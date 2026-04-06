@@ -1,0 +1,2385 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right. Good morning. All right.
+
+Okay. It's getting better. Not good yet. Okay.
+
+So welcome back. Uh, public service announcement.
+
+MIT has so, you know, a lot of idiosyncrasies.
+
+One of them is that, uh, on certain dates when there's a holiday on a Monday,
+
+the following Tuesday would be a Monday schedule in order to make up for class time,
+
+because classes are usually Monday, Wednesday or Tuesday Thursday.
+
+So MIT will be on the Monday schedule next Tuesday.
+
+We are in Hmm's class. We will be on a Tuesday schedule next Tuesday, but the Monday class will have this lecture hall because it's at MIT.
+
+So we will meet on Tuesday at the usual time in room 470.
+
+That's building for room 370.
+
+Okay, so next Tuesday, I don't know whether you have, uh, respiratory for those of you who have the respiratory class here.
+
+Right. If you might have it in here. Because usually MIT doesn't have a class at 8:00 in the morning.
+
+Right. But cardiovascular would be at room 470.
+
+We will not follow the MIT schedule. You don't. Tuesday.
+
+Room for 370. Okay. Any questions about that?
+
+Okay. All right. I left you with two problems last at the end of last lecture, and I.
+
+Challenge two I asked you. I suggested it to you that you take a look at it.
+
+So. What do you think is going on with this patient?
+
+Let me orient you. Right atrium.
+
+Right ventricle. Left atrium. Left ventricle. Right.
+
+What is measured over here is your oxygen saturation.
+
+So your interventional cardiologist, you can put catheters anywhere in the cardiovascular system.
+
+That's your job right. And measure things so you can measure the oxygen saturation of the blood in these various structures chambers vessels.
+
+You can also measure the pressures. And you've measured the oxygen consumption.
+
+So the O2 dot that we had in our equation.
+
+Right. And you also measured the oxygen carrying maximum oxygen carrying capacity.
+
+You're at Boston Children's Hospital. So your patients are likely pediatric.
+
+Anything strikes me as abnormal. Just looking at the numbers.
+
+So we said last time on each go around. Each hemoglobin molecule gives up about one oxygen.
+
+So if it's fully oxygenated when it comes into the aorta on room air.
+
+But something around 100%, 98% close enough, right?
+
+We're going through the rest of the body. We're coming back through the inferior superior vena cava, coronary sinus to the right atrium.
+
+Right. Oxygen saturation. How many binding sites do we have per hemoglobin molecule?
+
+Okay. Good. Right? So if you give up one, oxygen saturation drops to about 75%.
+
+All right. Kind of expected, right? 75% 75%.
+
+75%. That looks good.
+
+Right. Any opposing views? No.
+
+What about the pressures? So.
+
+Kind of. Okay. Right. So we said, I mean, right of pressure with reference to atmosphere.
+
+Around zero. Right. A few millimeters of mercury, depending on where you how you measure it.
+
+Certainly not 10 or 20. Right. That's mean right.
+
+Atrial pressure over here. Three millimeters of mercury. Right ventricle systolic 20.
+
+And diastolic three. Also good. Right.
+
+Pulmonary artery 20 over eight. Also looks good.
+
+All right. Might be a little low on this side, but, you know, I didn't give you the age of the child, right?
+
+Pulmonary capillary wedge pressure is a surrogate for left atrial pressure five.
+
+Also reasonably low. Right left ventricle 100.
+
+Systolic over five. And then the doubt.
+
+We'll probably see. 120. Also looks good.
+
+100 over 60 in the aorta. Also looks good.
+
+So precious. Good. Oxygenation looks good. Nothing looks abnormal. Okay.
+
+Anything abnormal? No. Not really. Right.
+
+What's the cardiac output? Anyone computed? 3.5l per minute.
+
+How did you do it? Oxygen consumption.
+
+Sorry. The arterial set. Uh, how should I write it?
+
+Uh. Or to you said arterial.
+
+Minus the mixed venous. Okay.
+
+Or to. Previously we had C arterial minus C mixed venous.
+
+Right. And we said that. The vast majority of all oxygen is carried by the hemoglobin.
+
+So if you have the maximum carrying capacity, right,
+
+we can say what the content is on the arterial side or on the mixed venous side is the maximum carrying capacity times the saturation fraction okay.
+
+All right. Thanks. Continue. So we have 160ml per minute of oxygen.
+
+Right. And it's 60 ML of O2 per minute.
+
+Divided by 200.
+
+ML of oh two per 100.
+
+Uh, per 1000. Per 1000ml.
+
+Right. And then we have 0.98 -0.75.
+
+Right. And you said this is approximately equal to 3.5l per minute.
+
+Okay. Thank you. Lower than the five liters per minute that we said.
+
+Sort of a rule of thumb for average adult. Right.
+
+It's a child so likely smaller than we are.
+
+3.5l per minute. Makes sense. Make sure that you get the.
+
+Get the the get the units right. Okay.
+
+Now, what was the next question? What is pulmonary blood flow?
+
+What the [INAUDIBLE] is this? In city state.
+
+What is pulmonary blood flow? We said everything is normal.
+
+Should be the same, right? So should be the same.
+
+Now remember, the way that we derived the Fig principle is that we drew a control volume around what we called the heart lung pumping unit.
+
+Right. Right. Atrium. Right ventricle. Pulmonary circulation.
+
+Left atrium. Left ventricle. Right. What feeds in is the inferior vena cava.
+
+Superior vena cava. Essentially what feeds the right atrium. What goes out is the aorta.
+
+We could have also drawn a control volume around the pulmonary circulation only meaning what feeds in as a pulmonary artery.
+
+What comes out is a pulmonary veins.
+
+Right now, the only thing that would have changed is these numbers over here, because we took these numbers from the aorta over here.
+
+Right. And the right atrium in right over here.
+
+So everything in between is in our control one.
+
+Now, if we're only interested in the pulmonary blood flow, we would say that's what's coming out of the pulmonary blood flow.
+
+Is this over here? And what's going into the pulmonary circulation is what's coming out over here.
+
+The numbers stay the same. Right. So in steady state, in the absence of any abnormality over here,
+
+obviously what has to what comes through the hard line pumping unit is also what comes through the pulmonary circulation.
+
+No sources, no sense. Okay, so 3.5l per minute.
+
+What about, uh, systemic vascular resistance?
+
+By the way, I posted the notes from last time on the last lecture.
+
+So for those of you who are asking about the, you know, the write up about the vascular resistance definitions and all that kind of stuff,
+
+what I did at the end, it's under the the section of the last lecture under the reading material.
+
+Systemic vascular resistance. How do we compute it. So and as you will see in those notes.
+
+We interchangeably use systemic vascular resistance or total peripheral resistance or just arterial resistance.
+
+Anyone computed. Mean arterial pressure minus central venous pressure.
+
+Or here we could also say mean right atrial pressure right divided by the cardiac output.
+
+Exactly right. What did you get. And what are the units?
+
+17.5. 17.5.
+
+Okay. So give me. Give me the numbers first.
+
+What did you put on it? Over here. What did you have for me?
+
+Material pressure. There's.
+
+Yeah. That's good. What did you get for me? Natural pressure. Yeah.
+
+73mm of mercury, minus. Uh, so this would not be the downstream pressure.
+
+Right. So what we would want is. So you want to measure the resistance between what's coming out of the aorta and what's coming over here.
+
+Right. So the pressure to use is a mean right atrial pressure because that's the
+
+downstream pressure of the peripheral circulation right coming out of the aorta.
+
+Everything is going through the systemic micro circulation coming back to the right atrium.
+
+Mean of this is the upstream pressure. Mean of this or something close to this structure is the downstream pressure.
+
+So what you would subtract over here is three millimeters of mercury.
+
+Right. And we already have our 3.5l per minute over here.
+
+And this comes out to be, I think, 1.2.
+
+And what I that's what I called the peripheral resistance units or millimeters of mercury.
+
+Times. Seconds for milliliters.
+
+Use was higher because you had a higher number over here, right?
+
+But mean arterial pressure minus central venous pressure or right atrial mean right atrial pressure.
+
+Right divided by cardiac output. So we'll take this away.
+
+1.2mm of mercury 10s over milliliters.
+
+Any questions about that? Yeah. Sorry, I just moved this thing down while you were speaking, I.
+
+Uh, the ministerial pressure. Good. Last time we said that, what we can do is we will approximate.
+
+This is also in the notes that I posted. So if you want to look it up over there.
+
+So we said that we have a waveform that looks something like this right.
+
+It has an onset over here. And here is the next right.
+
+This is what we call it the cycle length over here DT. And we said that this is the pressure waveform T over here.
+
+We said that the mean of this pressure waveform is one over t zero to t u of t prime dt prime.
+
+Remember that right. And we said that approximately our performance approximation of this is the diastolic pressure over here.
+
+This is a systolic pressure over here. The difference between the two is what we call the pulse pressure.
+
+But we can approximate this as a diastolic pressure plus one third times the pulse pressure, which is also the diastolic pressure,
+
+diastolic arterial pressure plus one third of the systolic pressure minus the diastolic pressure.
+
+Okay. Remember, that approximation will come in handy over and over and over again.
+
+Right. We don't want to do this in our head, but we can do this in our head.
+
+Or at least with our calculator. Okay. That's how we get from 100 over 60.
+
+So we hit 60 plus one third of 40. And if I did that right, it should be 73.
+
+Okay. So first of all, not no silly questions, right?
+
+So strike that from your vocabulary. Right. If you have that question, there's probably five other people who have exactly the same question.
+
+Okay. So what we're interested in right now is the the systemic.
+
+But we started with this is systemic vascular resistance.
+
+And remember that we defined the resistance as the upstream pressure minus the downstream pressure.
+
+Divided by the volumetric flow rate through that territory of interest.
+
+Right. If we're interested in the systemic vasculature, the upstream pressure is what is the aortic pressure is what's coming out of the heart.
+
+Right, then it goes through all of the rest of the body's kidneys. Gut.
+
+Skeletal muscle. Head, arms. Wherever. Right.
+
+And the downstream pressure. Is the right atrial pressure.
+
+Okay. So then the upstream pressure is this over here.
+
+This is a pulsatile waveform one 100 systolic, 60 diastolic.
+
+With this formula, we can compute the mean. Right.
+
+The downstream pressure is already kindly given to us as a mean pressure.
+
+So. 60, plus one third of 40.
+
+73. Upstream pressure mean right downstream pressure three.
+
+Cardiac output. We already calculated. Is that clear?
+
+Look at the notes. Right. But but by the end of this lecture, we want this to be second nature.
+
+Right. Figure out what's the vascular territory that we're interested in.
+
+Let's see upstream pressure. What's the downstream pressure. What's the flow going through it?
+
+Of the resistance. As I say in the notes,
+
+one could actually compute this as an instantaneous resistance and have an instantaneous upstream pressure and instantaneous downstream pressure.
+
+Usually we're interested in these resistances over timescales that are long compared to the positivity of the the waveform.
+
+Right. And we'll talk about why that is the case when we talk about the control mechanisms that act over tens of seconds, maybe minutes.
+
+So usually we're interested in the variation of this resistance over longer timescales and that possibility.
+
+That's why we take the mean upstream pressure I mean downstream pressure over the mean flow.
+
+Okay. All right. By the same token, now, what's the pulmonary vascular resistance?
+
+So now we're interested in the upstream pressure of the pulmonary circulation,
+
+the downstream pressure of the pulmonary circulation and the flow that goes through the pulmonary circulation.
+
+So we often call this PVR or pulmonary vascular resistance.
+
+So what would be the upstream pressure. What's the pressure feeding into the pulmonary vasculature.
+
+It's the. So the mean pulmonary artery artery pressure.
+
+So sometimes causes em pap.
+
+And as I show and or point out in the in the notes whether we have mean pulmonary artery pressure or mean or artery pressure or p pa,
+
+I mean all of these things would be used interchangeably. What's the downstream pressure?
+
+But atrial. Left atrial pressure. So we have the mean left atrial pressure.
+
+So this minus let's call this play.
+
+Or we could also call this m play if you want here.
+
+And we're still dividing by the cardiac output. Right.
+
+So what would this be? So here we also have a pulsatile waveform with a significant pulsatile component.
+
+Right. So what is the mean pulmonary artery pressure in this case?
+
+MP AP is eight.
+
+Which is the diastolic right. Plus one third of 20 minus eight.
+
+So what is that? 12.
+
+So this is 12mm of mercury over here.
+
+So this is 12 minus moon right of pressure five.
+
+And anyone compute this. 0.12mm of mercury times second divided by millimeters.
+
+Order of magnitude lower than the systemic vascular resistance over here.
+
+Right. So the pulmonary vascular resistance is very, very low compared to the arterial.
+
+Or the systemic vascular resistance. What else do we have?
+
+We have the pulmonary artery, systemic blood flow. We have the cardiac output.
+
+Okay, good. You make sure that you take your catheter out.
+
+Take care of the insertion site. Write your report.
+
+Cardiac catheterization report without. Without findings. Right.
+
+Perfectly fine. Okay?
+
+Yeah. Correct, because there's no indication here.
+
+But we said is whether we use if we look at the heart lung pumping unit.
+
+Right. The arterial oxygen content or, you know, saturation over here is 98% right.
+
+And the mixed venous is 75%. We're now interested in what comes out of the pulmonary circulation.
+
+We said that it's also 98% over here and 75% over here.
+
+So exactly the same calculation. Steady state.
+
+Normal circumstances. What comes out of the heart lung pumping unit is exactly what has to go through the pulmonary circulation.
+
+Okay. So case number two.
+
+Take a look. Let me know what you think. Anything abnormal.
+
+Tell me, sir. The oxygenation is the same on the right and the left side of the heart.
+
+Not exactly, but similar right.
+
+What's odd about the oxygenation? Number one.
+
+Previously we said, all right, on the on the right side of the hard, we have 75% left side of the hard way, about 98%.
+
+Yeah. Yeah.
+
+So let's let's dissect this 76% coming in about.
+
+Right. What do we expect 97% coming from the pulmonary circulation board.
+
+Right, right. 97% going out over here into the aorta.
+
+About right 91%. No.
+
+Right. And. Correctly pointed out.
+
+Mixed venous oxygen saturation coming into the right atrium about right.
+
+But then we're gaining oxygen, which we don't expect.
+
+Right. So we might this be coming from?
+
+Yeah. So it could be a shunt from here to here.
+
+All right. So that's could be a hypothesis right.
+
+Working hypothesis because you have oxygenated blood coming from here.
+
+If there's something like a forearm in a valley that hasn't closed. Right.
+
+And we have left to right shunting of blood inside of the cardiac chambers, you would be adding.
+
+Oxygenated blood. To the blood that's coming from.
+
+The rest of the body that's properly or reasonably deoxygenated, and you would see an increase.
+
+Now, once you actually in the right atrium over here, do we see another increase in the right ventricle?
+
+No right in the 91 and 92% over here is within measurement error.
+
+Right. So I'll leave it up to you to actually calculate this through.
+
+Maybe we'll put it on the problem set. Right. But working hypothesis for you guys over here is.
+
+That there might be blood somehow coming from the right, the left side to the right, from the left atrium to the right atrium.
+
+In this case, would you expect pulmonary blood flow to be the same as the, uh.
+
+Systemic blood flow. No. Right.
+
+Again, if you were to apply whatever is over here.
+
+Right, 97% coming out, 76% coming back, that's principle applied to the whole heart lung pumping unit.
+
+Right. But now if you're interested in the pulmonary circulation.
+
+97% coming out. 91% going in.
+
+Right at the same oxygen carrying capacity and oxygen consumption.
+
+So mathematically, it's already going to not going to be the same, right?
+
+Physiologically, you think that if there is a shunt over here, you have blood coming this way, but then going this way, coming this way,
+
+going back all the way around, this blood that's actually circulating around the pulmonary blood,
+
+the pulmonary circulation that will not be coming out over here. So do we expect pulmonary blood flow to be larger or smaller?
+
+Then cardiac output. It's like thumbs up lecture is going well or.
+
+Yeah, okay, good. Okay. It's larger right? It's larger.
+
+Yeah I like that feedback. And once you're going this way, I know that Colin should take over.
+
+Okay. Larger. Right. Do the calculations. Convince yourselves of that.
+
+Compute the pulmonary vascular resistance. Compute the, uh, um, systemic vascular resistance on the basis that we've done over here.
+
+Should be clear. Okay, but there was a question here then.
+
+Yep. So these are real measurements.
+
+I actually took them from case cases. And so, um, a few millimeters of mercury over here I think is still within measurement error.
+
+So you would have to very carefully calibrate.
+
+So if you compute the pulmonary vascular resistance on the basis of that, on the basis of that it will be slightly different.
+
+Right. But it's not going to be order of magnitude difference. But good good good good catch.
+
+Okay. All right. So. Oh, except for atrial septal defect.
+
+So I put this in just for, for for you to, to see what sort of gives the kind of clinical correlate.
+
+So this these are various types of atrial septal defect that you can see.
+
+This is as viewed from the right atrium. So this is in the old days when these were where were repaired by really having open heart surgery.
+
+You cut the right atrium open. You look down on it. Right.
+
+It could be something that is simply a foramen ovale.
+
+So superior vena cava. Inferior vena cava hidden behind this, you know, uh, you know, um.
+
+Fold over here is the, uh, coronary sinus. All right.
+
+So superior. Inferior vena cava. It's simply a.
+
+Uh. For in a valley that includes.
+
+Right now this is called the fossa overlays, which means that you have a wider opening of the, um, uh, around the, um, uh.
+
+The forum in a valley can be quite large, right?
+
+Or can be finished traded. Small little pieces can be lowered down.
+
+Can be investigating here into the pulmonary uh veins coming back.
+
+Um, various types of locations that you can see in the old days, as I said, they open it up.
+
+The Dacron patch. If you can just suture together, you just have a, you know, Dacron patch that you would cut out.
+
+You would sutured over a patch like this, suture everything back up.
+
+I suspect that these days, you know, a lot of these things can be done, um, without having to open the chest.
+
+Okay. All right. This is just, you know, for the clinically interested.
+
+So I want to give you a little bit of an overview of today's lecture.
+
+Thursday's lecture and Wednesdays and then next Tuesday's lecture, because these lectures form a cohesive unit.
+
+And what we are trying to do over the next three lectures is to provide you with an approach
+
+to understand the intact function of the cardiovascular system under perturbations.
+
+And what I'm saying over here is that there is sort of a problem.
+
+Um, and the problem is that, uh, the cardiovascular system, like other organ systems, is actually quite complex.
+
+In our case, it's closed loop. That's sort of what engineers know.
+
+Open loop. Closed loop systems. Open loop system. Something goes in, the system does something.
+
+Something comes out right.
+
+Close loop is a little more difficult to think through because, you know, something might happen with the system, but then because it's closed loop,
+
+you never quite know how to how it actually affects the normal thinking about a wiggle, something in the system.
+
+Right? I put the same stuff in. How does it wiggle the output right doesn't quite work right and can be quite difficult to think through.
+
+And there's whole areas of engineering that that look at system identification and, and dynamical systems that deal with this kind of stuff.
+
+But cardiovascular system is closed loop. Its time, varying on multiple time scales.
+
+All right. We're talking just about one time scale when we're talking about the pulse utility.
+
+It is nonlinear.
+
+And it is controlled, meaning there's various layers of control systems wrapped around it, each of which also acts on different timescales.
+
+So a priori, it's actually difficult to understand or to to get an intuition of how the system behaves.
+
+Now. We can write out fluid dynamics equations, we can come up with big simulations.
+
+People have done that. We can implement all of this on a computer and then we can actually go through exercises.
+
+What happens if we now turn this knob? What happens if we change the blood one.
+
+Right. And these are exercise that are very valuable. You get can get a lot of intuition from that.
+
+But what we want to do is we want to do it at a level where we can conceptually understand what's going on.
+
+And ultimately, our goal is here to build an intuition or understanding so we can predict.
+
+And we can control. Meaning when we can predict the behavior of the system.
+
+We can control the behavior of the system. Now some of you will go on into biomedical device design, these kinds of things.
+
+You want to understand the behavior of the system so that you can actually make better ventricular assist devices that are, um.
+
+Uh. Dialysis machines. Right.
+
+So we have to figure out how does this system behave under different loading conditions.
+
+But some of you will become practicing clinicians right at the bedside.
+
+You have to say, well, what if I actually gave a vasopressors? What's my intuition of how this system will actually react?
+
+Right. So when we can predict, we can control. And what do you mean by predict?
+
+By predict what we mean is the system is in steady state.
+
+What happens if you perturb blood volume? What happens to blood pressure?
+
+What happens to cardiac output? What is the new steady state? What if we change the contractility of the heart?
+
+What if we change heart rate? What if you change the compliance of the arteries in the pulmonary circulation?
+
+These are all what we would call parameters of the system.
+
+Whereas pressures and flows are derived. Uh, variables that depend on the values of these parameters and that depend on the behavior of the system.
+
+So by predict, what we mean is we can actually say, well, there's a steady state, there's a perturbation to something.
+
+Right. And we can figure out in which direction the new steady state will actually go on.
+
+As I mentioned last time, mostly be interested in two things. Number one cardiac output.
+
+Number two. Blood pressure. Okay. So.
+
+The approach that we will take is that will abstract.
+
+We make things simpler. You make assumptions about.
+
+The behavior of the system or about the behavior of components.
+
+We assume steady state, not worrying about the positivity right now.
+
+Steady state. Mean arterial pressure. Mean venous pressures.
+
+Cardiac output. Right. We'll divide the system into essentially two major parts.
+
+There are four major parts here the right heart, the pulmonary circulation, the left heart, and the peripheral circulation.
+
+Right. But what we'll do is we'll abstract it even further where we said, as I already mentioned,
+
+everything over here, we will consider the heart lung pumping unit.
+
+Right. And we will describe it in the end as one unit where we can describe the input and the output.
+
+Likewise, the second element is the peripheral circulation.
+
+But we also look at the biophysics today of the peripheral circulation.
+
+What is it? What is it made of? What's the input output relation in steady state of the peripheral circulation?
+
+And when we talk about input output, the two variables that we will choose to describe the input output is what we call p f,
+
+which is the feeling pressure which will be our independent variable.
+
+And the way that we defined over here is the inlet pressure to the right heart.
+
+So the filling pressure would be the mean right atrial pressure.
+
+Reference to atmosphere. Okay.
+
+That's, uh, that would be our independent variable or dependent variable will be Q would be the cardiac output.
+
+So when? A week from today we look at the input output relationship of the heart lung pumping unit.
+
+The question that we will ask is what is the relationship or what is the dependance of Q?
+
+The volumetric blood flow coming through the heart lung pumping unit in steady state as a function of the filling pressure,
+
+which is the downstream pressure. Think of this essentially as a pump.
+
+Right. The question is how much volume is your pump giving out?
+
+Depending on how high the pressure is of the inlet to the pump.
+
+That's the question. Input output. Relation of the heart lung function. Pulmonary.
+
+And all the parameters that describe the heartland pumping unit will be in that formulation cardiac contractility,
+
+heart rate, pulmonary vascular resistance, pulmonary compliance, pulmonary venous compliance, these kinds of things.
+
+Likewise, today we will focus on the peripheral circulation.
+
+We will ask exactly the same question.
+
+And the question is what is the input output relationship of the isolated peripheral circulation or the systemic circulation?
+
+Where the independent variable is the filling pressure. And the dependent variable is the flow going through it.
+
+Okay might seem a little odd because here the feeling pressure is actually the downstream pressure.
+
+Actually. Sorry. The upstream pressure. It's a sorry.
+
+It's a downstream pressure. Right. And the independent variable is the flow that's going through it.
+
+Now. This is a spoiler. So spoiler alert.
+
+On Tuesday when we put everything together. Having characterized the heart lung pumping unit in terms of pH or Q as a function of pH.
+
+Right. And today, at the end of today, when we have characterized the peripheral circulation in terms of p, F, and q.
+
+You can just hook these two pieces together, right?
+
+Because we've characterized one part of the cardiovascular system in terms of the exact same variables as the other part of the cardiovascular.
+
+And in steady state. Obviously, the flow that goes through here must equal the flow that's going through here.
+
+That's why the steady state assumption is very important. Uh, we could do that.
+
+You could do that. It gets a lot more messy if you want to do that.
+
+So we have a choice of which pressure to use. Right, but for a variety of reasons one mathematical, two physiological.
+
+It turns out that PFF is actually a good choice to use. But.
+
+The choice is yours. You can try. You can.
+
+You can try it with arterial pressure over here. Right.
+
+And you would have the arterial pressure over here as the input here and the queue here.
+
+Right. Then you would have the Q here in the arterial pressure over here. Turns out that the other way around is just a lot more powerful.
+
+But the choice is ours. We can do it. You know we can do things however we want.
+
+I will stick with and. Q as a function of p.
+
+No, it's always the, the, the whether it's the upstream or the inlet or the outlet is different in the two,
+
+but the PMF is always the independent variable and the cue is always the dependent variable.
+
+Okay. All right. So then the roadmap today.
+
+Peripheral circulation. The Heart Is a Pump comes on Thursday, where we just look at the pump performance of the isolated ventricle,
+
+and then on Tuesday we put it all together. So with that let's start with the peripheral circulation.
+
+As I said it's a distributed system nonlinear, time varying.
+
+What we already do is we make a major simplification by reducing it into these essentially four elements.
+
+Right heart. Pulmonary circuit. Left heart. Systemic circuit.
+
+Okay. I've already went over this with you at the last lecture.
+
+This is just to review what we mean by systemic circulation.
+
+We have the left ventricle. Generates 120 over five 120 over eight millimeters of mercury, or systolic is 128 and diastolic pressure.
+
+Then we have these large arteries, these Winchester vessels.
+
+And everything from here. Through the capillary resistance vessels, the micro circulation, the post capillary, um.
+
+Um uh uh venous vessels. Capacitance venous vessels towards the right atrium.
+
+All of this is a systemic circulation. As we already pointed out, significant drop in arterial pressure.
+
+Significant drop in positivity. And what we have pointed out.
+
+Do I have this down here? Has no. Um, is that about?
+
+If we take away the 180ml or so that's in the left heart, right.
+
+We have about 4.2l of our five liters of blood volume residing in the systemic circulation.
+
+So most of the blood volume. Is on the is in the systemic circulation, not in the heartland.
+
+Pumping. Order of magnitude difference. Almost 4.5l over here and half a liter over there.
+
+Approximately. Right. We said average person.
+
+The average person that has about five liters per minute of cardiac output also has about five liters of blood.
+
+Right again. Scales a little bit with, um.
+
+With body size. Okay, I already went over this. Systemic circulation.
+
+We can break this down conceptually even further. Right now we talked about systemic circulation.
+
+We talked about the arterial systemic arteries. The micro circulation and then the systemic veins.
+
+Each of them have slightly different functional units or functional properties.
+
+If you already said here these have elastic walls. Rubber type.
+
+Uh, wall structure. We're converting kinetic energy into potential energy through that bolus injection of about 70 75ml of stroke volume per beat.
+
+Right. This is bolus flow from 300 milliseconds pushed.
+
+Flow is oscillating high momentum, but there's very little pressure drop across the systemic arteries.
+
+Large vessels. Right. The pulse wave changes.
+
+As you go along, as we mentioned last time. But the mean arterial pressure does not change much.
+
+Maybe millimeters of mercury. Then we get to the arterials here.
+
+Gas exchange takes place. It's very significant resistance at the level of the arterials.
+
+We bring the pressure down, as we said last time, at the level of the capillaries you will see we have only a single endothelial layer.
+
+To minimize the diffusion barrier right here, as is as close as we get in terms of this is dominated laminar flow.
+
+Probably all heard about laminar flow, about a parabolic flow profile.
+
+I can puzzle all of of, you know, resistance scales as one over R to the fourth.
+
+Right. We'll get to that. And for those of you who are fluid, dynamically inclined, low Reynolds number flow meaning it's viscous dominated.
+
+Here it's momentum dominated by high Reynolds number.
+
+Low Reynolds number. Finally in the veins.
+
+We have large storage. These are controllable vessels.
+
+These are also controllable vessels over here. Not so much control over here as we will see.
+
+But there's 3.2l of the four and a half leaders or so that's in the systemic circulation is at the level of the systemic veins.
+
+And if they're controllable in terms of how much storage they can actually take.
+
+Or release. You can think of these as a significant source of, um.
+
+Auto transfusion in some sense. We'll talk about this in detail when we talk about the control of the cardiovascular system.
+
+But important. You have very significant capacitance over here, meaning ability to store blood.
+
+They're very thin walled. They are prone to collapse outside pressure larger than the inside pressure.
+
+And in some locations they have Venus valves. As I'm standing over here.
+
+Right. There's Venus valves in my, uh, um, in the veins of my leg so that there's not a continuous hydrostatic column between my heart and my legs,
+
+which would make my my feet swell significantly. So there's venous valves to actually counteract some of gravity.
+
+And if they don't work anymore then you get into all sorts of issues.
+
+But anyway, so Bobby and Rick probably went over this ad nauseum.
+
+So. Intima. Media advent tissue.
+
+Look at your pathology nodes. Right. Endothelial layer over here.
+
+An organ in and of itself can sense shear stress, as we will see when we talk about control of the cardiovascular system.
+
+Right. Also very important. Um. Uh, for all sorts of other reasons.
+
+Tunica media. Smooth muscle.
+
+Vascular smooth muscle that can constrict or relax and thereby change the filling state of veins or the resistance status of arterials.
+
+You can clamp down as we will see, or you can sort of relax.
+
+So at the level of the individual vascular territories you can modulate your own blood supply.
+
+Because these are the vascular smooth muscle over here is very reactive to local metabolic and products.
+
+We'll also see that and in vintage structural integrity, um, and um tethering.
+
+So as we go through these different.
+
+Um. You know, blocks of the peripheral circulation aorta.
+
+A lot of elastin fibers. Very elastic. Right.
+
+It had some smooth muscle. And a decent amount of collagen fibers.
+
+But as you go towards the smaller and smaller arteries, you see that the relative contribution,
+
+especially at the level of the pre capillary sphincter muscle sphincter vessels.
+
+Very relatively speaking, high contribution in terms of the wall composition in terms of vascular smooth muscle.
+
+This is the locus of. Control of the vascular resistance.
+
+It's also the locus of control of blood flow to the local vascular territories can relax or you can constrict.
+
+Once you're coming to the true capillary, essentially talking about a single layer of endothelial cells.
+
+All right. So oxygen and CO2 can freely diffuse essentially across that single layer.
+
+Don't want to have a big thick and, you know, wall at that level.
+
+And as you get to the venules, you have the certainly always the endothelial layer.
+
+You have the collagen fibers of the advent. But once you actually get to the to the veins, you also have smooth muscle for that volume control.
+
+Okay. So here is a view of the micro circulation.
+
+Um. What's the diffusion distance about?
+
+You know, for oxygen in tissue. How far can we go so that diffusion is still viable?
+
+Uh, transport mechanism. A meter.
+
+What? I was going that was about to go down the orders of magnitude.
+
+There wasn't a suggestion. Right. So it's about a hundred microns.
+
+So if you're 100 microns away from a capillary, right. Or more likelihood is you're waiting long, very long for an oxygen to come by.
+
+So that's why we have to have a network where the average path length is on the order of that.
+
+Right. What we see over here is what is called arterial or a arterial over here.
+
+The yellow things over here are, uh, the resistance of the pre capillary sphincter resistance vessels.
+
+And this then supplies this, this very reasonably dense networks of capillaries supplies blood to whatever tissue there is.
+
+And let me see over here. How can I put all of you to sleep?
+
+Like this. So here what you see is, is one of those territories.
+
+And what you see is the flow of red blood cells through these arterials onto the venous side over here.
+
+And these are individual cells that are going through one of these vascular territories.
+
+It's just one branch of it. And you can see that you know they're they're trying to go through here.
+
+They're coming right. And it's not really a true true capillary because if it were a true true capillary,
+
+usually the radius or the diameter of the of the capillary is smaller than the projected area of a red blood cell.
+
+Because the red blood cell really has to distort in order to get through. And that further lowers the diffusion distance.
+
+Okay. So individual cells going through over here.
+
+But you see the relative uh, size of this is, is on the order of the diameter of, of red white blood cells going through.
+
+Um, let me see here. We've seen this. So.
+
+Spontaneous of motion. What you see over here.
+
+It's a little bit difficult to see, but it's difficult to get a better. So here, here you have the vessel, right.
+
+And you see the flow going through over here upstream and downstream.
+
+And you see it's a superhighway right now. Right. You cannot differentiate individual cells.
+
+But at some point here you see it's in traffic jam. Right.
+
+And now the vessel constricts nothing going through.
+
+Now it's opening up again. Maybe even reversing blood flow a little bit.
+
+Right. But when it opens up you have the highway going through again.
+
+So these these pre capillary sphincter vessels are very powerful.
+
+They can completely shut off blood supply to a vascular territory if not needed.
+
+Or they can just bring it in. Right. If you say all right this is an exercising muscle.
+
+You have CO2 buildup lactic acid coming in.
+
+These are powerful vasodilators because it signals to the rest of the cardiovascular system or essentially especially locally,
+
+it signals I need more blood flow. Right.
+
+And then it can just open this up. And when it's done, completely close it down.
+
+So spontaneous was a motion of, um, the.
+
+Um. Pretty capillary sphincter muscles.
+
+Velocity of flow through the capillary. We have no reference.
+
+But what do you think? Two millimeters per second point four millimeters per second, or 1.1mm per second.
+
+Likewise, what is the transit time through a typical capillary?
+
+0.1 seconds. 2.5 seconds. Five seconds.
+
+We have no frame of reference. Who can guess? But it should be a uniform distribution, right?
+
+Unless you're hedging your bets a little bit. Right? But can we compute this?
+
+And on the basis of what principal can we compute this. I pity the poor graduate student.
+
+Who had to tabulate all of this.
+
+Right. But since it is out there, we use it. This is from the dog, where someone went through sort of the morphometric and looked at the diameter.
+
+Or estimated the number one with the area or do. You don't have to estimate, you can just count.
+
+Right. The cross-sectional area, the length, and the total volume.
+
+We also know the flow velocity over here. One thing you see is that as you go down towards the capillaries, obviously the cross the diameter.
+
+Therefore the cross-sectional area goes down dramatically. But the number goes up is proportionate.
+
+So that the total cross-sectional area across all of these elements is actually very significant.
+
+So if we have the mean aortic flow and we have the cross-sectional area and we have the total cross-sectional area at these different levels,
+
+we can apply the principle of continuity. Again conservation of mass the same way that we conserved oxygen.
+
+When we talked about the thick principle. What goes in has to come out right.
+
+No sources or things. So in integral form, what you have over here is you integrate the area over the velocity profile.
+
+Right. But as a poor man, what we say is the area times the mean velocity over here is equal to the area times the mean velocity over here.
+
+And then has to be equal to the flow rate. Okay.
+
+Makes sense. What comes in has to come out. So when we do this.
+
+The velocity through a cut through a single capillary. Is about half a millimeter per second.
+
+It takes him a second to get half a millimeter and it's fairly, fairly low.
+
+We said what we want to do is if we want to have short diffusion distances, right.
+
+But the other thing about diffusion is that you want to give it a long period of time.
+
+But you want to give it time to unload the oxygen and pick up the CO2.
+
+Right. So what is that time? The transit time through a typical peripheral capillary.
+
+About 2.5 seconds. Now is that large?
+
+Is that small? It's Bill kettle. Still teaching endocrinology.
+
+Right. Did he summarize all of medicine into three things?
+
+Yeah. What is this? No.
+
+So when I took it, something can be too high. Something can be too low or something can be funny looking.
+
+That's all of medicine. I think Doctor Stoltz would disagree, but.
+
+Yeah, right. So is this high? Is this low or is this funny looking?
+
+We don't know yet. Right. But you probably heard, so sorry.
+
+Before I get to that. Sorry. This I jumped ahead. Relative area over here.
+
+Mean velocity over here. So relative area with reference to the aorta.
+
+Total cross-sectional area going up significantly. Right.
+
+Mean velocity going down significantly. All right.
+
+So at the level of the capillaries, short diffusion distances long timescales.
+
+It takes a long time to get through. And you might have heard in, in, in, in pulmonology or in respiratory already.
+
+Maybe you'll hear it later. The concept of diffusion limited stayed versus perfusion limited stayed.
+
+So this is in a capillary along the pulmonary circulation.
+
+The mixed venous partial pressure of oxygen around 40, alveolar partial pressure of oxygen about 100.
+
+So over that transit time of a single arrest reside going through a pulmonary capillary.
+
+You want to have enough time to take up the oxygen to equilibrate with the alveolar oxygen.
+
+Right. That happens on a timescale of about one third.
+
+If you look just at O2 over here under normal conditions. This is the time it takes to traverse the pulmonary capillary.
+
+Previously we looked at the systemic capillaries. So it's a little bit different right.
+
+But it only takes about one third of the transit time to fully equilibrate.
+
+Oxygen. With the alveolar space.
+
+Meaning that you have a 2 to 1 redundancy over here.
+
+So this is a perfusion limited state. You're not limited by the timescale of diffusion.
+
+That can be very different if you have fibrosis or pulmonary edema where the diffusion barrier becomes large.
+
+Right. But in a normal circumstances we have perfusion limited not diffusion limited.
+
+Meaning how much flow the cardiovascular system can push through the lungs determines how much oxygen you can pick up.
+
+And that goes back to one of the slides that I showed last time workload on the x axis,
+
+cardiac output on the y axis and oxygen uptake, cardiac output.
+
+We're mirroring each other pretty much same slope okay.
+
+All right. So let me see what I should break over here.
+
+Um first mathematics and then coffee or first coffee and then mathematics I think coffee which should should come first.
+
+All right. So we'll take but just take a ten minute break. We'll be back at 1140, please.
+
+We still have a lot of stuff to get through. The microphone.
+
+Okay. So one of the things that we have to talk about briefly when we talk about the micro circulation is transport of solutes,
+
+solvents across the membrane. So there's not going to be much mathematics over here.
+
+But I just want to clarify some concepts.
+
+Let's say we have a beaker. Right.
+
+And this. Some water in that beaker.
+
+We have a membrane between the two compartments. And what we'll do is we will put a solute in this side of the beaker.
+
+And let's also assume that that membrane that we have is permeable.
+
+To that particular salute. If we let this now, if we go home for the weekend and we come back.
+
+What happened to the concentration on one side, to the other? Equilibrate right by exactly that diffusive process that we have over here.
+
+So we have a diffusive process.
+
+In the end, it should be exactly the same, right, modulo some fluctuations that are very difficult to measure.
+
+Right. Diffusive equilibrium. Now what happens, though, if.
+
+We put in our solute, but our membrane is permeable to water but not to the solute.
+
+What happens then? Okay, everybody. What?
+
+It will go rushing in. Okay, we'll come back after our weekend.
+
+Right. And what we will measure is that the level of water has increased over here
+
+and has decreased over here in an effort to equilibrate the concentrations.
+
+Osmosis. Right. Uh, diffusion is the movement of solute in a in a medium, and osmosis is the movement or the equilibration of solvent.
+
+So. We're not going to go into much detail over here other than to say that the.
+
+The degree to which this happens is dependent on the total concentration C of sigma over here.
+
+The details of the notations are not not important, but it's essentially the sum over all the non usable solvent A solid molecules.
+
+Right. And properly multiplied with various constants.
+
+This is given as an osmotic pressure, meaning it's the pressure.
+
+Essentially the hydrostatic pressure that it generates above the level of the other side.
+
+Right. So when we're talking about movements of water, of solvent,
+
+there's obviously a convective process that has to do with hydrostatic differences through a permeable membrane.
+
+The pressure on one side is it's higher than the pressure on the other side.
+
+And water can flow across that boundary.
+
+You will have a convective flow right. Likewise if you have.
+
+A difference in osmotic pressures. In solid concentrations, you can also induce a flow that is purely driven by the osmotic pressure differences.
+
+Yeah. No.
+
+Because as as the water level rises on one side, there's a hydrostatic pressure that increases that will resist the flow in the other direction.
+
+Right. So how do we apply this?
+
+So why is it important in the context of the of the, um. Um, uh, micro circulation.
+
+We have the arterial side of one of those capillaries that I showed in the video.
+
+And we have the venous side. The hydrostatic pressure is higher slightly on the hydrostatic on the on the arterial side than on the venous side.
+
+So based on the hydrostatic pressure difference between also the inside and the outside,
+
+higher on the inside, lower on the outside, there's a net filtration of plasma outer filtrate.
+
+Or for fluid to leave these the vessels.
+
+On the arterial side, and as the blood flows, the resist the resistive drop.
+
+The pressure goes down and there is then a net force, hydrostatic force over here to bring fluid back into the capillary.
+
+We're not talking about oxygen. When I talk about CO2, we're talking about actual.
+
+Plasma alter filtrate to leave water, right?
+
+Now there's also a higher on cortical osmotic pressure inside the cells over here than outside.
+
+We have cells, we have proteins, we have albumin, we have all sorts of stuff in our blood, right, that give rise to the concentration difference.
+
+They usually do not leave that capillary so they give rise to an osmotic pressure.
+
+So why the hydrostatic pressure difference across the capillary wall pushes fluid out?
+
+The osmotic pressure tries to recruit fluid back. And as your as, as you're flowing down this capillary.
+
+Right. Because there is a resistive drop in pressure. The hydrostatic pressure component gets lower.
+
+You're losing fluid which further concentrates.
+
+The sort of unit parcel of volume that travels along, which makes the hydroxy on chaotic pressure over here even larger,
+
+making that pool of water back into the circulation stronger.
+
+Right. So in addition to the nutrient exchange that we have with oxygen and CO2.
+
+Right. We also have a fluid exchange with the interstitial fluid space.
+
+Now does everything that gets filtered out over here get reabsorbed over here.
+
+No. Right. Where does it go? Are we all swelling up with fluid?
+
+This lymphatics? Exactly right. So we have the lymphatics that essentially mops up everything else, right?
+
+That little difference. We're talking about five liters per minute of cardiac output.
+
+Right. We're talking probably on the order of milliliters, two liters per day in terms of the lymphatic flow.
+
+Okay. So the lymphatics is also on the, you know, control.
+
+It also has these vessels. So it pumps things back and it goes into the thoracic duct and it gets back into the venous circulation over here.
+
+You've talked probably about the lymphatics in pathology, in cancer biology.
+
+We'll talk a lot about about, uh, lymphatics. Yeah. Yep.
+
+It's pretty much the same for our our intent, for all intents and purposes, here to say.
+
+And I would use it interchangeably. So suffice it to say that if the lymphatics don't work anymore, for whatever reason.
+
+Then we can get into trouble. And it can also be a sign of problems with hydrostatic pressures and chaotic pressures.
+
+And if it's a problem with hydrostatic pressure,
+
+the factor becomes the problem of the cardiovascular system and can be a sign and symptom of deficiencies of the cardiovascular system.
+
+So what we call this edema and what can cause edema.
+
+Processes, but processes. Yeah, right.
+
+So blockage within the veins. And what would that do that would increase the pressure over here.
+
+Would not would, would resist recruitment of of of blood.
+
+Okay. What else? Yeah.
+
+Low on pressure. So you don't you have less of that on pull.
+
+What else? How many people are playing contact sports over here?
+
+Like soccer. I mean, the American type of football. Right.
+
+Anybody ever been kicked against the ankle? What happens?
+
+It's. Well, it's up. Right? Why does it smell? The information comes later.
+
+But no, it's not the information. Fluid buildup.
+
+But what gives the fluid buildup? Trauma.
+
+Trauma. The capillary becomes leak leaky right that that boundary between the two compartments.
+
+Right. So increased capillary hydrostatic pressure venous valve failure and gravity.
+
+Right. We talked about venous valves.
+
+If they fail you can actually swell up high central venous pressure could be due to a heart that's not working properly.
+
+Right. Blockage to venous flow was mentioned. What else do we have.
+
+We have low and chaotic pressure inadequate protein production starvation liver
+
+disease excess loss of protein if your kidneys are not working properly.
+
+Capillary wall damage in which and then obstruction of the lymphatic so it can.
+
+Edema. Peripheral edema can be unilateral. That can be bilateral over here.
+
+Here you see unilateral right here you see bilateral.
+
+And what is also called pitting edema. You might have heard about this.
+
+So one thing to do. So if you actually take your form or whatever part of your body is currently available to you, right, you can press in.
+
+And when you do this it bounce right back. Right. Very elastic.
+
+Just immediate rebound. Now if you are pushing into these edema over here you're sort of slowly pushing in.
+
+And then you take your thumb off and you see that this indentation actually leaves your this,
+
+this plasticity of the of the tissue has become a lot more viscoelastic than elastic, right, by all that fluid accumulation.
+
+And this can be then used as a staging mechanism for plus whatever pitting edema.
+
+On chaotic. Does someone know what this means in in English?
+
+Yeah. What does it. So the disease when the new baby is born.
+
+Why is the disease when the new baby is born? Exactly right.
+
+So the mother will stop breastfeeding this. You know. You know, fruit nature's diet from the mother stops.
+
+Right. And the baby is malnutrition. Malnutrition has, you know, it makes these distended bellies right.
+
+That is also known as a series. So water accumulation in the belly because there's protein, uh, malnutrition.
+
+Right. These things know nephrotic syndrome over here where the, uh, inadequate, um, loss of protein and, you know, through the kidneys.
+
+Trauma is the ankle, right?
+
+Beasting over here. This can also then be the, the, um, inflammation inflammatory response that we've seen.
+
+Right. Lymphedema. Uh, the old days, radical mastectomy where you went in and you essentially took out all the lymphatics on that side,
+
+right of, of of the affected side of the breast.
+
+And what you see over here, you have no drainage left on that side.
+
+Right. People have become a lot more nimble about this. And then a parasitic infiltration.
+
+Elephantiasis, um, and, uh, parasite that infiltrates the um, uh, uh, lymphatic system and leads to obstruction.
+
+Okay, so, so much for the micro circulation coming back to our our main purpose of the lecture over here,
+
+when we look at this diagram that we've shown now a few times,
+
+we think of the arteries of the systemic arteries as these large capacitance and elastic vessels over here and everything that we see over here,
+
+whether the pre capillary resistance, uh, vessels, particularly sphincters,
+
+capillary vessels with it, uh fluid and and and uh, uh nutrient exchange takes place.
+
+All of this is dumped into this box over here.
+
+Right. Arterials, capillaries, venules, micro circulation.
+
+This is our micro circulation. And then we have the veins over here.
+
+We've talked now about the micro circulation and the first level of abstraction that we're now doing towards
+
+sort of that modeling goal that I've stated at the beginning of the lecture is to do what we've already done,
+
+last lecture. All the gory details that I've just went through and spent 45 minutes explaining to you.
+
+We dump into a single resistive element. Right.
+
+Very significant abstraction, right? But one which allows us to actually build the kind of model that we want to build.
+
+Meaning that in terms of the biophysical properties, setting aside all of that exchange that have just talked about starting, you know, uh,
+
+starting forces across the capillary membrane is from a system level perspective, we're interested in flows, volumes and pressures on average.
+
+The significance of the micro circulation. It's it's a significant locus of resistance.
+
+All right. And we already said that we can compute the resistance as the pressure difference upstream minus downstream pressure over the flow.
+
+Right. It's all sort of constitutive relationship here.
+
+Now, I already alluded to the fact that some of you might have background in fluid dynamics and,
+
+and, and know all about Euler and Bernoulli and all Stokes equations and all that kind of stuff.
+
+And you have beautiful boundary conditions, no wall movement, uh, incompressible flow and, and, uh, single phase flow.
+
+You can actually compute the resistance. Of a tubular segment.
+
+Pipe flow.
+
+Essentially right laminar pipe flow, where the resistance is related to the length and the viscosity, and one over the radius to the fourth power.
+
+Which is a very strong relationship. Now we will invoke this very sparingly because.
+
+Technically nowhere in the body is it actually applicable. We will only invoke it when we talk about the.
+
+A relative changes in resistance in control by a constriction of the large arteries,
+
+and the large veins have really no consequence on vascular resistance.
+
+Simply because the one over R to the fourth is so large that even if you have a ten whatever percent change in the in the diameter, right?
+
+The r, the radius to begin with so large is going to not going to have any difference.
+
+Now, if you have a capillary or if you have a pre capillary swing to where the R is very small right, then the resistance modulation can be very high.
+
+90% of the time for our discussion, we mean 95% of the time for our discussion.
+
+We say simply at this level we will not unroll, unfold this are any further.
+
+This are being the resistance. Just take it as a lumped.
+
+Constant resistance for now. All right.
+
+But I did want to mention this because you probably see it in all the textbooks. So we've already gone through this estimating peripheral resistance.
+
+The pressure difference mean arterial pressure around 90 to 100.
+
+Mean right atrial pressure or central venous pressure.
+
+Single digits. Low single digits. Here we assume five. Cardiac output five liters per minute.
+
+The stroke volume about 83. 70 to 80ml per second.
+
+The resistance about one peripheral resistance units. And here we have these dynes per centimeter to.
+
+I'm second centimeter to the fifth. So. For reference.
+
+We said five liters per minute is the flow rate. Don't confuse that with five liters of blood.
+
+Right? One is the flow rate, the other one is a volume. Just happens to be approximately the same numerical value.
+
+But keep these concepts separate in your head. Again with the relative vascular resistance in the circulation.
+
+Again. Aorta. Large arteries, mean arterial branches.
+
+Um. Um, probably should say main arterial branches, not mean arterial branches.
+
+Terminal branches very significantly here at the level of the pre capillary sphincters and the capillaries.
+
+When the vessels are very small resistance is very high. Right.
+
+So the total vascular resistance on the peripheral circulation.
+
+Is. Mostly in the micro circulation.
+
+Very little on the venous side, you know, sort of intermediate on the large artery side, but very significantly at the arterials in the capillaries.
+
+Then you. It also depends on how many parallel pathways you have, right?
+
+It sort of is like parallel resistances.
+
+That goes back to the dog. Right? That tabulation. Right.
+
+So you have a lot more parallel pathways over here than you have over here.
+
+But you're right. The resistance depends. It depends on the diameter. But it also depends on how many of those are in parallel.
+
+Exactly right. Okay, so now all of this is dumped into a single resistance.
+
+Now we have to deal with the arteries over here, and we have to deal with the veins over here.
+
+And we'll talk about the biophysics of those. Run, usually side by side.
+
+The first thing that we'll talk about is the distance ability. So we talked about the arteries that they have, the elastin that they have.
+
+They are dispensable. They actually take that whole stroke volume and they expand.
+
+And then during the diastolic phase they slowly sort of recoil.
+
+And if we look at the relative volume as a function of pressure.
+
+Right for the art, for the aorta and for the vena cava.
+
+The relative volume is at zero. Millimeters of mercury inside pressure.
+
+You see that we can pressurize the arteries to much, much, much higher levels and we can pressurize the vein.
+
+Think of the sensibility of that balloon. Right? You blow into the balloon, you have a certain distance ability.
+
+You have a compliance. We make that concept clear mathematically.
+
+Right now. If you blow in and you blow India, you blow in. Eventually you reach the elastic limit.
+
+If you blow too much, it'll burst, right? And that's what you see over here.
+
+The higher you have kind of a linear phase and then it plateaus.
+
+All right. Same for the vena cava. You have a linear phase that is steeper in these relative units.
+
+But then it sort of plateaus off at about. You know, in this case we had 20 20cm of water.
+
+So. The slope of this is a compliance.
+
+Right here you can go to much, much higher levels.
+
+Which makes sense because on the arterial side, we are pressurized to about 100cm, millimeters of mercury.
+
+Right here we are only pressurized about ten millimeters of mercury.
+
+Five, maybe ten. Okay. So the vascular distance ability of the two.
+
+Very different. But I also want to point out is the venous vascular distance ability and collapse.
+
+So this is taken from data. Uh, that yours truly personally digitized from a a a publication from the 1940s.
+
+Where, uh, it's a vascular segment, a venous vascular segment.
+
+And what you can see over here is that at zero millimeters trans mural pressure inside pressure minus outside pressure,
+
+you have a very sudden collapse. It's almost like a switch.
+
+You're above zero. And you're distended, right?
+
+You're below zero and you have almost nothing. Right.
+
+That's vascular collapse of venous vessels.
+
+So the the arteries are very rubbery like. The veins.
+
+Very, very thin walled.
+
+If the outside pressure becomes larger than the inside pressure, so the trans mural pressure becomes negative, they tend to collapse.
+
+All right. So they can withstand a negative pressure. They don't have any wall tension.
+
+Um. Um, of any significance?
+
+Right. Collapse the moment that you get to zero. Well, at zero.
+
+That's it. Right. This.
+
+These are static measurements. Now, how do we model this?
+
+So the way that we model these vascular segments, whether it's an artery or whether it's a vein, essentially like a rubbery tube.
+
+All right, but any type of tube. You have a volume.
+
+That. It's called the zero pressure filling volume or the dead space volume.
+
+Meaning that you're there's a certain volume that you can actually push in before the walls get stretched.
+
+Before the wolves generate any tension. Tension. Here we call, um, uh, this tension.
+
+Right. Active tension that's being generated.
+
+But there's a certain volume if you have a if you have a plastic bag or something, you think of it, you can put it on the table.
+
+Right. And the inside pressure of the plastic bag is exactly the same as the outside pressure.
+
+So the transmitted pressure is zero. But the two might not be, the plastic bag might not be collapsed.
+
+Whatever you have there is the zero pressure filling void.
+
+Right. And then you can push more and more volume in. At some point that plastic bag will actually stretch.
+
+And so active tension is being generated. So that's zero pressure filling volume.
+
+It's the maximum volume to which you can fill the vascular segment or your plastic bag before any wall tension is being generated.
+
+Right. Then there's usually an elastic portion.
+
+The more volume you push in. The more tension is being or pressure is being generated.
+
+Right. And then there's usually an elastic limit.
+
+So you can try to push more in. But but you keep the pressure doesn't increase.
+
+Sorry that the volume doesn't increase. You reach the elastic.
+
+Limit the filling capacity. Right? That slope over here is what we call the capacitance.
+
+It's the change in volume with the change in pressure. That's our definition.
+
+You can call it the incremental compliance or capacitance. We're not differentiating between that.
+
+It's essentially we will operate for all intents and purposes on this linear part of this slope over here.
+
+So that's what we call vascular capacitance change in volume over change in pressure.
+
+You have a high capacitance. That means you have a very floppy structure, meaning you can store a lot of volume with very little change in pressure.
+
+You have a very low capacitance. It's very akin to a very stiff spring.
+
+Right. So this is equivalent to the to the hook spring constant.
+
+Right. Okay. So estimating the arterial capacitance.
+
+Right. The stroke volume is about 70 80ml per minute.
+
+And the pulse pressure is about 4120 over 80.
+
+Right. So we can estimate the lumped arterial capacitance at about two milliliters per millimeters of mercury.
+
+Remember what we're doing is we're pushing 80ml over a very short period of time into that whole arterial treat right.
+
+We assume that over that period of time there's no runoff into the periphery.
+
+And from the beginning of that ejection to the end of the ejection, the arterial pressure has increased by 40mm of mercury from 80 to 120.
+
+So that 40mm of mercury was needed in order to accommodate the 80ml that we've pushed in.
+
+All right. So we can compute delta v over delta p.
+
+And that turns out to be about two milliliters per millimeters of mercury.
+
+That's the entire large arterial system. Okay.
+
+And doctor students ask you in the first lectures, like how many of us already have signs of of of cardiovascular diseases and the.
+
+The truth of the fact is, you know, all, all of us in some sense.
+
+And how does it manifest itself systemically at a macro physiological level, at the level of the arterial distance ability?
+
+We want our arteries to be nice and dispensable. We want that slope to be large.
+
+So the vast majority of you are probably operating here or near right.
+
+Some of us are approaching some of these categories from the wrong direction.
+
+Right. So some of us are operating here. Well, we don't have anybody here.
+
+Right. But you will see this is just postmortem. This is not necessarily pathological.
+
+These are post mortem specimens of trauma victims. Right.
+
+You can see how this actually changes already in early in life.
+
+That the distance ability. The position of.
+
+All sorts of things in your vascular wall already decreases, and we'll have a lot more to talk about when we talk about atherosclerotic diseases.
+
+Yeah. Correct.
+
+So here. So the slope here is still positive.
+
+Right. The slope is always positive. All right.
+
+We're not coming back down this way. So the capacitance, even even when the pressure transport pressure is negative, the slope is still positive.
+
+It's the change in the pulse pressure. It's the change in the transfer pressure.
+
+We assume that the outside pressure is zero, right?
+
+If we say the trends, more pressure here at the end of diastole is 80mm of mercury at systole is 120mm of mercury.
+
+Right. So then the difference between the two is still 40 because the outside pressure hasn't changed.
+
+It'll drop out. But it's a good question. Okay.
+
+So what about. So we currently talked about the arterial system over here.
+
+Now we have the pressure on this axis and the volume on this axis.
+
+We have to flip this around in your head a little bit.
+
+So if this is now the zero pressure filling volume of the entire arterial system about 500 cc's.
+
+Right. And this. Is the pressure volume relationship or volume pressure relationship of the arterial system.
+
+This is the systemic arteries. These.
+
+Of the systemic veins, meaning that we have zero pressure filling volume.
+
+That is a lot larger than on the arterial system.
+
+And we have a capacitance. That is a lot higher on the arterial.
+
+So if you think of storage vessels again, we think of the systemic veins.
+
+Right. If you look at the plastic vessels, you think of the systemic arteries.
+
+But the vast majority of our blood volume in the systemic circulation resides on the venous side.
+
+So. Voila. This is then our model of the peripheral circulation.
+
+All resistance resides on the level at the level of the micro circulation.
+
+That's the only that the vast majority of the resistance over here.
+
+Right. We have a capacitive element over here that relates to the elastic properties of the large arteries.
+
+And we said this is on the order of two milliliters per millimeters of mercury.
+
+We have likewise a capacitive element at the level of the venous circulation.
+
+Right. That capacitance is an order of magnitude.
+
+Factor of 50. Larger than that of the arterial side.
+
+Right. And then we have a tiny resistance to venous return over here.
+
+And that is mostly because. So that we have a difference between the PV and the PV.
+
+Right. So blood flows in steady state from here encounters a very significant resistance.
+
+Arterial pressure, usually much larger than the venous pressure. I mean, over here, probably around 90, maybe mean over here, probably about five.
+
+This, for all intents and purposes, the filling pressure mean right atrial pressure on the order of zero.
+
+Right. This two milliliters from millimeters of mercury.
+
+This. 100. We're only representing the elastic properties here.
+
+If these kinds of symbols are not. Do not be scared.
+
+Right. Really, this all represents just the fluffiness of the vessels over here, right?
+
+It's just like, as I said, it's just like a Hooke's law. It's like, how stiff is this thing, right?
+
+This is how much resistance has this thing. Again.
+
+How stiff is this thing? How much resistance is there between the the systemic veins and the right atrium?
+
+It's just it's just a graphical representation of the kinds of things that we've already.
+
+And now they are constitutive. Laws that come with it, right?
+
+The flow through. The resistance obeys what you might want to call Ohm's law.
+
+Right. The flow into the capacitance.
+
+Obeys essentially the constitutive relationship of the capacitance.
+
+We will not even go that far. Now.
+
+The class is very quiet. Right?
+
+Yes. So what?
+
+Uh, you mean RC and RC?
+
+Parallel. We're here. Uh, you.
+
+So your question is, why don't we.
+
+Why don't we have it? This way.
+
+Is this your question? Like. Uh, so your question then is, is.
+
+This. We'll get to that.
+
+So. So your question is we could also model something like this.
+
+Right. Yeah. Okay.
+
+So if you do that, you will have a steady state flow into the interstitium.
+
+Right now. If you want to really model the flow exchange with the Interstitium, you can do that.
+
+Right? Right now we are ignoring the flow into the interstitium. Remember, we have steady state flow over here, right?
+
+So we we don't have fluid loss essentially into the tissue.
+
+That's what what is outside over here is essentially the tissue pressure which we assume to be zero.
+
+Yeah. Yeah.
+
+So that you would have it over here. Two of what?
+
+In parallel. Like this.
+
+And then. And then. Oh, this.
+
+Like this. I guess it doesn't work like.
+
+So what this means is that this is the outside pressure with our tissue pressure.
+
+But this represents that elasticity, right?
+
+Meaning that you have an internal pressure which is pressurized by the arterial system.
+
+Right. That's our arterial pressure. Right. And what this element represents, the way that the topology is laid out over here,
+
+is the elasticity of that vessel with respect to the outside pressure, which is essentially tissue pressure, which is essentially zero pressure.
+
+Okay. The external pressure.
+
+Tissue pressure is zero. And that is a very good assumption for most tissues except for the brain.
+
+Right now, if you have something like this over here, you can you would, you know,
+
+could model something like the viscoelastic nature of some of these vessels.
+
+We want to simplify. We do not want to. Make it more complex.
+
+Okay. So what this represents is the flopping.
+
+This is is the wall elasticity. Right.
+
+This is the resistance to blood flow through the micro circulation.
+
+The elasticity of the veins. Extensibility.
+
+Compliance. The resistance to venous return to the right heart.
+
+That's it. Okay. So.
+
+You we say this. Yeah, I already pointed this out. So this here, this this sensibility is what's captured here.
+
+All of that has already indicated the resistance is captured by this resistive element over here.
+
+Right. And this, this sensibility of this capacitance vessel over here with this resistance to venous return is captured over here.
+
+Okay. Now I left the best for the last, if you will, because we still have to express the flow rate.
+
+As a function of the filling pressure. Okay, so strap yourselves in.
+
+All of this is in your notes, by the way. So this is the reading for you. So.
+
+So really. We want to relate the flow rate right to the independent variable, which is our filling pressure.
+
+And the parameters of the system, which is RVCa and the total volume and the total zero pressure filling one.
+
+Right. So. Nothing of this is magic.
+
+The pathway to get there. Will takes us through a few equations.
+
+They're all in your book. The end product is more important than the path over here.
+
+All right. So let me explain to you how we do it. As I said, it's spelled out in great detail in the course notes that we assign for reading.
+
+The most important thing in the end is the functional form.
+
+And we'll explain it intuitively. Right. So bear with me for the next two slides.
+
+Blood volume. We have the total zero pressure filling volume V naught, which is made up the zero pressure filling volume of the arteries and veins.
+
+We're only talking about the peripheral circulation, by the way. We're not talking about pulmonary circulation.
+
+I'm talking about the heart. Right. Only peripheral circulation. Keep that in mind.
+
+Total blood volume is T and the descending volume is the total volume minus the total pressure filling volume.
+
+So far, so good. Okay. Cool.
+
+All right. So. This is important.
+
+Everything is important. Let's assume we're in steady state, right?
+
+Blood is coming through the peripheral circulation at five liters per minute.
+
+And then we go in and we clamp. No more inflow.
+
+No more outflow. While this is going in steady state. Right.
+
+That arterial pressure over here obviously is larger than this venous pressure over here because we have a big fat resistance sitting here.
+
+Right. There's resistive drops over here 90mm of mercury maybe about five millimeters of mercury right.
+
+But now we come in and we say clamp. Boom. No more inflow.
+
+No more outflow. What will happen to these two?
+
+Precious. They will equilibrate.
+
+Right. Because there's no more flow quote coming in.
+
+So there is no more replenishing over here for what is running off over here, right?
+
+This pressure will come down. This pressure will go up until both of them are equal.
+
+And there's no more flow through the system. Intuitively makes sense, right?
+
+So this is just the math to explain that. Well, we're saying if all flow goes to zero.
+
+Eventually all pressure is equilibrate, meaning that PA is equal to p, f is equal to PV, and this pressure will give a separate name.
+
+We will call it the mean systemic pressure.
+
+How many of you have been in a cardiac catheterization lab or a intensive care unit where someone was catheterization?
+
+The heart stopped. Nobody.
+
+Okay. The pressure. Well, as we will show you decreases very neatly, exponentially.
+
+But it will not decrease to zero. It will decrease to what we call the mean systemic pressure.
+
+Right. So. The volumes.
+
+I constant. Right. It's a total volume doesn't change.
+
+This is the arterial volume. PA times ka. Plus the zero pressure filling volume.
+
+So this is what we call the stressed or descending volume. Plus the zero pressure filling volume on the arterial side plus the venous volume,
+
+which is the stress volume on the venous side, or descending volume on the Venus side,
+
+which is the pressure on the venous in terms of compliance, plus the venous zero pressure filling volume that makes up the total volume.
+
+Right. So when all these pressures are the same. Right.
+
+Then we can impute for PA, PMS and PvP PMS and we can resolve this for PMS.
+
+And we can say the mean systemic pressure is simply given by the total descending volume.
+
+We total minus total zero pressure filling volume over the total compliance.
+
+That's the definition of the mean systemic pressure. Yeah.
+
+This year. So no, this is just the definition of V not it's a total zero pressure filling volume.
+
+It's just combining these two. Yeah. Yeah. No. Good question.
+
+Right. I'm just saying this is maybe I should say T over here for total.
+
+Right. So what we're saying is that the pressure that the system will equilibrate to is the total disk standing volume over the total capacitance.
+
+Nothing to do with resistance because all flows have ceased, right?
+
+It's just a measure. It's some sense. It's just a measure of how much volume have we pushed in over the total compliance?
+
+It's essentially that balloon analogy. Okay.
+
+You could also say the total capacitance, right, is the mean systemic pressure over the descending volume.
+
+And then we're back to that constitutive relationship of the capacitance. Yeah.
+
+You're. Is that we've always had.
+
+See? What allows you to get rid of the delta?
+
+Yeah. So what we're saying over here is if this is the transfer pressure over here, right?
+
+This is the volume over here. We're saying this is our arterial or venous zero pressure filling volume.
+
+And then we have sort of a linear part over here. Right.
+
+And it goes back to the same question that was asked previously.
+
+We make the assumption that's let's say for the arterial side that this is petrol pressure minus the outside pressure.
+
+Uh, pressure which is sort of tissue pressure. Which we essentially setting to zero.
+
+Okay. And then this here is our slope. Right.
+
+So what we're saying over here is if we are pressurized to a certain level over here.
+
+Right. Then the corresponding volume is our zero pressure filling volume plus whatever.
+
+You know delta you know P times the compliance over here.
+
+That's what we're saying over here, right? The total volume of the vascular segment is made up by the zero pressure filling volume.
+
+That intercept over here, plus the linear slope times.
+
+The times the pressure. Okay. So I mean systemic pressure that definition is on your homework assignment.
+
+And one of the first problem. That gives you an indication of how important that is or will be.
+
+Okay, so. Magic happens, right?
+
+And in the end, we have a red box. He is.
+
+So what are we trying to do? Right? Let's not lose focus here, right?
+
+Let's not be scared. Let's not lose focus. We're trying to express Q.
+
+The flow rate is a function of p f and all the parameters of the system.
+
+Right. So we need to get rid of PA and we need to get rid of PV because PA and PV, we could express it in terms of those.
+
+I don't know who asked that question. Right. We could express it in terms of those pressures as well, but we chose PV.
+
+Right. So we need to express PA and PV. We need to get rid of them.
+
+And we need to somehow express them in terms of the parameters of our system.
+
+RVCa vetoed us, vetoed a zero pressure fitting one.
+
+That's it. That's our task, right? So how do we do this?
+
+Previously, we dealt with the fact that Q is zero. We clamp.
+
+If Q is not zero, then we can express the flow through this in Steady State's PA minus p over r a plus RV.
+
+You're with me, right? And then we just resolve this exact equation for PA.
+
+Because we want to get rid of you. Likewise, we can say in steady state the flow through just this branch is p v minus p f over the flow.
+
+Right. You're with me as well, right?
+
+No magic so far. This is not like, you know, I'm trying to. Hide something here, right?
+
+So then we resolve this for p f. Sorry for p v.
+
+Right. First equation over here is the flow from pa to p f.
+
+The second equation is just from PV to PV, and we resolve this for PV.
+
+Now we can plug this into the corresponding descending volumes.
+
+All right. So what we're saying over here is Paca plus PVC.
+
+V is our total descending volume, which is total volume in is total zero pressure filling volume.
+
+Right. And we know that this has to be equal to PMS times C.A plus CV as the total volume is conserved.
+
+Right. And then we just rearrange all of this. I leave that to your own reading.
+
+All right. And in the end, what we come up with is this equation.
+
+So, I mean, we can do this, right? We can substitute this part over here for PA.
+
+This is what we're doing over here. We substitute this part over here for PV.
+
+We're doing this over here, and then we're just fiddling around.
+
+Right? Then we are expressing we're expressing the the the the Q ultimately.
+
+So in this equation here already in this equation over here.
+
+We haven't applied anything other than the constitutive relationship for the flow through the resistance.
+
+We have fcv, q rs, RVCa, RV r, cv, PMS, caa cv.
+
+No more PA. No more PV. We're done.
+
+All we have to do is resolve it for CU as a function of PV.
+
+Really no magic. So take take take, take ten minutes. 15 minutes.
+
+Didn't count way. Look at it in your notes. It should be clear.
+
+If it's not clear, come to us and ask us. Right.
+
+But all we're trying to figure out what is the flow going through that system as a function of the downstream pressure.
+
+Do I have this here? So the important thing over here is the flow.
+
+What is that functional relationship? Right. The flow is given by a pressure difference.
+
+Over. A weighted sum of the resistances.
+
+It looks very, very similar to what we've had before. Upstream pressure minus downstream pressure over resistance.
+
+That's the flow. Right or resistance is pressure difference overflow.
+
+The only difference is this is not the arterial pressure over here.
+
+And this is the feeling pressure over here. If that were the case, arterial pressure minus filling pressure over RA plus RB.
+
+But we would still have the problem that we have PA in there which is a dependent variable.
+
+We got rid of PA and PV, and the functional form still looks exactly the same.
+
+That's why I say fear not. Right, because the functional form is the same.
+
+A pressure difference over some weighted sum of resistances.
+
+Right. Just that the mean systemic pressure, the one that we calculated previously as a total descending volume of the sum of the capacitances,
+
+now plays the role of the upstream pressure. But remember that the mean systemic pressure itself is just the parameter.
+
+Right. It's. It's given by the total volume.
+
+Total descending total descending volume over the total capacitances.
+
+This is where the volumes are encapsulated and the compliances in here.
+
+What we're saying is RA is weighted by CA with the A+, CB plus RB, so it's still a pressure difference over a resistance sum.
+
+It's just. By eliminating PA and PV.
+
+We've brought in these parameters. And that weighting gives almost equal weight to the array into the RV.
+
+The total volume is a parameter that's given. I give you the total volume.
+
+I give you the total pressure filling volume. I give you the resistance, RVCa and CV.
+
+So in that point you can compute PMS.
+
+Right. And you know the denominator over here. Right.
+
+We said PFF is a downstream pressure. It plays the role of the downstream pressure in our final formula.
+
+Yeah. You are in steady state.
+
+So what you're saying is because we clamped. Right.
+
+The clamping condition is just. It's just a way to define intuitively PMS.
+
+I could have defined PMS exactly in the same way without making reference to the clamping.
+
+It's just the clamping was was just a way to actually motivate how to actually get at PMS, what PMS physiologically is.
+
+It's the pressure to which the, the, the, um, the PA and PV converge in the absence of flow.
+
+Okay. Okay. So let's look at this diagrammatically because it might be become more intuitive.
+
+Right. And there's there's a twist to this story. So here's our Q on the x axis right.
+
+Here's our feeling pressure. This is our independent variable. Here we have our dependent variable.
+
+Okay. If our feeling pressure is equal to PMS.
+
+What's the flow? Zero, right?
+
+Mathematically, zero if PMS plays the role of an upstream pressure, if the downstream pressure is equal to the upstream pressure, we have no flow.
+
+Now let's say this is PMS, right?
+
+And now what I'll do. I'm lowering the downstream pressure.
+
+What's going to happen to Flor? It's going to go up.
+
+Right. So I started with FX being PMS. There's no flow going through because the upstream and downstream pressure are the same.
+
+Now if I lower the downstream pressure, I will increase the flow going through the system, right?
+
+So if I start at PMS at zero and now I actually lower the filling pressure.
+
+The flow is going to go up. By how much?
+
+Well, it's given by the slope. Right, and the slope is minus one.
+
+Divided by. This resistance term.
+
+Right. It goes up and up and up. Lower and lower and lower the downstream pressure.
+
+Right. It's like a pipe. If you keep the upstream pressure the same, but you lower and lower.
+
+Lower the downstream pressure, you have more flow going through or constant resistance.
+
+Right. You go up up up up up up up up up.
+
+Until this point. And that's where the twist comes in. So up until zero.
+
+Are we cool? Right. We have a pressure difference.
+
+In the numerator, we have a resistance term in the denominator and the flow is the pressure over the resistance.
+
+No big deal. The functional form looks a little funky, right?
+
+But we will get used to it. The other funky thing is it's not par.
+
+That's the upstream pressure. It's PMS in this formulation, because we threw out par and we threw out PV.
+
+And PMS is only dependent on the total compliance and the total volumes in the peripheral circulation.
+
+Right. But within that framework, as we lower the pressure, the feeling pressure or independent variable,
+
+right, that return that flow through the peripheral circulation is going up.
+
+Right. What happens at zero.
+
+And the pH is the mean right atrial pressure with reference to the atmosphere.
+
+At zero. What happens to Venus structures.
+
+They collapse. Right. So at zero there's a breakpoint now.
+
+They collapse. But it's not a form of static collapse.
+
+Because. What you have.
+
+Now, what I showed you earlier is, is a segment of, of vascular wall.
+
+Right. And of that vascular wall, if you have the outside pressure statically larger than the inside pressure, you have that collapse.
+
+Right. You saw that sudden drop right here.
+
+It's slightly different situation. Here.
+
+What happens? Is best described this way.
+
+Let's say you have a vascular segment that has a certain length. Again, you have a downstream pressure.
+
+You have an upstream pressure and you have an outside pressure.
+
+And you have an internal pressure, right? Let's assume that the outside pressure exceeds the inside pressure.
+
+We're falling off that cliff. And. We have vascular collapse over here.
+
+In the non collapse state. The pressure over here might be P not.
+
+Plus epsilon. And the pressure down here might be peanut minus epsilon because there's resistive drop.
+
+So in the middle here the pie might be equal to peanut.
+
+And peanut minus p naught is zero. So you might actually collapse.
+
+And over here. Right. At that point.
+
+There's no flow going through that system. What is the pressure over here?
+
+It's the upstream pressure, right? It's no longer P naught plus epsilon.
+
+All of a sudden, if that is collapsed right. You have a hydrostatic problem.
+
+And the pressure over here becomes P upstream.
+
+When this becomes upstream, the transmission pressure here becomes positive.
+
+Right. Then the transfer pressure over here becomes positive and you're pushing this open.
+
+You're pushing this collapsed region open. There's flow going through.
+
+When you have flow, you have resistive drops. All of a sudden that pressure over here is no longer p up, but it becomes p zero plus epsilon.
+
+P0 minus epsilon p0. Over here you've got collapse again.
+
+So in very large Elastic Tube experiments, you can actually see this flutter phenomenon, right, where a tube can go into these kinds of oscillations.
+
+And even though the outside pressure is larger than the inside pressure.
+
+The collapse is not one of static collapse. It's actually a state of what we call flow limitation, meaning that there's still flow going through,
+
+but that flow is no longer dependent on the upstream pressure minus the downstream pressure.
+
+It's actually the upstream pressure minus the outside pressure.
+
+And that's what happens over here the moment that you reach essentially zero transmission pressure.
+
+The flow going through the system becomes independent of the downstream pressure.
+
+It's sometimes called the vascular waterfall, right?
+
+The flow that's going over a waterfall is independent of how far it's dropping.
+
+Right. Only dependent on what the upstream pressure is, right?
+
+We have the same phenomena in the in the ureter. We have the same phenomenon.
+
+We probably haven't talked about this. It's flow limitation in the respiratory system.
+
+When you do fev1 measurements, forced exhalation forced exhaled volume at one second because part of the respiratory system also.
+
+Collapsible tubes. And when you actually do a fourth exhalation,
+
+your intra thoracic pressure becomes very high and much higher than the alveolar or the the the tracheal pressure.
+
+So you can actually have collapse there as well. Point here is.
+
+And you've all tried this. Flow through collapsible tube.
+
+Right. You've all probably try to to, uh, increase the volumetric flow rate through a collapsible straw of a smoothie.
+
+Right. And by generating more negative pressure through buccal action.
+
+Right. You're trying to suck harder and harder does not make more smoothie come through.
+
+It's simply because at some point, the straw that you're using is actually going into a state of collapse.
+
+Try that the next time you go to Toscanini's. Right.
+
+So you can do an experiment there. And that's exactly what we have over here.
+
+This is what I've pretty much described over here. You have an upstream pressure.
+
+You have a downstream pressure and you have an external pressure, right.
+
+Once the transplant pressure reaches zero, you're getting in a state of flow limitation,
+
+and the flow rate going through the system becomes independent.
+
+Of. The downstream pressure only dependent of the upstream pressure, minus the external pressure or outside pressure.
+
+But that. Ladies and gentlemen, now. Is our input output relationship that we sought for the peripheral circulation or independent variables.
+
+Our dependent variable is Q. And now if I ask you how does this change if I double the blood volume.
+
+You see, you don't understand at this point because of your deep reflection of the material.
+
+How powerful a method you have just learned. Right.
+
+Because if I ask you, how does this how does a volume change?
+
+How does a volumetric flow rate, how does Q change if you double the descending volume?
+
+Right. If I had asked you this at the beginning of the lecture, maybe next year. I should start off with that.
+
+How does the flow rate through the peripheral circulation change if you double the volume to the standing volume?
+
+Right now you know exactly that. The only place where the descending volume enters is the mean systemic pressure.
+
+If I double the mean systemic pressure, I double the mean. If I double the descending volume, I double the mean systemic pressure to 16mm of mercury.
+
+No change in resistance, no change in compliance. We think of these things.
+
+And let me emphasize this. We think of these parameters as independent.
+
+The resistance is independent of the filling state. Not quite true.
+
+The compliance is independent of the filling state. Also not quite true, right?
+
+But we think of RC and volumes as independent variable variables.
+
+So if I ask you how does it change.
+
+How does Q change or the, the uh, flow through the peripheral circulation through a doubling of the descending volume?
+
+It goes like this, right? You double PMS only place where the descending volume appears.
+
+The slope of this is independent of the volume. The slope is not going to change, right?
+
+Doubles goes up up up up up up up until it reaches zero, until you reach zero more pressure and boom, it stays constant.
+
+Because once you reach zero transfer pressure, the flow through the system is in a flow limited state,
+
+it becomes independent of the downstream pressure. Do the same with RA and do the same with RB.
+
+So we have achieved our goal. Of getting that input output relationship.
+
+This is the input output relationship, either graphically or algebraically, of the peripheral circulation.
+
+One final, as I say, right? That's it. Does it have anything to do with reality?
+
+Of course not. No, it does actually. It's actually fairly powerful, as I said.
+
+Otherwise we wouldn't be teaching it. Right. So this here.
+
+Is changes in resistance, and by resistance we mostly mean the arterial resistance.
+
+So this is what the model predicts, right? If you change the arterial resistance PMS does not change.
+
+Resistance does not enter the equation.
+
+The definition of the mean systemic pressure. Right.
+
+But the slope changes. This is normal.
+
+Two times normal. One half normal. And as you might have heard of Arthur Guyton, one of system theory,
+
+physiologists of the last century has done a lot of, uh, dog experiments for that matter.
+
+Here he created a fistula, meaning a short circuit between a large artery and a large vein.
+
+Right. And when that happens, when you actually open that fistula.
+
+When that happens, you have very low peripheral resistance because you are short circuiting.
+
+Let's say you have a large you have a big bore connection between the femoral artery and ephemeral vein.
+
+Right. You're bypassing all the micro circulation of the leg.
+
+Flow takes the path of least resistance. By then, if you have a big bore connection, you're opening that fistula.
+
+Meaning that the resistance drops significantly. Right.
+
+No change in the mean systemic pressure.
+
+Likewise, if we change PMS over here, right, by giving a blood transfusion.
+
+We move the offset. But we don't change the slope.
+
+All again, think of these as independent again. We are.
+
+We ask Doctor Guyton to do the experiments for us and.
+
+Forget about the epinephrine over here. This is just to control the system in the same state.
+
+But what you can see over here is that the slope stays more or less the same, but you're just changing the mean systemic pressure.
+
+Right. You're changing. Sorry. You're changing the view.
+
+Manipulating the volume. Not with the transfusion, but by making the veins actually constrict or relax.
+
+Right. That's why we have the connection over here. Sorry. But essentially, it's the same if you're manipulating the descending volume.
+
+Right. So all of this essentially the same.
+
+Uh, blood volume again. So this is the one that I was thinking about here with manipulating blood volume.
+
+Right. And again, the dog is blood 126.
+
+Um, sorry. You know, but, uh, blood 126 is, uh, infused 200 cc's.
+
+The slope changes a little bit, right? Because it's very difficult in experiments to really keep some of these, um, parameters independent.
+
+Right. But the bigger effect is that we actually have a very significant change in mean systemic pressure.
+
+So we asked you. Patient comes into the emergency department of taking care of them.
+
+There is the hemorrhage. 500 cc's. Right. What's the effect on the peripheral circulation?
+
+It's a change in mean systemic pressure. It's a reduction in mean systemic pressure.
+
+Right now you're giving 1000ml okay. I'm changing the mean systemic pressure in the other direction right.
+
+This little formula and this graphical representation allows you to go through that
+
+mental exercise and to figure out how does the peripheral circulation respond to,
+
+um, to these kinds of perturbations to the system.
+
+Now, let me ask you. How does the flow through the peripheral circulation change if we double the heart rate?
+
+Not a single iota. As a heart rate is a parameter of the heart lung pumping unit.
+
+There's nothing in our formulation over here that relates to cardiac contractility,
+
+in systolic compliance of the heart and diastolic compliance with heart rate, pulmonary capacitance, pulling resistance, and so on.
+
+We're only looking at the. Flow through the peripheral circulation only depends on parameters of the peripheral circulation.
+
+Now in the intact circulation. Next Tuesday, those two will interact, right.
+
+And then we will figure out how does the new steady state actually change.
+
+And that steady state is determined by the interaction of both the heart lung pumping unit and the peripheral circulation.
+
+Okay, it was one question. It is the PMS PMS.
+
+Is it mean systemic pressure? Okay. All right.
+
+We are time. There's one more thing that I will start with.
+
+And this is what is called the Wind Castle approximation. I'll start with this at the beginning of next lecture.
+
+But apart from that next lecture we will switch the focus and we will look at at the single isolated ventricle.
+
+And we'll come up with a description of the pumping action of the ventricle.
+
+And as I said and then on on on Tuesday next week we'll put it all together and look at the function of the intact circulation.
+
+And you all remember that Tuesday next week we'll meet at room.
+
+Road building for 370. Okay. Okay. Yeah.
+
+Okay. All right. Thank you. And please, make sure that you take everything that you brought in.
+
+Okay. I'm going.
+

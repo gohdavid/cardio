@@ -1,0 +1,2091 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right. Good morning. No no no no no.
+
+Good morning. Good morning. Thank you. Thank you.
+
+Thank you. All right. As I mentioned last time, we're leaving.
+
+Well, we're not leaving. Cardiac mechanics and and the cardiac cycle behind, as you will see, will keep coming back.
+
+But we're going to build now successively on the things that we have learned, right.
+
+Both in terms of putting it into clinical context and, uh, homework assignments going forward,
+
+but also, uh, in furnishing additional details that we haven't covered yet.
+
+Um, to give you a brief overview.
+
+Today we talk about cellular electrophysiology on Tuesday.
+
+This coming week, we talk about, um, clinical electrophysiology.
+
+So today it's all about the first half of the class is all about the electrical activity of cells,
+
+transmembrane potentials, action potential generation and propagation.
+
+Other ethnicity. What sets the pacemaker? Right the second half.
+
+Then we will actually then make that projection from the cellular electricity electrical phenomena to what we can measure on the body surface.
+
+On Tuesday. We will then expand on, uh, clinical electro choreography, meaning the EKG or the EG electrocardiogram.
+
+The very basics. We'll talk probably if you have time at the end of today's lecture.
+
+But then we talk about of single KG 12 kg and what these different projections might tell us about the heart.
+
+On Thursday next week we have what we call the electrophysiology lab, meaning doing class time.
+
+We will come here, not exactly here in room 119 and 121, which are right next door.
+
+And we will also use what is called the CTR, which is a center for clinical and translational research, which has offices down the hallway.
+
+And it's doing class time. And the goal is to have some fun.
+
+Not that this is not fun, but we have even more fun, more enhanced fun.
+
+So you'll record your own EKG.
+
+You play around with the recording setups, you, you know, look at the EKG, what it does if you take a deep breath in, if you take a deep breath out.
+
+Right. What happens to the ECG if you just start shaking your arm?
+
+Right. These kinds of things, you can run up, up and down the stairs if you want to bring your heart rate up.
+
+See how that changes your. Um, we will also have some devices.
+
+We can measure your blood pressure, you know, do other kind of recordings.
+
+If you have a stethoscope, bring it. You can listen to your heart.
+
+Right? So this is next Thursday. The high tech, um, egg that you will all be playing with is shown over here.
+
+This is a PCB printed circuit board. We have some amplifiers over here running off of battery.
+
+Um, this these alligator clips here will connect not to your fingers, but to the electrodes that we would put on your skin.
+
+Right. And we have a very high tech ground electrode over here, essentially a penny solder to, uh, the ground of this over here.
+
+Um, so we will all play with this, and I will tell you that the recording that you will get out of this is not of very high quality,
+
+but that is by design and on purpose, so that you can actually see what kind of electro magnetic interference we might get.
+
+Right. Getting this going is, um, is part of the fun.
+
+Additional setups that we have. The reason why we're at the CTR because it provides us more space, but they also have a treadmill.
+
+And so for those of you who wish, um, to come bring your exercise clothes, we can hook you up to the full stress test ECG,
+
+and we can put you on the on the treadmill and you can run on the treadmill.
+
+See how your how your EKG changes as your heart rate is starting to ramp up.
+
+We also have other 12 lead, uh, 12 DCG recorders.
+
+And as I said, we also have other devices that you can measure your blood pressure.
+
+You can measure cardiac output, these kinds of things. Yes.
+
+Yeah. And there are nurses at the at the CTR that will be there to help, you know, as you put leads on if you want for the for this device here.
+
+Right. All you need to put on is an electrode gel electrode on on one wrist and a gel electrode on the other is if you want to have the full 12 kg,
+
+you have it on the right arm, on the left, left arm, on the right leg, on the left leg.
+
+And then you have everything that we will call. You'll soon learn about the Precourt elites, um, which are right on your chest.
+
+Right. Okay. So what to bring? Um, the protocol.
+
+If it's not posted already, I will post it later today for the first session, so please.
+
+Or or posted in today's room or part on on canvas and then on Tuesday and on Thursday so that you don't have to go hunt for it.
+
+Bring your laptops fully charged. That's important.
+
+Because the little device that we will be hooking up to you is going to be hooked up to the laptop.
+
+What we don't want is a laptop. At the same time, to be hooked up to the power two to the power man.
+
+Right. We shouldn't be able to shock yourself, but we also don't want to run the risk.
+
+There's an internal failure in your laptop, right? We don't want to have something like this going on.
+
+Right. So that's why when you are actually hooked up to the laptop, the laptop ought not to be hooked up to the power main.
+
+But we'll make that clear during the last. Matlab is needed as a program.
+
+It's also in the in the in the manual called audacity.
+
+What we will actually do here is for those of you who are interested, it's we up modulate the ECG into the audio frequency range.
+
+And once we've done this, we can actually use the audio input of the laptop to record the EKG.
+
+Then in the program, we demodulator it, bring it back down to the frequency content.
+
+So it's. It's a simple but neat hack. In order to do this in order to then.
+
+But in order to make use of that, it's very helpful to have this, um, the software installed and, um, to be able to play around with it.
+
+As I said, if you if you want to get on the treadmill, just, you know, bring your exercise clothes, um, and, uh.
+
+That's next Thursday. All right then, a week from Tuesday, this coming Tuesday, Doctor Tedros will come.
+
+And we will then already start to talk about cardiac electrophysiology from a clinical perspective.
+
+We will talk about rhythm disturbances.
+
+We talk about things that you might have heard about atrial fibrillation, ventricular fibrillation resuscitation.
+
+Right. All of these things. So this is will be the first partial physiology block that will already start a week from Tuesday.
+
+It's going to be a series of lectures of about I think.
+
+So lectures. Okay. Today.
+
+The first part of the course. Today's lecture will be about cellular electrophysiology.
+
+As I said over here. Action. What is the action potential? Uh, how is it being generated?
+
+How can we understand it? How does it relate to the contraction that we've already talked about?
+
+Right. Uh, what's the concept of auto ethnicity? What is a hierarchy of auto ethnicity in the electrical conduction, uh, pathway?
+
+And then, um, how does the action potential propagate once initiated?
+
+And in the second half of today's lecture, we'll talk then about the surface electrocardiogram and how to go from the cellular,
+
+um, uh, generation of electrical signals to those that we can measure on the body surface on the order of millivolts.
+
+Okay, so this, uh, diagram was already up in the second lecture.
+
+We know we're talking about the right and the left atrium. We have the superior vena cava, the inferior vena cava, the coronary sinus.
+
+I. Right ventricle. Left ventricle. We know the structures.
+
+We know all of this. Specialized tissues that are indicated over here are what we call the electrical conduction system of the heart.
+
+Those are bona fide myocardial cells, not normal cells.
+
+They are myocardial cells, but they are specialized myocardial cells.
+
+And they are distinguished by their ability to be able to transmit or propagate action potentials very effectively.
+
+And some of them even have the ability to generate action.
+
+To to to generate action potentials. So what do we mean by action potential?
+
+We mean that there is a time varying transmembrane potential.
+
+Jump forward by one slide. What does that mean? Here we have a cell.
+
+And if we put one measurement electrode inside of the cell and one measurement electrode outside of the cell,
+
+and we measure the potential difference of voltage across those two electrodes, that voltage is non-zero.
+
+All right. So that voltage usually addressed. Is about -70.
+
+Minus. 80 some millivolts, meaning that the inside of the cell is more negative with respect to the outside of the cell.
+
+Here, the ground or the reference is usually far away from the cell.
+
+Right. So that's what we mean by a cell is polarized, meaning that it has a polarity across the cell membrane.
+
+All right. We'll talk about what sets up that polarity. But that polarity can also be time varying.
+
+And if that's time varying that's what we're calling then an action potential.
+
+Right. It has a very characteristic shape for a particular cell type, and it goes through a very well defined sequence.
+
+As long as there's enough time between one action potential and the next, as we will see.
+
+All right. Now we start at the same node over here.
+
+The sino atrial node. It's sort of a pea sized.
+
+Uh, collection of, of tissue cells, uh, of cells that you would only be able to identify in histological staining, um, experiments.
+
+But this is where the action potential usually generates.
+
+Or is generated. What you see over here are various phases of that action potential.
+
+But what I want to draw your attention to is this positive slope during what we will end up calling the phase four of the action potential.
+
+And during this phase four of the action to you have a slight increase.
+
+Towards. Zero. Zero is not indicated here.
+
+But this is negative, right? And once it hits a particular threshold, you see that there's this hump that's coming.
+
+And this would repeat itself. Once you get into the atrium.
+
+There are certain types of fibers over here that Doctor Tetro will talk about, but also a nearest neighbor propagation of that action potential.
+
+If my neighbor fires right, then I will sense this electrical stimulus and it will alter the permeability.
+
+The voltage gated ion channels in my cell and I will fire.
+
+So they are both sort of highway conduction over here through these pathways.
+
+But there's also nearest neighbor fellow spreading of that action potential as we will see.
+
+The action potential that you see in the atrial muscles is quite different from the one that you see at the level of the atrial load.
+
+It's much sharper features, right? And during that phase four of the action potential.
+
+That slope is actually zero, pretty much flat.
+
+Now. However, once you get to the V node here.
+
+That action potential resembles a little bit more of what you heard in the essay, you know?
+
+Right. You have a positive slow slope of of the phase four of the action potential, and you have less sharp features.
+
+Under normal circumstances, the atria and the ventricles are electrically isolated.
+
+Except. For the sign of atrial.
+
+We knew that under normal circumstances, the signal Atrillionoad is the only electrical pathway that allows the electrical activity to propagate from.
+
+The atria to the ventricle. Okay.
+
+After. This is the common bundle of his and the right and the left bundle branches, and then the fibers.
+
+Again. Specialized myocardial cells. Very fast propagation velocity.
+
+And here you also see when you go to the common bundle of his, when you go to the bundle branches,
+
+you go into the Purkinje you fibers and you go into the ventricular muscle cells.
+
+They're all pretty much with the same very sharp features. Right.
+
+Very sharp upslope over here. And pretty much flat.
+
+Not completely flat, but pretty much flat.
+
+Compared to what's happening at the node, and the node that already tells you that there's something different about the vineyard and the Senate.
+
+Right. And something that, um.
+
+Uh, relates to the generation of these action.
+
+Now, which might not be quite obvious over here, but the slope of the of the assay.
+
+Note here the the repolarization. Is larger than the slope.
+
+Of the. You know. Which means that under normal circumstances, the A v node cells are those that have the highest slope to that faith for,
+
+meaning that they will reach the threshold first. Once they reach the threshold for the fire, they have that time varying course.
+
+And if that happens, then that action potential spreads through the conduction pathway, but also in a nearest neighbor kind of behavior.
+
+Right now if this guy is out of commission for whatever reason.
+
+Right. The next ones that have that positive slope in the phase four of the action potential is the A V, not a V nodal cells.
+
+Right. Which means that if the assay node is not firing at some point, cells in the AV node will reach that threshold.
+
+And then they will fire, right?
+
+And then you can have action potential propagating down into the ventricle, but also backwards towards sort of through the atria.
+
+What will heart rate going to be like? Higher. Lower. Funny looking compared.
+
+If it's if if it originates from the movie. Not compared to the essay.
+
+Not. Floor right this floor if we have an AV nodal rhythm.
+
+Right? Because for some reason the Senate is out of commission. We expect the heart rate to be lower, right?
+
+Simply because that slope here tends to be smaller and that slope over here.
+
+If some cell decides, for whatever reason.
+
+Right? To have a very high score. That cell could take over and say, if I fire, then all my neighbors start a fire.
+
+Right. And action potential can be propagated.
+
+All right. So the conduction pathway we talked about transmembrane potential.
+
+You know what it is how it's measured that we usually have addressed a negative internal a negative transfer pressure.
+
+Uh trans mu uh um transmembrane potential.
+
+As I'm standing here and I'm exercising my muscles against gravity.
+
+Right. We can. We also have action potentials on neurons or in our, uh, skeletal muscle.
+
+Compare the ventricular cardiac myocytes action potential with that of a muscle.
+
+Skeletal muscle. Right? Much, much shorter.
+
+I'd only on the order of a few milliseconds over here, whereas here we're talking of several hundred milliseconds.
+
+We have something that's called the plateau. We'll talk about, which pretty much seems to be absent.
+
+In a skeletal muscle that will have very significant implications for the heart.
+
+It goes through cycles of contraction. And importantly, relaxation.
+
+All right. As we will see, if I actually contract my muscle, my my my skeletal muscle,
+
+I can put my skeletal muscle into a state of meaning, of constant contraction.
+
+I would be pretty bad if my heart could be in a state of constant contraction.
+
+What you will see in the. Cellular machinery is baked in. The requirement of contraction and having enough time for relaxation.
+
+All right. So very different timescales, similar amplitudes though.
+
+Right. What we would call the resting potential somewhere around -90 millivolts.
+
+Right. And the peak potential doing the uh doing the action potential um is plus 20 plus 30.
+
+So those are very comparable timescales. Very non comparable.
+
+What gives rise to that? Trans membrane potential.
+
+What we have here is our cell. And we have ionic gradients across that cell.
+
+Remember. Typically the calcium concentration inside of the cell when we're not just going through a, a,
+
+uh, excitation phase is very low orders, orders of magnitude lower than what we have outside.
+
+Right. This is in really models. Sodium inside low.
+
+Outside high. Potassium. Inside. High. Outside.
+
+Low. Right. Chloride. Inside low.
+
+Outside high. Magnesium is a little bit of a wash.
+
+Right. So how do these concentration gradients set up a, um.
+
+A potential difference. We have to go back to our beaker that we invoked when we talked about the starting forces across the capillary membrane.
+
+And we talked about, um. Peripheral edema.
+
+All right. We had a beaker here.
+
+And in this speaker. We have.
+
+Some solution. Right. And let's go with the same experiment over here that we had before.
+
+At time zero we put. Some species on one side of the beaker.
+
+And we assume that the barrier or that that membrane is permeable to that species.
+
+We wait for a long time. What happens? Concentrations equilibrate.
+
+Right? We end up with if the volumes are the same, with approximately equal number of solid molecules on one side or the other, right?
+
+Diffusive equilibrium doesn't mean that they don't go across right.
+
+There's still some, you know, random movements of these, but on average, concentration over here would be the same as the concentration over here.
+
+So far, so good. All right. So now let's assume that what I put in there is a salt sodium chloride for example.
+
+Right. That salt will dissociate.
+
+And let's say this is now species A. And this is a plus.
+
+And then if we dissociates sold species B is B minus.
+
+So we have an equal number over here they dissociate.
+
+And we now have positive and negative charges right.
+
+What we can also do now is we can measure.
+
+The transmembrane voltage. The transmembrane potential. Let's say at time zero.
+
+I dumped my salt on the on on the left side. It instantly dissociates.
+
+What's the voltage that I measure across the two? All right.
+
+Zero, right? Electro. Electro neutrality.
+
+Over here. Electron neutrality. Over here. Right.
+
+Because there's an equal number of positive and negative charges over here.
+
+There's no excess of positive or excess of negative charges.
+
+We measure zero. Assume that this membrane is permeable to both A and B, and we let it run for a long period of time.
+
+What's the trans membrane voltage? So zero, right?
+
+Because an equal number of positives and an equal number of negatives will make its way across the zero.
+
+What if you make it semi-permeable to a.
+
+But not to be. What will happen. Right.
+
+How so? Come on, tell us. Positive.
+
+All the positives. So the positives semi-permeable to a right.
+
+But so let's let's take one at a time right.
+
+Semi-permeable. Permeable. That means it can move across.
+
+Right. A senses a big concentration gradient.
+
+Well I don't know whether the sensors but random movement in there's an electrochemical potential that makes it more favorable to move over.
+
+Right now we have one A over here.
+
+That leaves a negative one behind.
+
+Right now we have charge separation. Okay.
+
+Take us through the next step. We would already have a voltage difference.
+
+But why stop here? No, no osmolarity.
+
+But so so. So there was an energetic advantage of this guy moving over.
+
+Right. Because there's a concentration gradient over here. However with this guy having moved over.
+
+We've set up an electric field. Right.
+
+We had Ifield here. Which makes it maybe a little bit less favorable, but maybe still favorable for the next guy to move over here.
+
+Right? Because there's still a big concentration gradient. But you're also working against an electric field.
+
+Right. So now the voltage that we are measuring is double what we have before.
+
+Right. We have two positives now on this side and then these two negatives behind.
+
+Because the negatives can come across. They would like to but they can't.
+
+Right now. Why stop here? We can have this guy go over here.
+
+Right. And now we have a positive over here as well. Where do we end when all the positives are over here?
+
+No. Right. So there's an electro diffusive and that's why that's what is on the on the board over here.
+
+An electro diffusive equilibrium. Because yes, there's still a tendency for these red ones to flow down the concentration gradient.
+
+Right. Let's give them a. So we have three and three over here. So maybe I should have done this differently.
+
+Maybe I give you a you know a couple more over here so that this is still a concentration gradient.
+
+Right now it's not a concentration gradient,
+
+but the equilibrium that is set up is when the fourth diffusive force that is going in one direction is balanced by the electric force,
+
+you know, going in the opposite direction, because these positive ones over here are now attracted back to the net negative space charge.
+
+And that has been set up over here. Does that make sense?
+
+Lecture. Diffusive equilibrium. The two forces that act is down the diffusive gradient.
+
+Right. But with each charge that goes down, you actually you actually making that electrical field larger and larger.
+
+To the point that those two forces balance each other out in the same way with the elect,
+
+with issues diffusive equilibrium at the end when the two concentrations are the same.
+
+You still have random movements across. You still have random fluctuations over here, but there's no net.
+
+Flux of charges in one direction or the other, or solutes in one direction, or the.
+
+Okay. Conceptually clear. Right.
+
+Now in the engineering class that we teach, at least in the neurophysiology class here we would go through the beautiful math.
+
+The diffused diffusion equation. The drift equation.
+
+The Einstein relation of diffusion of um.
+
+Solutes in in a medium. Right. We would set up a balance.
+
+We would say, you know, in steady state. Those two fluxes, you know, are equal.
+
+And what we would arrive at is the equilibrium condition.
+
+Based on the concentration. That determines the final transmembrane voltage.
+
+And that is known as the potential. You might have heard about that.
+
+So the final analysis of that sort of mathematical derivation that we will not do here is the fact that the final for a single molecular species.
+
+That the final transmembrane voltage that we will ultimately measure over here is related to a bunch of constants.
+
+And the natural logarithm of the outside concentration over the insect.
+
+All right, so it's only once. This is I over here that is allowed to diffuse across that semi-permeable membrane.
+
+What are the constants? The ideal gas constant is the absolute temperature in Kelvin per day.
+
+Constant is how many charges per mole and the valency plus one for sodium.
+
+Potassium minus one for chloride. Right.
+
+Um, minus two for a plus two for calcium and magnesium I think.
+
+Right. So how many charges per ion are you actually transporting across?
+
+Obviously it's important. Right. If you have one charge that flows down, or you have two charges that flow down the concentration gradient.
+
+It's important to, you know, to to what transmembrane potential is being.
+
+Um. Uh, established. Now, if you convert the natural logarithm to the logarithm to the base ten.
+
+Then. And then you and and you use essentially.
+
+Uh. Um, body temperature. Or room temperature.
+
+I have to figure that out. You get. Until I told me this becomes this over here becomes essentially 60 millivolts.
+
+So the pre factor becomes 60 millivolts over the valency. Don't forget the valency.
+
+And then the logarithm to the base ten. In outside concentration over the intercom transition it is room temperature.
+
+Would I read the slide?
+
+So this is easy to remember, but that's the transmembrane potential that is established in equilibrium for a single ionic species.
+
+All right. So with that, let's go back to our concentration gradients that we had in one of the previous slides.
+
+And look at what the concentration gradients these ones here would result in, in terms of the transmembrane potential.
+
+So nonselective ion channels. Meaning that you have a permeable membrane, everything can diffuse across.
+
+And as you rightfully said at that point, the trans membrane potential is zero.
+
+Same number of positive charges on one side as negative. Same number of positive and negative charges on the other side.
+
+No charge separation. No potential difference. More.
+
+Potassium channels inside and outside. Right.
+
+So you have in the Nernst potential.
+
+You have outside, over inside. If inside is larger than outside, this thing here is less than one, which is less than one.
+
+The logarithm of the base ten is negative. And for potassium, the valency is positive, meaning that the whole thing is going to be negative.
+
+All right. Inside. Lower. Then outside.
+
+Nernst equilibrium potential potassium at those concentrations roughly about -100 millivolts 90 to 100V on the other end of the spectrum,
+
+plus 150 millivolts. Nonselective reaction potential of.
+
+Calcium. Sodium at around plus 50.
+
+We say a transmembrane potential of zero.
+
+We say that cell is not polarized, does not have a polarity.
+
+Right. We call.
+
+This. Being polarized. Wherever we are calling a resting potential that we will define if it goes even more negative.
+
+We call this hyper polarization. Right.
+
+If we're moving towards zero, we're calling this depolarization.
+
+And if we're coming back towards our resting potential we call that re polarization.
+
+So hyper polarization depolarization repolarization.
+
+This is terminology that we will use today. What gives rise to the polarity and to the time varying nature of the polarity?
+
+We have a lipid bilayer of our, um, of our cell.
+
+That is pretty much an insulator. It's something that keeps charges apart, right?
+
+Pretty difficult to get through for a charge. Right.
+
+Very tightly packed. You have these lipid heads, right, that have good strong bonds.
+
+Right. And those, those those lipid molecules are pretty well, you know, connected.
+
+Right. Attracted however inside of that sea of, of of lipid molecules we have ion channels.
+
+And those ion channels is what gives rise to porosity.
+
+And electrical conductivity through these cells.
+
+Cell membranes. And there's various gates that are associated with it that depend on that state of opening or closing depends on, among other things.
+
+The polarity of the cell. So if the cell is very polarized, meaning or even hyper polarized, it could potentially be very close.
+
+Not letting anything through. If there's a fluctuation coming by an electrical in transmembrane potential,
+
+it may open up some of these channels and then allowing sodium to come in and maybe potassium to come out.
+
+And that can change then the polarity. It can change the transmembrane potential and it can lead to that action potential behavior that we'll see.
+
+I want to make that clear with. Maybe not a 21st century animation, but let's say an early 20th century animation.
+
+Many hours labored away by a former to to make it perfectly clear to you what we mean by this, right.
+
+Let's say you have an ion channel over here. This is a cell membrane.
+
+Right. This is an ion channel over here. It has these pedals.
+
+It has these these gates. Right.
+
+And if the resting transmembrane potential is -30 millivolts.
+
+The gates that have a positive gating charge on them are in the so-called closed position.
+
+And the one gate over here that has a negative gating charge is in the so-called open position.
+
+All right.
+
+And as I said, early, uh, PowerPoint animation allows us to see what happens if we now flip that transmembrane potential from -30 to plus 30.
+
+And this is what happens. Right. Two days of the year wasted, but maybe not wasted.
+
+We've been using it for a while, right? It depends. Yeah.
+
+So. But what happens is, is the following. Over here. You flip this.
+
+You flip the transmembrane potential. Right.
+
+And these gates change their configuration, whether it's like swinging open like this of course, in the hinge hinges like this.
+
+Right. But the effective. End result is the same.
+
+Is that when you actually flip this? The configuration changes.
+
+Right. And there is a period over which that channel is open.
+
+And what we have here. In this particular case, we have three activation gates and we have one inactivation gate.
+
+Meaning that if this is as it is a model, for example for sodium channel.
+
+Then when there is a change in the transmembrane potential,
+
+there will be a brief transient sodium current transient because the fast opening of the activation gate is then negated by the slow closing,
+
+eventually of the inactivation gate. Right.
+
+Opens. Closes. Transient channel.
+
+Now, what happens if you actually flip this around again?
+
+Now they swing back into the closed position very quickly.
+
+Right? But it takes a while for this guy to swing back in the open position.
+
+The net effect of this is here we are opening, and now we are slowly closing.
+
+Right. The net effect of the reestablishment of the negative transfer transmembrane potential is that at this stage, the channel stays closed.
+
+But we can't reopen. Until we've gone through that sequence of events and we're back in this configuration.
+
+Right. So there's somewhat of a history dependance for the channel to be able to open again.
+
+And that is also important for the cardiac, the action of the, you know, the cardiac myocytes, um, because there's some latency in the system overall.
+
+Okay. So if we zoom out from this individual channel view and now we're looking at the membrane we just described,
+
+maybe the behavior of one of these, but we have an entire ensemble of them floating around in our in our lipid bilayer.
+
+Right. Each one of them here. Can open and close, can have a little current going through,
+
+but because you have many of them, they can actually get a lot of currents coming through.
+
+And we can model the the behavior of the membrane and the channels for one ionic species with
+
+an equivalent circuit over here that I promised myself I would introduce already over here.
+
+And then of course, I forgot about it, right?
+
+So let's go back over here as this is how you want to build up a lecture, you want to actually see the thought, then you come back to it.
+
+You emphasize. But then if you forget about it and it's all out the window.
+
+Right. So. Let's come back to this one.
+
+What determines the current across here? All right.
+
+We said once we reached electro diffusive equilibrium, there's no current across.
+
+So there will be certain resistance associated with moving.
+
+Of across. So we can model this resistance over here.
+
+Right. And then we have this Nernst potential which is set up.
+
+And we can model this Nernst potential as a battery over here.
+
+Meaning what we have to do if we want to now actively push charges in one way or another.
+
+Right. We would have to apply a voltage. Larger than the neurons potential.
+
+Essentially, to overcome that noise. But in equilibrium.
+
+This is our model for this known potential. So this would be r v dot.
+
+You know Nernst for our ionic species I.
+
+This is what is established in equilibrium.
+
+And it's that voltage that we would have to overcome in order to have a non-zero current going across that membrane, right.
+
+And that is essentially what I wanted then to re-emphasize over here is that when we actually look at that entire patch,
+
+right, all of these parallel pathways over here.
+
+Are dumped into this single resistance over here. Instead of calling it a resistance, we calling it a conductance G.
+
+G one over R, right? Same lessons, one over C, right?
+
+Just easier to write. You don't have to constantly write one over R, right.
+
+So there's a certain conductivity or conductance or resistance that's associated with this.
+
+And this here is our Nernst potential. So in equilibrium.
+
+The transmembrane potential that we measure. Given that there's no flow going through here in a single ionic species is the Nernst potential?
+
+Is this battery right the same way over here? That in in equilibrium, when there's no more flow going through here,
+
+the only thing that we measure is that battery by definition, that's the potential.
+
+Okay. So that's the membrane conductance to the ES ionic species and V equilibrium or Nernst potential to that if.
+
+So if we want to have a current going through our membrane.
+
+Right. We have to overcome the noise because you know that if we just apply the noise potential over here, it would be zero.
+
+Okay. This guy.
+
+As we've already seen, can change with transmembrane voltage. It has these kinds of pedals, right.
+
+It can be responsive to um chemical species epinephrine, norepinephrine as we will see.
+
+Right. It can be time dependent. We have seen that already.
+
+These are not passive pathways, but these are pathways that respond to the environment to the stimulus or stimuli that it can get either.
+
+Chemical, physical. It can even respond just to mechanical stress.
+
+I. Doing all right.
+
+Getting ready. Yeah.
+
+We have we have 58 people who are, you know, willing to do. The breaths.
+
+Yeah. Correct.
+
+So. So essentially what I'm saying is if we apply a voltage that's equal to the difference potential, we have.
+
+No we have no flow going through. Right.
+
+But if we have something less than that or more than that, we have flow in one direction or the other.
+
+Yeah. Yeah. In the next slide.
+
+Yeah. So the way that this is, is by convention, right from the negative side to the positive side.
+
+So positive minus negative. Just. That's just a convention.
+
+Okay, so so far I've emphasized. Was careful to say for a single ionic species.
+
+Right. But we've already seen and we have a little bit of a conundrum here.
+
+We have already seen that calcium, sodium and potassium.
+
+Right. Have different neurons potential. So what will be then?
+
+The final transmembrane potential. Right. And if we if we equilibrate let's say to the potassium potential.
+
+Then we might have leakage over the other two because they will not be in equilibrium.
+
+So there's this notion of the resting potential.
+
+And so first coming to this. This is still a patch of our membrane, right?
+
+This capacitive element that I'm showing you over here. Is what I've described before is the lipid bilayer.
+
+It's just the fact that essentially the lipid bilayer acts as an insulator, acts as a capacitive element that keeps the charges separated.
+
+That's what this capacitance is about over here. And then we also have different ionic species.
+
+So we have the potassium. We have the sodium.
+
+We have the calcium. And then there's something we call either the leakage right or dumping ground of everything else.
+
+Those of you who are interested in neurophysiology of all of you, will actually see exactly this when you take a neuron next, next year.
+
+But those of you who've taken the electrophysiology or neurophysiology classes, you've already seen this.
+
+This might be called the leakage current p sub l, right.
+
+Okay, but now we have a little bit of a conundrum because these neurons potentials are not the same.
+
+So technically the the cell cannot be in electro diffusive equilibrium.
+
+Because you can only be neglected if you have equilibrium.
+
+If all of these cells, if all of these,
+
+these ionic species conspire in their concentration gradients in such a manner that all the neuron's potentials are the same.
+
+Because it can only be one transmembrane potential. That transmembrane potential is not the Nernst potential.
+
+Then you will have leakage. You have currents, right?
+
+You know, on the previous slide. Now that equilibrium if the concentrations just and their valences just hang out
+
+that way that they all happen to be the same is called the Dunning equilibrium.
+
+Potential reason why we don't have on a slide. It doesn't exist.
+
+Right. You can never prepare a system in such a way.
+
+It's so carefully titrated that all of these concentration ratios are exactly the same.
+
+Right? But what we will talk about is the notion of.
+
+Um. First this. I don't know whether this is out of order.
+
+Straight out of phase. The resting potential.
+
+And the notion here of the resting potential is the following.
+
+So the current density going through that membrane, if we sum up all the individual currents.
+
+Right. Is the membrane potential. Is Nernst potential.
+
+Of the individual. He is a conductance. This.
+
+Here is a. Current associated with the capacitor.
+
+The first thing that we do is we assume that it's rest, that this current is zero, and that the rate of change of the membrane potential is zero.
+
+So we're looking at this phase four of the action potential. Right.
+
+If v v over d t is zero, we can immediately forget about this guy.
+
+Right. And if the trends of the total transmembrane current is zero, the left hand side is going to be zero.
+
+So what are the conditions? Well, what determines the first order approximation?
+
+The transmembrane potential. Right.
+
+So? The only thing that is left are these individual currents.
+
+Right. So if the sum of the individual currents are zero, we can write this out as sodium, potassium and calcium and everything else.
+
+Right. GM is just the total transmembrane conductance.
+
+Right. So we sum over all of the guys over here.
+
+And what we will get is that the transmembrane potential in the presence of these, you know, multiple ionic currents.
+
+Is given by a weighted superposition.
+
+Of the individual neurons potential, where the weighting factors is the fraction of the total conductance of that ionic species.
+
+So what's the total conductance of the sodium channels?
+
+Over the total membrane quantum. What's the total conductance of all the potassium channels over the total membrane product?
+
+Same workout. Right. So what establishes the resting potential is essentially the dominance.
+
+Of the ionic conductance. Of the particular ionic species.
+
+So if one of these conductance. Dominate the transmembrane voltage.
+
+And that dominates the transmembrane conductance.
+
+And that's what essentially establishes the transmembrane voltage.
+
+And what it turns out to be is that address. The transmembrane conductance.
+
+Essentially dominated by potassium. Meaning that at rest in this phase four of the action potential, our transmembrane potential.
+
+It's close, but not exactly zero. So it's close, but not exactly equal to that of the Nernst potential of potassium -98.
+
+It's not exactly the transmembrane is under the Nernst potential of potassium.
+
+And so we have a little bit of leakage. How do we take care of the leakage?
+
+We have pumps. Right. So we have.
+
+Most notably the sodium and potassium exchange pump.
+
+We have high concentration of sodium outside. We have high concentration of potassium outside.
+
+And what the sodium potassium exchanges do is they pump sodium against its concentration gradient and potassium against its concentration gradient.
+
+It's electro genic, meaning that you have free sodium pumped out.
+
+Four two sodium for two potassium comes comes in.
+
+So you have actually a net charge the net current that is going across.
+
+That's why we call it electro genic. And obviously because you're pumping things against their concentration gradient, it requires energy to do so.
+
+But that pump. Is on the order of about point three micrograms per centimeter squared.
+
+Right. And it tends to hyper polarize the membrane by about ten millivolts.
+
+But the important point of emphasis over here is, uh,
+
+it's a it's sort of a quasi static analysis that we've done in order to avoid the full dynamic, you know, description.
+
+But what we're saying over here with this, with this analysis, is the transmit what establishes the transmembrane voltage at any given moment.
+
+Is whether there is a dominance.
+
+Of the membrane conductance of one ionic species that is essentially dominating over all the conductance of the other ionic.
+
+And you can imagine that, for example, if the sodium channels all of a sudden all open up right at -90 millivolts,
+
+most of these sodium channels are closed, right? There's very little sodium conductance.
+
+The vast majority is the potassium conductance.
+
+But then if there's if there's a fluctuation or if there's a disturbance coming through the ether, right.
+
+And it changes locally the transmembrane potential.
+
+And now these petals are starting to move. Right.
+
+And all of a sudden, all of these sodium conductance and, you know, open up what happens to the transmembrane conductance.
+
+Which ionic species is going to dominate, but at that point it's going to be sodium.
+
+What's the sodium Nernst potential? Plus 20, plus 50.
+
+So you can imagine that when all of these channels open up. Right.
+
+You're swinging from -90. Two plus 20, plus 30.
+
+Right. And that's exactly what's happening over here. You're happily sitting at your resting potential.
+
+Right. And then, for whatever reason. These sodium channels open up.
+
+And when these sodium channels open up, we call this the phase zero of the action potential.
+
+They can open up very quickly, but they're transient, meaning that they open up.
+
+And then you have that that inactivation gate that closes open up and then close.
+
+They open up. Then sodium conductance dominates the transmembrane potential.
+
+So you're swinging from something that's very close to the potassium Nernst potential.
+
+-90 something that's very close to the sodium.
+
+Neurons. Potential plus 30 plus 50.
+
+You're not exactly reaching those neurons potential, simply because the other conductance is around is not 100% right.
+
+And there's leakage, but sodium opens and sodium closes.
+
+But now when you actually swinging from something that's -90, you depolarizing right.
+
+Now the electric currents. The the electromotive force for potassium actually changes.
+
+Also the potassium channels can open further.
+
+Right. And what we are showing over, over here is the sort of the diffusive to the direction of the diffusive force or currents,
+
+and the direction of the drift of the electrostatic force occur right at this point.
+
+The potassium channels open up further and the polarity of flow is changing because now you have a positive transmembrane potential.
+
+Previously you had a negative transmembrane potential. When that happens.
+
+You're trying to come back towards. Towards the directionality of the potassium lance potential.
+
+So you're coming back down. Right. But with a little bit of sluggishness.
+
+The calcium channel is also open. And if that happens here, you'll see that the electrode diffuses both the electrical and the diffusive forces.
+
+Both point for potassium to leave the cell. Right going back towards.
+
+You trying to re polarize now? When the calcium channels open.
+
+The diffusive force. You have high concentration of of calcium outside very low concentration inside.
+
+So the diffusive flux is going one direction but the electric fluxes clearer.
+
+Right. And that actually balances out quite for an extended period of time.
+
+Now here the the chemical flux or potassium stays inside to outside because you have high potassium inside low potassium outside.
+
+So that never reverses. Right. But at some point over here.
+
+I doing the phase four of the action potential, which you also call the plateau of the action potential.
+
+This is a balance of forces, on average, between what's happening on the calcium and what's happening on the potassium side.
+
+Calcium very important to come in because of calcium induced calcium release.
+
+Here is the this is the electro dynamic if you will, or electro diffusive.
+
+Um. Uh, input to the excitation contraction coupling that we talked about two lectures ago.
+
+This is slightly drawn out. Eventually the calcium channels close and the.
+
+Drift forth reverses for potassium, and all that you have left are the potassium channels that are open and you return.
+
+The potassium. A conductance dominates again.
+
+And you're returning back towards the resting potential close to the Nernst potential of potassium.
+
+All right. So think that through. Look at this.
+
+But very quick sodium gating. That brings us from -90 to plus 20.
+
+Right. Sodium channels open. Sodium channels close. Right.
+
+But in that opening, you're reversing the transmembrane potential.
+
+Making it easier for potassium to leave because now you the it's the electro,
+
+the electrical flux and the put and the diffusive flux are no longer pointing in opposite direction.
+
+They're pointing in the same direction. Right. Calcium channels open.
+
+The balance of calcium fluxes and potassium fluxes, uh, provide this long,
+
+drawn out plateau of the action potential calcium channels close and you're polarize.
+
+Uh, due to the dominance of the potassium channel. Okay.
+
+Two more slides and then we'll break. These are quick.
+
+Blocking the sodium channels. Right.
+
+Something called tetrodotoxin. Not to be messed with.
+
+Right. You see here. Under normal circumstances, it's a very fast sort of current.
+
+And then you have this drawn out, uh, um, uh, phase two of the action potential.
+
+Phase three. Phase four. Now, as you give increasing doses of tetrodotoxin, which blocks the sodium channels.
+
+Right. You completely lose that fast.
+
+And as we will allude to, we are not going to go into detail the speed of the action potential.
+
+Is directly related to the rate of change of the voltage of the um, of the action potential.
+
+Meaning here you have a huge rate of change due to the sodium channel.
+
+Right here. The rate of change is very, very, very sluggish compared to here.
+
+What's the speed of that action potential? Very slow. Among other things.
+
+What kills you. Right.
+
+And so tetrodotoxin is to be put on spears in hunters and gatherers to actually, you know, paralyze or kill the prey on the cardiac myocytes.
+
+It it leads to complete lack of the fast sodium channels one second and a very low.
+
+Propagation velocity of the action. So.
+
+There's still leakage currents, right? There's still other currents that will allow you to come to, to to that threshold potential and,
+
+and eventually reach that threshold potential and then other, you know, um.
+
+Other channels can take over and you might not actually block all of them.
+
+You might just block a sizable subset that they don't have that.
+
+Exactly. Gating of all of them together.
+
+So the way that we think about it is here is that we have a first component which is purely sodium mitigated.
+
+Right. And then we have a slower component which is potassium and calcium mitigated.
+
+All right. So we'll break over here. Then we'll come back.
+
+We'll talk about the refractory periods. We talk about other ethnicity.
+
+And then we'll expand to the surface.
+
+Electrocardiogram. Ten 12 minutes.
+
+Thank you. I mean, that break is much needed, I tell you.
+
+When I took Theo and I know we had. So we had like Monday, Wednesday, Friday.
+
+But Monday was from 830 to noon. And then Wednesday and Friday with from 11 to 1.
+
+I mean, listening to one person for like from 830 to noon.
+
+Was brutal, right? But imagine the person having to lecture from 830 to no.
+
+Right. So it's also. But anyway. That's why we should all thank Doctor Stultz for providing the food and the nourishment.
+
+In addition to the intellectual input that he gives. But the food is more important, at any rate.
+
+So. We'll continue.
+
+I think what I hope what comes through over here is that there's cellular machinery in terms of these paddles, in terms of these ion channels.
+
+Where they have some dynamics associated with them, right?
+
+They don't instantaneously open their doors and instantaneously, instantaneously close.
+
+And if they if they are close again,
+
+they might in the background have to reconfigure in order to be back in the position such that they can open again.
+
+Right. So rise to the plateau of the phase four of the action potential.
+
+So what happens? If we wait long enough.
+
+If we had long enough, then the next stimulus can come along.
+
+And the whole cycle repeats itself, right? Exactly.
+
+The same cellular machinery can can progress again.
+
+Because all of these ion channels have gone through all of these configuration or changes that they have to go through,
+
+they had enough time to do all of this, right.
+
+So if you are actually waiting long enough over here and you stimulate again, you essentially get the same action potential back.
+
+Right. And and that's when people when people talk about an action potential to be an all or none phenomenon.
+
+That's what they have in mind. You wait long enough. Stimulate again. You get exactly the same, you know, pattern back.
+
+Not quite true. Once you actually start to encroach on the previous action potential.
+
+Right. If you stimulate earlier and earlier and earlier and earlier.
+
+First of all, it might take a higher strength stimulus in order to generate an action potential again,
+
+because the stimulus has now to do two things sort of generate the regular sequence,
+
+but maybe even for some of these configuration changes that have not yet fully completed into their resting position.
+
+Right. So you need a stronger stimulus that also might lead to a lower amplitude.
+
+Right. Because you might end up starting at higher and higher baseline resting potential.
+
+Up until a point where you might not be able to open some of these ion channels again.
+
+Right where it takes a while for them to recover. Or if you encroach even further.
+
+You fail, even with quote unquote infinite stimuli.
+
+You fail to actually activate the cell again. Right.
+
+We call this a relative refractory period relative because yes,
+
+you can initiate another action potential that may not look exactly like the previous one.
+
+But with a stronger stimulus, you can actually still get something going.
+
+Right. Absolute refractory period is where you will not be able to generate any further action potential.
+
+Right. Built into the cellular machinery.
+
+And that is very important because it's related to the excitation contraction coupling.
+
+We talked about calcium induced calcium release, sarcoplasmic reticulum re-uniting receptors.
+
+It sends a spark of the calcium coming into it. Now that you know during the phase two of the action potential.
+
+Right. The Plato. Then downstream effects on actin.
+
+Myosin. Cross bridge cycling. Right.
+
+So ultimately, the electrical activity that we're talking about over here is the transduction mechanism for the fourth generation.
+
+All right. So now we're telling you what happens.
+
+What gives rise to that spark? That initial spark of the calcium.
+
+Uh, coming into the cell right here, happily sitting at our resting potential.
+
+Sodium channels open. Right. And now calcium is coming in as calcium is coming in cross bridge cycling.
+
+Sensed by reality. Receptors transduced into the sarcoplasmic reticulum.
+
+Sarcoplasmic reticulum dumps its calcium into the cytosol becomes available.
+
+Tropomyosin right troponin binding site.
+
+Tropomyosin rotates out of out of its resting position.
+
+Exposes the actin myosin head positions.
+
+Course recycling can occur as long as calcium is there. Same time phosphor lab and circa mediated pumps.
+
+Calcium back into the cells. Right.
+
+But during that period when calcium comes in and you have this calcium induced calcium release force is starting to be generated.
+
+Right. When is the peak force generated?
+
+The peak force is still generated doing what is called here, the effective refractory period, but it's also called the absolute refractory period.
+
+Right. So you cannot initiate another action potential.
+
+Before the peak force is generated.
+
+Meaning that the peak force has to come down before another action potential can come by.
+
+And that is again the cellular reason why our cardiac myocytes cannot go into techni.
+
+We cannot go into a stone stoneheart position where it's in a state of constant contraction.
+
+Because of the timing of these events at the cellular level,
+
+where the peak force is generated prior to the cell being able to accommodate another action potential, and to transduced another action.
+
+Right. If this peak falls would happen over here.
+
+If. If the machinery were so sluggish, right, that this would happen over here.
+
+You could have another action potentially come by and you would have a superposition of these forces.
+
+That's exactly what happens when you actually when a muscle goes into skeletal muscle goes into treatment.
+
+You have many action potentials coming. Each one is produce a Delta force.
+
+Right. These forces superpose. And you have a state of constant contraction.
+
+Cannot happen with a heart. Because of those time.
+
+Okay. All right. So now what starts?
+
+The heartbeat. I already went through that briefly positive phase four of the action potential at primarily the level of the SC node and the AV node.
+
+Now, technically, all cells in that electrical conduction pathway have the property of order ethnicity.
+
+But there's a hierarchy. Right as a nod.
+
+AV node. Common bundle of his bundle branches Purkinje fibers.
+
+You know what is out the next cells that take over.
+
+Normally I say nodal cells because they have to have the next highest flow.
+
+The assay nodal cells are also out. It's a common bundle of his takes even longer.
+
+Right, then the bundle branches can also take over. Eventually the broken G5.
+
+But what gives rise to this? Phase four of the action potential.
+
+Well, what do you do? You're depolarizing.
+
+So there are leakage currents that have to do with sodium, slow depolarization, and some that have to do with calcium slow depolarization.
+
+Right. Those are specific to these cells, mostly specific to these cells in the cardiac conduction system.
+
+And you reach a certain threshold.
+
+And once you reach that threshold, these sodium channels open up and you have the initiation of the phase zero of the action.
+
+Right. So it's these leakage currents, mostly for sodium and for calcium that give rise to the, uh, to the other ethnicity.
+
+Can we co-opt this? To change heart rate.
+
+To modulate heart rate. Yes we can. Right. Let's say you're an Avi nodal cell.
+
+You happily depolarizing during the phase four of the action.
+
+Potential and chemical mediators come by that make this law that close some of these leakage channels.
+
+That means that. Your slope is going lower.
+
+It takes longer to reach that threshold. Potential heart rate going down.
+
+Likewise, if chemical mediators that come by and that hyper polarize the cell.
+
+All right. Maybe they're close even or they open up.
+
+They open up a few more potassium channels.
+
+So now you're moving even closer to the potassium Nernst potential in that you're hyper polarizing compared to the normal resting potential.
+
+Doesn't change anything about the slope over here during the phase four, right.
+
+But you're starting from a lower point. So it takes longer to reach the threshold.
+
+Likewise.
+
+If there are chemical mediators that somehow manipulate the threshold potential and raise this up, it also takes longer for the cell to modulate.
+
+So but mostly what happens as we will see is this. Sometimes this.
+
+We talked about vagal stimulation at some point. And here is the vagal stimulation.
+
+So we talk about vagal stimulation. When I showed you that tracing from the rabbit at the Winchester model approximation.
+
+Right. We said we did a vagal stimulation stop the heart.
+
+So that nice exponential decay right here. It's a frog that has been vaguely stimulated.
+
+And what you see over here, the stimulation starts over here and ends over here.
+
+Right. These are the individual action potentials. Right the moment that you start stimulating your hyper polarized.
+
+Right the moment you stop, it recovers. But it takes a while, and then it takes a while for the heart rate to come back for that slow to recover.
+
+So we have two mechanisms here. We have that initial hyper polarization which puts you into this cardiac arrest.
+
+Right. And then when you stop stimulating. Take some time for that ethical calling, you know, to be to be a.
+
+Uh, taken up again or to be metabolized. And, you know, slowly the heart rate comes back.
+
+But the effect is immediate. Likewise.
+
+If we do a stimulus. Vagal stimulus.
+
+Doing. Uh um uh uh, cardiac beat.
+
+You can have an immediate hyper polarization. So very fast action, a Vegas simulation, uh, on on heart rate.
+
+It takes a few, you know, beats to come back to the cycle length.
+
+This is the cycle length in milliseconds over here.
+
+You see that it depolarize is at the same slope that you have over here.
+
+You stimulate very briefly. It immediately hyper polarizes takes longer to come back.
+
+Right. So variations in heart rate. And he has sympathetic stimulation.
+
+So fight and flight versus rest and digest, vagal rest and digest.
+
+Fight in flights. You know sympathetic. And what you see over here is a sympathetic stimulation happens over here.
+
+And what you see is that it takes a little bit of time, but from one B to the next, one B to the next,
+
+you see that that face forced in steeper and steeper and steeper sympathetic stimulation,
+
+increase in heart rate, parasympathetic stimulation, decrease in heart rate.
+
+And as we'll see when we talk about the control system, it's a sort of push and pull phenomenon,
+
+sort of parasympathetic stimulus will we will also withdraw some of the similarly sympathetic stimulus.
+
+And sympathetic stimulation will withdraw some of the vagal stimulation.
+
+Right. Sort of before adrenaline. And then you give an adrenaline.
+
+This is ten minutes after adrenaline, so. Correct. Um.
+
+Uh. Sympathetic stimulation, I think that we had over here and then sort of, uh, neurotransmitter mediated changes in heart rate.
+
+Uh, we'll talk about this when we talk about control. Second messenger systems.
+
+So it's a cellular machinery. Not going into the details here. We're going into the details.
+
+When we talk about these things in terms of the cardiovascular control mechanisms, we talk about the receptors that they bind to.
+
+The second messenger system that's downstream also has to do a little bit with the
+
+neural transmission of the impulses through myelinated and non myelinated fibers.
+
+But. Keep it for a couple more weeks and then we'll go.
+
+Get through this in gory detail. Okay, let me jump over this. The propagation of action potential.
+
+I also alluded to that the velocity with which the action potential propagates has to do with the with the rate of change of the of the um,
+
+uh, transmembrane voltage. And we're not going to go through into the detail here,
+
+but you can actually model this as a cable the same way that you actually do transmit information through undersea,
+
+uh, cables that, you know, connect, let's say, Europe and North America or, you know.
+
+South America and whatever Africa probably. Right.
+
+And North America and Asia. I mean, there are still massive cables lying on the ground of the ocean, right?
+
+How much traffic of your, you know, when you actually using your electronic devices or communication traffic, do you think is going through satellite?
+
+How much is going through cables? On the floor of the ocean. Fun.
+
+Fun fact. Fun question. Do you think 90% is going through satellites?
+
+You think 50% is going to. Vast majority still going through cables lying on the ocean.
+
+Whether it's 70% or 80%, I'm not quite sure anymore depends from year to year.
+
+But the vast majority is going through the same way that the propagation of electrical signals, and now most of it is optical,
+
+is going through those undersea cables can be modeled exactly the same way as the cardiac conduction over here.
+
+And the way that we do this over here is, um, that we say, here's our action potential.
+
+We talked about the gap junctions over here. And when we talked about the gap junctions,
+
+we said this is a low resistance pathway where currents can actually go very easily from one cell to the other.
+
+Right. So if this cell A over here, right, is in a depolarized state, meaning that it flipped its transmembrane potential.
+
+And this cell over here is not yet flipped. That means that there's actually a.
+
+Electric field through the gap junction that will, um, lead to an electric current from one cell to the other with it this way or that way.
+
+But the net effect will be that if this is depolarized, this is still polarized or in its resting state,
+
+that in the next step the currents are such that this will also be depolarized.
+
+An influx of currents into the cell changes the local transmembrane potential of some patch.
+
+The moment it changes the local transmembrane potential at some patch right.
+
+Sodium channels open right. You have more channels.
+
+Next patch sensing that in the next patch. Sensing that until the whole cell is depolarized.
+
+So how can we think about this? Let's think about this here as this gap junction.
+
+As this gap junction over here. We have a depolarized cell over here.
+
+We have a resting cell over here. There's a current that's now going from one cell to the other.
+
+And so there's a wavefront of. Potential, uh, mem transmembrane potential that's starting to propagate.
+
+But as I said, if there's a current that's going from here to here,
+
+the next thing would be that you would actually flip the polarity of this cell patch.
+
+Right. And that would propagate this forward. Right.
+
+And then you have a longitudinal current that, you know, moves forward by a bit.
+
+And that would change the transmembrane conductance.
+
+Right. And that wavefront is then propagating forward. And we could go if you wanted to through the mathematics of that.
+
+As I said, it's exactly the same mathematics. It's called the cable equation.
+
+It's the same mathematics that we have for under undersea cables.
+
+Now we can't just lose current or, you know, or ionic species down this fiber.
+
+You know, it has to come back because we're in a we're in a configuration where we, um, where we have to preserve ionic species.
+
+So what happens is that you have currents that are, you know, propagated longitudinally, but that eventually also circle back.
+
+So they circle through that membrane and they circle back.
+
+But the direction of propagation goes into one direction.
+
+Right. Nearest neighbor transmission of the electrical signal.
+
+And so. Conceptual concept.
+
+We can conceptualize this as a current right.
+
+So if we zoom out now from the individual currents that are going through the membrane to
+
+the currents that allow the action potential to propagate down sort of the muscle fiber.
+
+The view that we can take is at any instant in time. The state.
+
+The electrical state of of a cardio of a cardiac fiber is determined by the strength in the directionality.
+
+Of that longitudinal. And it's the notion is that of a current dipole.
+
+You all know that if I have one charge over here and another charge over here.
+
+So if I have one charge over here, I have a charge monopole.
+
+Right. It's a single charge mono, right.
+
+If I have two charges and I separate them by a certain distance.
+
+Positive. Negative. Over here I have a charge dipole. Two charges over here.
+
+Right. Separated by a certain distance. You have a charge dipole.
+
+Same way that we can define and we will define what is known as a current dipole.
+
+So that's a current that's pointing in a certain direction right.
+
+What we will do now to move from the individual cells to the body surface is
+
+that we will simply track the magnitude and the directionality of that current.
+
+So we zoom out and the entire state electrical state of activation of the heart will just be represented by these many, many,
+
+many, many, many current tiny little elemental current dipoles that travel in all sorts of directions of the muscle fiber.
+
+And because they have directionality and because they have a magnitude, we can, at any given moment in time, sum over all of them.
+
+To get one equivalent. Current dipole.
+
+And because we track that directionality and that magnitude over time, we will call it the single equivalent moving dipole.
+
+So. The physical basis of electric car geography.
+
+We will make a lot of assumptions about our torso, right?
+
+Its veracity always makes it easy.
+
+Homogeneity makes it easy. These kinds of drawings will be your friend.
+
+Right. Because what we want to do is we want to go from the individual currents and these individual
+
+elemental currents that we have over here to something that we can measure at the body surface.
+
+Right. Because what we measure on the body surface is something that looks like this over here.
+
+Right. And it will become very second nature to all of you to just look at this and to make diagnoses on the basis of this diagnosis,
+
+meaning making inference about what might be going wrong at the core of that spherical torso.
+
+Right? What is wrong with the heart by this? At some point it just becomes pattern recognition.
+
+Doctor thoughts can glance at an EKG from ten feet away and say, boom, you know, Wolf Parkinson white syndrome, it is because but he also knows.
+
+And when he says that word, he knows what the underlying pathology is because he can relate.
+
+These features that we see over here, p q r s t waves to the underlying structural.
+
+And that to me and the and the physiological or pathophysiological processes that give rise to the patterns that he recognized.
+
+Our task right now is to actually go from these, from the cellular electrophysiology,
+
+what happens at the individual selling out these muscle fibers to the kind of potentials that we can measure at the body surface.
+
+All right. So we have to roll back a little bit.
+
+Go back to one of the old white dudes. And. You know, if you go to the T Maxx, you see a lot of them, right?
+
+Hanging on the wall. So he was a professor at the University of Leiden, invented the first practically CG record in 1903.
+
+Nobel Prize 20 years later. Right. To this day, we use the same principle, same kind of technology.
+
+I talked about blood pressure measurement.
+
+You know, the way that we measure blood pressure about 100 years old, same technology is about 100 years old now.
+
+It doesn't look like this anymore, right?
+
+We don't put our hands anymore into the buckets.
+
+We now have gel electrodes. Right. But this is in 1911.
+
+How you actually established electrical contact. You had a saline bath, right?
+
+Same way that we talked about sodium chloride solutions over there.
+
+Right. And you just put your extremities in there and then you had, you know, a whole bunch of, uh, machinery.
+
+So you can look this up on Wikipedia.
+
+It says Cambridge Scientific Instruments Company Limited was actually Cambridge, Massachusetts was actually over here.
+
+So. Uh, they look more friendly, maybe less interesting.
+
+Right? They come in variety of of flavors and invitee of sizes.
+
+And if not most of you, at least some of you have these kinds of things.
+
+Now on your on your wristwatch. Right. But how do we can we understand these surface potentials where they come from?
+
+So the main question for this session, let us see how far we can get.
+
+How are the body surface potentials that are measured by the electrocardiogram related to the cellular currents that we've just talked about.
+
+Right. And how do, how and how do they then reflect the cellular activity of the heart?
+
+So we said that at any given moment we can think of this as a current dipole, right?
+
+Forget about the dipole part. Just think about the current product. Right.
+
+Any muscle fiber in the heart you have like this longitudinal current once activated going through.
+
+Right. And if I zoom out. As I said, these currents have a directionality and they have a magnitude.
+
+They're vectors. Right? So at any given point in time, I can sum over all these vectors and I will get one equivalent vector.
+
+So what does this look like. Let's say the node has fired.
+
+Right. What is shown here in blue is that nearest neighbor propagation of those.
+
+Elemental currents, right. There are some parts sell that is still that is that is re polarized.
+
+And then there's a neighboring cell that is still in its resting state.
+
+When that happens, you have these gap junctions. You can actually have that current going, that current going through.
+
+Right.
+
+So this is shown by these individual black little arrows over here is like at any point of this boundary do you have these longitudinal currents.
+
+All right. Now I can sum over all of these longitudinal currents and I can get this big white arrow over here.
+
+This is our single equivalent. Current dipole or current.
+
+It's just a vector sum over all these small little black ones. Right.
+
+So as the electrical activity spreads across the right and the left atrium right comes from the SA node.
+
+It spreads across. The more currents are being generated, the more cellular connections are being made.
+
+The larger the magnitude of that. As long as it's coherent.
+
+If they're going all sort of random directions, it might be zero.
+
+It's a vector sum summing over the projection of the of the of of this, um, small little black um.
+
+Uh, occurrence over here. These these these vectors. Right.
+
+So what happens is that if you track the tip.
+
+Of that. Equivalent dipole. It traces out a loop.
+
+Right. This is what we call the p wave loop, meaning that you start at the a node.
+
+Right. And if we zoom out, it doesn't matter where sort of the origin is.
+
+We put the origin just at one location of that so that the tail of this guy here doesn't move,
+
+but the the magnitude changes and the directionality changes.
+
+Right. So you start at the assay node. Very few cells comparatively in the essay not start to fire nearest neighbor.
+
+Right. But then once it spread over the right and the left atrium right,
+
+then that that magnitude starts to grow because more and more muscle cells are part of that wavefront propagation.
+
+All right. So that and the directionality might change.
+
+You might point into sort of this direction first.
+
+But then as the left atrium participates, that white vector gets contributions that are pointing in this direction.
+
+Right now. Once you actually reach once, the entire right and left atrium here, left, right and left atria are have participated.
+
+There's no more wavefront. If there's no more wavefront.
+
+There's no more magnitude because there are no air currents. Right the entire.
+
+You hit that, that ice, that insulation between the atrium, the ventricles.
+
+Right now, the entire atria atrial tissue is depolarized.
+
+There's no more gradient across these gap junctions.
+
+When that is the case, the magnitude of the white arrow is zero, right.
+
+So doing the atrial depolarization your single equivalent vector over here.
+
+The tip traces outer loop. If it points into various directions it gets larger and larger.
+
+And then it loops around until all of the atrial tissue is.
+
+Depolarize. All right. Then it takes a little while, as we will see for the electrical activity to to propagate through the AV node.
+
+Main job of the AV node is to slow down the conduction.
+
+Because now excitation has taken place at the atria.
+
+You want the atria to contract before the ventricles have already contracted.
+
+Right. You want the. You want the fourth to be towards from the atria to the ventricles.
+
+So you have to slow down the signal. And that's the job of the AV node.
+
+Right. Once it hits the common bundle of hits, it goes down the highway.
+
+You have the left bundle branch, and the depolarization goes from the left septal side towards the right septal side.
+
+Just how it happens. So now you have a wavefront that's pointing in this direction.
+
+Right. Then you also have a depolarization of the right bundle branch.
+
+And once that whole myocardium of the left, but also of the right, but primarily the left ventricle, the big myocardial cells,
+
+once they actually start to participate, you have that massive vector, that huge vector over here, right.
+
+And over here, because you have a big wavefront that propagates.
+
+From endocarditis to the epic guardian. Right.
+
+And there are many of these different elemental currents that contribute.
+
+And you have one big equivalent dipole. Until the whole ventricular myocardial myocardium is depolarized and the magnitude is zero.
+
+And then you have a repolarization. That occurs in the opposite direction.
+
+All right. And you have another vector because you have another wavefront that's propagating.
+
+Right. So that's conceptually what's going on. So how can we understand this.
+
+In a quantitative manner. So let's go back to our friend over here.
+
+This goes back if there's fairly, you know good.
+
+Representation of all of this. And we can put this, this paper on if you, if you if you're interested.
+
+It's nothing. It's no mandatory reading. Um, we want you to understand it at a conceptual level, but we will go through some, some, um, derivations.
+
+So he is our friend. Right.
+
+So our M over here is now that wide vector.
+
+Right. It's that single equivalent vector.
+
+And we want to understand what a dipole current dipole over here induces in terms of voltage on the surface.
+
+So what are our assumptions? The heart is a tiny organ at the center of the body.
+
+We know that's not the case, right? Where the body torso is homogeneous, we know that that's not the case, right?
+
+It's isotropic. It's also false. Right. Linearly resistive.
+
+Lie right? And it's spherical. For most of us, that's not the case.
+
+Right. So but again, like we did with the modeling of the.
+
+A cardiovascular system and the and the mechanics of the cardiovascular system.
+
+We can always make it more complex, but in the end, the same principles still apply.
+
+Right here, what we're trying to do is we're trying to solve something that is, you know, solvable analytically.
+
+And that gives us, once we analyze the solution, gives us probably about 90% of the insights that we need.
+
+Okay. All right. That's ridiculously simplified, but perhaps a good place to start.
+
+And turns out to be ridiculously effective.
+
+In making sense of the electrocardiograms. And as practitioners, you rarely go much beyond this as researchers, of course.
+
+But as practitioners, this is already fundamentally important insights.
+
+Above and beyond. Just trying to learn patterns of electrocardiograms and therefore learning sort of a language rather than mechanistic insight.
+
+Okay. So how do we start and.
+
+We'll do this exactly the same way as we did the modeling of the venous return curves.
+
+I'll show you some symbols. I'll explain the symbols to you.
+
+We will not hold you responsible for the deprivation. What's important is for you to lean back, to try to come along and let us know if this is.
+
+Not. Understandable, right?
+
+So. Let's start with an analogy.
+
+Let's say I have a water hose, right?
+
+And that water hose can actually. It's pure water in isotropic in all directions like I have.
+
+I have a source of water. Right.
+
+And I'm drawing an imaginary ball around this. I'm asking myself, what is the current density?
+
+What is the what is the flux? Of water that's penetrating through that ball.
+
+At a certain distance. Ah, okay. So AI is our volumetric flow rate of our source of all water hose.
+
+Right. The current density J.
+
+Current per unit area.
+
+Or material crossing a unit area per unit time a certain distance away is simply the volumetric flow rate divided by the surface area of the sphere.
+
+That's a certain radius alpha away. Okay.
+
+So far, so good. Right. We're dividing the current, the source at the center by the surface area of the sphere.
+
+All right. Well done. Electric field, as you may or may not recall.
+
+From Maxwell's equations. Electro dynamics is related to the current density by the conductivity.
+
+One over sigma sigma being the conductivity. So we have a medium around it.
+
+Now we're going away from our hose analogy. We're having an electric current.
+
+Right. Was saying, what's the electric field? Well, it has to do with the conductivity of the medium in between.
+
+Right. Call it Ohm's law if you wish.
+
+It is Ohm's law. For those of you with physics been in a local environment.
+
+So a local view, rather than having voltages and currents, you have electric field and current density.
+
+All right, so the potential. Electrical potential.
+
+Satisfies. That the electric field is the negative of the gradient of the potential.
+
+So this here beautiful thing is that you all have to take physics in order to be here.
+
+All right, so I can appeal to this memory for some. Most of you.
+
+Right. But look up a bowl. Right.
+
+No magic here. So what we can then do is we can say, let us integrate.
+
+Right. What do we integrate? We integrate this law over here.
+
+Right. Because what I'm interested in here is what is the potential at some radius r.
+
+Because I have a current source point source of current at the origin.
+
+All right. So all I did, I invoked a few.
+
+Sort of remnants of memory from electromagnetism.
+
+Right. And the fact that the current density is defined this way.
+
+That's all. So in order to get the potential,
+
+all I need to do is I need to I need to integrate this equation over here right from some reference point to where I want to observe.
+
+Right. The integral kills the gradient over here.
+
+Or the derivative. Spatial derivative right. What is the E field?
+
+The E field is one over sigma times j and j is given by this over here and is constant.
+
+Right. So what do I get that the potential at some distance r away from a current.
+
+Point source. It's simply given by the current.
+
+Over. Four Pi Sigma R. This art comes from the geometry or from the distance.
+
+Here the radius in the sigma is whatever the conductivity is between the point of observation and here.
+
+Right? Are we good with that? All right, so we're more than halfway there.
+
+We said it's a current dipole, right? So it's not just like spewing out in one direction.
+
+Right. It has a it has a directionality and it's going between two points.
+
+So it's going from here to here from here to here. Right.
+
+So it's that sort of moving current that we're talking about.
+
+So all we need to do at this point is to say invoke the principle of linear superposition.
+
+We have one going this way. We have another one going this way.
+
+And there's some distance between them. Right.
+
+There's one that's positive, it's one that's negative, and there's a distance between them.
+
+Right. The details here is just that.
+
+The r minus t2 over cosine theta r plus t over two cosine theta has to do with the fact that we are observing somewhere over here.
+
+And we have a subtended angle over here. Just that's just geometry right.
+
+So but the point is that we simply using linear superposition we have one current dipole pointing one direction.
+
+So we have a source over here, and we have a sink over here that are separated by a certain distance.
+
+Okay. And that separation by distance is what gives rise to the over two cosine theta.
+
+Now we can make the assumption that D is very small compared to R.
+
+Right. Then we can simplify all of this into it for pi sigma squared cosine theta.
+
+Right. And then we can dump all of this over here.
+
+Items D into M and items D, like charge times distance is our charge dipole current times distance is our current dipole.
+
+Right. And then all that we get we have to deal with some boundary conditions over here.
+
+I spare you the details. Right. But in the end.
+
+But the. Potential at a certain distance.
+
+R is over here evaluated at are is three M.
+
+M is a current dipole over four pi sigma squared cosine theta.
+
+All right. So what have we invoked? Definition of current density.
+
+Ohm's law, if you will. Right.
+
+We integrated that he is equal to the negative gradient of the potential.
+
+And we applied to linear superposition and applied some boundary. Okay, so this is the potential at the body's surface.
+
+A certain or at a certain distance are.
+
+For a point. So a current dipole of of dipole strength M.
+
+Conductivity. Sigma. And our directionality where we operate, where we actually look,
+
+has a certain distance from some reference point, has a certain angle from a reference point.
+
+Whenever we see a cosine theta, what are we thinking of? Dot product two vectors, right?
+
+I don't know what that was, but right. Cosine theta vector one dotted into vector two.
+
+Projection of one vector onto the other vector. Cosine theta. Right.
+
+So. Here's what we can say. This is our prefect over here.
+
+This is a projection of the dipole moment vector onto the radial direction of the observation vector.
+
+Right. So the magnitude of the dipole is is this is a current value.
+
+This is a current separation. Right.
+
+So in the end what we are saying is that this potential at a distance r is just the projection of this dipole vector over here onto the unit vector.
+
+Did you actually of observation? And the proportionality constant is 3 or 4 pi sigma squared.
+
+Okay. If you have questions about this, let us let me know. But now we're done.
+
+With time to spare. Right. So what have we done?
+
+What we've done is that we've actually. We've actually said if we have a current dipole at the origin.
+
+Right. And if we make all of these assumptions about our torso homogeneity, ISO, isotropy, linearly resistive, blah blah, blah, blah blah, right.
+
+Then we can say if you if I give you that dipole moment, that white vector.
+
+If I give you that right. You know, if I tell you what the distance is, what the conductivity is, and where do I want to observe that dipole?
+
+On the surface, you can compute the magnitude of that potential.
+
+Right. That's just given here.
+
+There's one final step, because what we're measuring is not one potential, but what we're measuring is the potential difference.
+
+So we have to evaluate this here at two different points on the body surface and take that difference.
+
+Right. But that's also easy because that is just again linear superposition.
+
+Right. So if we're interested in the potential difference or the voltage.
+
+Then all that we are doing is that we are collecting. We're observing this surface potential at point A, we're observing it at the same time.
+
+At a point B we're taking that difference and we have that potential difference.
+
+Now, we said that all of this over here can simply be written as m times E to the dipole vector.
+
+Got it into the unit vector of observation in my a position.
+
+Now if I have also a b position, it's the same dipole vector dotted into the unit direction of my b position.
+
+And then I take the difference. And that's what we've done over here.
+
+So if we want to have this. It's simply m dotted into the e a minus the e b position, or m dotted into the unit vector pointing from B to A.
+
+Right. So. AB is a unit vector in the direction from B to A.
+
+And M is now the projection not of the dipole, the white vector.
+
+Onto the observation direction, but onto that difference projection.
+
+This difference projection over here is what we call.
+
+The lead vector. Confusing.
+
+Because the lead is also the physical thing that we connect the electrode to.
+
+We talk about the lead vector has nothing to do with the cable. It has to do with the directionality of observation.
+
+What I told you is we are with we are shrinking all of the electrical activity into that wide vector.
+
+Right. And we might be having one.
+
+A vector that points to my right shoulder. We have another vector that points to my left shoulder,
+
+and we might have then a difference vector that then points from my right shoulder to my left shoulder.
+
+Right. That's the left shoulder. Minus right shoulder. Now, what we're doing here is we're calling this the lead vector.
+
+And at any point in time, if were interested in, let's say, the electrical activity of the heart.
+
+In lead one or in this shoulder vector it's at any point in time is what is the projection
+
+of that moving equivalent single moving equivalent dipole onto this vector over here?
+
+Right. That's what this is. Constant of proportionality.
+
+We shall not forget. So. This is what we've already shown.
+
+Let's jump over this. Here's our white vector.
+
+Right. And as the atria depolarize, the ventricles depolarize and its ventricles re polarize.
+
+That vector changes its orientation and changes in magnitude.
+
+And if we're thinking about the electrical activity of the heart in the frontal plane.
+
+In this plane, we have three lead vectors that stand out.
+
+Its lead one. Right shoulder to left shoulder.
+
+The two left shoulder. To left.
+
+Right. Sorry. Right. Lead one.
+
+Sorry. Right arm to left arm. Yeah. Lead is.
+
+You're right. Left. Thank you. Doctor is not asleep.
+
+Luckily, so little actually. Right arm. That's right to left leg and lead three.
+
+Left arm to left leg right. So and these are what we call the this is the main lead vectors in the frontal plane.
+
+And at any given moment what we will do is we will look at the projection of this vector onto lead one, onto lead two, and onto lead three.
+
+Those are the frontal lead that the main frontal lead vectors.
+
+And. Let me pause over here.
+
+I'll pick this up exactly on. Tuesday, right?
+
+But what are the key points over here? We reduce the distributed source of the heart to a single hard vector with a single origin in space.
+
+That's why it was so nice to use that spherical torso.
+
+You can see that thing is anchored at the center of the sphere.
+
+Right. And it's changed its magnitude and it changes its orientation, but it doesn't move in space.
+
+That's why we think that the heart is very small. Compared to the torso, right?
+
+If you're far away, everything looks at the odds. It seems as it is at the origin.
+
+It traces a three dimensional trajectory of the tip of the hard vector.
+
+That's what we're tracking over here. The scalar potential at any time.
+
+It's a projection of that instantaneous hard vector onto a lead vector, right in the electrocardiogram.
+
+It's a scalar potential versus time over of that.
+
+All right, so let's stop over here. The one thing that I didn't manage to do is in your notes over here,
+
+we will be spending a little bit of time with alien hearts of various configurations so that we can get this down a little bit.
+
+Right? So maybe we'll we'll do this next time, but we will I will also start and I think I might have, um, let me unhide this.
+
+I don't think you have this, but I want to give you a little bit of a sneak preview is the following.
+
+We come back. Next lecture to this slide over here right that I've shown.
+
+Now we have the definition of our lead vectors.
+
+And then we can actually look at that projection onto these different lead vectors that will now allow us to make sense of these squiggly lines.
+
+That is the electrocardiogram, the p wave. Depolarization of the atria, the QRS complex, as you will see over here.
+
+The depolarization of the ventricles and the T wave.
+
+The repolarization of the ventricles. But what the single equivalent moving dipole model allows us to do is make a mechanistic connection
+
+between what happens at the level of the individual cells in terms of currents and in muscle fibers,
+
+to what we can actually measure at the level of the surface electrocardiogram with the ECG machines.
+
+All right. Uh, problem set two is due today.
+
+Will post problem set three later today. And have a good weekend.
+
+We'll see you on Tuesday.
+

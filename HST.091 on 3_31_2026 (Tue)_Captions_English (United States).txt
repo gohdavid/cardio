@@ -1,0 +1,1941 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+I know I. All right.
+
+Good morning. Uh, it it sort of diffuses out slowly.
+
+How was the break? RESTful. Good.
+
+That's good. All right. Too short or too short?
+
+Is it? Always is. Okay. All right. Today we're going to wrap up the the physiology part.
+
+And then. The. Let's just talk to Staats.
+
+We'll take over on, uh, on Thursday. Uh, and I think we're going to jump, right, either right into hypertension or ischemia.
+
+Heart disease. But before we do that, uh, let's pick up where we left off, and I thought I orient you all.
+
+This is Theo Nino talking about cardiovascular pathophysiology.
+
+Right? Um. Uh, you're probably sick and tired by this by now, but just to, um, re-emphasize that we said we can look at the heart as a current source.
+
+We can look at it as a pressure source. Right. And one of the key points that we set in relation to the control of the cardiovascular system,
+
+if we somehow manage to keep arterial blood pressure at the level of the heart or close to thereabouts constant, then the individual peripheral.
+
+Micro circulatory beds have the ability to regulate their own blood supply without stealing flow from the other circuits from the other territories.
+
+Okay. And we had a lot of emphasis on the heart lung pumping unit and cardiac output
+
+regulation through the cardiac output and venous return curve mechanism.
+
+And I also said at the beginning that at some point we will switch to not the maintenance of cardiac output,
+
+but the maintenance of arterial blood pressure to low blood pressure.
+
+Main stages. We took an engineering approach and we said we can at some aggregate level or abstracted level, look at a homeostatic, um,
+
+process from the point of view of a feedback control system where we have somehow, somewhere, someone knows what the value ought to be.
+
+Through some sensors, we can take a measurement of this controlled variable in our case for now.
+
+Arterial blood pressure. Systemic arterial blood pressure. What is measured is compared to that reference that creates an error signal.
+
+There's some control logic that determines if the error is non-zero, how the system should respond through effective mechanisms.
+
+In order to bring that controlled variable closer to the set point.
+
+Okay. Clearly there has to be a communication system in order to relay that information.
+
+We said that communication system for the extrinsic control or the global control of the cardiovascular system is the autonomic nervous system.
+
+We have two branches thereof. We have the parasympathetic division, the rest and digest or also known as the cerebral.
+
+Um, uh, the, um, yeah, cerebral. Uh.
+
+No, this is a Columbo. It's a sympathetic division, but the cranial nerves from the, um.
+
+Uh. From the brain, uh, have a large influence over the parasympathetic division.
+
+Uh, and then we have the sympathetic division of the fight or flight response, which is the thorax or lumbar.
+
+Um, uh, division is the, um, uh, is the other element of that push pull phenomenon, as we will see.
+
+We briefly talked about, uh, adrenergic receptors and, uh, uh, neurotransmitters norepinephrine, epinephrine, and isopropanol.
+
+We said that alpha receptors primarily on the vascular smooth muscle, very powerful smooth muscle constrictors.
+
+Right. Uh, also leads to intestinal relaxation, pupillary dilation, beta receptors.
+
+At the cardiac side, beta one receptors increase heart rate, increase contractility when stimulated.
+
+And then we have beta two receptors on the peripheral, um vascular smooth muscle, which leads to better relaxation.
+
+And we also said that, for example, epinephrine in the periphery can have both beta two and alpha effects.
+
+And we talked about EpiPens for example,
+
+that we really want to have high dose epinephrine for a vasoconstrictor response if someone is in anaphylactic shock.
+
+Massive waves of dilatory response. We do not want to dilate the vasculature any further.
+
+This is in your course notes. Uh, that's on canvas.
+
+The key part that we are interested in here is the heart. Right.
+
+And so if we have an adrenergic impulse or, uh, increase in the sympathetic activity.
+
+We have an increase in heart rate, an increase in contractility and an increase in the conduction velocity.
+
+We prepare the heart for increased activity. We also have increased automaticity and conduction velocity through the a v node.
+
+So we there's less of a slowdown between the atrium the ventricles.
+
+Uh, and as we've already said at the at the level of the ventricles,
+
+we have a significant increase in contractility, uh, conduction velocity, automaticity.
+
+Now cholinergic or parasympathetic response influences here we have decrease in heart rate.
+
+We can bring the heart into vagal arrest by massive vagal stimulation.
+
+It's so powerful that you can actually just stop the heart right the moment you stop the vagal stimulation.
+
+As we will see, heart comes right back up. Um.
+
+There's ancillary effects over here that we make that we point out.
+
+Uh, AV block, for example, is is very similar to what we have, uh, described over here, a decrease in contractility.
+
+Um, but by and large, we think of parasympathetic influence on the heart as massive bradycardia.
+
+Right. Hard as we will see. Can go into a rest.
+
+On the arterial. On the peripheral circulation. Uh, Alpha response.
+
+Very strong constriction. Right. It varies at various, um, uh, levels.
+
+Uh, abdominal viscera constriction over here, we have, uh, significant, um.
+
+Uh, resistance at the level of the skeletal muscle, for example.
+
+But then on the veins of a, uh, constriction leads to, uh,
+
+vasoconstriction leads to reduced zero pressure filling volume, as we will see on the aggregate.
+
+And that's always something that that we need to emphasize compliance.
+
+Not so much changed as we will see. Now you could say, well, if you actually change the vascular smooth muscle and we make this stronger,
+
+why does the compliance not change well on aggregate on an individual vascular territory it might.
+
+But on aggregate the the effects are more or less a washout.
+
+So what are the effectors? And that's, I think where we left it at the end of the last lecture on aggregate,
+
+at the system level response, we have the vascular resistance, all these white little crosses.
+
+Right. That that we've shown in the very first diagram, venous tone, sort of the tension of the smooth muscle at the level of the veins.
+
+Uh, heart rate and cardiac contractility. That's it. So let's take resistance first.
+
+Here. We are showing the flow in milliliters per minute and the, uh, perfusion pressure, we should say over here in millimeters of mercury.
+
+And what we are showing here is a uh, uh, different curves for different levels of sympathetic stimulation,
+
+meaning that you isolate the vascular territory,
+
+you perfused the vascular territory with a fixed perfusion pressure,
+
+or you can vary that perfusion pressure to trace out what that characteristic curve would look like.
+
+Right. And then you stimulate the sympathetic nurse innovating that vascular territory.
+
+And what you see over here is that the slope of this curve is one over the resistance.
+
+And as you increase the stimulation, the slope is getting smaller, smaller and smaller, meaning that R is getting larger, larger and larger.
+
+Or the other way around R is getting larger and larger and larger.
+
+The more you stimulate the sympathetics in innovating the vascular territory, and therefore the slope is getting smaller, smaller and smaller.
+
+Okay. Meaning that if you wanted to have the same level of flow right, you would have to have a higher perfusion pressure in order to do so.
+
+So you can shunt flow away from, um, from particular territories that way,
+
+or you can raise or dilate and you can shunt flow towards that vascular territory.
+
+And here's the point that I just made before the previous slide.
+
+Um, sort of parenthetically, this is the pressure volume relationship or the volume pressure relationship of the systemic arterial system.
+
+And the systemic venous system. Right.
+
+Those are the the solid lines over here. These points of intersection.
+
+We've called the zero pressure filling volume of the systemic veins and the zero pressure filling volume of the systemic arteries.
+
+Right. And then as we change the trans mural pressure.
+
+Right. As we increase the trans, more pressure, we increase.
+
+The filling status of the systemic arteries.
+
+As we increase the transmission pressure of the systemic venous system, we increase the filling status of the systemic veins.
+
+Right. Compliance of the venous system.
+
+Lambda compliance. We said about 100 right. Noncompliance over here about two.
+
+Almost an order of magnitude difference.
+
+But what happens when we actually when we stimulate now the same vascular territory that we've isolated right now we stimulate the sympathetics.
+
+Turns out. And of course, this is a diagrammatic representation. But if you look at the underlying data, it looks the same.
+
+One of two things can happen, or two things can happen. You could change the slope.
+
+Right, and you can change the offset. You change the slope.
+
+You change the capacitance or compliance, you change the offset.
+
+You change the zero pressure filling volume. Those are the two things that can happen.
+
+Here with a line. But what actually happens is that there's very little change in maximum stimulation over here.
+
+In terms of the slow. So in aggregate the compliance a lumped venous or lumped arterial compliance.
+
+There is more or less the same. But what really changes is the zero pressure feeling on.
+
+Right. So by constricting the vascular smooth muscle on the venous side and on the arterial side, you do change the filling status.
+
+Right. But you're primarily changing the zero pressure filling volume in aggregate.
+
+You changed the compliance very little. That is true for sort of the aggregate.
+
+Now if you look at an individual vascular territory, it might actually behave differently.
+
+But in total the overall response is dominated in such a way by vascular territories that do not
+
+change compliance characteristics as much as they actually change the zero pressure killing one.
+
+So that's why we're thinking of the filling status of the arteries and the veins.
+
+Under sympathetic stimulation or relaxation to be the primary driver of the hemodynamic response,
+
+meaning that the zero pressure filling volume Q stimulate the sympathetics.
+
+The V total zero going down. If you really if you relax the sympathetics the V total zero going up,
+
+meaning that you're shifting volume from the descending volume from the from the unstressed volume,
+
+or the zero pressure filling volume to the descending volume, and vice versa.
+
+All right. Now, the amount that you shift on the arterial side.
+
+Very little compared to the amount that you shift on the business side,
+
+which is reflective of the amount of volume that we do have on the business side, being about what factor of two for.
+
+Eight larger. Right. So we have about four and a half or three and a half to four liters of zero of volume stored on the venous side.
+
+Only about 700 CCS or so of volume is stored on the systemic arterial side,
+
+so we can mobilize a lot more volume on the Venus side than we can do on the actual side.
+
+Then we also said earlier on that you have that whole venous capacity sitting right next to the right heart,
+
+which can then modulate the filling pressure quite substantially and move your,
+
+you know, up and down that venous return curve or the cardiac output curve.
+
+Okay? Yeah. So in this particular case you would just.
+
+So if we think in terms of parasympathetic we primarily think of parasympathetic effect on the heart itself.
+
+Right. There is parasympathetic innervation elsewhere.
+
+But in terms of parasympathetic or cholinergic innervation, we really think primarily of the heart in terms of the cardiovascular component.
+
+So what we mean here by sympathetic inhibition is that we are actually abolishing the nerve traffic
+
+that is going on the sympathetic to the particular vascular territory that we're interested.
+
+Okay. And stimulation opposite of that.
+
+Okay. So sympathetic effects on the peripheral circulation, primarily on the venous zero pressure filling volume and the arterial resistance.
+
+Okay. And that is shown over here.
+
+Sympathetic stimulation of the peripheral circulation only. What are the two things that we are interested in here?
+
+We are interested in the slope. Right. And we all remember now this is one minus one over RV plus r a times C a over C plus v.
+
+It's something that you're probably going to have on your sheet sheet anyways next week, right?
+
+Right. So that is responsive to resistance.
+
+And the mean systemic pressure v total minus v total zero over k plus c v right.
+
+That is where that movement of volume comes in.
+
+So if we we sympathetically stimulate that vascular territory that we isolated it does both things will not differentially.
+
+Able to stimulate the veins over the arteries, fibers going both directions both to the arteries and veins.
+
+So what happens is that the slope changes because the arterial resistance changes.
+
+Right. And the mean systemic pressure changes.
+
+Sympathetic stimulation obviously. Right because Venus zero pressure filling volume is going down, meaning the descending volume is going up,
+
+meaning systemic pressure going up or sympathetic inhibition going the opposite direction.
+
+So by sympathetic stimulation, you can give yourself a significant auto transfusion, right?
+
+You're moving volume from the zero pressure filling volume to the, um, descending volume.
+
+It is very quiet today. Everybody is fascinated by the scintillating excitement of the topic.
+
+People are still in post spring break mode.
+
+Heart rate, vagal slowing, as I said, and I think we've seen this in the in the lecture that I gave on the,
+
+um, on other ethnicity and, and modulation of other ethnicity.
+
+Right. Here you have um, I think this is from a frog sinus for gnosis.
+
+Um, uh, from a frog. And you start to stimulate.
+
+The parasympathetic. Immediate hyper polarization.
+
+Of pacemaker cell. Right and immediate prolongation of the.
+
+What would become the Aadhaar integral. You stop.
+
+It comes right back to the threshold. Starts firing again. It takes a little bit of time.
+
+To. For that slope to come back to normal, but the response is immediate.
+
+You take the stimulus away, the recovery is pretty immediate. It's parasympathetic.
+
+It's for you and I think. Let's see, I have a few more of these slides.
+
+Also talked about the effect of heart rate on sympathetic acceleration over here.
+
+And here you have the sympathetics being stimulated.
+
+What you see this slope of the phase four of that action potential, right.
+
+Getting steeper and steeper and steeper and steeper, meaning that you reach the threshold sooner and sooner and sooner and sooner.
+
+Right. But it does take time for that to happen. And the moment you stop it.
+
+You see that the effect persists for a certain period of time.
+
+Same shown in the bottom over here. So we talked about that push pull phenomenon of the factor of heart rate.
+
+What we're showing here is the change in heart rate. So this is sort of just the surface plot the change in heart rate.
+
+This is your resting heart rate. As you increase stimulation of the parasympathetic through stimulation of the vagus nerve.
+
+Right. You bring your heart rate down. As you then increase the sympathetic stimulation frequency, you bring heart rate back up.
+
+And so this surface is sort of this push pull or seesaw phenomenon between the sympathetic and the parasympathetic response.
+
+And there's a huge body of literature that looks at the baseline variability of heart rate.
+
+Right. Because our heart rate is not metronomic. Right.
+
+We're not like beating at exactly the same rate. There's influences as thermoregulation.
+
+There's various, um, uh, sort of metabolic background activities that are going on with breathing.
+
+That's another stimulus. Right. And people have made a career out of.
+
+Analyzing the fluctuations around baseline, all right.
+
+And trying to understand the health of the cardiovascular system, but also the cardiovascular control system.
+
+And this is often likened to analyzing the temperature in the room.
+
+I made that analogy in the last lecture. Right.
+
+You can measure the baseline temperature, but that's just the temperature that the person living in this room set the thermostat at.
+
+That just means what is comfortable to them. If you want to understand the controller mechanism.
+
+Then you should analyze the fluctuations around this, because that would tell you kind of an input output manner.
+
+How does a controller behave and how does a controller actually react to um.
+
+Uh, to perturbations. Right. And as I said, there's been a hold probably 50 years of research in this field.
+
+And, Doctor Stoltz, how much of this has translated into clinical practice?
+
+Louder. Zero. So it's an interesting, uh, way to look at it from an engineering perspective.
+
+Right. And people have done a lot of work in this space. And under certain circumstances, I think it is fair to say that there are infinite.
+
+That is information that you can actually glean from it,
+
+in particular about sort of the behavior of that push pull phenomenon between sympathetic and parasympathetic balance.
+
+But in the end, in terms of clinical translation has not been as as effective as some might make you want to believe.
+
+Okay. Again. Dynamics of hardware control.
+
+Vagal stimulation or parasympathetic stimulation.
+
+Rapid onset. Rapid offset. Primary neurotransmitter.
+
+His acetylcholine. As cool cooling is dumped into the neural muscular junction.
+
+It is very rapidly uh binds.
+
+But there's also an enzyme called acetylcholinesterase that um cleaves acetylcholine.
+
+Right. So if it doesn't bind, it's very quickly either taken up again or it is actually inactivated.
+
+Now the sympathetic stimulation takes longer to ramp up on the order of about 15 20s.
+
+Right. So to get revved up. But it also takes longer to, to uh, uh, to come back down.
+
+And as I said, vagal stimulation. You can you can get an animal.
+
+Um, uh, into cardiac arrest here.
+
+We're not showing the beginning of the vagal stimulation. This would be over here.
+
+Um. But we do have.
+
+Um. Beats coming. Very long interval over here.
+
+Right? Uh. End of vagal stimulation.
+
+Do we say p waves? Yes.
+
+Do we? Six complexes. Yes. Do we have a tea wave?
+
+P q r s t p q r s t. What do we call this pit over here?
+
+Uh. Yeah, so you can see it together. Can hold hands while doing.
+
+Junctional. Escaping. Why? Junctional? Nothing happened.
+
+So massive vagal stimulation, right? We're putting essentially the same node into arrest.
+
+Right. So somewhere in the junction, there's nothing coming from the assay?
+
+No, nothing coming from the atria. We don't see here. We might see maybe a tiny bit of of a P wave.
+
+So I don't know whether this arrow over here is correct. Over here, over here.
+
+But here we don't really see a P wave. Right. But narrow QRS complex.
+
+So we know that we're traveling down the conduction pathway somewhere. Right.
+
+And the fact that there was nothing you know, here we don't know what's happening over here, but it would be a junctional escape it.
+
+Right. But end of vagal stimulation, whether it's happening here, over here, blood pressure ECG coming right back up, right heart rate coming back up.
+
+And what you see over here is boom boom boom.
+
+Right. Look at the pulse pressure right in the wind Castle approximation of the peripheral circulation.
+
+Also pressure proportional to four point. Right.
+
+The heart has been sitting there filling, filling, filling. Right.
+
+A beat comes by. You have a massive stroke forward now as you actually starting to to beat again at a regular rate,
+
+that stroke volume is going down because you're beating at a regular rate,
+
+and that congestion that's building up in front of the heart or sort of upstream from the heart, is being taken care of.
+
+Right. So cardiac output venous return curves might make a reemergence next week in case the
+
+model might make a reemergence next week with dropping hints to the right and to the left.
+
+Okay, just want to be clear about that. Okay.
+
+So. Effector. Uh, contractility.
+
+We talked about the isotropic state or the cardiac contractile state of the heart,
+
+which is represented in the pressure volume loop as the slope of the end systolic pressure volume relationship.
+
+Right. And we said that here we really have two systolic isotropic states,
+
+meaning we have one state which is the control state with the blue uh triangles over here.
+
+And we have one which is a state where epinephrine was given.
+
+Right. Beta stimulation of the heart increases cardiac contractility, allows for more calcium to come in,
+
+calcium induced calcium release and cross, which is likely to occur more so than in the blue state.
+
+Right. So you have more forceful contractions. So increase in quality in contractility.
+
+In the cardiac output curve.
+
+This is um represented if we now do sympathetic stimulation of the heart itself, changing both heart rate and contractility.
+
+And what this effect has is that we're changing the slope and we're changing the offset of the, of the of the cardiac output curve.
+
+Right. If you look at the mathematical relationship that we derived,
+
+you see that f times stroke volume right stroke volume is and diastolic volume minus and systolic volume and systolic volume is in the region.
+
+One of the heart right is determined by the by this systolic um and systolic compliance times the pulmonary
+
+arterial pressure which we assume to be constant because we have these parallel pathways of the lungs.
+
+Right. So what we have is an eight with max with sympathetic stimulation.
+
+Right. We have an increase in heart rate, an increase in contractility, leading to an increase in the slope and the offset to the left.
+
+If we have zero sympathetic stimulation, we have a decrease in heart rate and a slight slope shift to the right.
+
+Sorry. Slope, uh, decrease and red shift to the right.
+
+And on top of this, if we're now doing parasympathetic stimulation, which further reduces, uh, heart rate,
+
+then we have further depression of the, um, of the, uh, of the slope of the, of the cardiac output curve.
+
+And if you put all of this together. Then this is what we would look like or it would look like.
+
+So we have sympathetic stimulation of the heart and the peripheral circulation.
+
+Well, it's just what we just described in the individually.
+
+Right. Because we still think of the volume of the resistance of the heart rate and the contractility as independent variables.
+
+All right. So let's go through this. Here's our normal point A. Right now we go to maximum sympathetic stimulation.
+
+What does that do to our zero pressure filling volume of veins? It's decreases, right?
+
+What does this to our total to standing volume. V.
+
+Total minus V total zero pressure filling. Right. We'll go up removing the mean systemic pressure significantly out to the right.
+
+Right. Also, the slope changes because the arterial resistance changes.
+
+That's all changed to the peripheral circulation to the venous return curve.
+
+Now what about the cardiac output curve? From the cardiac output curve.
+
+From maximum stimulation, we change the slope. The changing heart rate.
+
+We're changing the offset a little bit because we are changing contractility. All right.
+
+So we are going from and what is what is the final cardiac output state.
+
+Well the final cardiac output state is always the intersection point of these two curves.
+
+All right. So we're going from a state that might be five liters per minute to one.
+
+That might be ten liters per minute. All right. This is you sitting here.
+
+Or maybe this is you sitting here, right? It was forming the lecture.
+
+And this is you on the treadmill. All right. This is you waking up, and this is you running off to the bus.
+
+Right? The opposite. If we have if if we relax.
+
+Right, and we have increased zero pressure filling volume, we move our, uh, means systemic pressure to the left.
+
+Right. The slope also changes slightly if we if we relax and our heart rate goes down, our slope decreases slightly.
+
+The offset is going to the right. And we might be going from a cardiac output state.
+
+That's a cardiac output state. That's. Okay.
+
+All right. Now there are other control mechanisms.
+
+So this is what is known as the arterial barrier reflex.
+
+Um, and uh, we'll come back to some of the sensors, uh, just essentially now and I don't know what this slide is exactly here.
+
+There are other control mechanisms that we'll talk about circulating blood volume,
+
+uh, many of you, but not all of you are taking renal pathophysiology right now.
+
+Right? So, um. Uh, we'll get to that remodeling of the cardiovascular components.
+
+Uh, you know, all of you have taken pathology. Last time, you probably saw the hypertrophy parts.
+
+We will see some of them in slides. Doctor Stokes is talking about heart failure.
+
+Uh, atrophy can also happen up and downregulation of receptors and also happens with alpha receptors.
+
+Beta receptors. You know use it or lose it.
+
+One of the problems that people, uh, have thought about in terms of spaceflight is that when every posture is the same in space,
+
+you really don't need much many of these cardiovascular control mechanisms,
+
+and that contributes to astronauts having problems when they come back to Earth,
+
+because if they've been up there for a while, some of these control mechanisms are no longer as effective.
+
+They've also lost some volume. And so when you send them up in zero gravity, most of them will faint.
+
+That's why they have anti suits. And they do fluid loading which is only marginally effective.
+
+Okay. What are some of the sensors? Uh, we're still on the arterial barrier reflex side, so on the arterial side of that feed.
+
+Feedback control mechanisms. We said at the very first lecture that one of the key or the most important
+
+function of the cardiovascular system is to perfused the central nervous system.
+
+Right. Second, to perfused the heart. So not surprisingly, we have stretch receptors.
+
+At the level of the base of the neck at the carotid bifurcation.
+
+So common carotid over here. Common carotid over here.
+
+Internal carotid. Sorry. Uh. External carotid. Yeah.
+
+Internal carotid over here. Right. And we have stretch receptors that essentially, um, innervate the, uh, carotid bifurcation.
+
+And when they stretch your normal, that indicates high pressure.
+
+If they stretch below normal, that indicates low pressure.
+
+So something that is very close to our brain base of the neck, it's really under the angle of the jaw over here.
+
+Right. But we also have stretch receptors at the level of the aortic arch very close to guard.
+
+So hardwired into the feedback control mechanism is the location of the heart over here, and is the location of the brain.
+
+And there's differential input if you're lying down and there's no hydrostatic pressure differences between this location and this location,
+
+they're more or less giving the same reading.
+
+But if you're starting to actually move up, then obviously this here measures or senses a lower pressure than this one over here.
+
+Then there can be differential input. These sensors, they respond both to baseline pressure or DC pressure or mean pressure.
+
+Right. The higher and the lower the mean pressure is, the more or the less or vice versa, the firing frequency.
+
+But they also fire in response to the rate of change.
+
+So what we're seeing over here is the mean arterial pressure. So you have an arterial pressure wave going on over here.
+
+Right.
+
+And if the mean pressure is 50 you have very little firing except for locations of where the rate of change where the pressure is quite high, right.
+
+As the pressure is going higher and higher, the mean pressure is going higher and higher and higher.
+
+Right. You're almost going into continuous firing mode.
+
+Meaning that the afferent fibers coming from these baroreceptors from this bear receptor system to the brain.
+
+Measures the rate of change measures the DC, but the higher the firing rate going to the brain,
+
+the more information or the more information the the the higher the mean pressure,
+
+the higher the mean pressure, the higher the firing rate, meaning it's a hypotensive information that's being transmitted over here.
+
+The lack thereof is a hypertensive. Um, stimulation.
+
+Uh, you've probably seen this in HSC 100, in respiratory pathophysiology.
+
+Uh, chemoreceptors essentially at the same location very close by.
+
+Right. Where you're also sensing blood gases.
+
+So you can sense CO2 and O2 at various locations, right.
+
+And they also, among other sensors located near the carotid bifurcations of the carotid bodies and near the aortic arch.
+
+And what you've probably also, um, learned is alveolar ventilation equation.
+
+Alveolar gas equation. Does that sound familiar? Should be.
+
+Because I looked at your syllabus. Okay.
+
+But what this shows over here is the maximum response of the fibers going to the brain as a function of the arterial O2 concentration.
+
+If the arterial or two concentration is high or near normal.
+
+100mm of mercury. Right? Very little traffic going up to the brain.
+
+All right. You have to drop quite low. And.
+
+But when you do, the firing rate goes up quite dramatically.
+
+What is also shown over here is that the firing rate going to the brain of these chemoreceptors systems is also dependent on a CO2.
+
+Meaning if you're in high per Catholic state. You're operating at a higher firing frequency than if you in high.
+
+So. Finally, um, and we'll come back to this.
+
+All of what we said so far relates to the arterial barrier reflex system, meaning that you have sensing pressures on the systemic arterial side.
+
+These touch receptors where at the level of the aortic arch, at the level of the carotid bifurcation.
+
+Right. But we likewise have stretch receptors at the level of the atria and the atrial junctions.
+
+And those stretch receptors also fire.
+
+Yes. A type A a type B doesn't really matter. But what they relate to the brain is a filling status of the right side of the heart.
+
+And if the blood volume or the change in blood volume is really is is is going to do it's a hypovolemic state.
+
+They fire very little. But if you're going through the hyperbole mix state, they're actually going quite up.
+
+Right. So filling state is on the right side of the heart are also really to the brain.
+
+Um. And this would become or is important because that gives us a measure of the filling status
+
+of the cardiovascular system and one of the very powerful methods of changing cardiac output.
+
+Is the change. It mean systemic pressure?
+
+Right is is the status of the filling status of the cardiovascular system.
+
+So volume regulation is another mechanism by which we can modulate the function of the cardiovascular system.
+
+It acts on timescales much longer than the arterial barrier reflex because it acts through different mechanisms.
+
+But. Work from guidance over here.
+
+Try to apply sort of the similar approach of system theory that we've just went through,
+
+and feedback control mechanisms that you went to through for the terrible reflex to volume regulation.
+
+And let me let me walk you through this. So where do we start?
+
+We have I mean, systemic pressure. Right.
+
+PMS, we call this year's MSP just a permutation of the same letters.
+
+Right. You subtract right atrial pressure from that.
+
+And you have the driving pressure. Through.
+
+The peripheral circulation. Right. Remember that one of the key insights that we got from our venous return curve
+
+analysis is that we said that the venous return to the heart is equal to.
+
+Uh, mean systemic pressure. Uh, sorry.
+
+Yeah. Mean systemic pressure minus the feeling pressure of the heart right over our a r v plus r a c a plus c a plus c.
+
+We remember that. Right?
+
+And we said that the mean systemic pressure that we defined.
+
+As the total volume minus the total zero pressure filling volume over C a plus c
+
+v plays the role of the upstream pressure in our venous return curve analysis.
+
+Right. And we also said that if we say that the resistance to venous return, we didn't call it that way,
+
+but we just can call it like this because here we call it resistance to Venus.
+
+Return is simply the minus one over r v plus r a c a okay plus c v.
+
+Okay, so that's exactly what we're saying over here.
+
+The mean systemic pressure minus the right atrial pressure is our driving pressure for venous return.
+
+Right. That's the numerator. We divide this by the resistance to venous return over here.
+
+Right. And we get the venous return. In steady state, the venous return has to be equal to the cardiac output.
+
+Right. We multiply the cardiac output by total peripheral resistance.
+
+We got a terrible pressure. So far, so good.
+
+All right. You all with me? Now there is a relationship between the arterial pressure right, and the urine output.
+
+The arterial pressure becomes too high, right? Your kidneys.
+
+Kidneys kick in and say, I got to get rid of volume.
+
+As we will see. Right. It means you are an output over here.
+
+Intake minus the urine output, gives you the rate of change of the balance in fluid status, right?
+
+You integrate that rate of change. And you get the change in extracellular fluid volume.
+
+And there's a relationship between the extracellular fluid volume and the blood volume.
+
+And the blood volume determines the mean systemic pressure. Yeah.
+
+Venous return must equal cardiac output in steady state. Times.
+
+Sort of. Peripheral resistance gives you arterial blood pressure.
+
+Okay, now, what I'm telling you is that there's a relationship between the actual blood pressure and your urine output.
+
+As we will see, I give you a crash course in renal physiology in just a few slides.
+
+Okay now. Urine output is what you losing.
+
+In terms of volume. Intake of fluid is what you what are you bringing in?
+
+Right. The difference of the two is the rate of change.
+
+In fluid status. Right. If intake is equal to the output, no change intake larger than the output.
+
+You're swelling up. If output larger than input, you're losing volume.
+
+You're shriveling. You integrate that there would be the change in extracellular fluid volume, or you could just say change in fluid status.
+
+Right in this fluid status relationship to the mean systemic pressure over here.
+
+These. These characteristic curves are not really that important,
+
+other than to say that there is a closed loop over here that affects cardiac output and venous return.
+
+We will talk about that. Right? We'll talk about that now.
+
+So for those of you who are taking renal pathophysiology, you can sing along, right?
+
+The functional unit. Of, but there's about a third of you that don't take.
+
+So that's why we have to put it here. Right. So functional unit of the kidney is the.
+
+Good, right? We have the. Glamorous.
+
+What is this space called? All right. Excellent.
+
+Good. All right, so I'll take over from here. Okay, so we have an affront.
+
+Arterial. Blood going into this lobular space over here.
+
+Right. Here. Translate can actually leave.
+
+This is a capillary system can actually leave the vascular space. And going into that collection system called sort of the Bowman space.
+
+And this is all here called typical American right.
+
+Blood coming from the renal artery going in. Yeah. Some stuff that's leaving and that's entering what is called the nephron over here.
+
+That convoluted structure. Right. End story over here.
+
+It's called urine. Okay. However, not everything that goes out over here comes out over here.
+
+Because you can reabsorb things. Or you can dumb things.
+
+Right. So input. There's a little bit of leakage into that,
+
+a lot of leakage into that Roman space over here that is that is picked up by that Bowman capsule into this tubular network.
+
+Right. There's a very ingenious kind of current mechanism over here that allows you to concentrate urine or to dilute urine.
+
+Right. And that is the primary, our primary way of dealing with volume regulation,
+
+but also a way to deal with regulation and also a way to deal with electrolytes.
+
+And this always blows my mind. On average per day, we're filtering about 180l in all of our nephrons.
+
+All right. So maybe one question that I should ask in the future is if you now that,
+
+you know, you you opened your faucet, you measured the, the the flow coming out.
+
+Right. How much volume does it take to actually fill up the whole the whole, um, bathtub.
+
+Over an interesting question. Right, 180l per day is a lot.
+
+So meaning that in terms of water that's filtered at that moment space, it's 180l per day.
+
+Obviously we're not peeing out 180l per day, right?
+
+We wouldn't be carrying a toilet with us, so we would be categorized in order to do that.
+
+Now some people have. Diabetes insipidus?
+
+Or have you no problems reclaiming that water, but the amount that is excreted per day is about 1/100 of that.
+
+On average, we're giving only about less than two.
+
+To, uh. Two liters, meaning that the amount that's reabsorbed of water that is actually reabsorbed along this tubular structure.
+
+So you're dumping out 180l a day over here, right?
+
+You're only giving out 1.8l out here. So 99% of that water is reclaimed.
+
+Right. Evolutionarily makes sense. Why do we want to hold on to water?
+
+Because we didn't know where the next water pit was. Same with sodium.
+
+630g of sodium filtered per day 23.2g given out 99.5.
+
+Glucose. 180g per day.
+
+Filtered. Under normal circumstances, nothing given out.
+
+We're holding on to glucose with our dear life. Right.
+
+The nephron is very good in reclaiming.
+
+Glucose. My favorite story here is that of my, um, classmate.
+
+When I graduated from high school, Germany still had a general draft, so we all had to.
+
+At some point, the males had to present to the local, um, uh, draft board for a medical examination.
+
+Um. Read it. And everybody try to get out of it.
+
+Uh, friend of mine in high school went clubbing the night before.
+
+And then he didn't have anything to eat at home. Except for two liter bottle of Coke.
+
+So what did he do for breakfast? He chucked two liters of coke. And then he went to the draft board.
+
+He wasn't the brightest. And he clearly didn't know physiology.
+
+Right. Neither did I at the time. So what do we have to do?
+
+Well, you have to give a urine sample. One of the things that you don't do when you're 19 or 20 or 21, or maybe you're 22.
+
+You usually don't go to your annual PCP.
+
+Right. So it's not uncommon to find. Chronic or diseases that have, uh, onset in the young.
+
+You know when you're going through your draft examination. So when he gave his urine sample.
+
+What do you think was in that urine sample? Sugar.
+
+Because it turns out as you, you know, as you learned in, in renal physiology, the system can be overwhelmed.
+
+Right. So if you provide more, um.
+
+Glucose. Then the transport mechanisms can accommodate what ends up in your urine glucose.
+
+What should not end up in your urine? Glucose? What are you diagnosed with when you have sugar in your urine?
+
+Diabetes. So he was diagnosed. Diagnosed with a condition called Modi.
+
+Modi. Mature onset diabetes in the young.
+
+Did you have to go to the military? No, because he was diabetic.
+
+Right. Did he know what he was doing? No.
+
+Right. He was given a slip that go to your PCP.
+
+You need to have this repeat measurement done. You need.
+
+We're very sorry to tell you that you are diabetic, and you have to deal with this for the rest of your life.
+
+You don't have to serve in the German military, right? He went to his physician.
+
+The physician, as you know, did a repeat measurement,
+
+zero glucose in his urine because he didn't chuck two liters of of coke the night before or the day before or the day off.
+
+Right. And he said, congratulations. You just got out of the draft. Right.
+
+Others who didn't know that had to find other ways to get around it.
+
+I leave it at that. Okay, so you can overwhelm these mechanisms.
+
+But if we don't have enough glucose, we get unconscious.
+
+Right. We are reclaiming 100% of glucose over here.
+
+So I thought that this story is long enough for Rachel to come back to tell us that the coffee is here.
+
+Um. Maybe not. So we'll go to the next slide. So we have different sensors throughout the cardiovascular system.
+
+We talked about the very fast acting ones. Right. The arterial by reflex, parasympathetic very fast sympathetic on the order of tens of seconds.
+
+We have the volume receptors, as we already said, atria and large veins also neurally mediated.
+
+So in principle actually quite fast in terms of the sensing.
+
+But because there are volume sensors and volume influences,
+
+the the effector mechanisms that relate to the kidneys are actually slower to act on the, on the, on the, on the, on the order of minutes to hours.
+
+We talked about the carotid and aortic receptors.
+
+We talk we will talk about the just about Paradis in a second.
+
+And we also have Osmo receptors. In the hypothalamus.
+
+So we can we can, um, we can, uh, we can make sense.
+
+The osmolality or osmolarity of the blood.
+
+And if it's too high or too low, we can modulate the fluid status.
+
+And we will also talk about macula denser cells. So maybe we'll get to all of renal physiology in another couple of minutes.
+
+Very important for our consideration over here is what is called the renin angiotensin or drawn axis or system Raas system.
+
+It is dependent on sympathetic innovation. Effectors are.
+
+Atrial naturally tick peptide. Uh, antidiuretic hormone.
+
+You know, other Euro Latin that I'm not going to talk about so, so much.
+
+But if we zoom in on our Bowman's, uh, capsule over here on our glomerulus.
+
+Right. We have the afferent arterial, meaning our blood flow is coming in from the renal artery,
+
+and we have our efferent arterial, and the blood is coming out.
+
+Right. All that that that filtering is happening over here at this finish.
+
+Straight at endothelium. Now cut through here is a part of that tubular system.
+
+And in that junction close to this, um, close to the, to the glomerulus, we have these cells that we call the jeux,
+
+the glomerular cells or glomerular meaning close to the, the mirrorless.
+
+Just because there's a juxtaposition between. Right.
+
+And these cells can sense both osmolarity at the level of the macula denser.
+
+But they can also measure the distention of the pressure over here.
+
+And we also have sympathetic innervation over here.
+
+So one of the things that you can do that the amaryllis does over here in the
+
+nephron does it does doesn't just affect urine and sodium and glucose handling,
+
+but it's also sensing mechanism. And it's a very powerful sensing mechanism for blood pressure over here.
+
+Right. But also for content of what is being filtered in terms of the osmolarity and, and sodium and, uh.
+
+Concentration over here. So.
+
+If the baroreceptors in the Jackson glomerular, uh.
+
+Um, apparatus. So these instructs the cells sends a drop in pressure.
+
+The rent in production is going up. Here's the data.
+
+If you're above about 90 minutes of pressure, right.
+
+That's where we usually operate. The run and production run and release very low.
+
+Right. But moment that you stop to start to drop below that you have a dose dependent increase in the random production.
+
+And Ren and release. So Ren was released from the kidney as a function of the mean arterial pressure.
+
+Um, well, in this particular case, it in eight countries.
+
+Dogs. So at the level of the macular denser if they if the macular denser cells sends a low sodium chloride um delivery to the macular denser.
+
+Running. Production is also going up, meaning blood pressure is low or sodium chloride concentration low.
+
+Running. Production going up. So we going back over here.
+
+And then finally, I think that's finally. If the renal sympathetics are going up.
+
+So meaning that we have a global response, a global response in the sympathetics urine in production will also go up.
+
+If there's a global stimulus that says our pressure is low, right?
+
+Or we're in a fight or flight, you know, state, then the rent in production is also going up.
+
+So why is rent an important renin release from the kidneys over here?
+
+The liver produces an enzyme called angiotensin agen N6, and Sinjin converts run into angiotensin one.
+
+In the lungs. Is an Ace.
+
+Angiotensin converting enzyme converts nutrient tension one to angiotensin two.
+
+And angiotensin two has multiple effects, one of which is that it effects has effects on the brain to release ADH,
+
+antidiuretic hormone diuresis, loss of fluid, and diuresis.
+
+You hold on to fluid. Right. So you want to bring fluid back up.
+
+Meaning that if the kidneys senses stress, meaning low pressure or low sodium chloride.
+
+Delivery. It releases renin, and one of the effects is the release of antidiuretic hormone that acts on the kidneys itself to reduce sodium excretion.
+
+And to to reduce water excretion.
+
+Another effect of angiotensin two is on the adrenal glands, or supra.
+
+Renal grants. Releases aldosterone, and aldosterone also has a powerful effect on the um.
+
+Uh, on the kidneys to reduce, uh, output of water.
+
+Thank you sir. So last slide before the break.
+
+Let me say yeah. Last maybe two more.
+
+So actions of engine tension to hang on to salt and hang on to water on the kidney, increase reabsorption and proximal tubule.
+
+Increase the efferent resistance so that the glomerular filtration and the renal plasma flow go down.
+
+Increase of aldosterone. So you're increasing the sodium chloride reabsorption in the thick ascending lobe the uh collecting duct.
+
+And uh, this uh, descending the descending uh.
+
+Two, bro. Brain. You increase ADHD, uh, secretion, you increase the sense of thirst can be very powerful that you actually take in more.
+
+And at the level of the arterial system, you have a powerful increase in vascular resistance, and that leads to an increase in blood pressure.
+
+All of this leading to volume retention. And an increase in blood pressure.
+
+All right. So that was my crash course in renal physiology as applied to the cardiovascular system.
+
+And before we take the break over here, there's many more sensors of environmental stimuli, external environments, real or perceived pain.
+
+Very powerful sympathetic stimulus. Right.
+
+If someone comes to the emergency department, the heart rate is high. Right?
+
+Could just be because they're really in intense pain. Temperature.
+
+Environmental stimuli. Stimuli interpreted by the cortex.
+
+Real or imagined anxiety. You might be in a life threatening position, or you might imagine that you be in life threatening position.
+
+The response can be the same, right?
+
+Anger, fear, and so on. So higher cortical functions can also affect the cardiovascular effects or the cardiovascular autonomic.
+
+Primarily here. We're interested not in these kinds of things, but in the closed loop control mechanisms that maintain blood pressure homeostasis.
+
+All right. Let's take a ten 15 minute break.
+
+Have some bagels come back. All right.
+
+Um. We're.
+
+Close to the end. So information from the environment as interpreted by our cortex, uh, can also significantly affect our cardiovascular state.
+
+We've talked about all things over here except for the control logic.
+
+And that is an enigma, right?
+
+We don't know what the brain optimizes. Why particular blood pressure value is optimal, how it measures or how it senses.
+
+We know, but what what the brain integrates. And, um, clearly getting information from all over the body and what that optimization function is.
+
+Uh, we really don't have a clue, right. And that is where obviously these little feedback control loops and models fail.
+
+Um, but they're really effective, uh, because they allow us, um, to.
+
+Uh, to conceptualize the behavior and to come up with very good short term sort of models that that recreate the short term.
+
+Um. Uh, behavior of the system.
+
+So now that that shouldn't stop us.
+
+So it doesn't stop us from from trying to figure out what it is and and doing these kinds of implementations in order to compare then simulation and,
+
+and, and experiment. So one thing we've talked about over here is model of cardiovascular control that takes into account the fluid balance over here.
+
+Now you could be a graduate student. You want to work in the space of cardiovascular control.
+
+And this you come to your supervisor after, you know, your first half year of studying this thing,
+
+and you come up with this and you show this to your supervisor and say, here's my model grand model of the cardiovascular system.
+
+Say, well, you know, a little Bobby, this is nice, but there are quite a lot of things missing, right?
+
+So we have sort of remodeling. We know that there's baroreceptors.
+
+We know that there's arterial stretch receptors. We know venous receptors.
+
+Why don't you go back to your desk and, you know, think a little harder.
+
+So a little Bobby goes to the desk, thinks a little harder, goes, you know, hits, hits the the lower levels that count, wear library tools,
+
+you know, look through an old dusty box and of physiology half a year later comes back with something that looks like that.
+
+Right. So we still recognize our old loop over here.
+
+Right. Means systemic pressure. We are, uh, subtracting the right atrial pressure over here.
+
+The venous return. Right. We multiply it all prefer resistance.
+
+But then this adaptation over here we have chemoreceptors. Very receptors.
+
+Right. We have, uh, adaptation of those receptors.
+
+If you actually stretch them for too long, they desensitize little Bobby really happy.
+
+Right. Brought all of this together. We have right atrial pressure as a function of cardiac output over here goes to the supervisor.
+
+And the supervisor looks at this and says yeah this is very nice. But with, you know, your erythropoietin system, right.
+
+Where is uh, you know, blood flow through the bone and all of this.
+
+Right. So little Bobby is ticked off. It's the library heart and this is what he comes back with.
+
+Right. So here we have the kidneys and excretion. We have thirst and drinking.
+
+We have antidiuretic hormone control.
+
+We have what do we have electrolytes in cell water tissue fluids heart hypertension deterioration red cell viscosity.
+
+Right. Of course you can build these kinds of models, but they provide very little insight.
+
+You can run these and make predictions.
+
+You can run these to actually tune parameters and and do what if scenarios.
+
+And that what guidance did this is from from other guidance. Some of you might know the guy in physiology textbook the same fame right.
+
+That's what they did in the late 70s.
+
+And they actually came stumbled upon a very interesting mechanism of essential hypertension through this modeling exercise.
+
+Right. But it provides zero insight into sort of the system level behavior that we are trying to develop over here.
+
+So the way in the end that we want to look at this is very simple.
+
+We have arterial stretch receptors and we have these venous receptors which we also cardiopulmonary receptors.
+
+Right. When they stretch. They indicate high pressure.
+
+If they relax, they indicate low pressure. And then there are some.
+
+Optimization, some impulse response function, some transfer function, so to speak,
+
+over here that says if this is firing more, then there is a sympathetic outflow that might be activated over here.
+
+And there's a parasympathetic outflow that might be activated over here.
+
+Way that we think about the parasympathetic outflow zeroth order only affecting heart rate.
+
+Great only. No peripheral resistance. No venous tone.
+
+No contractility. Heart rate only.
+
+Sympathetic outflow affects the heart rate, contractility, resistance in venous tone the way that we've described it.
+
+Okay. Now. In turn, those effective mechanisms will then affect the aortic arch pressure.
+
+Right. That's where we have arterial barrier reflex sensors called sinus pressure.
+
+Over here and the right to a pressure.
+
+And that is the close loop that we're thinking about in terms of the primary neural control of the cardiovascular system.
+
+Now we also know and we've just seen that the stretch receptors on the right hand side.
+
+Can also affect the sympathetics. And thereby effect the kidney.
+
+This here happens on the order of seconds. If you talk about the autonomic nervous system.
+
+Kidneys. Minutes. Two hours. Okay.
+
+So we have control mechanisms that are closed loop acting on very different timescales.
+
+So. What about that control logic? Well, we can look at what the sinus node gives into the brain.
+
+So the efferent nerve traffic going to the brain.
+
+And we can look at the post ganglion IC sympathetic nerve traffic coming out of the sympathetic nervous system.
+
+So what's going into the brain and what's coming out and going to the heart itself.
+
+Right. We are not we have no clue what's happening in between over here.
+
+Right. But we usually have sort of these sigmoidal response curves, meaning that if the mean pressure in the carotid sinus.
+
+Is, let's say, close to 100 or 90mm of mercury.
+
+The relative impulse frequency scale to a maximum is fairly low.
+
+Anyway, we're operating as normal. Um.
+
+Uh, mean carotid sinus pressure. We have a residual nerve traffic that's going to the brain through the sinus nerve.
+
+Right? And if we're operating at that sinus pressure over here, the relative impulse frequency in the post ganglion IC nerve is fairly high.
+
+Meaning what is low over here? It's high on the effective side.
+
+I didn't want it's high over here. It's low on the effective. So that's sort of that input output relationship that we're talking about.
+
+So if the mean and pressure sinus pressure is going up.
+
+Right, then the nerve traffic going to the brain is high.
+
+But the north traffic going into the periphery is low,
+
+meaning that you're in a relatively sympathetically depressed, which makes sense of the pressure.
+
+It's high over here. You want your heart rate to be high? No.
+
+You want your resistance to be high? No. You want your stone to be high?
+
+No. You want to be in a state where you're rolling off on the sympathetic.
+
+Because you're already in a very high state if you're in a very low state. You want to be maximally sympathetic, stimulated, stimulated.
+
+So somewhere in the brain, there's a flip between what is being sent up and what is being sent down.
+
+Right. That's in the brainstem.
+
+Medulla oblongata. We know where the locations are of the autonomic nervous system and the centers of the of the, of the at the brainstem level.
+
+Right. How that function, you know, appears you can look at a synaptic transmission studies.
+
+Right. But what make makes us operate at that particular point I don't think anybody knows.
+
+Right. And why does it actually maybe shift over time as we age?
+
+Why does it, you know, actually get upregulated when we exercise?
+
+We can conjecture, but we don't quite know the mechanisms of it.
+
+We don't quite know. So. But in the end, we don't need to know those mechanisms to understand the system level behavior.
+
+So here's something that I've alluded to in that talk to Tedros alluded to already.
+
+Which is the carotid sinus massage. Right. So here is your massaging a rabbit or the rabbit was massage.
+
+Did the carotid sinus or what you did in the rabbit is that you go in and you don't do that at home.
+
+Uh, so you press in and then you wiggle right in.
+
+What you're trying to do is you're trying to stretch the stretch receptors at the carotid sinus.
+
+Right. We have the egg over here very compressed, but we have heart rate.
+
+We have blood pressure, and we have flow measured at the femoral artery. So not cardiac output, but it's at the at the femoral artery.
+
+But what we want to focus on is really the heart rate response and the blood pressure response.
+
+Right. So what happens when you do a carotid sinus massage?
+
+You're going in there, right? And you're just massaging the carotid sinus.
+
+What you're doing is you're stretching the stretch receptors. Right.
+
+Now that's those stretch receptors. When they get stretched, they send a signal to the brain that says, I'm sensing a hypertensive stimulus.
+
+Right. What's the system level response to a hypertensive stimulus?
+
+Right. You think that you're operating over here, right?
+
+Normally, you're operating over here. You think that you're operating over here.
+
+You have sympathetic withdrawal and you have parasympathetic increase.
+
+So what happens here is while you're massaging the carotid sinus of that rabbit.
+
+Heart rate immediately decreases. First vaguely mediated and then secondarily sympathetically mediated.
+
+So very rapid parasympathetic withdrawal for the sympathetic, you know, withdrawal over here.
+
+Sorry parasympathetic stimulation. Sympathetic withdrawal. Right.
+
+And then when you stop right. Hydrate.
+
+Or maybe it stopped over here. Hydrate pops right back up.
+
+What happens to blood pressure? But pressure goes down, right?
+
+Because you're fooling the arterial reflex into thinking that there is a hypertensive stimulus.
+
+But massaging this. When did we bring up the carotid massage?
+
+I think we brought it up when we talked about. Uh, supraventricular tachycardia.
+
+Right. And people and learning how to actually do a little bit of carotid massage to have a vagal outflow to slow down the heart.
+
+What happens when you actually have this vagal response on the AV node?
+
+Right. You're reducing conduction velocity through the AV node.
+
+Are you reducing conduction velocity through the myocardial cells?
+
+Ventricular myocardium. Right. And you're trying to get the heart out of that rapid rhythm.
+
+All right. So one way to actually try to get out. Of course you don't want to do that at home unattended.
+
+Right. Because your blood pressure would tank if you do it on both sides.
+
+Right. And you don't want to do it in such a way that you would keel over.
+
+All right, but very effective when done right. Not always easy to find.
+
+The carotid arch of the of the rabbit. Okay.
+
+So let me get back to the very beginning of our control lecture here.
+
+Uh, two lectures or so ago. Right. This was you this morning getting up from a lying position.
+
+Slight increase in blood pressure as you as you contract your muscles.
+
+Right. We'll talk about the Wells Fargo maneuver in a second. Then you stand up and you relax your muscles.
+
+All right. Blood is essentially starting to pool in the dependent vasculature.
+
+At the level of the heart. Your blood pressure drops by about 20, 25mm of mercury.
+
+So at the level of the brain, right, it's even lower. Heart rate immediately shoots up.
+
+Right, leading to a turnaround over zero blood pressure.
+
+And equilibration, at least for the first three minutes, at a level higher than your baseline.
+
+Now. If you observe astutely as you do, you say, wait, wait a second.
+
+This is blood pressure, homeostasis wise and blood pressure coming back down exactly where it was before.
+
+Isn't that the whole point? Blood pressure is slightly above baseline.
+
+In a standing position. Actually, quite a it's actually quite correct.
+
+When you're lying down and you measure blood pressure at the level of the heart, let's say in the middle of the line, if you're exactly.
+
+You want to be really accurate, right? If you're lying down.
+
+Whether you have the blood pressure of the hand over here or over here. Doesn't matter over here.
+
+Right? We have no gravitational gradients across the main body axis.
+
+But as you actually tilting up, right, if you keep the blood pressure at the level of the heart.
+
+But if you really want to regulate your blood pressure at the level of the brain.
+
+What's happening to the level of the heart? High blood pressure has to rise a little bit in order to maintain that blood pressure constant.
+
+Turns out that this blood pressure is not exactly constant. Right.
+
+So it's not that if we were to actually keep our blood pressure over here,
+
+that it would exactly stay the same before and after tilting before and after standing somewhere in between.
+
+And probably has to do with the fact that you have sensors at the level of the heart and the level of the brain, and both get integrated.
+
+Yeah. Yeah.
+
+Very good question. I'm not aware of any wearable device that accurately measures blood pressure.
+
+Not of any. Zero. Right.
+
+So what you can have is you can have, you know, cuff devices like this that inflate the same way that you have a cuff over here, like asymmetrically.
+
+So that's number one. It's like $1 billion industry.
+
+Apple is trying to do it. Samsung is trying to do it. They scooped up a bunch of our graduates trying to do it.
+
+You can go online and say that Apple thinks that they are one year away or they are.
+
+And then you say that the timeline has shifted. Right. Do you think it's accurate.
+
+Mhm. Yeah. So they're devices out there. But your bigger question is the following.
+
+Absolutely depends. I do remember the exercise that we did over here in the exercise.
+
+You know to bring this down. So one thing you could do and what people have thought about is to calibrate this is to say.
+
+All right. I mean, I hold this at the level of the heart, right?
+
+And then if I know I can measure my my distance over here, I can just bring this up.
+
+Right. And I know what that difference could be.
+
+Right. So that's one way that people have tried to calibrate.
+
+It's like I'm. Not. It makes sense, but not really accurate to the level that we want.
+
+But yeah. Variable devices for blood pressure measurement depends on where you are, where your measurement point is, right?
+
+We always think of blood pressure as a reference to the level of the heart.
+
+The cuff is that the break in where you are pretty much at right atrium level.
+
+Right. That's what we want. Okay. Good question.
+
+All right. So this increase over here, as I said,
+
+has to do with the fact that the input from the carotid sinus and likely the input from the carotid sinus in the aortic arch,
+
+is somehow integrated at the level of the brain and really get regulating it somewhere in between.
+
+It's not perfectly regulated here. When you do the measurements, it's not perfectly regulated over here.
+
+But if you keep your blood pressure, your, your, your sensor at the level of the heart in the upright position,
+
+you have about a 3 to 4 to five millimeters of mercury rise in arterial blood pressure.
+
+And that, as I said, probably has to do with the fact that the cardiovascular control system tries to regulate something in between.
+
+All right. Okay.
+
+So we can also look at tilting in the context of our cardiac output venous return curve.
+
+Right. So the way to think about this is as I said is what is the initial insult.
+
+Right. And then what does this lead to in terms of the cardiovascular control mechanisms.
+
+So if we suddenly stand up let's say forget about control mechanisms.
+
+If we suddenly put someone upright and we say there is no cardiovascular control.
+
+The main way to model this in the context, or to to rationalize this in the context of what we've learned over here, is to say, wait.
+
+So in a gravitational field, you essentially tilt.
+
+Upright essentially amounts to an increase in zero pressure feeling well, meaning that your translocated blood from the descending to the.
+
+Um, zero pressure, filling volume. It's essentially it's akin to a blood loss, right?
+
+Because you're standing up, you're pooling a lot of blood in, in your legs.
+
+And that would be then leading.
+
+Without control mechanisms just by itself to a reduction in the mean.
+
+Systemic pressure. Right now your vote is actually going up.
+
+Your vote is going up. That means your numerator is going down.
+
+That means that your mean systemic pressure is going down, which means that that intersection point over here, right, is going down.
+
+Akin to a to a blood loss. Right.
+
+What happens on your cardiac output side on your heart lung pumping unit side?
+
+Right in the uncontrolled state. Nothing. Right.
+
+And the uncontrolled said nothing. Because.
+
+Heart rate doesn't change, doesn't have a reason to change because you're changing your gravitational field, right?
+
+Contractility doesn't change. Now. Now we know what the insult is and how the cardiovascular system responds to initial insult, right?
+
+It would go from a state cardiac output state like this over here to a cardiac output state like this over here in the uncontrolled state.
+
+Resistance. Still the same, right? All we've said is that the zero pressure filling volume is actually going up.
+
+That's our moral foothold, right? So what happens to blood pressure?
+
+Cardiac output is going down. Resistance. The same blood pressure has to go down.
+
+So arterial blood pressure is going down. So now that we know that there are two blood pressure as a consequence of the initial insult is going down.
+
+And now we can think through what happens with the control system,
+
+how the arterial battery flex and the cardiopulmonary flex or the heroic arch reflects the correct sinus reflex.
+
+They sense a low blood pressure. So what happens? Heart rate is going up.
+
+Contractility is going up. Venous tone is going down.
+
+Venus tone is going up. Your pressure fitting volume is going down and resistance is going up.
+
+So what happens now in response to this is that now your slope is going up.
+
+Offset is going up. Your. PMS is going up again, right?
+
+And your resistance is changing. So your slope is changing.
+
+The important point of emphasis is we never overcompensate.
+
+We never come out as a response to an insult.
+
+With a supra normal cardiac output. We don't.
+
+We can get close to our reference point in blood pressure, right?
+
+We can get close to the normal cardiac output where we don't overcompensate.
+
+Meaning that we would go from a point that might be over here, right?
+
+An uncontrolled state over here to one that's closer to the state that we have over here.
+
+Right. But we never get above that point. Meaning that if the initial insult takes us in mean systemic pressure from here to here,
+
+the compensated state now with all the control mechanisms in place would get us somewhere in between.
+
+It would never cross over to the other side. Okay.
+
+Yeah. Correct.
+
+But in a. In the control set because now you have sympathetic outflow.
+
+Right. And that affects the heart. And it affects the peripheral circulation.
+
+On the heart it changes resistance. It changes heart rate and contractility.
+
+On the peripheral circulation side, it changes venous tone and vascular resistance.
+
+All right. So the four things that change PMS offset over here.
+
+Resistance slope over here. Heart rate slope over here.
+
+Contractility offset over here. Those are the four things.
+
+Those are the four effectors that we have, right? And what if you superimposed blood loss on a tilt?
+
+So now you're tilting your students and then you say, well, if you're not quite finished yet, then let me actually take a pint of blood, right.
+
+The effects are compounded because now you have an effective hemorrhage or, you know, blood loss through the tilt, right?
+
+But then you have a real blood loss on top of that. Right.
+
+But the game that you're playing is exactly the same. What's the initial insult?
+
+What's the what's the initial? Um. Uh, which parameters of our system are initially affected?
+
+What is that effect doing to cardiac output? How is that translating to blood pressure?
+
+And what is then the reflex response of both the arterial reflex and, uh, the.
+
+Yeah, yeah. Terrible reflex in the cardiopulmonary. Okay.
+
+So what happens in these kind of tests when autonomic failure occurs.
+
+So your autonomic don't function as as, uh, you wish.
+
+Well here is the full transient response as well. You have the blood pressure response.
+
+You have the heart rate response. You have a percent change in stroke volume, percent change in cardiac output.
+
+And total peripheral resistance is unchanged. So if you have autonomic failure or failure of the autonomic system to respond right, you.
+
+See that every change in posture can be a very significant challenge to your system.
+
+Total peripheral resistance essentially constant. I'm not adapting at all.
+
+To the change, you know, to a blood pressure, cardiac output dropping by about 50%.
+
+Right stroke volume dropping by 50%. Heart rate essentially constant.
+
+All right, so these people have to get up slowly.
+
+They, you know. Learn maneuvers in order to to, uh, to counteract the blood pressure drop over here.
+
+And, you know, you can also have circulating catecholamines that that act on a longer time scale,
+
+that over a longer time scales help blood pressure to come back up.
+
+Right. But in this kind of scenarios, every change in posture can be potentially a significant challenge to the system.
+
+Now, the other maneuver that we've talked about previously is that of about salvage maneuver, which is the training maneuver.
+
+It's like weightlifting, right?
+
+You do this, you tense your your abdomen, right, you tense, you know, you try to exhale forcefully against the closed, glorious right.
+
+And that has a very characteristic change in arterial blood pressure.
+
+And then heart rate, arterial blood pressure, usually not measured in the clinic.
+
+But you can actually measure the heart rate response with a simple ECG and and a heart rate, you know, output.
+
+Right. So normal actual blood pressure over here.
+
+Right. And then you do this training maneuver.
+
+And that increases your intra thoracic pressure, right?
+
+Meaning that you're actually pressing down on all the vessels inside of your abdomen and inside of your thorax.
+
+Right. That increase in pressure, that outside squeeze is transmitted immediately onto as a DC increase on the actual blood pressure waveform.
+
+Right. You see, when you actually do this right, your blood pressure shoots up immediately.
+
+Right both of the carotid sinus and the aortic arch.
+
+So at that level, your heart rate goes down. Cause your blood pressure just shot up.
+
+But it shot up because you actually squeezing on on everything in your thorax right now,
+
+when you do that and your, your, your intra thoracic pressure is shot up, right?
+
+What do you what do you think happens to the vessels entering your your thorax?
+
+They're collapsing, right? Because you have a massive outside pressure, right?
+
+You're truly collapsing these vessels. Heart is still beating, not empty.
+
+But what happens to your stroke volume? You can see that the pulse amplitude is getting smaller and smaller and smaller.
+
+Stroke volume. Get it going down right. Because your heart is beating, but it's not filling effectively, right?
+
+As a consequence of this decline in in in blood pressure, your heart rate is going up.
+
+Right until the point comes. We say you let go.
+
+Right. You have an immediate drop in blood pressure, right?
+
+Very low. Uh, stroke volume. A very low pulse.
+
+Pressure over here. Now, you release that pressure that's squeezed and that collapsed the vessels entering the thorax.
+
+Right. What happens to your venous return?
+
+Right now you have all of this blood that's backed up right outside the thorax that rushes back to your heart.
+
+What happens to your stroke volume? Increase is significantly, right?
+
+Because now you're stretching the heart. You have a lot of venous return. Right.
+
+Blood pressure comes down. Heart rate plummets.
+
+Yeah. Yeah.
+
+So scuba diving. You can't stay that long downstairs, right?
+
+But there are people that that sort of chronically have high intra thoracic pressure or a of chronically, but let's say oboe players, right.
+
+Players like French horn players that have very, um, uh, very high, um, uh, that have to generate a lot of pressure and very small mouthpieces.
+
+Right. They're the, the, the, the, um, the influence that I know of is mostly on the I,
+
+it's the intraocular pressure that could go up because your intracranial pressure goes up.
+
+I don't know whether there's any effect known of these kinds of plays on the cardiovascular system.
+
+Right. Because you don't hold it for long.
+
+It's really just that you have these bursts where you're going up right now, scuba diving, uh, you have a positive pressure ventilation.
+
+Right. So it's not that you're actually squeezing down what you're doing is you actually have your BCD,
+
+your buoyancy control device, and your your breathing air in.
+
+So you're actually expanding, but you're also expanding against the, the, uh, it's like positive pressure ventilation,
+
+but you're actually balancing the pressure that the outside world the C gives you
+
+with the pressure that you actually that the buoyancy control device gives you.
+
+So there is a effect on venous return right through the positive pressure ventilation.
+
+But it's not like the squeeze that you get in. Um, uh, in freediving for example.
+
+So there you can really collapse things, right? Because you don't have, uh, the positive airway pressure.
+
+And that's where they sometimes I mean, these,
+
+these people who would just drop down right there comes a point where, you know, you're positive buoyancy is gone.
+
+Right. And you just because it's so collapse that you're essentially dropping like a rock.
+
+And that's where people hold records and die in the process.
+
+Okay. All right, let's go. Maneuver an auto autonomic failure.
+
+Very simple. Bedside or in office?
+
+A response where you say, well, you know, do this maneuver and we can actually, you know.
+
+See whether your heart increases, decreases heart rate increases or decreases.
+
+And, um, if you have a blood pressure measurement system, you can also slap that on, but I don't know, make feel it over here as well.
+
+You have these increases in swings in blood pressure. You have zero heart rate response.
+
+And of course, anything in between can be blunted. Right. But while the maneuver a simple maneuver.
+
+Also, um, again, to get you out of, um, tachycardia is because at this point you have massive vagal outflow, right?
+
+Heart rate goes up, but then it plummets significantly at this moment.
+
+And you have significant slowing down of the action potential through the ventricular myocardium,
+
+through the AV, you know, and that can also help you get out of out of attack.
+
+Attack here with Mia. So maybe a couple more things to show you how.
+
+How we can understand various, uh, adaptation of behaviors.
+
+Um, muscular exercise. This is very busy.
+
+So this is just for fun. Um, nothing that you should commit to memory, but what happens in exercise, right when we have sudden onset exercise?
+
+So this is seconds after the onset of exercise.
+
+So the first thing that happens in exercise is really that we have a massive increase in the mean systemic or mean circulatory pressure.
+
+Uh, why is that? Because when we start to exercise, we do exactly what I just mentioned is that you start to do what's right.
+
+You sit on a bicycle ergometer order to sit there and to start pedaling.
+
+Right, you have to tense your your abdomen. Right.
+
+If you if you start sort of lifting things or you start on a treadmill, you also have to tense your,
+
+your abdomen a lot of splanchnic venous compliance if you press from the outside.
+
+Right. You mean systemic pressure shoots up. It is essentially the opposite of that tilt.
+
+You have an outside squeeze and the mean systemic pressure, you know, shoots up over here right now a little, uh,
+
+so and then cardiac output also increases immediately because when you actually do the squeeze, you have an immediate increase in venous return.
+
+That immediate increase in venous return stretches the sarcomeres.
+
+And we know that when we actually increase the preload to the heart, it increases the maximum tension it can generate.
+
+And therefore a passive mechanical response to the increase in in filling
+
+pressure essentially is an increase in stroke volume increase in cardiac output.
+
+Right. That's sort of this little increase over here is just the passive increase that you have over here right now.
+
+You also see here that it says that the resistance increases.
+
+And that has to also to do with the squeeze in the immediate mechanical squeeze on the vasculature.
+
+We say if you have a significant outside squeeze right,
+
+then very immediately you might actually have an increase in resistance simply because you're you're pressing down on these vessels now.
+
+As your sympathetics get activated, slowly your heart rate increases.
+
+This is seconds after the onset of exercise. Your heart rate increases.
+
+Right. And over the course of maybe 1015 20s your resistance.
+
+Starts to decrease. Right. That is the resistance to exercising muscle over here.
+
+And then heart rate increases. Right.
+
+Venous venous tone increases. We have mean circulatory pressure going further up in systemic pressure.
+
+Right. Your cardiac output goes up. So these are all sort of the mechanisms that we can understand understanding the fundamental, uh,
+
+you know, mechanisms of, of muscular exercise and the metabolic needs that go along with that.
+
+And what would that look like in our cardiac output and, and venous return curves.
+
+So our state A over here is our, our uh reference date.
+
+Right. The immediate squeeze on the, on the abdominal um vessels is an increase in mean systemic pressure.
+
+Increase in resistance and no change on the cardiac output curve.
+
+Right. So we going from A to B. That's just passive mechanics.
+
+Then we have our sympathetics kicking in, right?
+
+We have further increase in mean systemic pressure because of a reduction in zero pressure filling volume.
+
+All right. We have an increase in resistance to so a decrease in resistance to the exercising
+
+muscles and maybe an increase in resistance to the other vascular territories.
+
+But you then also see that you have an increase in heart rate.
+
+And an increase in contractility as a reflex response to that.
+
+All right. So we're going from a state that's a B to one that C. So now we we're about eight liters per minute.
+
+Right. And if we're now maximally exercising and our um.
+
+Our exercising muscles are maximally vaso dilated so they can be delayed anymore.
+
+We have the lowest level of total peripheral resistance that we can attain, and that slope goes up quite significantly.
+
+All other things being equal, we're going to stay d over here okay.
+
+Yeah. Yeah.
+
+Yeah, that's part of it. All right. Uh, so.
+
+So this is not this is not a passive. Sorry. That's a good question.
+
+Thank you for asking. So this is not a passive response to an insult, right.
+
+Let's say you have a stab wound and you have blood loss. That's an insult.
+
+And you will not have a supra physiological response to that. You do not have a blood pressure that goes higher because of the physiological here.
+
+You're actually the brain is overriding the feedback control mechanism.
+
+What you're actually saying is you're exercising right, and you are in a state where the exercise right massively vasodilators and the and
+
+and the higher order response is responsible for the sort of the increase from,
+
+you know, A to B to C to D, it's not a passive response of the feedback control mechanism.
+
+And in these people or in people who are in, if you are exercising, you would actually you would actually measure an increase in blood pressure.
+
+So it's also an evidence that it's not a passive feedback control mechanism.
+
+So once you actually massively raise a dilated and you continue to exercise,
+
+the only way that you can actually squeeze more flow through your peripheral circulation is by increasing.
+
+Arterial blood pressure by increasing the driving flow. Right.
+
+The driving pressure. And the body does that.
+
+You can actually see it that the blood pressure stays more or less constant.
+
+And until you get to a certain threshold, then the blood pressure actually goes up because you can no longer place it on.
+
+That's it. Get your out a little early today.
+
+But the point is. Oh. Huh? Not so fast.
+
+Unless you don't want to hear anything about the exam, then that's fine. Uh.
+
+All right, so, um. Next Thursday.
+
+Right. One sheet sheet you can put on that sheet whatever you want.
+
+Eight and a half by 11 letter size. Both sides if you want.
+
+Yes. No magnification devices allowed.
+
+Right. So you have to be able to read it with your own eyes or your own prescription glasses.
+
+No loops. All right. The neurocognitive mechanism,
+
+or the newer cognitive exercise of generating the cheat sheet is probably a lot more important than needing it during the exam.
+
+But we also don't want you to remember formulas, right?
+
+So put on it whatever you want. If a poem prepares you for the exam, put on your poem, right?
+
+If it's anatomy, if it's physiology, if anything, we're not going to collect this.
+
+It's up to you. You can write whatever you want. Number one. Number two.
+
+Probably good to bring a calculator. Right.
+
+If we ask you for a number, we would love to see the right units.
+
+If you don't get the right units or if you get something that's 5000l a minute, probably not.
+
+Right? If you're running out of time, at least let us know that you know that it's not right.
+
+That is helpful, right? Uh, in terms of what are we going to cover everything up until pretty much now?
+
+Right. We'll post another problem set this afternoon. That's because Professor Stools is teaching on Thursday, right?
+
+I think that's, that was was that the undertone at any rate.
+
+So we'll post another problem set this week. And we'll either take a former exam so that you can work through these things.
+
+Right. Or we're going to have other sort of practice exams for you.
+
+You can negotiate with Rachel to see whether she's willing and available to have a review session for, for you guys.
+
+Okay. I wanted to extract some collateral for you, but.
+
+Uh, the piece I do probably next Tuesday. No no, no.
+
+So we'll stop here. Right. We'll stop here. And but but here's the thing.
+
+One more. One more comment. Right. There's a few things that we've that we've emphasized over and over and over again, right.
+
+So right now the important thing is the basics. Just make sure that you look through the problem sets.
+
+You look through what we've covered over here. We want to make sure right now that the basics are down,
+
+and that you have an opportunity to think that through and to, to, uh, to tell us that you do.
+
+Okay. So don't go overboard. Look at the things that we emphasize and the kinds of things that we ask you to do to cover in the problem sets.
+
+All right. Thanks.
+

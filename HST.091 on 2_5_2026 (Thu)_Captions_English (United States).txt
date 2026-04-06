@@ -1,0 +1,2267 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+I. All right.
+
+Good morning. No no no no no no no no.
+
+Right. This kind of lethargy will not be tolerated.
+
+So we do this again. Good morning. Good morning. That is how it shall be going forward.
+
+Okay. All right. We are all here. We are all oriented. My name is Thomas Heldt.
+
+As Doctor Stultz introduced me last time, I my distinct pleasure to be leading much of the first block of this class.
+
+Um, we'll be talking today about various aspects of, um, hemodynamics, cardiac cycle, a little bit of review of cardiac anatomy,
+
+because some of you might not have seen this in as much depth as the one students have.
+
+Uh, before we get started, I want to make a couple of statements.
+
+Number one, the reading is on the first slide.
+
+It's also in your on canvas.
+
+Now, uh, much of the reading that we assign, uh, we, uh, assume that you will do this either ahead of time or in time, right?
+
+Meaning that you don't fall behind too much. Some of the reading that we will assign, we will not cover in class.
+
+So, for example, today we'll talk about heart zones as one is to S3, S4.
+
+In this part of the class. In this block, the first block, we will not talk much about murmurs.
+
+Do not talk about regurgitation, systolic murmurs, these kinds of things.
+
+It's in your book. So throughout the class, the first block, we will occasionally assign reading that we will not explicitly cover here,
+
+but that we will expect you that over time you will read so that by the time we talk about heart failure,
+
+the time we talk about valvular heart disease, you've caught up with it.
+
+Okay. If you have questions about any of that material, let us know. All right.
+
+Yeah. Indeed.
+
+Because. So it should be listed now on canvas like this.
+
+We will come up with a detailed list of all the dates. Right.
+
+So, um, so that you have the list ahead of time.
+
+Right. We try to keep it to a minimum. And that brings me to the second topic, which is the homework assignments.
+
+So we posted the homework. It's on canvas. Um, we'll come back to that at the end of the class when, you know, if I,
+
+if I still have a little bit of time left at the end to go through the problems, the way that we structured the homework assignments is again.
+
+Um, not because we want to keep you busy.
+
+We know that you are. Uh, but for you to actually engage with the material.
+
+You can work together. You can work on teams perfectly fine.
+
+Just hand in your own material. Right?
+
+Or everybody needs to hand in one copy so it can be the, uh, um, the result of collaboration, which is encouraged.
+
+Um, but we have to have one, uh, problem, uh, problem set per person.
+
+Okay. All right. So.
+
+With this. Um, let's get started.
+
+Doctor sorts last time, talked about cardiac anatomy briefly, and this would be a quick review for many of you.
+
+Um, but we do want to talk about various aspects, uh, to set the stage for some other things that we'll talk about today.
+
+Um, this is really not the best lighting. Let's see.
+
+This is better. All right. If you were to crack open the chest and you were to expose the heart and everything that's in,
+
+you know, in the chest over here, this is what you would see, right?
+
+We have a pedestrian organ over here on either side of what undoubtedly is the most important organ in the body, right?
+
+The chamber that's the most anterior is the.
+
+It's the right ventricle. Right. It's the right ventricle.
+
+So the vessel that is the most interior of the great vessels that comes off of the right ventricle is the.
+
+I know that you guys know it, so don't be shy. You all know each other.
+
+And we will know each one of you very soon, right?
+
+So there are no trick questions here, okay. What do we call this structure?
+
+Right, Oracle. Exactly right. Three vessels return blood to the right atrium.
+
+These are. Yes.
+
+So inferior vena cava, superior vena cava, coronary sinus, upper body, lower body and from the corner circulation itself.
+
+Okay. All right. So we have the great resources. We have this, this this big thing which is the.
+
+Descending aorta, aortic root, ascending order into the aortic arch.
+
+And then we have big vessels coming out. Turns out that if you actually.
+
+How many of you have actually seen open heart surgery.
+
+So when they actually when you actually open the chest, it doesn't, it doesn't, you know, come neatly colored like this, right.
+
+It also doesn't come with, with arrows to the, to these various structures to get you oriented.
+
+So when you actually open the, the, the chest, first thing that you have to do, you have to get oriented.
+
+We slice the heart open across the plain that we see over here.
+
+Right? We see. The right ventricle over here.
+
+You see the left ventricle over here. Right now many of you have dissected a calf heart, I think, in anatomy or in pathology.
+
+Right? So, you know, these various structures.
+
+We already talked about the mitral valve, the tricuspid valve, the mitral valve over here, papillary muscles over here, cord attending and so on.
+
+Now one thing that is apparent immediately is the wall thickness.
+
+Right. Thin wall on the right side.
+
+Comparatively thick wall. On the left. Why?
+
+What's the pressure that we generate under normal circumstances? Over here in the right, in the left ventricle.
+
+Systolic 120. What's the end? Diastolic pressure.
+
+Doctor. Saul's. Sorry. The entire solid ventricular pressure.
+
+All right. 120 over ADC arterial pressure.
+
+We'll talk about that right here. We're talking about the ventricular pressure 120 over five over eight, not eight not over.
+
+It's systolic 120 and diastolic pressure of the right ventricle of the left ventricle about eight.
+
+So compare this to about 20 systolic over here right.
+
+And five and diastolic. We'll clarify some of these things right.
+
+So wall thickness is related to the, um.
+
+Uh, to the pressure that's being generated. And we'll quantify that a little bit.
+
+What I don't like about this here is that when you actually go from sort of the valvular,
+
+the region of the heart of the heart, down towards the apex, uh, you do not see a change in the wall thickness.
+
+Now, when you did your dissections of the calf hearts,
+
+you probably saw something like this where you have the court attendant over here, you have the mitral valve leaflet.
+
+Over here you have the. Left ventricular free wall over here.
+
+But what you can see over here as you go from the, uh, valvular region of the, um, annulus region of the heart down to at the apex.
+
+The wall is sending out. Right. So what we want to do right now is we want to understand with a simple model of why that is right.
+
+We'll talk about Laplace law of the heart. And what we mean by that is.
+
+So we make an assumption here. We want to relate the pressure that the heart or that a chamber can generate based on the geometry and the, um.
+
+Uh, the what stress can generate. So.
+
+Capitalize. Who should capitalize? So. All right.
+
+So we make an assumption that the heart or the ventricle, not the heart.
+
+The heart. Is. The sphere.
+
+And then we can cut the sphere at the equator.
+
+And what we are trying to establish is what is the relationship between the
+
+pressure that's inside of that spherical ball or heart and the word stress sigma.
+
+So p here is the um is the.
+
+Uh, it's a pressure. You can call it if you want the chamber pressure.
+
+And the units here are as usual, we have sort of fourth area or we have mass.
+
+Per length. And, um.
+
+I don't, uh. Mask to length.
+
+And. Actually leave it like this. I don't know why I have a t squared in there.
+
+I don't want to confuse myself. Sigma is, well, stress. And this is essentially the force per unit area in the wall of the heart.
+
+Right. So this is also force per area. Then we have our capital R over here which is the radius.
+
+Of the chamber. And Dr. is the wall thickness.
+
+So. This is in meters or length scale.
+
+Now. So, ah, is this over here? And.
+
+This over here is Dr. So let me explain what I'm trying to do over here.
+
+Let's take a basketball. Right. For better soccer ball.
+
+Right. The football, what proper terminology would be.
+
+You cut. This thing doesn't expand, right?
+
+You pump it up. At some point in neither expanse.
+
+Sorry. Am I in your way? It neither expands nor does it contract.
+
+Right. So the air that you push in, that actually presses the wall out.
+
+Exerts a pressure on the wall. That is exactly balanced by the force that's generated in the material of the ball.
+
+Right. Now, if you want to understand the forces that are at play over here, we can do it exactly the way that I've just described it.
+
+We can look at what is pushing out and what is sort of pushing in. Right.
+
+But what we can also do is we can make a cut through the equator.
+
+And we're saying a virtual cut through that equator.
+
+And what we can say is that these two halves of that ball are neither flying apart, nor are they collapsing on top of one another.
+
+Right. So the force that is acting on that projected area, then, is pushing the two halves apart.
+
+Has to be balanced by the force that actually push it pulls them together.
+
+Right. So in other words, the force that is acting on this projected area and it's pushing out right,
+
+has to be balanced by the water stress acting on the rim of this chamber that's pulling things back together.
+
+Okay. So that would be our fourth balance.
+
+So what we want to really again what we want to relate is the pressure to Sigma right.
+
+And so we make a few assumptions. We say assume. That VR.
+
+So the thick the wall thickness is very small compared to capital R.
+
+So this is called the thin wall assumption. And then our fourth balance.
+
+Is that what is pushing the two halves?
+
+The part has to be equal to what is pushing, what is sort of pulling the two halves together.
+
+Right? Because when static equilibrium, we're neither expanding nor contracting.
+
+Right. What's pushing us apart is the pressure here acting across this projected area.
+
+Right. So we have p times pi times r squared is equal to.
+
+Now the wall stress that's acting around this rim right.
+
+This is sigma times that area. And because we're making that thin wall assumption we can approximate that area as two pi r d r.
+
+Okay. You can have an outer diameter, you can have an inner diameter.
+
+You can compute that exactly. Right. But since you're making this assumption.
+
+It's essentially a small strip of length of the circumference times the thickness.
+
+Make sense? So some of you might have seen that for a while.
+
+So now what we can then say is that the pressure is related to the well.
+
+Uh, stress is two sigma, the r over, r over.
+
+We can say sigma is equal to p times r.
+
+Over to the are. Sometimes see this way.
+
+You sometimes see that way. Right? R squared goes away with this r over here.
+
+And then you just rearrange. There's a pie somewhere. You know, the pie is actually all sort of drop out.
+
+What does this tell us? Sigma here is a material constant.
+
+Depends on your myocytes. Right. R&R.
+
+Are geometrical constants. Right.
+
+The pressure is whatever the the ventricle can generate.
+
+We'll talk a lot more about this when we talk about heart failure in the clinical part of the blog,
+
+because you can use this law to explain certain types of hypertrophy,
+
+how the heart reacts to either pressure or volume overload kind of relationships.
+
+You could change the radius. You can get a dilated heart.
+
+Or you can change the thickness and you can get a hypertrophy height for the same vest over here and the same.
+
+Pressure. Now, how does this help us? Go back to the previous.
+
+Part. Over here. Now. Right. Left ventricle. Right.
+
+Left ventricle. We could say maybe a spherical assumption.
+
+Can apply right ventricular assist shell that sits around it. Not so much if you want to be fancy.
+
+Knock yourselves out. Go through the real geometry.
+
+Trust me, you'll end up with something very similar. Geometrical factors would be different.
+
+But the fundamental relationship will still hold. Right.
+
+But. What is the what is the, um.
+
+How does this help us explain that?
+
+Towards the apex of the left ventricle. Seems like random buttons.
+
+This is getting thinner. Right.
+
+The assumptions that we can make is that as we go down towards the apex, the radius, the local radius gets smaller and smaller.
+
+Right. So if the local radius gets smaller and smaller, the sigma doesn't change.
+
+Right. To generate the same pressure. Your wall thickness.
+
+Has the luxury of getting smaller. Right.
+
+So when we think about the ventricle and we think about now a true ventricle, not as a sphere but as a sort of ellipsoid of revolution, right.
+
+Oh wall thickness into something like this. Because this radius over here and this way over here are very different.
+
+Okay. So while this is something of a, one could say what we have here, we have to do something quantitative, right?
+
+It does become helpful when we talk about hypertrophy, and it does help us to actually think about, um, how the heart responds.
+
+Okay. All right. This is in your at least for cylindrical part.
+
+This is in your, um, course notes that we've put up.
+
+It's not in the reading of the book, but it's in the course notes that is on the, um, on canvas.
+
+All right? Yeah. What?
+
+So this is we're just looking at a static pressure.
+
+Right now. We could say if we could arrest the heart in any one of these states, it would still hold.
+
+Right now. Yes, you're right that it's a dynamic system.
+
+Right. And pressures that are being generated.
+
+There's some dynamics to it, but it's really more of a of a way to, to think conceptually about it and to relate key parameters.
+
+Okay? Of course. Pressure in the walls, shear stress, the radius. They're all changing.
+
+So as is the wall thickness. Right throughout the cardiac cycle.
+
+Okay. So talking about the wall, the architecture of the wall has fiber orientations.
+
+That depends on the location where you are from endocarditis to.
+
+The heart doesn't contract like this or it doesn't contract like this.
+
+It really contracts like this. Right.
+
+And while you don't need to know the exact detail of the sinus spiral and the deep sinus spiral and the, um, you know,
+
+bulbous spiral and deep bulbous spiral fiber orientation,
+
+what you oughta know is that there is fiber orientation that actually changes throughout the myocardium.
+
+Right.
+
+And that that fiber orientation is important for the contraction, both in the radial direction but also also in the apical sort of valvular direction.
+
+Right. So that the squeezing of the heart is really a torsion.
+
+Along with sort of the longitudinal contraction, but also with the radial contraction.
+
+Details are important if you want to do research in this field, or if you want to become a cardiologist later on.
+
+Yeah. We'll ask doctor thoughts about that.
+
+I'm not aware of any disease that way. You actually have a change in the in the, uh, fiber orientation.
+
+So there are. Zainab.
+
+Is that okay? It's just the orientation.
+
+Right. So you can take a look at this over here. It's the orientation how it actually wraps around and where it inserts.
+
+Right. And what layer of the you know of the distance from endocarditis to apple cardiac epi cardiogram.
+
+This is all myocardium. Same.
+
+It's just that depending on where you are actually if you were to, if you.
+
+So what people have done is they've they fixated hearts. Right.
+
+They did sort of cross sectional slabs of myocardium.
+
+And then they actually looked at the fiber orientation from endocarditis to cardio.
+
+And where do they insert and how do they actually loop around. Now you can do this with MRI actually.
+
+Right. And and reconstruct these fiber orientations.
+
+So it's the diffusion tensor imaging you know, allows you to do this kind of stuff.
+
+Okay. Briefly, the vows we've already covered.
+
+Uh, on Tuesday, we have the atrial ventricular valves.
+
+Right. And we have the full monarch and the aortic valve.
+
+Right. And depending on whether you're a pacifist or a, um.
+
+Thank you. You can be both. I was pointed out to me last year.
+
+You can say that it's either the peace sign or the Mercedes-Benz sign.
+
+I'll leave it up to you to decide. Right. But the important point of emphasis here is normally.
+
+When these valves are open from the outflow tract.
+
+These valves are closed. And vice versa.
+
+Right. So then, instead of filling of the heart. Or instead of ejection of the heart.
+
+Now, the two phases that we'll talk about that are very brief as contraction ice relaxation.
+
+Talk about this a couple of lectures from today. Right.
+
+But filling. Atrioventricular valves are open.
+
+Ejection. Pulmonic aortic valve. They're open.
+
+Right. So this is a filling state of the heart. This is the ejection state of the heart.
+
+Now. Terminology. Probably already know the heart is not a continuous pump, right?
+
+It's not like a faucet that you switch on. Here it comes.
+
+Right. Filling. Ejection. Filling. Injection. Akin to a peristaltic valve.
+
+So with each beat, the heart is giving out an amount of blood.
+
+That amount of blood we call the stroke volume. This is SV and this is in milliliters per.
+
+For a bit. Now.
+
+Do we know how much that is? Adult human heart.
+
+Roughly. Right. Three.
+
+Units. There would be a whale.
+
+Let's do something different. Let's say heart rate. Which you call H.R. usually, or sometimes you call it f a frequency.
+
+And this is in beats per minute. What's your heart rate right now?
+
+60 and 100. It's funny. So I teach the undergraduate quantitative physiology course in here at MIT for the School of Engineering.
+
+In what do we have? We are this spring now, right in the fall.
+
+Right. And I always ask the question. Tell me your heart rate.
+
+All right. And everybody used to do this, right?
+
+What does everybody do now? Then my next question is how does it do that?
+
+So you can think about this. So if we're interested in the cardiac minute volume, the amount of blood the heart is giving out per minute.
+
+Right. That is what we call the cardiac output.
+
+And this cardiac output. It's heart rate times stroke volume.
+
+Milliliters per beat. Times beats per minute. What is the approximate cardiac output as we're sitting here.
+
+So that's seven liters a little high. Well around five liters per minute.
+
+But it is size dependent. So sometimes you see something about cardiac index.
+
+But the cardiac output is normalized by body surface area.
+
+Right. So that is not a perfect it's not a by no stretch of the imagination, even a good normalization for the size.
+
+But you're trying to figure out whether a child or someone of a smaller size
+
+that someone like a bigger size has different cardiac or so here in normal.
+
+Around, you know, 70 beats per minute. This year.
+
+Normal. Around five. Thousand milliliters per minute or five liters per minute.
+
+So what does this leave us for? The stroke volume. Around 70 right.
+
+Is around 70ml. Per beat.
+
+So some of these numbers will get back to 120 over eight.
+
+Arterial pressure. Right. Cardiac output normal baseline.
+
+We would say five liters per minute. Heart rate 60 7080 beats per minute.
+
+So these kinds of normal ranges will become second nature.
+
+Okay. So.
+
+During the ejection, the heart will give out about, um.
+
+70ml. How much is that? Can you reference that to something?
+
+Sorry. All right.
+
+Okay. So. Good cup of coffee.
+
+Five liters per minute. Flow rate. Do you have a sense of what that is?
+
+This much. Okay. So you'll have an opportunity to figure that out in the problem set.
+
+Because one question that will ask you is to measure to the best of your abilities.
+
+Number one, the volumetric flow rate coming out of your kitchen faucet.
+
+And number two, the volumetric flow rate coming out of your bathtub faucet.
+
+Right now, I'll be curious to see the spread of data that shall be presented to us if last year's any indication on that question,
+
+but I think you'd be surprised. Right. So 70ml per per bit.
+
+Now remember that that 70ml is only injected over one third of the cardiac cycle.
+
+Right. Let's say of 60 beats per second one second. Right.
+
+30% of that or one third of that 300 milliseconds. So you're injecting 70ml over 300 milliseconds.
+
+You have a cross-sectional area of about 2 to 3cm².
+
+You can estimate the flow velocity. A 100cm per second.
+
+So these are sort of numbers that, um, are impressive.
+
+Doctor Stoltz has already commented on the coronary circulation over here.
+
+We'll talk a lot more about this when we talk about ischemia. Heart disease.
+
+Right? Suffice it to say, one main corner, left coronary artery, one right coronary artery,
+
+left coronary artery bifurcates in the left end here descending, also known as the lad or the circumflex.
+
+All right. We'll talk about branches that are coming off, you know, in a lot more detail.
+
+We already mentioned that the blood that leaves the heart has to return to the heart.
+
+And what collects the blood from the coronary circulation is the coronary sinus, one of the three vessels that return blood to the heart.
+
+Okay. All the things in the first chapter that I assigned for reading for today is essentially this.
+
+Right. So for some of you, it's review for the member students who haven't gone through anatomy.
+
+Take a look through it. See us if you have questions. Okay.
+
+All right now. We will talk in a lot greater detail, um, about electrophysiology.
+
+And Doctor Terrell is the person who is going to teach you about the pathologies and the, uh, arrhythmias that are associated with it.
+
+Suffice it to say that they are specialized tissue along the sort of hierarchy of the heart that are specialized
+
+in the sense that they can conduct electrical impulses much faster than the rest of the myocardium.
+
+And as Doctor Stolz pointed out on Tuesday that some of these, especially in the what is known as the sign or atrial note.
+
+The atrial ventricular node common bundle of his.
+
+Have the property of auto ethnicity. Now we'll talk a lot more about this when we talk about.
+
+The basic cellular electrophysiology. Or ethnicity means that you have a positive slope in what is known as a phase four of the action potential.
+
+In that if you were to take a voltage measurement across the cellular wall, there's some leakage currents.
+
+You're not constant like in the ventricular myocytes. Once you read a certain reach, a certain threshold potential.
+
+Certain ion channels open up. And you have what is known as an action potential that can then travel down the
+
+conduction pathway and through the common Evernote common bundle of his bundle branches.
+
+And the Purkinje fibers get very efficiently distributed throughout the ventricular
+
+myocardium such that the situation that then leads to the contraction.
+
+Of the ventricular myocytes in the right, and the left ventricle essentially happens at the same time.
+
+Now, the approach that we're taking here through the first few lectures is one of successive refinement of resolution,
+
+meaning that we'll throw probably a lot of information at you right now, but a lot of this will be refined.
+
+We will get into more detail, and we will then exemplify this in the context of pathology in the second part of the course.
+
+Right. But at the beginning we'll have to introduce some terminology.
+
+And we also want to give you a somewhat of an overview of, uh, things to come.
+
+And so that we can sort of tie things back together. Okay. We talked about anatomy.
+
+What's the problem here? Take a look.
+
+Let me know what you think. Yeah.
+
+A patent ductus arteriosus. All right. Yeah.
+
+Yes, that's what ASD stands for. Exactly right.
+
+And you're catching up. You know, you're you're zooming in with perfect focus on all the things that are secondary.
+
+Because there's one label that I skillfully removed.
+
+So that doesn't stare you in the face. Yeah.
+
+The ventricular walls. Yeah, that's a artist's rendition. Who didn't know about Laplace's Law of the heart?
+
+Okay. That is that is also astute observation. Yes.
+
+Your name? Alexi. All right, tell us.
+
+Is that a question or a statement? A very forceful statement indeed.
+
+Yes. So what's the problem?
+
+The aorta and the pulmonary are switched. Again.
+
+Is that a question or a statement? The statement.
+
+Okay. So. What's the problem with this, right.
+
+Aorta. Clearly, this structure over here, right, ought to be coming off of this thing.
+
+This chamber over here. Pulmonary artery. Clearly, this vessel coming off should be coming off of the right ventricle.
+
+Right. So what's the fundamental problem is that oxygenated blood gets returned to the right atrium.
+
+Flowing into the right ventricle. And is returned to the body.
+
+All right. Oxygenated blood is returned to the left atrium into the left ventricle.
+
+Returned to the lungs. Compatible with life.
+
+Now, rather than having two circuits in series.
+
+Right. Right side of the heart. Pumping into. The pulmonary circulation.
+
+Oxygen generation CO2 gets expelled right into the left side of the heart,
+
+going into systemic circulation through the stomach, back to the right heart.
+
+We have two circuits that are independent.
+
+Except for what? What?
+
+Fetal circulation. And you mentioned the patent ductus arteriosus.
+
+Right. And atrial septal defect, which allows us to have.
+
+Crossover. This is called. Have you heard of it?
+
+Not a tetralogy, after all. It's transposition of the great arteries, right?
+
+How do we fix it? Swap the vessels.
+
+Indeed, it's called the switch operation. One of the key things that is so it's it's it is a congenital heart defect, not a very common one.
+
+And it does happen. Right. One of the problems.
+
+I mean, it is an involved procedure. It has to happen very early in life.
+
+I mean, you have to you know, the baby is reliant on the fetal channels to remain open.
+
+All right. And so what you'll have to do is you'll have to switch these vessels.
+
+The real tricky part is that the coronary arteries are also coming off of this thing over here.
+
+Right. And you have to transpose the coronary arteries and vessels being what they are, collapsible tubes.
+
+If you put a little bit too much stress on them, they can actually collapse.
+
+We have to do this very, very delicately to actually transpose the coronary arteries.
+
+Okay. All right. Well done. Good. But we talked about the fetal circulation, which is different from the adult circulation.
+
+But we shall not forget about our prior cells.
+
+Right. So, blood oxygenated, coming from the mother.
+
+Entering the, uh, the fetus through the from the placenta, through the umbilical vein into the inferior vena cava.
+
+What about the pulmonary circulation? Do babies breathe?
+
+Do babies have respiratory effort? Yes they do.
+
+All right. So they are priming their diaphragm. But the vascular resistance going into the lungs.
+
+Lungs collapsed. Right? Very high.
+
+So the amount of blood that would normally be shunted from the right atrium into the right ventricle through the pulmonary circulation.
+
+Very low. However, we have the pheromone valley.
+
+In this case for a right to left shunt.
+
+And we have the ductus arteriosus, also known as ductus battalion, after the Italian anatomist who described it first.
+
+Uh, that shunts blood from the, um.
+
+Uh. You know, pulmonary artery to the aorta. These feeder channels close after birth.
+
+Baby comes out, takes a deep breath in what happens? Sorry.
+
+What happens to the lungs. Sorry, I should be more precise. What happens to the lungs? Lungs inflate.
+
+So that's why the baby has to breathe first. Cry.
+
+Very important. Right? Because what happens is baby takes a deep breath in.
+
+It expands the lung. Right.
+
+Vascular pulmonary vascular resistance drops precipitous.
+
+What's the principle of pressure across a long. I know that you've covered this.
+
+Because. Airway opening pressure mounts.
+
+So lung pressure minus intra thoracic pressure.
+
+Intra thoracic pressure being negative. Right. When you take a deep breath in.
+
+We take atmospheric pressure as baseline or zero, right?
+
+Transmit pressure inside pressure. Minus outside pressure. Positive zero.
+
+Minus minus five. Yeah, they say ten, but it's probably in centimeters of water rather than millimeters of mercury eight centimeters per water.
+
+Centimeters of water is what the pulmonologists talk about. But we know it's millimeters of mercury.
+
+Right now. Lung inflates.
+
+Pulmonary vascular resistance goes way down. Blood flow takes a path of least resistance.
+
+You actually starting to produce a lot. High oxygen tension.
+
+Going through the ductus arteriosus. Starting to constrict smooth muscle constriction.
+
+Pressure differential across the left and right atrium goes in the opposite direction from anabolic losses to adult circulation.
+
+But changes or problems can happen.
+
+We can have a persistent or a atrial septal defect.
+
+You can have ventricular septal defect, you could have ductus arterials, etc.
+
+Close properly and so on. Right. Transposition of the great arteries.
+
+Just being one of the, um, complications.
+
+Uh, or, um. Congenital heart defects that one encounters.
+
+Boston Children's Hospital, obviously one of the leading centers in the world in correcting some of these.
+
+Okay. All right. So much for the anatomy.
+
+We've talked about cardiac output. Let's do a few more things before we take a break.
+
+Here is a diagrammatic representation of the cardiovascular system.
+
+And the reason why I want to show it to you is for variety of reasons.
+
+Number one is that from an engineering perspective.
+
+We can think of the heart as either a current source or a voltage source.
+
+And when we think of it as a current source, we think of it as an organ that gives a constant flow.
+
+It. Right. Five liters per minute.
+
+When we think of it as a pressure source. We think of it as an organ that can maintain a certain pressure.
+
+Let's say, at the root of the aorta. Independent of the load or the flow that it's being demanded of these different parallel branches.
+
+We will switch between these two views throughout the course, or we will talk about cardiac output a little bit more right now.
+
+We'll also talk about arterial blood pressure. Right.
+
+But when we talk about, for example, the control mechanisms that allow us to maintain blood pressure homeostasis.
+
+We'll talk primarily about maintaining blood pressure near the level of the heart or near the base of the skull.
+
+The two important organs, as Doctor Stokes pointed out, to maintain perfusion to the heart.
+
+You want to maintain perfusion to the brain. You can be in kidney failure.
+
+Your liver can be shot right, but you're still trying to hold on to the perfusion, to the brain itself and to the heart itself.
+
+So we will we will switch between these two views.
+
+And sometimes it might not be easy to do that, but we will try to.
+
+Ease you into it? Yes. Let me be more precise.
+
+So blood pressure fluctuates as I'm walking around over here.
+
+My blood pressure goes up and down, right? But if we say of a time average, if I'm all of you were probably lying down earlier in the day, right?
+
+And then you got up. Some of you or all of us have at some point or another experience, like a little bit dizziness if you get up too, too quickly.
+
+Then we hold on to something for a little bit and we're back, right?
+
+So in that moment, blood pressure has gone through a significant swing, probably about 30 or 40mm of mercury.
+
+And we'll show you some of those data when we talk about the, um, the, uh, control mechanisms.
+
+There are constant fluctuations going on. We have a systolic diastolic, right.
+
+We have longer term variations. We have perturbations to the cardiovascular system that make our blood pressure fluctuate all over the place.
+
+But if we look at the time, averaged. Of blood pressure.
+
+There is actually a value more or less at the body for some reason likes to maintain something in or around 90 100mm, a marker of material pressure.
+
+Right? That's what I'm talking about. Uh, we'll get to that.
+
+Yeah, we'll get to that. All right. The point that I want to make here with this slide is these little crosses over here.
+
+Are the loci locations, if you will, of resistance modulation.
+
+If the heart. Can provide the vascular system in with constant pressure over here.
+
+Then each individual vascular territory over here has the luxury of modulating its own blood supply without stealing blood flow from someone else.
+
+Right. If the heart only gives out five liters and you're starting to exercise over here and your vasodilator over here,
+
+and the path of least resistance now is massively through here, right?
+
+You're stealing flow from everywhere else in the body.
+
+So, as I said, one view that we will adopt throughout the class is that of constant blood pressure or blood pressure homeostasis.
+
+The other view is that of perfusion, which is the heart providing enough blood flow to the organs.
+
+For oxygen delivery. And for uptake of CO2 and metabolic waste products.
+
+First thing that we'll talk about is cardiac output.
+
+So perfusion. This is a somewhat dated slide.
+
+However still true. Over 100 years old.
+
+Some of this data and what I'm what we're showing you over here is on the x axis is some measure of workload.
+
+Jump on the treadmill and you start running. Right on the x axis you have cardiac output or cardiac index that I've already introduced.
+
+Or oxygen consumption over here. Now, what you see here is a very linear relationship.
+
+Between. Your work. Oxygen consumption and cardiac output.
+
+They mirror each other. The more you exercise, the higher your cardiac output and the higher your oxygen consumption.
+
+Essentially parallel. Meaning that within the limits of what you can do.
+
+The demand of your of your body of increased metabolic rate is actually met by an increase in cardiac output.
+
+We said that our baseline cardiac output over here is around five liters per minute.
+
+This is more like the seven liters per minute that was mentioned earlier, right?
+
+But look at the dynamic range. Some of you might be athletes.
+
+Right. So performance athletes, you can go up to 25 30l per minute cardiac output.
+
+Think of that dynamic range. Think of that when you actually measure the.
+
+Flow out of your bathtub. Okay.
+
+Now, you can also increase your oxygen consumption by increasing the oxygen extraction.
+
+Right. So her go round. Normally each hemoglobin molecule gives up on average one oxygen.
+
+Right. If you have 100% oxygenation on the arterial side,
+
+we usually measure something on the order of 75% when it comes as mixed venous blood back into the right ventricle.
+
+Right now, if you really need to need more oxygen, you can also extract more oxygen.
+
+But to first order, the cardiovascular system increases oxygen delivery by increasing cardiac output.
+
+Okay, I find this impressive, but I leave it up to you to see whether this is the same.
+
+Now we do one more, uh, conversation here on the board, and now I can erase what we had earlier or what you learned earlier.
+
+And this will be an exceedingly important concept.
+
+You will see it over and over and over again in this class, and I can promise you that there will be.
+
+At least I know that there's already one problem like this on your homework assignment,
+
+and there will be at least one of those problems on your midterm exam.
+
+Okay, so it's up to you whether you want to pay attention or not.
+
+Here's what are we going to do it? We want to determine steady state cardiac output.
+
+And what we're doing is we're dividing the cardiovascular system into two blocks here in the upper block over here, it's the heart.
+
+Plus lungs or pulmonary system. And in the bottom part.
+
+Is the peripheral circulation is. That's what I call it.
+
+I just called it body. So let me put this up over here.
+
+So you can see it. Okay.
+
+Actually, I'm not that tall. What we will do is we will do a conservation of mass approach.
+
+And the the mass that we want to conserve is oxygen.
+
+And what we need to know over here is how much oxygen.
+
+The body is taking up from the surrounding, right.
+
+How much oxygen is coming here on the venous side, and how much oxygen is leaving per unit time over here into the arterial system?
+
+So. I'll define a few variables.
+
+The Vo two dot. Is oxygen.
+
+Uptake. And this is in milliliters of O2 per minute.
+
+Then we have the delivery of oxygen.
+
+Here is Q. Times.
+
+See? We.
+
+Or two, and the extraction of oxygen or the release of oxygen.
+
+Here is two. So Q is our cardiac output.
+
+And that is in milliliters per minute. I'll bring this board up in just a second.
+
+CVO2 is mixed.
+
+Venus. Know. Oxygen.
+
+Content. And that is in milliliters.
+
+Of all. And milliliters of O2.
+
+Per. Milliliters. Of blood.
+
+And the same is true for the subscript a over here.
+
+Sorry. I want it to be fast, but this here is.
+
+See, a or two is the arterial.
+
+Oxygen. Content.
+
+In the same units. So let me bring this up and let me tell you what it is.
+
+Blood returns to the heart. At a particular flow rate.
+
+We are assuming steady state. Nothing is changing. Right.
+
+So blood is returning from the heart and it carries a certain amount of oxygen.
+
+That oxygen content is what we call kV or two.
+
+A little over bar means mixed venous. It's just. Oxygen content from the upper part of the body in the lower part of the body is usually not the same.
+
+Once they mix in the right ventricle, that's it. Okay, you get an average.
+
+CO2 is the arterial oxygen content is what is carried away on the arterial side.
+
+Right. So what we're doing over here is we're essentially saying this in engineering terms is a control volume.
+
+What is coming in. Has to come out. No sources or sinks of oxygen here.
+
+Right what is coming in per unit time. Is what we're taking up from the outside.
+
+Plus what's returned to this control volume from the venous side.
+
+In steady state that has to balance. What the arterial side.
+
+It's taking away. Then you.
+
+All in here. In response.
+
+The minor. Modification. Right.
+
+So that control volume. No sources, no sinks.
+
+Conservation of mass. How many oxygen molecules are going in has to be equal to the oxygen molecules going out per unit time.
+
+Right now with that. We can set up a mass balance.
+
+And we can see what is coming in is v dot or two. Plus q cardiac output times kV or two has to be equal.
+
+What comes out and this is q times. CAA oh two.
+
+Does it make sense? Goes in, has to come out. We all came in over here.
+
+This morning. At some point, we all have to go out again, right?
+
+There are no sources of things. People are dying in here. We don't. Giving birth, right?
+
+Number of people is conserved. At least it doesn't look like it.
+
+Nobody of us seems in acute distress. This is his baseline state.
+
+I mean. We leave it at that.
+
+Okay. So what we can say now is what we're really interested in is, is Q over here?
+
+Right. So what we can say Q over here is our cardiac output is V dot or two, which is now.
+
+So. CV.
+
+Uh. A minus CD, right? Oh two -302 is the correct?
+
+All right. Thanks. So that's the fifth equation.
+
+And what we pretty much did is we all that we did is we apply conservation of mass.
+
+Now you can use CO2. You can use O2. You can use temperature as an indicator.
+
+Right. So you have to measure, you know, temperature. There's various methods of thermal dilution which essentially operate the same.
+
+This is one of the simplest, uh um um applications.
+
+And what we're saying is if you can measure the oxygen uptake,
+
+if you can measure the arterial oxygen content and the mixed venous oxygen content, we can determine the cardiac output in steady state.
+
+Now. We drew the control volume over around the heart and the lungs together.
+
+You can also use a different control volume. You just can say what goes into the lungs has to convert what comes out of the lungs.
+
+Right. It's very convenient to do that because the VO2 still goes into the lungs.
+
+Right. So here we are really looking at what's coming out of the heart lung pumping unit, meaning that whole unit together.
+
+Right. That's what we call cardiac output. If you draw that control box around just the pulmonary circulation in the lungs.
+
+Then you're determining pulmonary blood blood flow.
+
+And that might be different from cardiac output depending on certain pathologies.
+
+All right. So let's take a break here. We'll come back in ten minutes.
+
+Yes. I think the the bagels and everything should be outside. Uh.
+
+Oops. No problem. Thank you.
+
+Sure. It's in the. It's in the notes. Yeah, but you know your handwriting.
+
+I don't know. You're the first person to tell me that. Yeah.
+
+Let's get. Let's continue. Let's get settled. So I believe the fetal circulation is described in your book.
+
+Um, I will take a look. Um, there were a few questions about about the fetal circulation.
+
+Be happy to to go over this again. Um, if it's not clear after the after you you had a chance to read one thing that I pointed out.
+
+Um. Here was.
+
+Um. Ductus arteriosus. Right. Connection between the aorta and the pulmonary artery.
+
+Uh, right to left. Shunt of blood from the right.
+
+Bypassing the lungs. Right. We don't have all of us.
+
+Likely don't have the ductus arteriosus anymore.
+
+But what we do have in what is indicated over here is the ligament.
+
+Some arterial, some. Right. So once that vascular smooth muscle under high oxygen tension.
+
+Now baby breathing 21% oxygen. Right.
+
+That smooth muscle constricts and completely obliterates.
+
+The, um, closes off the ductus. And eventually it degenerates into the connective tissue ligament.
+
+Right. So you still see in these drawings the ligament artery.
+
+Awesome. It's what's left over of the ductus arteriosus.
+
+All right. Okay. So coming back to what I've done over here.
+
+Is a summary. We have a control volume.
+
+And our control volume is only around the hearts and the lungs.
+
+It was a question. Very, very perceptive question is okay if there's no things or sources, where is the oxygen utilized?
+
+Right. The oxygen is utilized in the body. Right.
+
+The body is not our control volume. Control volume is only around the heart and the lungs.
+
+And what we are assuming here implicitly by applying conservation of mass around this dashed line over here,
+
+is that there's negligible, negligible oxygen uptake over here.
+
+Right. Not oxygen uptake here, but oxygen utilization, etc.
+
+Right. So it's only around the heart and the lungs over here.
+
+That what comes in? Cardiac output times mixed venous oxygen content.
+
+Plus with auto tool we were taking out from the environment.
+
+Has to be balanced in steady state. Not transient, right in steady state.
+
+What is coming out. Okay. And then we have our formula over here which is V .02.
+
+Divided by the difference between the oxygen content on the arterial side, minus the oxygen content on the x venous side.
+
+Now. We know, or you probably know already that there is a maximum oxygen carrying capacity of the blood, right?
+
+If all of your hemoglobin molecules are occupied with oxygen.
+
+You have 100% oxygen. Measured by whatever.
+
+You know Paul. So this is my graph right now. You can push a little bit more into the soluble soluble phase, right?
+
+If you crank up the oxygen tension that you breathe in.
+
+But that's usually very negligible compared to all of the oxygen carrying capacity of all your hemoglobin molecules.
+
+So you could write this in another form. You could write this as maximum oxygen carrying capacity times arterial oxygen.
+
+You know, percent of arterial oxygen saturation minus mixed venous oxygen saturation.
+
+And we'll have a couple of problems that I think we'll get to at the end where we can apply this.
+
+Okay, now that's what I meant by cardiac output or perfusion.
+
+Perfusion is the delivery of oxygen to the end organ. And so that's what the heart gives out is volumetric flow rate.
+
+So. Let's talk about the cardiac cycle.
+
+Here is a diagram that might need a little bit of getting used to, because we are encoding both temporal information.
+
+And spatial information. Let us start at the level of the left ventricle.
+
+Here the left ventricle is aptly represented as a piston.
+
+Right. It's a pump. All it does. It fills, it empties.
+
+Fills. It empties. It's like a piston pushing in. Right?
+
+Stuff is coming out. You retract your filling. Right now, the pressure that the left ventricle generates is 120.
+
+But as we said earlier, not over 80, but over something close to, let's say 5 or 8mm.
+
+That's why we usually talk about the peak systolic pressure.
+
+Maximum pressure over here. Right. And the end diastolic pressure.
+
+Or the pressure at the end of film. There's a valve between the left ventricle and the aortic root or the aortic system.
+
+That's called the mitral valve. Right. And you're pushing over a very short period of time.
+
+It's at about one third of the cardiac cycle length is the ejection.
+
+You're pushing that 70ml into the aorta. Or the arterial system.
+
+Now the large vessels. Large systemic aorta.
+
+Large arteries. They're very elastic, as we'll see in the next lecture.
+
+Right. What you're doing is you're actually converting kinetic energy that follows injection into the arterial tree into stretch.
+
+What you're doing is you're stretching the wall. You're increasing the wall tension.
+
+You're converting kinetic energy of bolus injection into potential energy.
+
+So doing systole ejection into the arterial tree during ventricular diastole when this valve is closed.
+
+Passive recoil of those stretched arteries so that blood flow can now flow
+
+from the arterial system through the micro circulation into the venous system.
+
+And that's what happens. Doing your cardiac cycle on the arterial side.
+
+Peak systolic pressure 120. And you have run off into the periphery.
+
+You have that sort of passive recoil, right?
+
+Pressure is decreased and decreased because you are losing blood into the periphery through the micro circulation venous system.
+
+Right. And then, you know, by the time you hit somewhere around 80 or so.
+
+The next pulse comes along. Next. Right.
+
+Okay. So this is also called the Wind Castle models because it's the old movies that you might have seen.
+
+German sort of Wind Castle air chamber. Right. So in the old movies, when the fire brigade comes, they do this, right?
+
+They have like this thing that they that they're pushing up and down and up and down.
+
+What they're doing is a pressurizing a chamber. Right?
+
+They're pumping things in in an intermittent manner,
+
+but they're pressurizing a chamber so that what comes out of the nozzle is actually a continuous stream.
+
+That's exactly the same mechanism. You have intermittent flow in, right?
+
+You have continuous flow coming out because you're pressurizing a chamber. Now.
+
+As you go into the periphery to the smaller and smaller and smaller vessels, you have what are known.
+
+This is pre capillary pre capillary resistance vessels.
+
+As blood is traversing these vessels, the mean pressure is dropping because there's dissipation, there's friction.
+
+Positivity is also reduced, meaning that the compliance lessons.
+
+We'll talk about this. Is reduced as you go towards smaller and smaller and smaller vessels, right?
+
+Until you have essentially no pulse tactility left at the level of the capillaries.
+
+And your. Hydrostatic pressure might have dropped to something around 2020 two millimeters of mercury.
+
+No positivity. Steady flow.
+
+Why do we want to bring the pressure from something 120 down to something like that's like 20 to something that's quite low?
+
+Going to exchange across the vessels in the tissue. So what? What do you want to exchange?
+
+Oxygen. Now you could exchange oxygen. What's the mechanism of oxygen exchange?
+
+So homegrown is is red blood cells, hemoglobin.
+
+That's the carrying mechanism. But what is the exchange method of physical exchange mechanism.
+
+Diffusion right now, you could actually diffuse at a high hydrostatic pressure, right?
+
+But that would mean that you have to have a strong wall. A strong word means you have to have a lot of.
+
+Muscle smooth muscle cell, which would be sick. We want to reduce the diffusion barrier.
+
+That means you have essentially one layer of undecillion cells, as we will see,
+
+in order to maintain that, have very, you know, fast diffusion crosses the vascular wall.
+
+You have to have a low pressure because a single layer of endothelial cells cannot withstand much pressure, right.
+
+Okay. So then we have venous.
+
+Uh, vessels very thin walled. And by the time you reach the right atrium.
+
+Precious. Essentially zero. Hydrostatic mean right atrial pressure with reference to atmosphere essentially zero.
+
+Also always well used as a reference pressure in the cardiovascular system.
+
+This is mean right atrial pressure with reference to atmosphere essentially zero into the left ventricle or the right ventricle.
+
+You have again the pump right. This peak systolic pressure around 2220 four millimeters of mercury and diastolic pressure around five.
+
+Few millimeters of mercury. Right. Then you have the pulmonary arteries.
+
+You have the micro circulation. You come back to the left atrium.
+
+Okay. So where you are in the cardiovascular system.
+
+Um, determines well on where you are.
+
+Determines where you might make a measurement.
+
+Um, the measurement that you're making depends on the location where you're actually doing the measurement.
+
+Right. And that's also true. And I don't know whether that's the next slide that comes later, uh, of the arterial pulse.
+
+So the arterial pulse that we only have shown here very in a very lumped manner in these, uh, Winchester vessels, um, is also very different,
+
+whether you measure at the root of the aorta, as we see, or you measuring, for example,
+
+in the radial artery or the femoral artery or somewhere else in the periphery.
+
+They're mechanisms. Yeah. Correct.
+
+So micro. Structurally they differ slightly. Right. So the resistance vessels still have, uh, you know, still have some smooth muscle that is, um.
+
+Uh, well, both of these actually have smooth, smooth muscle.
+
+And sort of the differentiation may be a little bit artificial.
+
+However, what you see over here, if we are saying that we have about five liters or so of blood,
+
+another one of those numbers that might be good to remember is the vast amount of blood is stored in the systemic venous capacitance.
+
+So that's what's meant by this capacitance versus what we. The next lecture will be all about the peripheral circulation.
+
+So we'll dive a lot deeper into that. Right. There's there is a small resistance associated with with the venous system,
+
+but that's very, very small compared to the resistances that we see over here.
+
+Okay. All right, so two circuits in series, right?
+
+Pulse utility. Generated by the by the left ventricle and the right ventricle.
+
+Right. But it depends very strongly where you are what you would actually measure.
+
+If we zoom in on the less idealized but still idealized, um,
+
+events of the cardiac cycle of a single cardiac cycle as viewed from the left ventricle can do exactly the same thing on the right ventricle.
+
+But we have certain mechanical events. That we shall commit to memory.
+
+Okay. What we're showing over here is the root aortic pressure in the dashed line.
+
+The the dashed line up here. The solid line is our left ventricular pressure.
+
+And the dashed line below. Over here is the left atrial pressure.
+
+We have four phases to the cycle. There is the filling phase where the mitral valve is open.
+
+But the aortic valve is closed. Coming back to something we said earlier.
+
+Now there's a direct communication of the left atrium to the left ventricle flows from the left atrium to the left ventricle.
+
+Equivalent right to the right ventricle on the right ventricular side at some point.
+
+The myocardial cells do what they do. They had some action potential came by.
+
+You know, they do the acting myosin thing that we're going to talk about. Right.
+
+And attention is being generated.
+
+At that level, when the pressure difference is such that an active tension is being generated, the mitral valve closes.
+
+Right. When the mitral valve closes, the ventricle continues to constrict or contract.
+
+A pressure is being generated. And we are going through a phase where the mitral valve is closed.
+
+But the aortic valve is not yet open. And this to some confusingly called ice volume contraction.
+
+I also make simply meaning here that there's no inflow and there's no outflow.
+
+The hardest contracting actin myosin filaments across cycling.
+
+Right. Tension is being generated, but there's no inflow. No outflow volume is constant.
+
+Until the pressure inside of the ventricle exceeds the pressure at the root of the aorta,
+
+aortic valve snaps open and you're going through what is called the ejection phase.
+
+Now you have that piston moving forward essentially, right? So you have a flow that's coming from the left ventricle into the root of the aorta.
+
+Jackson. Now what you see over here.
+
+Going back briefly to the filling face at the dust line over here is slightly higher.
+
+Then the solid line over here,
+
+meaning that the pressure gradient atrial pressure slightly higher than the ventricular pressure favoring flow into the ventricle.
+
+Right. And there's this little hump over here where the atria are contracting.
+
+Now when the aortic valve is open. The ventricular pressure is slightly higher.
+
+Then the root of the aortic pressure. Pressure difference. Very low.
+
+Once the valves are open, they are open like this.
+
+And you have very low resistance between the left ventricular outflow tract and the root of the aorta.
+
+As a matter of fact, there has been a lot of work in the 60s and 70s about impedance matching.
+
+That evolution is such that you don't want to lose a lot of energy at that level, right.
+
+So. One two millimeters of mercury difference can lead to the significant flow of that 70ml over 300 milliseconds.
+
+Right now at some point the ventricle the the the um, uh, the ventricular myocytes stop to recruit additional actin myosin molecules.
+
+Right. And there's a crossover point. Where the aortic pressure.
+
+Is slightly higher than the ventricular pressure, but you still have forward momentum,
+
+meaning it's not at that point when that crossover happens that the valve closes, right?
+
+It's essentially like, you know, you push a car, right?
+
+You push a car, you get it moving. The force and the movement are going in the same direction.
+
+Right now you want to stop the car. Now you hold back, but the car has momentum, right?
+
+So even though you're having a force that's going the opposite direction, the movement is still going in that direction.
+
+That's exactly what's happening over here, right? Momentum is still.
+
+Coming out of it. The momentum is still driving flow out of the out of the ventricle.
+
+Right. But the ventricle is starting to relax. All right.
+
+So the pressure drops below here. The aortic valve closes once reflux occurs.
+
+Right. There's a brief tip of reflux. Valve closes.
+
+Mechanical isolation of the ventricle. From the electric.
+
+Right at this point. Autograph closes. Wrap it.
+
+Fall in blood pressure because the ventricle myocardium relaxes. Until the mitral valve opens again, filling happens again.
+
+Then there's again a period where the aortic valve is closed and the mitral valve is closed.
+
+And we call this ice ohmic relaxation. So that fourth cycles of the cardiac.
+
+Cycle are filling. I make contraction injection and I make relaxation,
+
+and then filling again the perfectly well defined through the combination of which valve is open and which one is closed.
+
+What is that combination? If we look exactly at the same thing in two lectures from now in terms of the pressure volume loop,
+
+not as a pressure versus time, but the pressure volume loop of the ventricle.
+
+And you will see that there's nice corners where these kinds of transitions happen.
+
+Okay. All right. Look, looking at this from the point of view of the, um, of the.
+
+Atrium. Once the mitral valve closes, right.
+
+There might be a sharp wave that you see over here. That has to do with the fact that the aortic valve opens.
+
+Right. And then. The pressure rises because there's flow still coming into the atrium from the periphery, right?
+
+The atrioventricular valve is closed, but you still get flow from the pulmonary circulation, right?
+
+So atrial pressure rises slowly, slowly, slowly until the mitral valve opens again and you're dumping everything into the left ventricle.
+
+There was a question here. This is work for.
+
+The. So it's exactly the same.
+
+Right. It's just what determines the opening. And the closing of the valves is the right atrial and right ventricular pressure.
+
+In the right ventricular pressure in the pulmonary artery pressure. But it's essentially the same, just scaled down.
+
+Okay, but there's no interaction in the sense that that, you know.
+
+That the right side of the heart is dependent on what the left side of the heart is doing.
+
+So. Not very different.
+
+There are certain maneuvers where you can actually make it sort of a little early or a little later.
+
+Right. But in general, it's mostly determined by the functioning of the electrical system and the efficiency with
+
+which the electrical impulses can be distributed essentially simultaneously on the right side,
+
+on the left. I know this. We have bundle branches, these kinds of things. That can be some asynchrony.
+
+Right. But Doctor Terrell will talk a lot about that. Other than the.
+
+Other than here? Yeah. So here.
+
+Yeah. Because at this point, what can happen is that you actually have a slide.
+
+So sort of momentum is going forward.
+
+Right. But the ventricle is starting to relax. Right. Once you actually have a slight degree of reflux right.
+
+Once there's the momentum so you're decelerating the volume right.
+
+The flow right. Once there's a slight degree of reflux there's shear stress on these leaflets.
+
+And now you have a you have a tiny bit of reflux going this way that closes the valves.
+
+Right. Yeah. Uh, we'll get to that in two lectures so that that will relate to, uh, to a calcium induced calcium release,
+
+how calcium is handled by the sarcoplasmic reticulum and is being taken, uh, taken up again by the sarcoplasmic reticulum.
+
+The circa receptors is something called phosphor lambent.
+
+And we'll talk about all of that. Okay. Yeah.
+
+It's essentially the same mechanisms here. It's an oxygen dependent mechanism.
+
+Right. So that of the relaxation of the actin myosin filaments.
+
+So we will actually think about this in terms of a time varying license.
+
+Right. So that that that the cellular machinery, if you want to abstract it again, this is two lectures from now,
+
+is that you can look at it as a time varying license that cycles between a high loss, a high capacitance status feelings, a low license right.
+
+And a low capacitance state or high license is the ejection state.
+
+And it's actually we will see that will actually go can go very far in terms of conceptually and even quantitatively
+
+understanding the behavior of the individual ventricle by just saying it cycles through these sort of two,
+
+two capacitive states. Yeah.
+
+So so the atrial contraction happens only at the very end.
+
+So think of. Think of the think of the ventricle in its ejection state as sort of a very stiff balloon.
+
+Right. So made it very stiff. Right. And now a magic switch happens when you make it very floppy.
+
+Right. If the volume didn't change, the pressure has to drop significantly.
+
+Right. And when the pressure dropped significantly. That's what happens over here, right?
+
+It drops below the pressure of the atria that has increased.
+
+And at that point there's a passive opening of these leaflets of the of the valve that then allow the flow to occur from the atria to the ventricles.
+
+Okay. All right. I do want to move on.
+
+But you have a lot of questions about this. Yeah. There's a little bit of reflux, so there's no valves between the superior vena cava,
+
+inferior vena cava and the right atrium, or between the left atrium and the pulmonary regulation.
+
+There's a little bit of that, right. It does contract.
+
+It does contract. But we can actually in the you know, how much of stroke volume of the of the ventricular filling is dependent on that atrial,
+
+what is called atrial kick at the end so that you have that sort of final push.
+
+1,015%. Right. So you can actually live without it. And people who have like persistent atrial fibrillation.
+
+So when you don't have the. So regular contraction where you're just sitting there, fiber leading.
+
+Right. They don't have that benefit. And so you losing.
+
+15% off so far. All right, one final question.
+
+Yes. Correct. Exactly right. Okay.
+
+All right. Now play with it. Oh, this is a measurement here.
+
+It's a high fidelity catheter. This one tell you that this is this is kind of sort of real, this crossover point.
+
+Um, if you didn't believe me. But play with it, you can go, you know, to this website.
+
+There's a whole bunch of other tutorials where you can actually click through,
+
+and you can understand what the mechanical events are, uh, as a function of, you know, where you are in the cardiac cycle.
+
+Now, what I haven't talked about in the previous slide is heart sounds.
+
+And as I said at the beginning, um, this is something that we will assign to you throughout the first half of the class.
+
+So that sort of all the murmurs and all these kinds of things, you just have to think through, read it, be done with it.
+
+Right now, heart sounds. Many of you, I presume, at least on the MD side, probably have a stethoscope, probably have gotten one as a gift.
+
+Maybe you don't and you get one eventually, right? So you can you can actually listen to these sounds, right.
+
+That's right. Uh, one if you don't have one, one will be provided for you.
+
+Right? Yeah. So when you do ICM right.
+
+Once you do ICM, you'll get your, um, uh, stethoscope and, and first thing you'll do is you listen to yourself.
+
+So what is heart sound, right.
+
+It's an acoustic wave. Where does it come from?
+
+But it comes from acceleration and deceleration of blood. Right.
+
+They called S1, s2, S3, s4. The other ones and murmurs, as I said, that we're not going to talk about much,
+
+but the the the important ones and the ones that I assigned as reading for you for today.
+
+And maybe a follow on reading is as one is to S3 and as for now, important as one.
+
+Coincides with the closing of the mitral valve and the opening of the aortic
+
+valve more through the closing of the mitral valve if you close the valve right.
+
+It's nothing smooth, a snapshot and you have vibration.
+
+That vibration sets up a vibration in the fluid phase, and that sets up a vibration throughout the tissue that can actually pick up as a sound.
+
+Right as two. Over here is the closing of the aortic valve over here.
+
+And here is the opening of the, um, mitral valve.
+
+But it's the closing of the aortic valve that.
+
+Sets up that vibration that you can pick up,
+
+and there are certain locations that you will learn when you do ICM certainly when you're on the wards where you actually listen for S1,
+
+where are you listening for S2? Obviously you want to be over these different vowels now.
+
+Is. As for that, you can sometimes hear. And that has to do with the contraction, the atrial kick,
+
+where you have an additional contraction that can set up a pressure wave that can be, you know, reverberating and vibrating.
+
+And there's also something known as a three. When the mitral valve opens, that there can be a sudden rush of blood into the left ventricle.
+
+That can also set up a, um. A, uh, um, an acoustic wave.
+
+Those are the main ones. The important ones. And. Do you know which part of the cardiac cycle they actually correspond to?
+
+And what you know, what they actually indicate. Electrocardiogram we've talked about briefly in the last lecture.
+
+We will have a lot more to say. So let me skip over that for the time being. So we talked about cardiac output.
+
+We talked about the cardiac cycle. Now we're talking about the arterial pulse propagation of the arterial pressure right.
+
+We said that heart left ventricle contracts.
+
+It ejects this bolus into the arterial tree. It converts, you know, kinetic energy into that elastic energy.
+
+So when you are very close, when you have a high fidelity catheter and you can advance it very close to the aortic root,
+
+right, then you can measure something like this over here.
+
+This, by the way, was done in the wombat and the, the, the um, the numbers over here is the amount of the distance in centimeters from the aortic.
+
+So you advance it all the way in the left ventricle.
+
+You just pull it, you know, past the aortic valve and then you know, how many centimeters do you actually withdraw it.
+
+And you see this very big and sharp incision over here in caesura.
+
+Right. That's known as a diachronic notch, meaning if you're very close to the aortic valve.
+
+Right. That snap is what this measures. Right.
+
+Because there's a little bit of fluid that is sloshing around.
+
+And that's that very high frequency component over here.
+
+Now as you and you see that this is sort of the waveform over here.
+
+Now, as you withdraw that catheter further and further and further and further and further away,
+
+right, you see that the morphology of that pulse changes quite a bit.
+
+It gets smoothed out, but also the amplitude is actually rising.
+
+That has to do with reflections. That has to do with the taper of the vessel and continuous reflections that are going back and forth.
+
+The mean arterial pressure to be defined in a moment.
+
+Stays more or less the same. All right. Systolic pressure is going up.
+
+Diastolic pressure is going down a little bit by the mean pressure essentially staying the same.
+
+The same in a human, we say when we're close to the aorta, this is our arterial pressure over here.
+
+And this if you're looking at the radial pressure wave over here, this is what we would measure at the radial artery for example.
+
+And this is under various exercising conditions,
+
+you can actually see a dramatic increase in the peripheral pulse and also in the arterial pulse depending on when the reflected
+
+wave timing of the reflected wave and the superposition of that reflected wave vis-a-vis the phase of the primary wave.
+
+So what you see, for example, over here, right, is you see at the aorta, you see an initial wave over here that's very much similar to this over here.
+
+But then you see that additional hump on top of it. That's the reflected wave coming back already.
+
+Okay, so the pulse morphology changes significantly of where you are in the, uh, in the arterial tree.
+
+How do we measure blood pressure? The same way as we did probably about 120 years ago.
+
+Right. You blow up a cuff.
+
+And of course, skilled physicians like Doctor Stoltz does not believe any machine.
+
+Right. He has his stethoscope. And what he does is he blows up this curve to supra systolic levels.
+
+Old school. If there's one thing you have to know about doctor stools is that he's old school.
+
+That's actually his middle name. So you blow this cuff up to supra systolic levels.
+
+Right. Arteries are also collapsible.
+
+So what you do is you collapse. Flow. You collapse these vessels.
+
+No flow going through. Right. Then you put your stethoscope close to the point of collapse, right close to the cuff.
+
+And you very slowly with this. Some valve over here.
+
+Right. Let the air out of the cuff. Once.
+
+The cuff pressure reaches the systolic blood pressure.
+
+What you will see. What you will hear is the so-called cough cough sounds.
+
+Meaning that at the peak of systole, the inside pressure is slightly higher than the cuff pressure.
+
+And you have this. You have a little bit of volume injection into it, because just at the peak of systole, you have enough pressure.
+
+The heart generates enough pressure to actually open up the vessel for a little bit of blood to go through.
+
+The moment that it goes through, there's a resistive drop and it collapses again.
+
+Right. So you determine the systolic blood pressure by the first.
+
+Time that you can hear that sound. Right now, as you continuously release the pressure, that sound gets larger and larger,
+
+because the part of the cardiac cycle that is now above the external pressure becomes longer and longer, right?
+
+Until you're actually dropping below.
+
+The diastolic pressure. And now the vessel is completely open.
+
+So at that point, that squish sounds should completely disappear.
+
+So you listen to the first appearance of it, which is a systolic pressure and the disappearance of it,
+
+which when you read that gauge here at that point is the diastolic pressure.
+
+Okay. Now, not everybody is old school like Doctor Stoltz.
+
+Um. If you go to MIT medical or any probably, um.
+
+Uh, clinic or doctor's office, um, someone probably wheels in a device,
+
+puts the cuff on and does that automatically, um, with a, uh, uh, with the cuff that has some smarts on it.
+
+Right. And so it does exactly the same thing.
+
+There are some heuristics of trying to figure out where is the systolic pressure below the first appearance,
+
+where would be the diastolic pressure and where is the mean pressure over here.
+
+So most people, even my PCP at at MIT medical doesn't do this with the with with the stethoscope anymore.
+
+There's variations here. So sometimes, you know, you'll have a doctor who says, look, I'd rather do it the old way.
+
+Does this, I believe it.
+
+Now, if you're in an ICU like Doctor Stoltz when he is attending in the ICU at MGB or MG, I don't know what you want to call it these days.
+
+That's what I'm. Man's greatest hospital. Um, you actually want to have continuous blood pressure measurement, right?
+
+Because a patient might be critically ill that you want to have that measurement all the time, not just intermittently.
+
+That means you can relate. Usually the femoral, the radial artery.
+
+Right. You have a continuous fluid column now in, uh, in contact with the, uh, with the blood.
+
+There's a pressure transducer over here that then measures the pressure differential across that transducer with respect to the atmosphere.
+
+You can flush this catheter so that it stays nice and patient and doesn't get clogged.
+
+There's a lot of work to trying to figure out how to do continuous blood pressure monitoring or to do this metric measurements,
+
+um, more accurately and, and, and less invasively for the continuous one.
+
+Um, but to this day, we're still relying essentially, uh, for blood pressure measurement on the same,
+
+uh, kind of, um, technology that was developed 120 years ago.
+
+And all of you who have, like, Google watches, these kinds of smartwatches,
+
+all of these companies are trying to figure that out, and nobody has it yet.
+
+So there's a lot of R&D dollars that have been put behind this. Okay.
+
+All right. So we have, I think only one more blackboard discussion over here.
+
+And that has to do with the definition of material pressure perfusion pressure and vascular resistance.
+
+So we're only focusing here on the arterial blood pressure waveform.
+
+Doctor Stokes on Tuesday said that when we think about the ventricular pressures, we really that mean pressure is not really meaningful, right.
+
+But swinging from like five millimeters of mercury to 120mm of mercury is really what the systolic pressure is.
+
+What's the peak pressure and what's the lowest pressure. What's the diastolic pressure.
+
+But when we're talking about the arterial pressure and sometimes on the venous side as well,
+
+it is meaningful to uh, talk about the mean pressure perfusion, pressure transmittal pressure.
+
+So let's define a few terms. But it might go here.
+
+So. Let's say we have a vascular segment that looks like this, right?
+
+We can define. An upstream pressure.
+
+And a downstream pressure. An inside pressure and an outside pressure.
+
+Right. And when we talk about the perfusion. In the perfusion pressure.
+
+We are interested of what is driving blood through that vessel. Right.
+
+What is driving flow? In this direction.
+
+And that is given by the upstream pressure in most.
+
+Um vascular birds by minus the downstream pressure.
+
+Like a pipe, right? Pressure difference.
+
+So if you upstream.
+
+PD. It's downstream. Now there's also another pressure difference.
+
+So she called the trans more pressure.
+
+Now, for those of you who were in respiratory physiology earlier today, that's exactly what we had over there, right?
+
+What keeps the lung open? It's inside pressure. Minus outside pressure.
+
+As the name suggests, trans mural. If you can read my handwriting.
+
+So trans mural pressure, the pressure across the wall.
+
+And that is the inside pressure minus the outside pressure.
+
+So here P is inside.
+
+And Poe is outside. And I bring this up.
+
+Make sure that you don't confuse the two. Perfusion upstream minus downstream.
+
+Trans mural inside. Minus outside. Think of a balloon.
+
+If you blow up the balloon. Right. The upstream pressure is my buccal pressure that I generate.
+
+You know, with my mouth. Right. The downstream pressure is the pressure in the balloon.
+
+That's what's driving the flow into the balloon, right? What is expanding the balloon?
+
+It's the inside pressure minus the outside pressure. That's the trends.
+
+Neural pressure, the pressure across the wall. Perfusion is what's going through.
+
+Right. You upstream PD downstream P inside P0 outside.
+
+So trans mural pressure is the pressure across the wall. The trans more pressure is the pressure.
+
+Uh sorry trans woman pressure. The pressure across the wall.
+
+The, um perfusion pressure is the pressure that, uh, drives flow through the system.
+
+Okay. So as we as we saw in these, in these, um, tracings and diagrammatic representations.
+
+Coming back to the arterial pressure pulse. It might look something like this.
+
+Right. So this is our pressure pulse. The heart ejects.
+
+Pressure goes up in the aorta. The heart relaxes.
+
+The valve closes. The pressure goes down. Right. We call this the systolic pressure.
+
+And we call this. The diastolic pressure.
+
+How would you define mean pressure? Call this capital T, let's call this zero.
+
+So the cycle length is T. How would you define the mean pressure of that wave form.
+
+Yeah. Say a little bit more loudly.
+
+The area under the curve and. So mean arterial pressure map.
+
+So this here is a waveform. Let's call this p of T right.
+
+Mean arterial pressure map. Also the mean over time.
+
+It's the area under the curve of P of T.
+
+Prime duty Prime. That's the area under the curve, right?
+
+And you normalize by the cycle length. Right? That's the ministerial pressure.
+
+So very few of you will come to the bedside and do that integral in your head.
+
+Right now. Of course, the monitors, you know that in an ICU, you know, when you have one of those, um.
+
+Uh, in when you have one of these, uh, these indwelling catheters, does it automatically.
+
+So you probably you usually then see something that looks like, um.
+
+120 over 80. And sometimes it's represented like this means systolic is 120.
+
+Diastolic 80. Mean of 90. Now, what you can do is you can approximate.
+
+And one way to approximate this is to say, well, you know.
+
+We're all simple people here, right? I can only speak for myself, I guess.
+
+And you can say, well, we could actually see that this is sort of triangular. And you could say, well, what is this?
+
+We have a hide over here. And that height is is also a name.
+
+That name is called the pulse pressure.
+
+And this is the systolic pressure minus the diastolic pressure.
+
+Is that pulse amplitude right. It's called the pulse pressure. Now, if you do this and you do a triangular, you know what?
+
+What's the area of a triangle? Yeah.
+
+So you can actually compute that you add whatever is on top of the bottom here.
+
+Right. Turns out that. You actually spend a little bit more time in diastole?
+
+Then what a triangular representation might suggest. So there is a very neat formula that we use all the time that says.
+
+That the mean arterial pressure is approximately equal to.
+
+Map is approximately equal to the diastolic pressure plus one third of the systolic minus the diastolic pressure,
+
+or one third p diastolic plus one third of pints pressure.
+
+So if you were to do a triangular representation, as we did over here, it would be one and a half.
+
+Right, but you spend a little bit more time in diastole than you than that suggests.
+
+So this is an approximation that we will use all the time.
+
+If you have systolic pressure, if you have diastolic pressure, this gives you a approximation of the um, of the pulse pressure.
+
+Now with that, what we can also get is an estimate of vascular resistance.
+
+So if we have the mean arterial pressure.
+
+We're usually not interested in the instantaneous flows, you know, and often not in the instantaneous pressure or some instantaneous resistance.
+
+What we're interested in is what is, on average, the flow, what's on average the pressure.
+
+So the resistance, let's say through the peripheral circulation, through the body, through the systemic circulation.
+
+What's the upstream pressure. Arterial pressure.
+
+In this case, mean arterial pressure if we're interested in average quantities.
+
+What's the downstream pressure? We could say it's right atrial pressure or it's central venous pressure.
+
+It's something that's very close to the right heart right.
+
+So total peripheral total peripheral resistance or systemic vascular resistance also known as
+
+are over here is mean arterial pressure minus let's call it mean or central venous pressure.
+
+Something very close to the heart divided by your cardiac output.
+
+Likewise if you're interested in pulmonary vascular resistance.
+
+This is mean pulmonary artery pressure minus.
+
+Mean. Let's say mean left atrial pressure.
+
+Also divided by cardiac output.
+
+Does that make sense? When we're interested in the resistances.
+
+Right. Let's take the mean upstream pressure.
+
+The mean downstream pressure. Over the mean flow that's going through that system.
+
+Ignoring capacitive effects. Ignoring inductive effects.
+
+Making the simplest approximation that we possibly can. Questions.
+
+Sorry, sorry. CVP is central.
+
+Venous pressure. So for example, some something very close to the right heart.
+
+So it could be like inferior vena cava. Superior vena cava.
+
+What was the other thing that you asked. Mean pulmonary artery pressure.
+
+Mean left atrial pressure. Total peripheral resistance, also known as systemic vascular resistance.
+
+And pulmonary vascular resistance. Yeah. Absolutely.
+
+So oftentimes, but not always. We saw that the left mean left atrial pressure.
+
+Once we get to the right side of the heart very close to zero. So oftentimes thank you.
+
+This. Is oftentimes just approximated as map overkill, but not always.
+
+In a normal state, you can think of states where you have massively elevated right atrial pressures.
+
+Heart failure, right? Okay, so should I write this out?
+
+Okay, I'll write it out.
+
+I'll put it on canvas, because otherwise I'll be standing here for the next five minutes writing out the terminology, and my right arm is falling off.
+
+Right, but I'll put that on canvas. I'll define all of these.
+
+But the key point of emphasis here is mean upstream pressure minus mean downstream pressure.
+
+If you look at the systemic circulation, what's coming out of the right heart, it's coming out of the left heart is a mean arterial pressure.
+
+What's and what's going back into the right heart is the central venous pressure.
+
+Right atrial pressure something very close to the right atrium divided by cardiac output.
+
+All right. If you're interested in what's going through the lungs, what's the upstream pressure.
+
+Is the pulmonary artery pressure. That's what's feeding the lungs mean pulmonary arterial pressure.
+
+Is this one mean left atrial pressure. Is this one. It's a downstream pressure over cardiac output.
+
+Okay. Now. Let's.
+
+Um. Yes.
+
+Uh, I could have not planted that question any better. I was just wondering whether I should cover it or not.
+
+Thank you very much. Okay. So the units, the units, the units.
+
+Ministerial pressure. 120 over 80 is our ministerial pressure.
+
+It's our is our blood pressure. So PD 8120 -8041 through to 40 plus 80 for approximately 90 to 100mm of mercury.
+
+Right. So this numerator here. Millimeters of mercury.
+
+Right now you can express. Resistance in a flow in liters per minute.
+
+Four liters per second. Milliliters per minute or milliliters per second.
+
+Right. So the units for resistance.
+
+The one that I like best. It's called the Peripheral.
+
+Resistance. Unit.
+
+Also known as Prue. Why is that funny?
+
+And peripheral resistance units. I'm not getting something over here, it seems.
+
+It's millimeters of mercury. Per milliliter.
+
+Time. Second. The reason why I like this.
+
+If you plug in the numbers, you have about 100 over here.
+
+Right. You have about five liters over here, but then you divide.
+
+It's not five liters per minute, it's five liters per 60s.
+
+So you dividing by about. 600.
+
+Uh. So you're dividing the 5000 by six and pi by about 100, right?
+
+For the peripheral resistance, this comes about at around one.
+
+And that's why I like it. Something that's one. Right.
+
+Total peripheral resistance and peripheral resistance units one.
+
+Can't get better than that now. There is a unit called the wood unit.
+
+If you actually express this in. So this is now the wudu unit.
+
+It's in millimeters of mercury. Times.
+
+Minutes. Go. Time. Sorry. Time. Seconds divided by leaders.
+
+So it's just a factor of a thousand different. Right.
+
+So one peripheral resistant unit is 1000 watt units.
+
+Where it gets really screwy. Right is in some of the older literature, even some of the cardiology textbooks.
+
+You see that what we call one peripheral resistance unit.
+
+Is equal to 1330.
+
+Dines. Times.
+
+Seconds. Over a centimeter to the fifth.
+
+Do not use that unit. Now, Doctor Stoltz is old school.
+
+I leave it at that. If you really want to mess with your attending.
+
+Or your preceptor, right?
+
+One peripheral resistance unit. It's 133 Mega Pascals.
+
+Second. Parameter cubed.
+
+If you ever see Doctor Stultz on the cardiology service at MD, do me a favor.
+
+Remember that unit. And take a look at his face when you report the peripheral resistance to him.
+
+It's Mega Pascal seconds per meter cubed. The purple basket.
+
+Or. That's why I was hesitating for a moment while I was standing over there, and until I was asked about the units.
+
+Now you have them, right? So, um, I'm partial to these.
+
+Right? So whatever you want over here. No. To these. At least in my books.
+
+Okay, so we've covered this, right.
+
+So technically it's the integral over here. But we approximated it as diastolic pressure plus one third of the pulse pressure.
+
+We also. Haven't talked about anything on the right side of the heart.
+
+So this all of this was made it clear, hopefully, that we're talking about the arterial side.
+
+We're talking about the systemic arterial side. But we can do the same thing on the pulmonary arterial side.
+
+When we compute the mean pulmonary artery pressure.
+
+It's also a waveform now. I brought some things to show and tell over here, and I don't know whether we have enough time to show this around,
+
+but doctor still showed you at least tracings of what it's called the swan Gans.
+
+Gans catheter or the pulmonary artery catheter. So if it still works like this morning, you have a catheter that you can actually put in.
+
+Right. From the Venus side. So, you know, superior vena cava.
+
+Right. And then what you can do is you can push this gently.
+
+And what you will see that eventually that this pops open. You see that little balloon here?
+
+I'll pass it around to be very gentle because they pop fairly easily.
+
+So why do you have that balloon? For two reasons, right?
+
+First thing he confesses around is you can actually float the catheter this way because when you insert it through the through the jugular vein,
+
+right into this superior going to cava, you inflate this, you're going with the flow.
+
+It provides you with buoyancy, takes you naturally to the right direction.
+
+Right.
+
+What you can see over here at the tip, there's an opening and you have a fluid column, which will then allow you to measure the right atrial pressure.
+
+The right ventricular pressure. Right. And once you traverse a pulmonary valve you can see pulmonary artery pressure.
+
+We also talked last time about threading it into one of the main branches of the pulmonary artery and then inflating the balloon.
+
+Right. And when that happens and I cut this off over here, you are in the pulmonary artery.
+
+You know that you're in the pulmonary artery because you're not going all the way down. Right.
+
+You have like 20 some over 18 rather than 20, some over five.
+
+Right. And then you don't want to blow this thing up in the main pulmonary artery.
+
+Right. Because then there's no blood flow going through. You want to go into one of the side branches.
+
+You inflate the balloon. You have what is called the pulmonary capillary wedge pressure as an approximation of the mean left atrial pressure.
+
+Because you're blocking all flow and everything after a certain period of time that you're sensing is the downstream pressure.
+
+Okay. That's that catheter that's going around. Now, the other catheters that I can pass around that you can put a lot of smarts on this.
+
+Here is a more elaborate, uh, swan Ganz catheter.
+
+You will see that there's some, uh, wires that are on here.
+
+This is, for example, a thermistor that you can heat up, uh, fluid, and you can measure cardiac output with this as well.
+
+I can pass this around.
+
+And then Doctor Sills talked about the intra aortic balloon pump, which is this left ventricular assist device that goes into your.
+
+Abdominal, ascending and descending aorta. And then it is gated to the cardiac cycle.
+
+And it inflates just after the aortic valve closure to increase the pressure in the aorta so that you have increased runoff into the periphery.
+
+Right. And then it deflates just before ejection happens,
+
+so that the pressure in the order drops precipitously and the failing heart can pump against a lower.
+
+What we would call afterload, right? It usually is not like this.
+
+Right. But this has been passed around by generations of students.
+
+So that's why this is happening. Now, some of you asked about the material that the pacing catheters are made of.
+
+It's, um, it's, uh, elastomers.
+
+That I use that I wrote it down somewhere over here. Polyurethane.
+
+Polyurethane is most often used, but also silicone elastomers that are currently being used if you're really interested in that.
+
+So pass these around. Now we're running up against time, but I will leave you with these two.
+
+You just started as a junior attending interventional cardiologist as Boston Children's Hospital.
+
+These are your first two cases. Let me tell you what's being represented here and then we'll come back.
+
+You can do this. And we come back to this. Right atrium.
+
+Right ventricle. Left atrium, left ventricle. Oxygenation levels shown over here.
+
+Right. We measure the oxygenation levels in these chambers also in these vessels.
+
+You measure the mean em right atrial pressure.
+
+Mean left atrial pressure. Systolic over diastolic.
+
+Systolic over diastolic. Mean pulmonary capillary.
+
+Much pressure. Right. Same on this side. Over here.
+
+There's some questions over here. There are two cases.
+
+We'll bring that back at the end, at the beginning of the next lecture.
+
+We'll cover this. Take a crack at it. See whether you can compute these various things on the canvas.
+
+What I want to end with.
+
+As I said at the beginning is a discussion, a brief comment, not a discussion, but a brief comment of the homework assignment.
+
+Homework assignment is on canvas. Handed it out today, due next week.
+
+As I said, we don't hand this out just to keep you busy. We know that you're busy, right?
+
+There's a few problems. As you will see the first problem.
+
+Ask you very simple questions, but we think of simple questions.
+
+Name the structure that connects the left atrium and the left ventricle. Oxygen uptake of a patient is 200ml, blah blah blah.
+
+Fig principle. Which phase of the cardiac cycle lies between the first and the second heart sound.
+
+What is the definition of the mean systemic pressure? We haven't covered that yet. We'll cover that on Tuesday.
+
+Tuesday. Today's Thursday right? Yeah. Tuesday. These are the first question is usually things that we think it's like if you don't know these right.
+
+Do the reading. Write. Review the notes. This is the kind of thing that over time, we expect you to know and we expect you to apply.
+
+You saw simple things, right? But make sure that these things you know, you don't spend, you don't have to spend much time on that.
+
+These are covered.
+
+The next question is, the question that I've already talked to you about is your faucet would be your next best friend for the next week, right?
+
+Measure the flow that's coming out of the faucets. Measure the flow and compare that to cardiac output.
+
+Problem three is cardiac cycle.
+
+As we said today, we make you go through drawing the cardiac cycle so that you can actually see when do the valves open.
+
+When do the valves close. When was S1, s2.
+
+Right. What are these four cycles isoflurane contraction ejection ice relaxation.
+
+So we'll help you along. Right. And then do we have a fourth problem.
+
+The fourth problem is very simple. It's exactly what we actually showed earlier today.
+
+Will have some arrows to some structures to just help you review the material okay.
+
+So it should be pretty straightforward of your questions. Rachel is here I'm here.
+
+Doctor Stoltz is here. Come talk to us. With that. Let's see you on Tuesday.
+

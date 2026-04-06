@@ -1,0 +1,2309 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+The most consequential course you will have, and biomedicine for those in the M.D. program,
+
+the most consequential, consequential class in the preclinical curriculum.
+
+And for many students, arguably the most important class, you will take full stop.
+
+So, um, what is cardiovascular pathophysiology and why is it so important?
+
+And, uh, there are a number of ways to answer that.
+
+And hopefully by the end of this lecture, you will have an appreciation for why I begin the class with such grandiose statements.
+
+The purpose of this lecture is as follows.
+
+Um, we're going to talk a little bit about course logistics.
+
+And then um, we'll talk about a typical case.
+
+Yes. On the Beca. Yes I can.
+
+That is an error on my part. And I think last year I made that error almost every time.
+
+Uh, I see. I understood. I will do that now.
+
+I am so sorry. So. But this lecture will begin with a case, and it is a representative case.
+
+Um, it's an amalgamation of many clinical presentations that have been coalesced into one, uh, relatively pithy, um, description.
+
+It's to give you a sense of the, um, cardiovascular disease in the real world.
+
+And how an understanding of.
+
+Basic cardiovascular pathophysiology can help you dissect a patient presentation, the clinical scenario, and reasons why therapies work.
+
+Reasons why therapies fail. For those aspiring physicians, it's very clear why such a such a thing is is an important to grasp.
+
+But for scientists and scholars and for those of you who, um, want to do both.
+
+It's also important because it's illustrative.
+
+Illustrative of how basic understanding of this very physical organ that we can describe quite rigorously and quantitatively.
+
+And how those descriptions help us understand disease mechanisms.
+
+Yeah, the cardiovascular system is a wonderful example of how we can integrate basic
+
+engineering and fundamental physical principles to understand some complex phenomena.
+
+So as opposed to pathology. You guys all took pathology?
+
+Yeah. Everyone here should have taken pathology. Where you have to memorize a whole bunch of stuff.
+
+Yeah. And you look at slides, you have to remember where the different,
+
+the types of cells are and how they're organized and the names and associated things.
+
+Um, in this class, that will not be the modus operandi.
+
+Um, we will, um, learn fundamental principles that you can apply in different settings.
+
+Yeah. And if you have an understanding of those principles, the rest of the the rest of the, uh,
+
+of the behavior of that system becomes very clear, both in a normal state and in, uh, scenarios in which that system is perturbed.
+
+Um. So. I will now.
+
+Send these slides to Rachel and she can upload them.
+
+We normally won't start this late, but we will have we have food coming up.
+
+Yes. Yes. So. So we will um, we will cut into the food time.
+
+Yeah. To to make up for my my being.
+
+My being, uh. Tati. Okay.
+
+So. Rachel. They are.
+
+Now. And to you. And they should be uploaded, uh, shortly.
+
+Okay. So let's start out with some basic.
+
+So just some course logistics. So who is who?
+
+Teaching. Who is teaching this animal? So we have two instructors.
+
+Uh, this is me. And we have also done that must be at some point in the past.
+
+Yeah. And we have, uh, Professor Thomas Heldt.
+
+So Professor Heldt is, uh, Richard Cohen, professor in medical engineering and science, and, um, he is a bonafide engineer.
+
+But I think the more important distinction is that he is, in my estimation, probably the most knowledgeable physiologist on campus.
+
+So we are honored to have him here, um, helping to teach this, this material.
+
+He's also associate director of IBM's. We have some additional people who will be giving some guest lectures.
+
+We have Doctor Usha Tadeo, a colleague of mine. I've known Lucia since medical school.
+
+She directs the clinical Cardiac electrophysiology lab at the Brigham.
+
+She is an MIT alumnus and has taught this class many years.
+
+I don't know how many years she has taught twice over, but.
+
+Undergraduate class if you have a. What?
+
+These. Yeah, that's that's my thing.
+
+Yes, that is correct. And she will talk about rhythm disturbances.
+
+Interpretation of the electrocardiogram. We have Doctor Who. I've known Doctor Herning Bach since he was a cardiology fellow sometime ago.
+
+Um, he's his his, uh, research and clinical interests are really at the intersection of women's health.
+
+And cardiovascular disease, and he has made some very important contributions in this area scientifically.
+
+And he will lecture on that, um, a special series of lectures involving, uh, vulnerable populations.
+
+Cardiovascular disease. We have Doctor Erin Geary.
+
+Doctor Erin Geary is a cardiologist at the Massachusetts General Hospital.
+
+He specializes in intensive care, the treatment of patients who are have critically ill cardiovascular disease.
+
+Um, he's, uh, boarded, I think, both in cardiology and in critical care medicine.
+
+[INAUDIBLE] be lecturing in this class for the first time. I've known him for a very long time.
+
+And Doctor Lao, one of the world's, uh, experts and women's cardiovascular health and cardiovascular echocardiography,
+
+um, and, uh, echocardiography, which is cardiac, cardiac ultrasound.
+
+So we have a panoply of people, I think, covering a wide range of areas.
+
+And I think it gives you a good sort of overview of the field and the state of
+
+the art in terms of cardiovascular disease treatment and its therapy treatment,
+
+and it's therapy, diagnosis and therapy. Materials.
+
+All of you should have access to the canvas site is anyone who does not.
+
+Have people been on to the canvas site to peruse it? If you have not, please do so today.
+
+Very important. If you don't have access, if you are not facile with accessing canvas and the things that are there,
+
+this is how we're going to post homework assignments in which you will upload completed assignment.
+
+Where is Rachel's slide? Oh my goodness.
+
+I did, I was making edits.
+
+I can. I don't think so.
+
+Hold on. There was, there was. I was editing these slides and it must have inadvertently.
+
+And then we have. Here.
+
+Okay. Well, that's a pretty.
+
+No. Excellent. I love it. Okay. Let's go. And.
+
+Yes. And we have our course instructor.
+
+This is a teaching assistant for the second year in a row.
+
+Um, the future doctor, Rachel Zale.
+
+So Rachel is a PhD student in mechanical engineering who works in professor um, Edelman's laboratory.
+
+Um, I think when, um, Rachel took the class.
+
+You. Aced it. Yeah, yeah.
+
+Rank number one. Yes. And, um, prior to joining the Edelman lab, this is.
+
+That's the truth. Um, she completed, uh, research internships involving design mechanical systems for drug delivery applications.
+
+Some of the technologies that we will talk about, impellers and and other sorts.
+
+Rachel is an expert in. So we are honored to have her participate in this class.
+
+Thank you Rachel. So again materials we have canvas.
+
+The textbook should be linked on canvas. All of you should have online access to it.
+
+Len Lilly Pathophysiology of Heart Disease, the newest edition, which is the eighth edition, just came out in 2026.
+
+We will assign reading. Where relevant from this text.
+
+Before the um, corresponding lecture, and we expect everyone to sort of have perused the relevant chapters before lecture.
+
+You can also show you can also use this text as a reference, meaning that if there is something that is covered in class, that is not clear.
+
+You should and we encourage you to go to the text, look for um, to look for the, uh, relevant, relevant, uh, information.
+
+Now, of course, it's not a 1 to 1 correspondence between the things that we covered in this class, because this is an HST class.
+
+We are quantitative in our approach. Um, and, um, that will become apparent in the first after the first couple of lectures.
+
+And that type of quantitation is not expressed in Lilly. But nevertheless you will find qualitative explanations of the concepts that we covered here
+
+that I hope will become that will be complementary to many of the things that we discussed.
+
+Okay by the end of this course. What are our tasks?
+
+You'll be able to describe the gross structure of the myocardium, valves and vessels.
+
+A lot of you should be able to already do this right because you have pathology.
+
+So if I without an exam right now.
+
+Yeah. Yes. You guys are all right in that in the cardiovascular system?
+
+Yeah. Okay, let's put away our. Joking.
+
+You will also. Be able to describe the basic principles underlying normal cardiovascular function.
+
+And its control mechanisms. You will be able to integrate and interpret history, exam findings, social history, clinical data.
+
+And especially. The use of Electrocardiograms.
+
+All of you by the end of this class will become um.
+
+Relative experts. And the physics behind the acquisition of electrocardiogram signals.
+
+And their interpretation. You'll be able to, uh, to predict behavior of the system, the cardiovascular system.
+
+You got to look at it both under normal function and in response to different perturbations.
+
+Many of these perturbations mimic precise disease mechanisms.
+
+So what happens in the setting? Atherosclerosis, myocardial infarction, infarction,
+
+death of the myocardium of heart muscles is the heart attack heart failure when the
+
+heart is not able to pump out enough blood to meet the metabolic demands of the body.
+
+Hypertension. High blood pressure. How heart has in a normal state four valves.
+
+Each of those can be associated with disease. Different types of valvular heart diseases and diseases of the pericardium as a sac around the heart.
+
+And electrophysiological abnormalities. Abnormalities in conduction.
+
+So the heart is a pump. That pump is coupled to the movement of ions within the heart, which we loosely refer to as an electrical.
+
+Electrical activity of the heart. The electrical activity. The heart stimulates contraction so you can have diseases in response.
+
+The pump function, how strong the muscle is or how the muscle relaxes, and of the electrical systems.
+
+So we you know, when we talk to patients we like say the heart is, you know, there's a plumbing system, an electrical.
+
+Right. These two things work together in a normal function.
+
+But we can think about their disease states as being somewhat separate. The electrical system and the pump.
+
+We want to recognize abnormal structures grossly and in further clinical manifestations.
+
+So I could give you a heart. It looks abnormal, nothing else.
+
+And by examining the abnormalities, you can predict how that's going to manifest in a patient.
+
+And you want to articulate targets for potential intervention.
+
+Not only do we want to grasp. The disease state.
+
+But we want to know how to affect disease, what additional perturbations we can do to circumvent to mitigate the, um, the abnormal actions.
+
+Um, they have no, uh, they have normal states that we will talk about ad nauseum.
+
+So attendance policy. So we expect that you attend lectures and laboratory exercises.
+
+Um, and in particular we will have guest lectures.
+
+And so attendance is, uh, something that we require.
+
+Now, of course, life happens. And if you cannot attend.
+
+We certainly understand. But we expect to hear from you beforehand.
+
+There's an established HMS um mechanism for um, in a setting where you have absences to let us know.
+
+You can send the instructors myself, Thomas, Rachel an email, but is not acceptable.
+
+Is to just miss a class and tell us about it afterwards.
+
+Unless, of course, it's an extreme, um, situation, an illness or, um, something along those lines.
+
+Barring that, we expect you to be here in class for each lecture.
+
+Consequently, we will have a sign up sheet that will be circulated at the beginning of lecture.
+
+And put away. I would like within a few minutes, ten minutes or so after lecture.
+
+You will not be able to sign afterwards if you're coming in late and you let us know ahead of time, that's fine, otherwise that's it.
+
+So this is the grading how we will, um, decide on the grading.
+
+You see, attendance here is 10%. But I would just want to illustrate.
+
+Now there is a binary step function with respect to, um, attendance.
+
+If you do not attend, if you willfully miss A, do not abide by the attendance policies that I've articulated, you will fail.
+
+Period. And so this these lectures are being recorded.
+
+So I want to make sure that I say that unambiguously that it is, uh, memorialized in a video.
+
+So that we know this at the end of the course.
+
+So that, uh, the policy is clear and unambiguous.
+
+Midterm exam, 20%. And then the final exam.
+
+Uh, 40% is great. So homework I'm going to talk about homework policy.
+
+Problem sets will be posted on the course website. Answers will be due after the due date.
+
+Will specify the due date as well.
+
+You get a zero for no homework, but you can make up 50% of full credit if you submit before the end of end of, uh, end of the course.
+
+Yeah. Now the homework exams are not homework exams.
+
+The homework exercises are not intended. Not intended to cause stress.
+
+Yeah. We're all. The team? Yes.
+
+We like one another. Yes. Excellent.
+
+Yes. So you, uh, you may do them alone, or you may work with others.
+
+The important thing is that we all would like one another.
+
+I'm excluding the faculty. Yeah. Right. Okay, good.
+
+I was hoping to get a full. Yes once I made that clarification.
+
+Um, you can use, uh, all of the available reference material if you work in it in groups.
+
+That is absolutely fine. And you can just please list on the homework who you worked with.
+
+Some of you have particular strengths and, um.
+
+Quantitative aspects. But if you, um. If you are an engineer and if, you know, you know, a lot of differential equations in terms of.
+
+Uh, solving simple circuit diagrams.
+
+Then you may want to partner with somebody who is not so well inclined to form a group with complementary skills that we encourage wholeheartedly.
+
+Please work together. Learn together. We're all in this to learn.
+
+So we have two exams that will be in class. Please make note the midterm exam is April 9th.
+
+And the final exam is the 21st. These are in-class exams.
+
+If you have a conflict with those dates, the sooner you let us know, the better.
+
+The easier that we can make accommodations.
+
+Please do not come to us the day before and say that you cannot make the midterm for X, Y, or Z because the dates are being clearly, um, shown here.
+
+Any questions about the course policy? Grading.
+
+Attendance. Homework. No.
+
+So. Let's get started. Cardiovascular system.
+
+What is a cardiovascular?
+
+So the formal definitions collection of organs including the heart, blood vessels and the blood itself circulates throughout the body.
+
+Pretty simple. Just a little bit more because this is the cardiovascular system.
+
+I want to speak out specifically about the function of the heart.
+
+Now the heart as you all remember. From pathology.
+
+We actually have two hearts. That work in, in, um, that work together?
+
+We have a right heart. And the left heart. The right heart takes blood from the rest of the body.
+
+Doesn't have a lot of oxygen because the body has depleted that blood of oxygen and pumps that blood to the lungs.
+
+The left heart, takes the oxygen rich blood from the lungs and pumps it to the rest of the body.
+
+And this is depicted here. We have the right heart. And the left heart.
+
+So the right heart takes blood from the rest of the body.
+
+To this structure eventually pumps it out to their and to their right, and that goes to the lungs.
+
+So this is the. Yes.
+
+This is the. Excellent.
+
+We'll come back to you. It'll come back to you. Because some of you.
+
+It's been a while since you've taken pathology, right? So it's okay if you don't remember it off.
+
+Off the bat. We'll go over this ad nauseum. And this structure is the.
+
+I'm sorry. The one right. Atrium. And this structure is the.
+
+And this structure is the. And this valve is the.
+
+What was that? Yes. And this valve is the.
+
+Yes. Yes. Yes. And this structure here.
+
+Left atrium. Left ventricle. This is the.
+
+Yes. Sending your order. A order is sending order. I'll take it. I'll take it.
+
+What's this valve? And this valve.
+
+I already felt. So we were going to go over this over and over and over again.
+
+But understanding the basic anatomy of the heart is going to be important.
+
+But you'll see this again and again and you'll you'll see me go over this exercise ad nauseum, that the rest of the body from the upper body,
+
+superior vena cava from the lower body, the inferior vena cava, right atrium, tricuspid valve, right ventricle, pulmonic valve out to them.
+
+That's the pulmonary artery. And all of this is blue because it is relatively oxygen depleted.
+
+Goes to longs to the lungs. Now.
+
+The blood that returns from the lungs is red. Because it's oxygen rich.
+
+Um, it goes from the pulmonary veins into the left atrium.
+
+How many pulmonary veins are there? Normally? How many pulmonary veins are there?
+
+Are you sure? I love it.
+
+Honesty. You are correct. What are you like? Uh. Like those.
+
+Kyle? Yeah. So that's, um. So some of the students here, I know their names because there is a, uh, I in medicine class that I teach.
+
+We just finished it last. January, and that's how I am.
+
+But I'm. But by the end of give me like a couple of weeks,
+
+I'll know the names of everybody on all of the students of some of you I do recognize and I know your.
+
+But. Yes. Okay. Um, right. So there are four pulmonary veins in a normal state.
+
+Go to the left atrium, mitral valve, left ventricle, aortic valve out through the area.
+
+Very simple system. Very simple system. What are the main tasks of the cardiovascular system?
+
+What? What what's the job of the cardiovascular? Yes.
+
+Why is it important to transport blood around body? Yes.
+
+I love it. Let's keep going. Where does oxygen nutrients have to go?
+
+What are some important organs that need oxygen? Oxygen in. Oh my goodness gracious, I love it.
+
+Your first name? Zainab. Zainab.
+
+Excellent. I won't forget that. Uh. Thank you.
+
+So Zainab is absolutely correct. You want to perfused the central nervous system with oxygenated blood?
+
+Yeah. So the most important organ in the body is the heart.
+
+The next is the brain. Yeah. Oh, I should say that my.
+
+I have a predilection to make sure my wife.
+
+And I don't want to get fired from this class. I happen to offend friends of mine.
+
+Okay. Sorry. Joe came to mind when I saw brain and blood.
+
+Brain? Blood and oxygen. Anyway. Yeah, so to perfused the CNS with oxygenated blood.
+
+Yeah, but there are some other things that that the cardiovascular system is meant to do.
+
+So. Transport the transports things.
+
+Nutrients and waste in cells because not only does it have to provide.
+
+The brain and the other organs with critical nutrients, things that it needs to survive to make ATP.
+
+To do the functions that it's normally supposed to do. It's got to take away waste.
+
+Bring them to the kidneys or the liver and other places where these the waste materials are removed.
+
+So communication.
+
+It helps to move hormones from one place where they're created, to other places where they're where the, um, where they affect the action happens.
+
+Antibodies and antibody antibodies and antigens, mainly antibodies,
+
+have to get moved from one place to another place where they're needed, where there's an active infection.
+
+It is a heat exchanger. Yeah.
+
+So when you are very hot, you shunt blood.
+
+To the skin, right? Because the temperature outside is typically lower than what it is inside the body.
+
+And so it's a mechanism to, uh, to cool you off when you're hot, when you're very cold.
+
+Right.
+
+And you want to keep the internal organs warm, you shunt blood away so you get cold and clammy because you want to shunt blood away from the skin.
+
+To the brain and the other organs that might need it. Protection.
+
+Clotting antibodies. Uh, white blood cells.
+
+Infection. Infection. If there is damage in a particular in the skin or a vessel,
+
+you need to transport the appropriate clotting materials, proteins involved in clotting to those areas.
+
+So the cardiovascular system is responsible for a vast array of things.
+
+Um, this is typically what we categorize as being the most important function.
+
+But I want to make it clear that there's a panoply of other things.
+
+That the cardiovascular, um, system is, um.
+
+Uh, controls. And we will touch on these. Not only this, but we will touch on each of these as we go through this, uh, as we go through the class.
+
+Now cardiovascular disease. What is it?
+
+We typically categorize cardiovascular disease by the vascular bed.
+
+Um, that is affected. So for example, stroke, transient ischemic attack, Tia the vessels that go to the head.
+
+The extra cranial vessels that supply the head, carotid, and vertebral or intracranial vessels.
+
+Right. There are blockages here that prevent blood flow to the to the brain.
+
+In the case of an embolic stroke. And you can have death of, um.
+
+Not portions of the brain. As a result, if the blockage is severe.
+
+Coronary artery disease, coronary heart disease, myocardial infarction again just to be purposely repetitious.
+
+Infarction. Death of the myocardium. Death of the heart muscle.
+
+Heart attack. Angina pectoris.
+
+What is angina pectoris? What does that mean?
+
+Chest pain. Yeah. Angina. Pain pectoris.
+
+Chess. Yeah. That's a literal interpretation of Angela pectoris.
+
+But we will see that patients with atherosclerotic coronary artery disease have a particular type of pain.
+
+So there's a prior I'm applying to this. All the while the interpretation is very clear.
+
+Mike Tyson in his prime punched me in my chest.
+
+I have pain, but that's typically not what we refer to as angina pectoris.
+
+Yeah, Angela pectoris has a particular characteristic that is not quite Partha mnemonic,
+
+but but very much associated with the heart not getting enough blood.
+
+Deaths from coronary artery disease. Massive myocardial infarction can lead to death of a lot of muscle.
+
+Muscle doesn't pump and you die. We can have disease of the aorta.
+
+And typically most of that disease is atherosclerotic, though some of it is congenital.
+
+You can be born with, uh, strictures, um, or um, um, uh, aneurysms, dilation of the of the aorta,
+
+not because of atherosclerosis, but typically we mean in this disease of the, of the um, of the aorta.
+
+And we'll talk at length about that as well. And then finally the lower vessels.
+
+And that's peripheral arterial disease. We'll talk about that as well. These are the big breakdowns in terms of of what is um.
+
+Of the different vascular beds, and we'll touch on all of this as of course.
+
+So cardiovascular disease, why is it important? So cardiovascular disease.
+
+Let's talk about a particular type of cardiovascular. Let's talk about atherosclerosis.
+
+Right. So there are about 60. People in this room?
+
+Yeah. What fraction of the people in this room have atherosclerosis?
+
+I'm sorry. Yeah, I think I've asked you guys this question before.
+
+So so so we have one vote for everyone.
+
+Everyone in this room. Any other votes? What's your name?
+
+Tiffany. So that's a very good guess because you certainly include the people that have gray hair, right?
+
+That's myself. Thomas. You've always had that hair color.
+
+Excellent. Okay. Yeah, I see, I see.
+
+Excellent. Yeah. So 75% is a good. I just try to count up exactly how many people would be on the older side of this.
+
+But you would imagine, naively that the younger people here, people on the lower end of the spectrum, do not have it, but the older individuals do.
+
+It's a very reasonable guess. Any other guesses? So let's try to be quantitative in how we how we answer this.
+
+What do the data say. So prevalence and risk.
+
+There was an interesting paper published in 2012 about, um, the risk of atherosclerosis arising from autopsies.
+
+So if you look at young men who died in the Korean War, 77% of them showed evidence of atherosclerosis.
+
+So these are men in their 20s. Few of them in their late teens.
+
+And I will say that the autopsies at this point, in terms of looking for atherosclerosis were very just gross description.
+
+You look at the specimen and you see if there's something that looks like it. It wasn't really very detailed.
+
+If you look similarly at men who died in the Vietnam War in the 60s, about 45% and then 8% of men in the military who died between 2001 and 2000.
+
+Evidence of arthroscopy. These are gross. Gross. Yeah.
+
+Now, this is relative prevalence in a very young population that you would not expect.
+
+And you know, this particular type of, of of population in the Korean War and then the Vietnam War.
+
+This is when, um, the military used to give out cigarets.
+
+So the prevalence of smoking was quite high.
+
+So you could argue, well, how you know, representatives of the, uh, these data are what is happening today in 2026.
+
+So there are a series of additional autopsy studies on young individuals who died in horrific circumstances.
+
+Let's say, um. Suicide or.
+
+Um. Um. Let's see.
+
+Uh. Motorcycle crashes. Right. And if you do more sensitive tests, there's, uh, specific things that you can do.
+
+Virtually all of them have signs of atherosclerosis.
+
+Atherosclerosis is a disease of the juvenile.
+
+The default is. Most people have it.
+
+Not everyone dies from it. Not everyone suffers the sequelae of the diseases that I talked about in the previous slides.
+
+And that's something that we really don't understand. But it is the most one of the most prevalent disorders.
+
+And in the history of mankind. Now.
+
+So we all have it. Not everybody suffers from it.
+
+But why does that mean we should pay attention to it? Right? Most everyone has ten fingers, right?
+
+Most everyone has. Um, many people have.
+
+Um, at some point in their life, um, some skin disorder.
+
+Eczema. But should we worry about them? Yeah. What's special about cod?
+
+I guess my guess. My point is, a prevalence in and of itself is not dispositive that it's a problem.
+
+Yeah. But again, in a data driven way.
+
+Looking at the data that are available, the lifetime risk of cardiovascular disease is about 50%.
+
+Impatient 30 years or older. It is a leading cause of death.
+
+In developed countries and across the world.
+
+Now, if you look at this map in terms of the mortality per 100,000 100,000 people, and these are the precise numbers.
+
+This is the United States. All right. We've got here in the green area.
+
+But if you look at large parts of Russia and Asia. The prevalence is quite high, significantly higher than what it is in the United States.
+
+And we think about this as being an important problem in the US. But it's a worldwide problem in many parts of Africa as well.
+
+Cardiovascular disease is highly associated with adverse outcomes, death being one.
+
+And in talking about the global risk of death, you could you can break this down differently into the precise diseases rheumatic heart disease.
+
+We'll talk about this. This often leads to valvular heart disease.
+
+Most notably mitral stenosis is a consequence of rheumatic heart disease is an infection related that causes strep,
+
+typically causes um, causes inflammation around the mitral valve, and can lead to my lifting of that valve.
+
+And here you can see the different areas right.
+
+And age standardized mortality rate. And some of the, you know, some of the areas are central.
+
+I'm sorry, Central America.
+
+Um, there we have looking at it's easier to see my computer than this in North Africa, in the Middle East, quite high scheming heart disease.
+
+We think about mainly, um, sorry about this disease.
+
+Rheumatic heart disease is more prevalent in those areas that are a little somewhat underdeveloped,
+
+but it is still an important, important, um, disorder, especially in India and in parts of the um.
+
+And in parts of the. If I've many cases.
+
+Actually, many patients have presented in any way with rheumatic heart disease.
+
+Um. In part because of poor access to care and in many parts of Africa as well.
+
+I think I've seen cases of patients with rheumatic heart disease from Kenya and.
+
+And Uganda as far as a few other, a few other places as well. Very prevalent.
+
+The point that I want to make here is that there are many of these disorders all throughout the world.
+
+This is and this is sort of a way of breaking down the information in this slide in a disease specific manner.
+
+But the point is to say. So if you look at risk factors for cardiovascular disease.
+
+The things that are associated with adverse outcomes. We have high blood pressure.
+
+And if you look at some of the previous studies as a free for heart study,
+
+and there was another study, the National Health and Nutrition Examination Survey.
+
+Hundreds of thousands of patients. And if you look at some particular, um, cohorts, the relative prevalence of high blood pressure.
+
+Abnormal cholesterol so high LDL. We'll talk about this as well.
+
+It's a risk factor for coronary artery disease diabetes.
+
+The prevalence is pretty pretty high. Relatively high 38% in males 33% in females in Framingham Heart Study above 25% above 1 in 4.
+
+And similar statements apply to LDL low HDL as well.
+
+Why not try to get across here is that not only is cardiovascular disease prevalent, but the risk factors for cardiovascular disease are prevalent.
+
+So we can talk about those that have cardiovascular disease.
+
+And those that have adverse events because of cardiovascular disease.
+
+But then there is this pipeline, a whole stream of patients that have significant risk factors that will develop cardiovascular disease.
+
+So those are currently have it. And a prevalence associated with cardiovascular disease are 2026.
+
+But then there is a people down the pike.
+
+That will develop it, and there is no slowing of the people that have risk factors for developing cardiovascular.
+
+Risk factors for cardiovascular disease are synergistic meaning that.
+
+So if you looked at those with high blood pressure, um, let's say those with a very high blood pressure,
+
+systolic blood pressure of 170mm, but a normal systolic blood pressure.
+
+One 20mm of mercury. Yeah. Uh, what's the normal diastolic blood pressure?
+
+Okay, so you guys are all right? I was okay. I'll take it.
+
+I'll take it. There. Cut offs. Depending. We'll talk about later. But yes, that's generally correct.
+
+So one 70mm of mercury. And you can see that the risk if you're relatively mature.
+
+Yeah. Is, um. And so, for example, if you look at here, this at x axis is a, this is a total cholesterol HDL.
+
+And if you have high blood pressure but you're mature it's much much higher because age is a risk factor than your reference if you don't have it.
+
+Yeah. So high blood pressure in and of itself is additive.
+
+If you add on additional risk factors. Yeah. Depending on the risk factor, the risk goes up.
+
+Okay, so I think I've made the point here. I don't think I need to belabor this anymore.
+
+The main point that I want to get at is, um, there are part of this class you will learn about.
+
+Um, how patients present with cardiovascular disease and the pathophysiology involved.
+
+So I want to go through a typical case of a patient that presented.
+
+Um, with a series of disturbances that we will discuss.
+
+Many of the terms that you won't understand will be alien to you.
+
+We're going to discuss this case twice. First in the beginning of the class today, and then we'll discuss it at the end of the class.
+
+We'll try to do an analysis now. Given that we have really not much in the way of background other than pathology.
+
+And, and, uh, I think it's interesting to see the difference in terms of how you view the how you view the case.
+
+The beginning of the class, as opposed to how you view it at the end of the. So I'm going to begin with a history of the present illness.
+
+So all of you will take ICM. Yeah.
+
+All of you in. The HST program will take ikm.
+
+There are some people here who are not, but all of the HST students will. And in ICM you will interact with health care professionals.
+
+If you are in Memphis and if you are an MD student, you will, um, do the same.
+
+Some scenarios you will be the health care professional presenting to someone else.
+
+Presentations of patients happen in a particular format.
+
+The first part of that is the chief complaint.
+
+What they came in with and then the history of the present illness describes why the patient came into the hospital and what they presented.
+
+With. So this patient is an 85 year old male who presented to a suburban hospital emergency department.
+
+Complaining of chest discomfort. Shortness of breath. And sweating.
+
+Another word for sweating is dire for. His heart rate was 35 beats per minute.
+
+And his blood pressure was 75 over 40mm of mercury.
+
+So we talked about a normal blood pressure. What's a normal heart rate?
+
+I'm sorry. It was that. Yeah. So normal. Resting heart rate.
+
+60 to 100. So this is low.
+
+He has a prior history of heart disease. So this is not really specified.
+
+It's nonspecific. That's the most that you could get from the patient at the time.
+
+High blood pressure. Also notable also known is hypertension, diabetes and high cholesterol.
+
+So then he had an electrocardiogram done. Now.
+
+Electric car geography 101. So an electrocardiogram, you're measuring electric, um, the electrostatic surface potential on the skin.
+
+As a function of time. So electrons, the skin move around a lot.
+
+Conductance is. It's pretty. It's pretty conducted.
+
+Yeah. And they move around in response to what is happening in the heart.
+
+So you can think about the heart each time it pumps is moving around ions.
+
+Yeah. So let's say at some particular time. Time zero.
+
+In the heart. You have a positive charge right underneath the sternum.
+
+Right? Right in front of the heart, right underneath the sternum, because that's where the heart sits.
+
+Then you can have lots of negative charges. We call this on the skin.
+
+Over that positive charge grade. Let's say a time delta t now in the heart, you have a negative charge right underneath the sternum.
+
+Yeah. Those negative charges are going to move away.
+
+Yeah. So you can. So if I were, if I had a probe that can measure the electrostatic surface potential right on the chest.
+
+Right. I would see the change because of these movement of electrons.
+
+And I could infer the charge distribution on the underlying heart.
+
+Does that make sense? So by measuring the electrostatic surface potential.
+
+Something easily that we can do.
+
+By placing probes on pre-defined parts of the body, I can get a sense of the charge distribution, how charges are moving in the heart.
+
+That is clinical cardiology. Yeah.
+
+Now, the special sauce is that depending on where the electrodes are, you're getting different views.
+
+Of how the ions move around the heart. Yeah, and a typical electrocardiogram has 12 views.
+
+And these views are called leads. We will go through all of this in detail.
+
+But just to give you a heads up, this is lead one. The two.
+
+Three. Three more leads AVR, AVL, AVF.
+
+And it's six more lanes v1 v2 v3 before b5 v6.
+
+Yeah. So the way that this works is the machine starts recording the electrostatic surface potential at different points,
+
+and it has a linear combination of them and prints out the amplitude.
+
+On each of the leads. So here it has all of these data.
+
+It's like ten different places. Typically. That you measure the electrostatic surface potential and it uses some of them.
+
+There's a linear combination of some of them and prints out the result of that math here.
+
+Then it switches after about 2.5 seconds.
+
+Switches and puts out a linear combination of some other.
+
+Some of the group switches again. Prints out a linear combination of some other group switches and puts out a linear combination.
+
+Does that make sense? So it's all of these data from these ten different spots are being quoted simultaneously.
+
+But it only prints out information from some of them at each 2.5 minute increments.
+
+That's a standard electrocardiogram. Yeah. So all of these are simultaneous.
+
+All of these are simultaneous. All of these are similar. All of these are simultaneous.
+
+Yes. That is, it's doesn't have to all make sense.
+
+Now, this is just all a prelude. We'll talk about this in detail.
+
+We'll talk about the projections. How it works, the mathematics behind it, and exactly what the linear combinations are associated with.
+
+Yes. Nation. Yeah, it's a good point because these represent different directions.
+
+How do I say this?
+
+So the the the, um, you could model the ionic changes in the heart at any particular time as one net dipole in three dimensional space.
+
+All of these charges. It's a three dimensional structure. So you could create one dipole.
+
+Yeah. So you want to understand how that dipole changes with time.
+
+Yeah. So, um, you need two axes to do this, right?
+
+It'd be very hard to understand. Yeah.
+
+You can try to reduce this, reduce the dimensionality of this in a manner so that you can understand and map it back onto a three dimensional.
+
+Place. Um, so some of these give you information on one plane.
+
+So for example, all of these are in one plane.
+
+And all of these are projections in an orthogonal plane.
+
+It's all an attempt to get a three dimensional picture of how this dipole is moving with time.
+
+We need a few lectures to get into it, if it should all be transparent.
+
+But if you did them all at once, it'd be hard to know where it's moving in three dimensions.
+
+That that's that's the reason why to do it piecemeal in this way.
+
+There is a boundary constraint, I have to say, because you want to place the electrodes in places that are easily accessible.
+
+Yeah, because you could imagine. Why not just place them in places where you'd get.
+
+Right. You know these two axes, right? Right.
+
+That you could actually do this. I in one plane?
+
+Yeah. Yeah. But, um, do you really want to.
+
+But, you know, somebody comes in there ill. Do you want to get them to disrobe so you can put it all?
+
+Yeah. So the places where it's put is a boundary constraint, and you have to work with that.
+
+Does that make sense? Kind of. Yeah. There was another question.
+
+Yes, ma'am. You. This is one instantaneous picture over 10s.
+
+Yeah. Does that make sense? Yeah. Okay.
+
+So in addition to these 12 leads. You often in a in this electrocardiogram, you present data from just one.
+
+There's no switching here. So here, these lines mean this line.
+
+You switch from this lead and you take another view to another linear combination,
+
+this line to another linear combination, this and then another linear combination.
+
+This is just one particular lead. Each of these.
+
+You see these big spikes? These negative spikes here.
+
+This is all the same phenomena, just different views of it. This is all one heartbeat.
+
+All. One heart beat. Just different views. One heartbeat.
+
+Different views. These big things here. One heartbeat.
+
+When the ventricle contracts, the left ventricle contracts and it pumps blood out into the aorta.
+
+That's what this corresponds to. Yeah.
+
+Yes. So the y axis is in millivolts.
+
+It's a unit of, uh, potential energy. Uh, volts.
+
+Is that the potential energy per unit charge?
+
+Yeah. And, um, the direction of it does tell you something about where the net current dipole is oriented with respect to that lead.
+
+Yeah. So.
+
+Yeah. So. So part of this has to go with it. Um, roughly, yes.
+
+The reason why I'm, I'm hedging is because the definition definition of a lead is not the same as an electro.
+
+So this is a result of a linear combination of some of the electrodes.
+
+Yeah. So if the answer isn't well it's in the direction of that particular electrode.
+
+We did a little bit more math. I didn't want to say math.
+
+It's so simplistic. I'm maybe going to call it math to such an old group of scholars.
+
+We need to do some more stuff, right, to make this quantitative.
+
+Right. Yeah. Okay.
+
+So this pumping of the ventricle, each of those pumping up the ventricles.
+
+Yeah. Most notably the left ventricle. Now.
+
+I said that the heart rate was about 35 beats per minute.
+
+Yeah. That would be sad. Think.
+
+But I think that's what we said. Yeah. So I could in a way, if I want it to be a big pain in big.
+
+But yeah, I would ask you what's the paper speed.
+
+Yeah. Because this each of these corresponds to a beat.
+
+Including this. That's a B-2. It's a 10s long.
+
+And you can tell me approximately what the paper speed is, but I'm not going to do that.
+
+But I want the reason I mention that is because you could deduce the heart rate from this.
+
+If I told you the paper speed, I actually already did, right?
+
+So it was 10s and you could count this up. How many beats in 10s?
+
+We get the heart rate? Yeah. The bottom. It says on the board.
+
+Oh, yes. Yeah. But I think. Did you all see that?
+
+No. See? They didn't say anyway. Okay.
+
+So now we'll do this, and then we'll take a break because of coffee.
+
+Coffee's here. So this is contraction. When we talk about a heartbeat, that's really what we mean.
+
+Contraction of the left ventricle. Yeah.
+
+Because you feel your pulse. That's really what you're doing, right?
+
+Left ventricle pumps out to the carotid to the radial artery.
+
+And with each pulsation, you're feeling the beat of the left ventricle.
+
+Yeah, but. In pathology.
+
+I think you learned about how the heart beats. Because they're up.
+
+These are proportions of the heart. What are they called again? The atria.
+
+Yeah. How does that work? You did learn this in pathology, didn't you?
+
+The brick. Brick did tell you about the heart? Yeah. Yeah.
+
+Yes. Yeah. So how does that work?
+
+The atria and the ventricles. How do they. How do they beat? I'm going to call Professor Mitchell right now.
+
+Yes. What is your name? Keon. Excellent.
+
+That is exactly right. So. But there's a ventricle.
+
+But you. But there is atrial contraction before the ventricles.
+
+And in a normal electrocardiogram the atrial contraction is manifest here.
+
+So in a normal state atrial contraction precedes ventricular contraction.
+
+Yes. Yeah. So if I told you that each of these was ventricular contraction, you'd say,
+
+well, Colin, there's supposed to be something right before every ventricle.
+
+That corresponds to HL contraction. Yeah. So this egg has the red arrow sign.
+
+This is not a physiologic. This stuff is illogical. Yeah. This red arrow.
+
+Somebody drew this in. Yeah. And you know what this is?
+
+You know, this is denoting. P waves which correspond to the.
+
+Atrial contraction. So this.
+
+Something's wrong here. Yeah, because before every ventricular contraction, you should see a p wave.
+
+And after every p wave you should see a ventricular contraction.
+
+Yeah, right. P wave.
+
+Nothing. Oh, here's a contraction.
+
+P wave. Nothing. P wave. There's a ventricular contraction here.
+
+But you see how close this p wave is to here. And see how far away this is to hear.
+
+P wave. Nothing P wave. You see how far away this is from here?
+
+Yeah. So this is odd. Very very odd.
+
+So this is an example of complete heart block.
+
+The atria are beating. And if you time this out, this is a very regular regular rate.
+
+And the ventricles are beating at a very regular rate. And they don't see one another.
+
+They have divorced themselves of one another. Yeah.
+
+So that the atria doing whatever they want, the ventricles are doing whatever they want.
+
+And this is an abnormal state. Abnormal state. So this is.
+
+Sinus rhythm with complete heart block.
+
+Sinus rhythm because atria are beating. That's happening just like it's supposed to.
+
+Just as was articulated in a very, um. Uh, very erudite fashion.
+
+Previously, the atria contracts because the electrical impulses start at the sino atrial node,
+
+which is near the intersection of the superior vena cava in the right atrium.
+
+And the atria be. And I can.
+
+We'll know why I say that later on, but you can take my word for it for now.
+
+These are normal sinus beats. The problem here is a communication between the atria and the ventricles.
+
+That's gone. So the ventricles are doing their own thing.
+
+Atria are doing their own thing. So there are also changes.
+
+Showing signs of myocardial ischemia. These are the SD segments here.
+
+They're kind of downsloping. They don't look normal.
+
+We can infer that the heart's not getting enough blood, because when the heart doesn't get enough blood,
+
+the ionic channels, the currents associated in the heart are abnormal.
+
+Yeah. Why is that? Well, you can think about it.
+
+That the, uh, these, um. Some of these channels and their maintenance are ATP dependent.
+
+If the parts of the heart are not getting enough blood, ATP production is impaired.
+
+Yeah. And it manifests itself as electrical abnormalities that you could see on the electrocardiogram.
+
+And there's a few other things. Left axis deviation right by the branch block.
+
+The main thing I want to focus on is this, which I hope that is clear after this discussion,
+
+these other things we will talk about later on in the class.
+
+Okay. Let's take a five minute break now and we can get some coffee and we'll come back.
+
+Okay, let's get started. So.
+
+Yeah. So the upshot from this electrocardiogram that patient presents the heart rate is 35 beats per minute.
+
+And again, by the heart rate, we mean these impulses.
+
+I'm just going to keep going. Um, 35 beats per minute.
+
+Each of those represents the left ventricle. Yep.
+
+And then we talked about that. Normally there are atrial contractions precede the ventricular contractions in an orderly fashion.
+
+So before every one of these peaks I'm going to refer to this as a curious complex.
+
+We'll talk about that later. Should be preceded by a p wave.
+
+And after every P wave should be a complex.
+
+This is not the case here. What we do see is that the P waves march out and have their own regular rhythm.
+
+And then these spikes of QRS complexes have their own regular rhythm and these rhythms.
+
+So the rates rather are different or different. So that's why this is complete heart block.
+
+There is a block between communication of the atria and the ventricles that we can deduce from the service.
+
+Yes. How do you diagnose?
+
+Yeah. Good. Great. Great question, great question. So the formal definition of TEC cardio is a heart rate greater than 100.
+
+Yeah. So so you can see tachycardia. Right.
+
+Just based on the heart rate. It doesn't really say about the rhythm.
+
+So I want to distinguish between the rate and the rhythm.
+
+Tachycardia as a word is about the rate. What's your first name?
+
+Jackie, it's a great question. So the technicality it's a it's a statement about the rate.
+
+What? I think you're referring to a sinus rhythm. Right.
+
+Sinus tachycardia. So that's when the heart rate is greater than 100 beats per minute.
+
+So each of these. Would be 100 beats per minute and 10s you'd see right coming in ten, ten, ten.
+
+Yeah. Okay. Right. You know what I mean? Right.
+
+So, um, but you would, um. Before each of these, you'd see a P wave.
+
+There'd be none of this other stuff. A wave like before. None of this other stuff.
+
+So it's being driven by the sinus node. And there was an air contraction.
+
+Atrial radius 100 or greater. And the ventricular rate is 100 or greater.
+
+Does that make sense? Please interrupt me with any questions.
+
+Yes. Or. Yes.
+
+Yes. That's right. That's right. So the ventricular rate corresponds to the pulse.
+
+So that is what we refer to as the heart rate. In describing what you see on an electrocardiogram, you're describing more.
+
+Describing sort of the internal dynamics of the heart. So there's an atrial in of a tricolor, right.
+
+Yeah. And they may not be the same. Yep.
+
+So the verbiage that goes with the description of the electrocardiogram,
+
+it's much more than just the heart rate which is typically just the left ventricular rate.
+
+Makes sense. There's another question. Yeah. So, um.
+
+How did the. So they.
+
+Fact. So great.
+
+Great question. So what we will learn. Is that each portion of the heart has its own pacemaker.
+
+So the pacemaker that dominates is the single atrial node.
+
+Which causes contraction of the atria. If that doesn't work, then the next fastest pacemaker takes over.
+
+So if there's no communication between the atria and the ventricle.
+
+Yeah. Then the ventricle itself has its own set of pacemaker cells.
+
+Some of them reside in the AV node. Gives a certain rate.
+
+If the AV node fails, then there are.
+
+There are other pacemaker cells that are low that are lower down in the circuit.
+
+So that's that makes sense. And it's an evolutionary response.
+
+Right. Because if you didn't, you would die. Yeah.
+
+So the ventricle here is functioning because it has its own set of pacemaker cells that control the heart rate.
+
+When it's not able to see any signals from above. Uh.
+
+The questions. Yes, please. Yes.
+
+And then snap a close. No, no, it's not good.
+
+You got to tell me how to do it correctly. You got to tell me how to do it correctly.
+
+I know it's spelt, but did you have to correct me when I'm wrong?
+
+Because I will get it correct. Apologies. Um, so the, uh.
+
+Right in a normal state, right.
+
+The impulse begins in the atria, the sign gets propagated to the atria, then gets conducted down to the ventricles and the ventricles.
+
+Wait until they see that impulse from above.
+
+You can think about this as a question about time constants. Yeah.
+
+So the ventricular pacemaker cells have a long time constant.
+
+So something else arrives. In between then.
+
+Then it'll conduct. Yeah. But if the time is is very long and it doesn't see anything, then it will fire.
+
+Does that make sense? Yes. Other other questions.
+
+Okay. We will have plenty of time to go over this again and again as as, um, as a course goes on.
+
+But the upshot here. Sick patient, low heart rate.
+
+We understand why the heart rate is low now. Because there is a problem with communication from the atria to the ventricles.
+
+Um, yeah. So this would be if if there was a QRS after every P, the heart rate would be like 100, 100 beats per minute.
+
+So. So if if the conduction was normal, the atria are beating fast because they want.
+
+Yeah. They want the, um they want the heart to beat quickly.
+
+They want the heart rate to be fast because the blood pressure is low. And it's an attempt to keep the blood pressure normal.
+
+It's a compensatory response. But the problem is the ventricles don't see any of this, which is why the heart rate is so low.
+
+Yeah. Okay.
+
+So management, how is this patient managed? So the ventricles are not seeing enough electrical impulses coming from the atria.
+
+So what can we do? Well, maybe. Can we supply electrical impulses?
+
+Give it to the ventricle. That's what. That's what this is. This was an attempt at, um, external pacing.
+
+So these. Are pads placed on the chest and they conduct current between them.
+
+Right. So the goal is you administer current passes through the heart.
+
+Yeah. Because the heart's in the pathway between these two.
+
+And it's. And you do this at a regular, um, rate, maybe 100 impulses, um, per minute.
+
+Yeah. And to get the heart rate up. Yeah.
+
+Now, this is kind of painful, right? Because you're actually getting shocked.
+
+100 times per minute. That's not a lot of voltage, but it's, you know, something a little bit uncomfortable.
+
+So you do this typically when somebody is in extremis, right.
+
+When they are very ill. And you and you want to get the heart rate up.
+
+Now, I have to say, in my career, which is, uh, over 30 years or so, I have, I can't remember the number of times I've seen this work.
+
+This almost never works. I don't even go to this anymore.
+
+I think I spoke to usher Tatro, who's an electrophysiologist who has, you know, this is what her bread and butter is.
+
+And she claims that she has seen this work a few times. I'm not sure I believe her, but we'll have that fight when she lectures.
+
+Yes. Um. Yeah, right.
+
+Yes. So this does not fix the problem. This does not fix the immediate.
+
+Uh, this does not fix the the causal insult that led to this.
+
+That's not the purpose of this. The blood pressure 75 of a 40.
+
+And the heart rate is 35. Your goal at that point in time is to get the blood pressure up.
+
+And the patient needs a higher heart rate. And so this is an intervention to increase the heart rate.
+
+And you're right in a sense, whether it's successful or not depends on what the causal insult is.
+
+But the immediate thing is to get the heart is to get the blood pressure up. And and you do that by getting the heart rate up.
+
+You may not. There's no guarantee that this will work. If the muscles are dead.
+
+Right. And this is not going to work.
+
+Yeah, but in terms of the things that you have in your tool kit, in an emergency situation, the task is to get the heart rate up.
+
+You still have to deal with the causal insult, right?
+
+But let's say this person needs a patient needs a procedure that takes time.
+
+Yeah, and you're trying to keep them alive. You can get to that point where you can do, um, a definitive procedure to fix the problem.
+
+Does that make sense? I think Kate had. Yes.
+
+Yeah. Um, I think so. I. Given situation.
+
+The priority priorities. Uh.
+
+It's a it's a good question. Right. So you could envision scenarios where this is in the long term.
+
+Um, may be harmful, but if this patient is dead on the way to the cath lab en route.
+
+Yeah.
+
+So there is a series of, uh, when somebody is in extremis, we have a series of things that we it's, uh, uh, you know, basic life support for ACLs,
+
+advanced cardiac life support, and the, the that's an algorithm that that is, uh, a list of interventions that you do given situations like this.
+
+It's precisely to prevent people from thinking about it.
+
+And to go directly to interventions that will fix the short term problem, get the blood pressure up, get the heart rate up.
+
+So part of ACLs, somebody has a low heart rate.
+
+Yeah. And it's hypertensive pacing pads. Right.
+
+So the intention of the ACLs algorithm so that anybody could use it doesn't have to know anything about pathophysiology.
+
+And it's precisely in these scenarios where it's life or death.
+
+Time is of the essence. And you're trying to get a blood pressure or a heart rate back to where it's supposed to be.
+
+That's not to say that at the end of the day, whether this has any long term sequelae, but that's a second order consideration.
+
+Does that make sense? I know you. Yes.
+
+So so there are so there are, um, devices and we'll, we'll touch on this later on.
+
+But the the problem is it takes time to do that because you need a specialist to put that in.
+
+So there are devices that you could put in that would pump without actually doing what you say.
+
+But then this patient has to go to the cath lab. They need an interventional cardiologist who is there to be able to put it.
+
+So that is something definitely. But it's not a first order thing.
+
+First order of things, a boundary constraint, constraints. They have to be easy and fast.
+
+You don't need a specialist to do. Does that make sense?
+
+Not sure. Okay. Other questions?
+
+Yeah. Please. Uh, no. Part of that.
+
+Yeah. So it's a great it's a great question. And I think it's most likely to cause an arrhythmia if the shock is not well timed with a natural rhythm.
+
+There are periods of the cardiac cycle where the heart is most vulnerable to developing arrhythmia.
+
+And if you deliver a shock on that point. Absolutely. So these, um, pace is timed to ensure that those vulnerable periods are protected.
+
+So as much as one can, you try to control for the fact that you're not going to, um, um, cause an arrhythmia with pacing patterns,
+
+and it's typically not that much of a problem because a patient's heart rate is so low. You have lots of time.
+
+You know, in between this, what I'm saying in which you can deliver to deliver these impulses.
+
+Other questions. No, please interrupt me if any others.
+
+Um. Come along. So again, um, pacing pads almost never work.
+
+Never work. But it's eclgs and it's what we do.
+
+So instead of more definitive therapy. Is a trans feeling venous pacing wise, we put the pads on.
+
+You try. It doesn't work. Now you have to do a procedure. So this is not something that anybody can do.
+
+But this is the sort of thing that a first year cardiology fellow could do.
+
+Yeah. You just need a suite in which you can take do this under fluoroscopy.
+
+Sometimes you can do it blind, but typically it's on the fluoroscopy. You go in through a major vessel.
+
+In this case it's the internal jugular or the brachial vein.
+
+And you thread a catheter. It's usually through the internal jugular.
+
+It's just easier easier to get to into superior vena cava.
+
+Right atrium and into the right ventricle.
+
+And it gets stuck there in the apex of the right ventricle, and you deliver electrical impulses directly to the heart.
+
+Very high success rate. If you get into the right place.
+
+So then and in addition to this, give I.V. medications.
+
+To try to increase the blood pressure.
+
+As has been stated and, uh, intimated or explicitly stated is that some of these medications can make the heart worse.
+
+They make the heart work more and the heart is already struggling. But again, goal here gotta get blood to the brain and the other vital organs.
+
+Yes, Jackie. Well, I knew somebody was going to ask me that.
+
+I knew somebody was going to ask me that. That's a good question. Actually, I don't know.
+
+The tip is metal. The material is. I'm not quite sure.
+
+I'll have to get back to you on that. Absolutely. Mhm.
+
+It's a great question. Yeah. So this is why this is typically done under fluoroscopy.
+
+So you want to take images and you can visualize the um the catheter as it goes into the heart.
+
+The area that's the most prone is sort of the anterior wall of the right ventricle cause it's thin.
+
+Yeah. So you just want this to go in and to make some contact.
+
+With a right ventricular apex. It's not screwed in.
+
+So one of the problems with this is if you move around, it'll come out in more capture.
+
+These things almost never stay in for a long period of time because they're not secured to the right ventricle.
+
+Yeah. If you move around, it'll come loose and it has to be readjusted or it won't capture and and so forth.
+
+Yeah. Please. It's a good question.
+
+It's a good question. Typically, these things are not all here for a long time.
+
+And so we don't um, and the coating on the, on the catheter itself is resistant to um, to um, to clotting.
+
+So we typically don't typically don't. Surprising, huh?
+
+Uh oh. Did I say that something bad?
+
+Yeah. Um, I will find out, and I will.
+
+I will let you know, I promise. Promise. That is my my bad.
+
+Okay. Um. Other questions. Yes.
+
+Okay. So. Now, given that the patient required a high level of care, there were sent to some other local hospital we call non Mass General Southwest.
+
+And. But while enroute to this place, that should be here.
+
+Um, developed something called pulseless for tricolor tachycardia and lost consciousness.
+
+This is their electrocardiogram. Compare this.
+
+To the egg. So before this was a normal contraction.
+
+Of the left ventricle. This.
+
+Very different, right? This is ventricular tachycardia.
+
+Each of these complexes represents a beat of the ventricle.
+
+Very very fast. Very very fast.
+
+Very very abnormal. Here the beats are originating, originating not from the normal conduction system but from the ventricular myocytes itself.
+
+So there's a there is a small is a, uh, a small region of bias sites that are electrically active.
+
+This can happen in the setting of things like myocardial ischemia.
+
+And they start to beat on their own at a very fast rate, and a beating so fast that the ventricle doesn't have enough time to fill.
+
+So each pump. Brings out a very little amount of blood, so you can't feel a pulse.
+
+Now if you have a normal heart. And you have a ventricular rate of 210.
+
+You'll actually probably be fine.
+
+I bet some individuals in this room have gotten their heart rate up to 200 before and in some in some settings, and you're fine.
+
+But if you have a sick heart, an abnormal heart, like one that is ischemic,
+
+so that mechanical properties of the heart are different than a normal state, this is can be fatal.
+
+No pulse that producing anything. So then, uh, sorry, this was an amalgamation of different cases.
+
+So I've picked up all of the stuff that's getting mixed up. Yes. Kyle.
+
+Yeah. So I guess in the in the context of. Part it is.
+
+Yeah. It's good.
+
+That's a good question. Good question. Here. I have no idea what the atria are doing, and the ventricles don't care.
+
+The atria could be beating normally. The atria could be fib relating.
+
+You know, it could be tech, it could be tachycardic from a different site.
+
+There's no information contained here about the HSA.
+
+I am an authority agnostic, and maybe that's probably the appropriate word as to what the diagnosis of the atrial rhythm is.
+
+Yeah. Okay.
+
+Upon arrival to the hospital, this patient was taken immediately to the categorization lab where they had a catheter based car.
+
+During Anjum, you could tell I've merged two cases here. Um, so they had a they had a cardiac catheterization.
+
+Because this is a case that is very concerning for ischemia.
+
+So that means that there are regions of the heart that are not being supplied sufficient blood, not getting enough oxygen.
+
+And so they're sick. You say how the your you're not supplying the conduction system with enough oxygen.
+
+So you have heart block. You're not supplying the myocardium with enough oxygen, so it's not pumping correctly, so the blood pressure's low.
+
+This is kind of one unifying diagnosis that explains it.
+
+And moreover it's a diagnosis that we could potentially fix.
+
+So if you visualized the vessels that feed the heart, you could see if they're normal and if they're blockages, they're.
+
+So what is a cardiac catheterization? So, um, this is a procedure where you thread a catheter up into the aorta to the heart,
+
+and you inject dye in the vessels that feed the heart, and you're taking pictures.
+
+So this is also done with fluoroscopy. And so you can determine whether there are blockages in those vessels.
+
+So typically we go through the wrist at most in 2026 radial artery.
+
+And then we thread a thin catheter. Don't ask him what material this is made of.
+
+I won't know but I'll know next time. Um goes up to the heart here.
+
+Backwards into the aorta. Ascending aorta.
+
+Yeah, you can all see this is one route we used to go through the groin to do this.
+
+But, um, nowadays it mainly goes through the, through the radial artery, through the arm.
+
+And then when you're up into the aorta, you can place the catheter, you can position the catheter.
+
+This is that same catheter. So that it, um, enters.
+
+One of the vessels that feeds the heart. You can inject, dye and take pictures.
+
+Yeah. So this is called a catheter based coronary angiogram.
+
+Do you remember the vessels that feed the heart? Yeah.
+
+This is not. Yeah. Right. Right, right. Coronary artery.
+
+That's one of them. This applies the right ventricle typically, and the inferior wall of the left ventricle and 80% of, uh, 80% of people.
+
+Then there is another vessel here. That's.
+
+What is that? Left coronary. Let's call it the left main.
+
+Left main. The left main divides into two vessels.
+
+And. The conflicts. So I don't expect everybody to know this.
+
+But just just for reference there. The right coronary artery.
+
+And the left main are the two big vessels that come off of the aorta.
+
+Left main branches into the left anterior descending.
+
+And then this one you can see goes around the back here. And the left circumflex.
+
+Those are the main vessels that feed the heart and in patients that have large heart attacks.
+
+Right. Like that in a presentation akin to what this patient presented with,
+
+you worry that there are blockages in these main vessels, because that's the thing that will kill this patient.
+
+Yep. So let's take a look at some images. Okay.
+
+Okay. Good. So here this is an angiogram.
+
+This is the right coronary artery. I'm a patient.
+
+This is normal. See? It's beautiful. You could see it's smooth.
+
+Right? This is the dye all throughout the vessel. Before the injection, you don't see much of anything.
+
+And then after the injection, you see the outline of the vessel. And this is what it look like for this patient.
+
+Now you can tell the different projections, but I don't think you have to just stretch of the imagination to say that this is different than this.
+
+You see all of this here? You could see. Let me just see if I can pause this at the right spot.
+
+I goes in through here. You don't see any dye here? Very little.
+
+Very little here. You don't see any dye because it's stuffed. Taking the place of the dye.
+
+There's something there. Right. That's not radio.
+
+Opaque blockage and a little trickle of stuff here.
+
+Long blockage here. And you see more of the dye down here.
+
+And there's even a little bit of blockage down here. So this is a stenosis significance to gnosis in the right coronary artery.
+
+Now they had their left circulation. So here.
+
+So that was the right coronary artery. And I'm just showing a shot here of a normal left circulation.
+
+Left main. Yeah, this is the left circumflex.
+
+Believe it or not, this is a branch of the left circumflex and this is the left anterior descending.
+
+This, this is how it looks like in this particular projection. And let's see what it looks like for this patient.
+
+Anybody see anything abnormal? Anybody.
+
+So I want you to show me. I want you to show me where the was that you call.
+
+Show me where the blockages. Yes.
+
+No. Not yet. Yeah. Right there. So. But see that? You see that?
+
+Thank you. But that's the. That's the left anterior descending.
+
+Yeah, yeah. This is, uh, in the cath lab.
+
+This is the background from the fluoroscopy. Yeah. So let me just use a bit more.
+
+Okay. Uh. The overlaid. Now, you kind of see it's challenging because of some vessels overlaid here.
+
+But do you see this tight, this, this little trickle here?
+
+Because there's a big blockage. In the left anterior descending.
+
+Then, did you? That was it. Yeah. Oh. You okay? I thought it was challenging.
+
+Yeah, yeah. Charles. Just like this. Can you see the dome?
+
+Yes. You can. Yeah. So by dominance, you mean where the.
+
+The posterior descending artery comes off of.
+
+Right. So we'll talk about this at length. So the, um, there is a vessel that supplies the inferior wall.
+
+And I understand why you ask this. Because at heart block you. Is that what you're asking?
+
+No. Okay. Okay. Yeah. There's a there's a vessel that supplies the inferior wall of the left ventricle.
+
+It's called the posterior descending artery that comes off of the right corner artery.
+
+And, um, in, um, 80% of patients, uh, this patient was right dominant.
+
+Uh, so there's a big blockage here. So what can we do about this?
+
+Now. And so this. Is, uh, uh, fixing the vessel.
+
+So before. So before. Before.
+
+Do you see this? This wire. Here and this wire here.
+
+So this is a wire going down the left anterior descending.
+
+This is going down. The circumflex is another view. So it's twisted.
+
+So it's not analogous to the last one. So from this in this wire you could thread over a balloon.
+
+Make sure this balloon, it's deflated, stretches across the blockage.
+
+Blow up the balloon and open up the blockage. It's an angioplasty.
+
+And then you can put a stent there to help keep it open. And that's what happened in this.
+
+So that's the start of the case and that's the end of the case.
+
+You see how it's opened up because after it was, uh, angioplasty and.
+
+All right? Yes, Jackie? Yes.
+
+There are self expanding states. Yeah.
+
+The, um, the the issue is with stents is they are patency and their success rate is, is a is a strong function of whether it's fully open.
+
+It has to be well opposed to the vessel wall. Does that make sense.
+
+And so you typically want to high pressure inflation.
+
+So even if it were self expanding which there are steps like that you want to go in with another balloon
+
+afterwards blow it up under high pressure to really push that stent into the into the wall of the vessel.
+
+So does that make sense? So most of the states that are used for coronary intervention are not self self expanding,
+
+that are stents that are used in other places in the body, like the peripheral vasculature that are.
+
+Okay. So. So this patient had an led us to gnosis that was fixed.
+
+They had to have bad RCA disease. Um, but that was not fixed.
+
+Uh. Sorry. I don't know how to do these lights. So they had, um.
+
+Bad RCA disease that wasn't fixed,
+
+but it was believed that the left anterior descending blockage was the one that was really responsible for this presentation.
+
+So doing well, but the post procedure course was followed by reperfusion ventricular tachycardia.
+
+So this is all true. This is all real.
+
+So after opening the vessel, you think you're done. Do you think you're fixed?
+
+But then you have this area of the myocardium that was, um, had was oxygen deplete.
+
+Yeah. Ischemic. And then you flood it with oxygen.
+
+So what happens? I'm sorry.
+
+Yeah. And what is that? What's the etiology of that? Um, I think a.
+
+Yeah, right. It's got a lot of free radical formation. Right?
+
+And that causes more damage. And can result in abnormal a rhythm arrhythmia, a rhythm genic state.
+
+It's just trying to set a rhythm anyway. Yeah.
+
+And, uh, leading in ventricular tachycardia. Resulting in ventricular tachycardia.
+
+So then this patient was shocked. Into a sinus rhythm.
+
+So this is different than the pads for just pacing. In this case you do defibrillation.
+
+And um,
+
+so the fibrillation is the mechanism in that way that works as you shock the heart and you get rid of all electrical impulses across the heart.
+
+So you stop. So essentially you make somebody a systolic. Right.
+
+And this gives the normal conduction system a chance to reset.
+
+Yeah. So defibrillation. Get rid of the ventricular tachycardia.
+
+Took it back to the cath lab. She had this individual had, um, instant thrombosis.
+
+So the stent is metal. Metal likes to attract platelets.
+
+There are things that we do to try to mitigate that, but it happens nonetheless. And had it restent it good.
+
+Andrew. Graphic results. And then she was.
+
+Then this individual was transferred to the coroner care unit afterwards to be, uh, for um.
+
+Uh, to be monitored. So physical exam patient was intubated on a breathing machine, on a ventilator, but alert and oriented, following commands.
+
+Blood pressure. Lot better. 110 over 53.
+
+Heart rate 81. Normal. Sinus rhythm.
+
+Normal. Heart block. O2 saturation 96% normal.
+
+I'm not telling you what this is. I say it's normal, but she's into.
+
+This person is intubated and so was getting some supplemental oxygen.
+
+So 96 is normal, but we don't really know how much oxygen she's on. This person's probably still, um, hypoxic.
+
+Lungs sounded good anteriorly.
+
+You can't have this patient sit up there on a breathing machine right there laying back.
+
+You can only do the exam in front. And we'll go through all of this. This will be part of the class as well.
+
+The normal physical exam. For, uh, normal cardiovascular.
+
+And we'll do some of the pulmonary exam as well. How many people are taking respiratory in addition to this?
+
+Thanks. Heart exam.
+
+Regular rhythm. Normal first and second heart sounds.
+
+We'll go through this. No murmurs. This patient had jugular venous distension.
+
+So what does that mean? Look at the neck veins. The internal jugular feeds directly into the right atrium.
+
+There are no valves in the internal jugular vein.
+
+So if the right atrial pressures are high, you can see that as distention of the internal jugular vein.
+
+But it's a measure of the right atrial pressure. And it was high.
+
+No carotid bruises. Listening to the carotid. No signs of blockages.
+
+Their abdomen soft, tender, undescended from a vowel.
+
+Sounds no swelling. This patient had an intra aortic balloon pump.
+
+In place. So we had, um, some questions about mechanical devices that I used to support this patient.
+
+Yeah. And so I want to talk a little bit just about actually.
+
+What comes next. Sorry. Let's.
+
+We'll come back to that incredible and plump in a minute. Going on with course on day two.
+
+She developed an OTA requirement, so she needed much more oxygen to maintain her oxygen saturations above 90%.
+
+Physical exams change. Now there are crackles in the lung basis and worsening jugular venous distention.
+
+Right atrial pressures are going up. Before the lungs were clear.
+
+Now the crackles. Yeah. What does that mean? Crackles?
+
+Yes. A stuff that's in the lungs that shouldn't be there. Yeah.
+
+Crackles typically in the setting means that there's fluid in the lungs.
+
+So right atrial pressures are up. Fluid has developed in the lungs and that happens in patients that have poor pump function.
+
+So if you're the, um, oxygenated blood from the lungs returns to the left atrium to the pulmonary veins.
+
+Yeah. There are no valves in the pulmonary vein. So what happens when the left atrial pressure increases?
+
+I'm sorry. Increase in possession of pulmonary veins.
+
+Increase pressure in the pulmonary vasculature and you could get fluid.
+
+From the high hydrostatic pressure in the pulmonary vasculature that goes out into the lung space.
+
+We're going to go through all of this and get all of this in detail. Um, we're doing all of this quickly.
+
+I don't expect the information transfer from this discussion to be high.
+
+I'm just trying to give a sense of the type of things that we've got to, that we're going to cover and talk about in this class.
+
+I don't expect you to absorb all of this now. But I want you to sort of understand how you can think about these things in a very simple way.
+
+So the heart is a simple organ. Blood drains from the lungs into the left atrium.
+
+Why would the crackles of the heart's not functioning? The pressures in the left side of the heart of going up?
+
+I can, you know, take this argument backward. The lungs drain into the left side.
+
+So there's a problem with the left sided pressure is going to be problem in the lungs. Yeah.
+
+Right side of the heart pumps to the lungs. That's problems in the lungs and the pressures.
+
+And it's got to affect the right side because that would have to pump against the higher pressure, right atrial pressure.
+
+So you can reason very in a very cogent and logical way as to how an insult and
+
+the left ventricle caused by ischemia is a manifests itself in all of this.
+
+You don't need to memorize anything other than just the normal anatomy of the heart.
+
+And you could reason through this entire case right ischemia, left ventricular dysfunction,
+
+elevated left sided pressures, pulmonary vascular pressures go up.
+
+The right side has to work harder. The right side pressures go up.
+
+Right atrial pressure goes up. And you can do this all with very with no memorization.
+
+Yeah. Aside from the simple anatomical things that we've already discussed.
+
+It makes sense. Okay, so now a right heart catheterization was done to estimate the pressures and our cardiac output.
+
+We from all of this, we're surmising that yes, the left side of pressures are elevated.
+
+So I want to actually measure the left sided pressures in the heart.
+
+And that's another procedure called a right heart catheterization where you're going to oh, I'm taking up too much time.
+
+Yeah. Oh I do. I thought you okay?
+
+Sounds good. All right, so here, this is, uh, mechanism where you put a catheter into the heart.
+
+On the other end of the catheter is a pressure transducer.
+
+And you can measure pressures in different chambers of the heart. Don't ask me about.
+
+The catheter is made up. Right. So in the past.
+
+When we were talking about the transvenous pacing, we went in through the internal jugular.
+
+We're going to do the same here. You're going through the internal jugular.
+
+Spread this catheter down into the right atrium, right ventricle out into the pulmonary artery.
+
+Yeah. So you could easily measure the right atrial pressures because I can put it in here.
+
+Stop. Get a pressure reading. I can go to the right ventricle.
+
+Stop. Get a pressure reading.
+
+I can go into the pulmonary artery, stop at a pressure reading so I can get pressure readings at each of those, each of those regions.
+
+Yeah. Okay, now, on the tip of this catheter.
+
+Do you see that black dot? Yeah, that's a balloon.
+
+Yeah. So this catheter gets thread out, the balloon is up,
+
+and after a while it can't go any further because the size of the vessel is smaller than the diameter of the balloon.
+
+Yeah, and I can make a pressure reading. Here.
+
+So I can measure right atrium, right ventricle, pulmonary artery.
+
+And I can I can also make a pressure reading at this point where this catheter is just gone as far as it can,
+
+because the diameter I'm at a point with the diameter of the vessel is smaller.
+
+What does that reading correspond to? Yeah.
+
+Are you sure? Sure. Why?
+
+Why that corresponds to left. Yeah. That's the name.
+
+Yeah. Why does it correspond to the left atrium? Excellent.
+
+That is correct. Excellent. So here this kind of depicts what was said.
+
+What was said, what Charles just articulated. So here this catheter goes into the right atrium right ventricle.
+
+And then when the balloon is is stopped here there's no flow distal to the distal to the catheter.
+
+That can't be right because that's the whole purpose that balloon stops flow.
+
+That makes sense. So there is no flow between the tip of the catheter.
+
+This blood goes into the lungs and empties in the left atrium.
+
+So I could draw a line from here to here in which there is no flow.
+
+So the reading. When the catheter is in this position is an estimate of the left atrial pressure.
+
+Does that make sense? Yes, sir. Yes.
+
+So so this is so right. So this is true in most patients.
+
+In most cases, there are scenarios where this is not true. If you have longstanding lung disease and pulmonary hypertension,
+
+where the vessels in the in the lung are very, very small, this this this breaks down.
+
+This might not be true, but in most patients I'm excluding that in a few other a few other scenarios.
+
+This is a this is a reliable estimate of the left atrial. So it's not 100% correct because as you say, I haven't said anything about the lungs.
+
+You can imagine if that all of this were blocked. So there was no communication between here and the lungs.
+
+Yeah. That it wouldn't be a measure. Right.
+
+So there's an assumption here that you have free flow in principle between the tip of the catheter and left atrium.
+
+Does that make sense? So the point being that with this procedure, I can measure right sided pressures right here.
+
+Right ventricle I can measure pressures in the pulmonary artery. But I can also get an estimate of what's going on in the left side of the heart.
+
+One of the things I'm hoping and I've, I've been very, you know, and this is, uh,
+
+typified by some of the questions that I'm getting is a mix of individuals here.
+
+And I hope that some of the technologies that we talk about throughout this class
+
+will spur ideas for people to think differently and to think about unmet needs.
+
+That's the HST ethos. Yeah.
+
+Now, while you laughed, laughed what?
+
+I said, okay. Well, it was said with all sincerity, but but yes, yes, I get it right.
+
+So. Yes, sorry I was. Yes.
+
+Right? Yes. Yes. Would. So.
+
+So what interferes with this is actually the vessels themselves.
+
+If the vessels are normal, it's a reliable measure. You need disease in the vessels.
+
+So if you have if you have pulmonary hypertension where the vessels are abnormal.
+
+And those vessels are very small or very high resistance, then this may break down.
+
+But as long as the vessels are okay, it's still good.
+
+So it's not the lung itself, it's the vasculature that determines whether this is a reliable measure or not.
+
+Does that make sense? All right.
+
+And, um. Yes. So let's see. And let's just take this in a normal state.
+
+So this is a normal person. Catheter goes into the right atrium.
+
+And this is what the pressure tracing looks like. We'll talk about this. It has a very distinctive shape as a wave.
+
+Wave. We'll discuss all of that. But this is what the pressures typically are.
+
+Mean pressure in the right atrium. It's typically about five millimeters of mercury.
+
+Then in the right ventricle, the pressure profile is very different.
+
+Yeah. Valve is closed. Pressure increases much more.
+
+And what it is here mean the RV pressure. I'm sorry. It's typically 25 over five millimeters of mercury.
+
+Don't please don't talk about a mean, um, right ventricular pressure.
+
+Pulmonary arterial pressure. It's typically 25 over ten with a mean of 15.
+
+And by mean, I mean you, you know, you have to integrate over this for one beat, right?
+
+Take its average. That's the definition of a mean of a. Of a of a function.
+
+And then in the wedge position. This is a typical tracing of what it looks like.
+
+And the mean. Right atrial pressure is typically between 5 and 15mm of mercury.
+
+Okay. I have some other values for that and we'll just skip over this.
+
+So in this patient these were the numbers.
+
+The right atrial pressure was ten millimeters of mercury. Right ventricle pressure is 45 over 80.
+
+PA was 45 over 30. Very, very high.
+
+And the mean wedge. Left age of pressure was 28mm of mercury.
+
+Cardiac index is 1.8l per minute.
+
+This is a measure of the cardiac output, which you can also get from this catheter.
+
+And it's just too involved to get into it. Um, this but this is something that.
+
+Professor will opine about later on.
+
+So in addition to the pressures, you could get an estimate of the cardiac output, the liters per minute that the blood produces to supply to the body.
+
+Yeah. And, um. No.
+
+And normally it's. It's normalized by the body surface area.
+
+That's where this meter square comes. Normal cardiac index.
+
+Again, liters per minute divided by the body surface area is about 2.8 above 2.8l per minute per meter square.
+
+So this is low. Heart function is impaired, not producing enough blood.
+
+Way below the normal state. Left atrial pressures are high and all of the preceding pressures are elevated as well.
+
+So the, uh, right hard categorization revealed evidence of severe.
+
+A serious impairment of our heart as a pump. And impella was placed to provide mechanical assistance to the left ventricle.
+
+Kate, who was who asked me about this was Kate.
+
+Were you? No, no, it was Eric. Somebody asked me about some mechanicals.
+
+Yeah, it was you, right? Oh, I'm so sorry.
+
+I've been calling you Kate, all of this time. I know, I know it's Catherine.
+
+I know, I thought I thought you'd like to be called Kate. Apologies. I am so sorry.
+
+I will not do it again. Um. So, um, my wife spells her name the same way that you do.
+
+And she likes to be called Kate. So that's what I think, that that is what I think.
+
+That is the thing that was in my mind. So apologies. Um, I just want to show you it's not intentional.
+
+So? So an impella was placed to provide mechanical assistance to her.
+
+Left to her left ventricle. Um, and an IV drug was started to increase her blood pressure.
+
+So. And Impella is one of these mechanical devices.
+
+That actually, um, pumps for the left ventricle.
+
+Yeah. And how does it work? So pump function is impaired because a pump functions and the pressures are high.
+
+Yeah. How can you impair. How can you improve the cardiac output?
+
+So this is a device typically goes into the groin back up into the aorta and it goes into the left ventricle.
+
+And there's an axial pump here. So it literally just sucks up blood from the left ventricle and supplies it to the aorta.
+
+Yeah. So it just sits there, goes across the LRT valve.
+
+Yep. He has a pump motor.
+
+An inlet area. This is a pigtail catheter. That's. Sure.
+
+This pigtail catheter is gone and the pump is here.
+
+And it just sucks up blood and puts it into the aorta. So it sort of takes care of the pumping action.
+
+Action of the heart. There are other devices that can help with, uh, left ventricular function.
+
+And the other one was an energetic balloon popped the impellers relatively new.
+
+The balloon pump has been around for much, much longer.
+
+So in an inter aortic balloon pump. You go in again through the green.
+
+This. You don't do the radial, not the goes in. Typically, the femoral artery goes up to the heart.
+
+And it ends right at the aortic arch.
+
+And how does it work? Whereas the impella actually sucks blood out of the, um, left ventricle and pumps it into the aorta.
+
+This device. Has two different states and systole when the heart is pumping.
+
+There's a balloon here that's deflated, so the aorta is unimpeded.
+
+Flow can go there in diastole. When the heart is resting, it inflates and excludes blood.
+
+So with each beat deflates, inflates, deflates, inflates.
+
+Yeah. When it is in diastole and it's inflated.
+
+Yep. And then the heart starting to pump. It suddenly contracts.
+
+So you create a vacuum. And so it essentially sucks blood out of the left ventricle.
+
+So the other one actually is a pump that goes into the left ventricle and pumps blood out.
+
+This sucks blood out of the left ventricle by rapidly, um, collapsing when the heart starts to beat.
+
+Make sense? Moreover. In diastole.
+
+When this balloon is fully inflated, the pressure in this ascending order is higher, right?
+
+And the vessels that feed the heart come off of the ascending aorta, so it improves blood flow to the to the heart in diastole.
+
+And it relieves the heart, makes it easier to pump incessantly by deflating.
+
+So you can we can take a look at the pressure tracings with a now with when the balloon pump is on and off.
+
+But I think the central point is here. We're running out of time. So I just want to make sure.
+
+So on day three, blood pressures stabilized, volume status improved.
+
+He got the impella device removed. On day four, she developed diaphragm eases recurrent severe chest pain again and had this electrocardiogram.
+
+So he had an initial cath stent thrombosis and now has this.
+
+Now let's not a few things about this electrocardiogram.
+
+See, the amplitude here is very different. Whereas before it was very negative.
+
+Yeah. You can see the amplitude is less. And one of the reasons the amplitude is less is that you have less myocardium.
+
+Right. What you see here, though.
+
+You see these things? You see how this is straight?
+
+This is a P wave. So let's first do this.
+
+So the rhythm is fine. P QRS, p qrs speakers.
+
+There's a P wave before everyone no longer heart block. But this.
+
+These are St elevations and they're called. This is a widowmaker sign.
+
+Why is it called widowmaker? Well.
+
+Yes. Yeah. Well, this. Yeah, it's it's called Widowmaker. Right.
+
+Because, you know, these signs were developed in a day by that was dominated by men.
+
+Yeah. And so, you know what, what's really important, what happens to men when this.
+
+Yeah. Portable wife is at home and now we're done.
+
+Yeah. So we call it a widowmaker, which has, you know, parenthetically, some.
+
+I'm not going to make, you know, jokes here is has a sexist, has a sexist connotations.
+
+But you will. But the reason why I bring this up is because this is how we still refer to it.
+
+Call this a widowmaker in a sense, but the intonation is that really it's about, uh, forming, um, that these patients have a high risk of dying.
+
+That's that's the that's the statement. We'll talk about the pathophysiology of this.
+
+This is sort of like a pattern recognition when you see this. It is madness.
+
+Requires cath lab urgently. This patient went back to the cath lab.
+
+Um, and but, uh, I just wanted to say a couple of things here, and I'm just going to end it after this.
+
+There are some lab values in this setting. The thing that I want to point out is this troponin T and the c k.
+
+In the setting of myocardial ischemia, we have blood markers that we measure.
+
+These blood markers become elevated in the setting of when the heart is not getting enough blood and is damage to the myocardium.
+
+Um, and, uh, troponin is a myocardial associated protein.
+
+Very important for the contractile apparatus of the myocardium.
+
+And it's leaked and it's very high, becomes elevated very early, which confirms the fact that this person is having acute myocardial infarction.
+
+So returned to the stat cath lab had instant thrombosis again.
+
+And um, had PCI, he had a percutaneous intervention, had another stent placed.
+
+This patient had some, uh, actually turns out had some hyper coagulant underlying state that made them prone.
+
+To understand thrombosis. Last thing I want to show.
+
+Is this patient had a cardiac ultrasound.
+
+To look at their heart function. This is another technology that we'll talk about in the class.
+
+Just want to give you a sense of the different technologies that we will. That we will talk about.
+
+This is a normal state. Normal heart.
+
+Cross section. This is the left atrium. Left ventricle.
+
+Mitral valve. And this is the aortic valve.
+
+You can kind of see it. Blood goes this way out here and this is the right ventricle.
+
+And if you take a look at this patient's heart. You get a sense that the heart function is really not contracting as well.
+
+So it's very depressed. Left ventricular systolic function.
+
+Okay, I'm going to just end here. I did not mean to take this long with the.
+
+But I hope, um. So she was started on therapy for heart failure.
+
+And heart failure is a section of this class that we will talk about the etiology of the heart failure in this instance.
+
+Was a massive myocardial infarction reinfection, which required several trips to the cath lab.
+
+But overall, this patient was discharged in a stable state.
+
+Okay. So I'm going to end it here. Um, we will revisit this case at the end of the class.
+
+And we all sort of go into some of these concepts because I think we'll have a had a chance to go through each of them in detail.
+
+So that's all. Any questions? Okay.
+
+See you next time. Huh?
+
+Huh? Sure about.
+

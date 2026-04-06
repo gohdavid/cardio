@@ -1,0 +1,2395 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+This is one of the, um. Um, slides that I showed last time.
+
+And to get everybody back oriented. I, um.
+
+We said. We talked about the depolarization and repolarization physiology of the individual cardiac myocytes.
+
+Um. The. Communication from one myocytes to another in electrical terms, can be viewed as a current that goes from one cell that is, uh, uh,
+
+depolarize to a cell that is re polarized, because that current has a directionality that is determined by the geometry, uh, and the magnitude.
+
+We can represent these currents as vectors.
+
+And because we have many of them. Because it's this wave of depolarization.
+
+We can sum them all up in a vector sense.
+
+And come up with this white, um.
+
+Uh. Vector over here.
+
+That is what we call the single equivalent current dipole vector.
+
+I have not used the word moving yet because that's where we're going to get to next.
+
+So as time progresses from one time to the next, right.
+
+More and more cells might participate in that wave of depolarization that in the top left part over here.
+
+Um. Uh, relates to the spread of that depolarization wave across the atria.
+
+Now, let me see whether I can actually. Um.
+
+Can actually use. I don't have like a laser pointer here.
+
+Doesn't seem to be the case. All right, well, you have to contend with this, uh, pointer over here.
+
+Now, as time progresses, more and more or fewer and fewer and changes in the directionality of these currents mean
+
+that this wide equivalent current also changes in magnitude and changes in orientation.
+
+And even though in this image sequence that we've seen over here.
+
+The. Locus or the location of the origin of this wide vector changes when we zoom out,
+
+and we think that the heart is really a point source in a huge spherical torso,
+
+as we've assumed in the, um, in the next sort of step of relating the microscopic current to the macroscopic voltages.
+
+We assume that the origin of this white vector is actually pinned at the origin of our coordinate system,
+
+meaning that the the origin point of that white vector doesn't change, but the magnitude and the orientation changes.
+
+And hence that is our single equivalent moving type, we'll call it.
+
+So I just want to point to there's a pointer, Marla, because there's a pointer that you can use.
+
+And there's also the left hand corner sort of a like a pen, a laser pointer that you can hear this right.
+
+And stuff. All right. Thank you. Thank you. Those from all of you got me I pressed on the wrong thing.
+
+Thank you. All right, so then as we've seen over here, the the the activity of the depolarization and the repolarization, can you know of,
+
+of this complex three dimensional structure where these currents go in all sorts of direction but in
+
+a very defined manner in the normal physiology can all be boiled down to a can all be summarized.
+
+In terms of this orientation and magnitude of this single equivalent, uh, dipole.
+
+And this is, uh, a single equivalent moving current dipole representing the, the,
+
+the, the, the, the vector sum of all the individual elemental dipole currents.
+
+So the next step that we did then in the next in the past lecture is now our our weight vector over here sits at the origin we designate.
+
+Excuse me we designated as m. And now it it turns around in this 3D space pinned at the origin.
+
+And the question that we asked ourselves is we have a current dipole that sits at the origin.
+
+What is the induced voltage or voltage difference that we measure at the at the body surface,
+
+making a whole host of assumptions, all of which we we know to be wrong, namely homogeneity of the of the medium.
+
+Isotropy. We have a spherical, um, torso where the size of the torso is very large compared to the size of the heart.
+
+All of these things are incorrect, and I spare you the details of what we've done well here.
+
+Here are the assumptions also that it's linearly resistive.
+
+All of these slides you already have from the last lecture, I just want to show the final.
+
+Result of what we developed at the last lecture, namely that the potential phi.
+
+Ed capital R, which is the radius of our sphere, a distance R away from the dipole current of magnitude m,
+
+oriented along what we would say the z axis over here.
+
+Is related. Those two quantities are related through a prefecture.
+
+That prefecture encapsulate encapsulates the geometry of the problem.
+
+Three over four pi r squared four pi r squared is, you know, very reminiscent of the surface of a sphere.
+
+Right. Uh, there's a factor of three over here.
+
+But then there's also sigma, which is the resistivity, um, uh, or the conductivity actually, and not the resistivity, the connectivity.
+
+So this prefecture has the electrical properties plus sort of geometrical factors.
+
+And then we have this m times cosine of theta where theta is the angle between
+
+the vector of point of observation and the orientation of our dipole vector.
+
+Right. And the magnitude of the dipole vector is the current times the separation of
+
+the two current sources that that we had in order to have a current dipole,
+
+we had one current pointing this direction, one current pointing the other direction.
+
+And one thing I want to emphasize over here is that the current.
+
+Is given by the current density times the surface area over which the current actually, um, flows, or the current density flows.
+
+We could also write this as. Let me see whether I can do this here.
+
+Now. No, I can no longer do this. Uh, maybe I can one second here.
+
+So we can also write this over here as J, which is the current density times the area a over which that current density flows times.
+
+The distance to. Okay. That will be important for later on.
+
+Okay now. This over.
+
+Let me go back and get rid of this thing. I have my laser pointer back.
+
+So. The cosine of theta over here is reminiscent of the dot product.
+
+Meaning that we can write all of this as phi at the point a.
+
+Over here is the m vector.
+
+The m vector.
+
+Now dot it into the uh, into the unit vector pointing in the direction of a, and the uh, constant of proportionality, um still remains the same.
+
+So let me go back over here. Let me delete this thing.
+
+Okay, so. But what we want is not a, um, a single measurement.
+
+We want to measure the potential difference.
+
+And what I've also shown last time is that it follows then that if we're looking at potential differences.
+
+So two measurements of potential on the surface of the sphere that this is simply linear superposition.
+
+It's it's the voltage or the potential that we measure point A minus the potential that we measure at point P.
+
+So we can simply use the previous equation and dot our vector of the current magnitude,
+
+our current dipole vector, into the vector difference of the two of them.
+
+So here we define e b as the unit vector in the direction from a to b okay.
+
+So m e ab is then the projection of the current dipole vector onto the line connecting a and b.
+
+So if you draw a line from B to A, that's then the uh.
+
+The direction on which we want to compute the, um, the projection.
+
+So I also, at the end of the last lecture, introduced the three main, uh, lead vectors in the frontal plane.
+
+I also made the point that a single wire connected to, uh, a gel electrode is oftentimes also called the lead.
+
+But we are talking about lead vectors over here. So the lead vector one is the one pointing from the right arm to the left arm.
+
+Lead vector two from the right arm to the left leg, and the lead vector three from the left arm to the left leg.
+
+So if we're interested in the scalar electro uh, electrical activity scalar potential projected onto the lead one.
+
+Uh, axis of, uh, lead one vector.
+
+We are looking at the projection of this m vector onto this vector of lead one.
+
+So that's exactly what is meant by L one over here.
+
+So we're computing the voltage difference phi le.
+
+So this is left arm minus the right arm.
+
+And that would then be the by linear superposition the m vector dotted into the um the direction the unit vector in the,
+
+you know, from the right arm to the left arm. And in complete analogy, the we can do this fully two and we can do this fully at three okay.
+
+So in other words, our our scalar electrocardiogram,
+
+the squiggly lines that we will read very soon and is nothing but the projection of this M vector onto different axes,
+
+um, that we are defining right now in what is called the frontal plane,
+
+meaning the plane that is is shown over here, sort of the, the, um, the vertical plane.
+
+Um. And later on will also talk about the, uh, the, um, the recording leads.
+
+All right. So in as I said, this is the key points over here.
+
+We reduce the distributed source, which is really complex complicated because of the complicated physiology,
+
+the anatomy, the topology of the heart, the topology of the surrounding tissues.
+
+But we reduced all of the electrical activity of the of the heart into a single hard vector
+
+with a single origin in space and time varying magnitude and time varying orientation.
+
+We trace the 3D trajectory of the tip of that hard vector M and the scalar potential at any time.
+
+T is the projection of the instantaneous hardware hard vector onto the lead vector.
+
+Okay. All right.
+
+And the egg is that scalar potential versus time as the hard vector moves through these different loops.
+
+So. Let's take a look at this again.
+
+So that's the essence of the dipole model. And now let's put this to good use.
+
+And now I'll give you five minutes maybe or so to think through this problem over here.
+
+Let me let me identify or let me define the problem.
+
+This is one of these alien hearts that you may or may not encounter in your clinical practice.
+
+Um, probably less likely, but you never know. Where space will take us.
+
+So. One of your alien patients has an unusual cardiac anatomy.
+
+Um, depicted below. The velocity of the propagation of the action potential is the same in both tubes.
+
+So we have one tube that takes.
+
+This is the vertically oriented tube that takes the blood from the body and propels it through peristaltic contraction towards the lungs.
+
+And then there is another one.
+
+That is equivalent to our left ventricle, where the blood comes from the lungs and through sort of peristaltic contraction moves it towards the body.
+
+Currents only go into the longitudinal direction of these tubes.
+
+We say the velocity of propagation is the same, so that we don't have to worry about that and the time required for the action.
+
+Potential travel. The length of the tube is 0.8 seconds. However, the left heart.
+
+Begins to depolarize 0.4 seconds after the right heart.
+
+And what you are asked to do by your attending is to plot the expected scalar potential versus time in lead one.
+
+Note the cross-sectional area of the muscular wall of the left heart tube is twice the area of the right heart tube.
+
+We recall that the magnitude of the dipole vector is directly proportional to the cross-sectional area,
+
+and you may assume that the magnitude of the current dipole is just simply a for the right ventricle.
+
+So what you are asked to do is to draw the scalar.
+
+Potential. The projection of this electrophysiological arrangement in the lead one configuration.
+
+So if I go, I will leave this opened or I can go to the next one.
+
+So here you see the lead one is going from right arm to left arm.
+
+And what I would like to see down here is a drawing of what that potential would look like.
+
+The magnitude of the vectors over here because the cross-sectional area doesn't change, stays constant throughout the depolarization phase.
+
+And we only worry right now about the depolarization phase.
+
+Is the task clear or should I go over this again?
+
+So what we're looking for is this thing starts to die.
+
+No, wait a second. Uh, the left heart begins to depolarize.
+
+0.4 seconds. So the right heart starts to depolarize.
+
+And let's take time. Zero at the beginning of the depolarization of the right heart.
+
+The left heart starts to start 0.4 seconds later.
+
+Let's assume that the length of the tubes are the same. Orientation is orthogonal and the cross-sectional area is double for the left.
+
+Then what we have for the right. All right. Why don't you guys take five minutes to think that through?
+
+In those five minutes, I will actually get myself a coffee.
+
+Okay. What's the time right now? Let's come back at 11 and then we'll talk about it.
+
+For some reason, I feel compelled to whistle the jeopardy theme song.
+
+But I will not. All right.
+
+Maybe a couple of more minutes. All right.
+
+Who wants to, um. Who wants to tell me?
+
+Tell us. Anybody.
+
+Um. I can give it a try. Mhm.
+
+Um, so for the first part because we're going like bottom to up, then the projection to lead one is zero.
+
+So at the beginning zero and then uh 0.4 when the second part starts to the polarize we see an increasing magnitude.
+
+Here's where I'm not super sure. So we know that the thickness is twice.
+
+Um, so I think that would mean the amplitude would be twice to like today.
+
+Um, but I'm not 100% sure. And then that would go on for 0.4 seconds and then it would go back to zero.
+
+Okay. Excellent. Thank you very much, Claudia. Well done.
+
+Better than my straight line attempts over here. So let's see we have.
+
+This is 0.2, right? Uh, Jesus Christ.
+
+2468. One second over here.
+
+Right. This is and then this is 1.0.
+
+And then this is. One. Point two.
+
+So this is a and we know that the cross-section of that the current magnitude of the right ventricle is a and then the current magnitude of.
+
+The left ventricle must be, as Claudia rightfully pointed out.
+
+The right ventricle, the current is pointing up right is going along the propagation velocity.
+
+So it's zero compared to the L1 direction.
+
+So the projection of uh so the current dipole and the and the lead vector are orthogonal.
+
+So the projection is zero. So the the left the right ventricle does not show up in the lead one configuration at 0.4 seconds.
+
+The left ventricle starts to depolarize and we have a constant propagation velocity with constant radius.
+
+So what will happen is that we simply have this for 0.8 seconds.
+
+Right. And then we go down to zero. All right.
+
+Thank you. Claudia. Well done. So let me delete all of this and let me actually show you what it what it does look like.
+
+Oops. Come on.
+
+And so if I go to the next slide. Uh, what happened here?
+
+All right. And my animation has got. One second.
+
+But sharing. Going on over here.
+
+Uh. I have to unhide this slide. Chair again.
+
+Yeah. You see? That's exactly what Claudia mentioned.
+
+Okay. Hide the flooring panel. Excellent.
+
+Okay. Easy enough. Right? Okay.
+
+So we go back here. I get my laser pointer back.
+
+That's exactly what we have. We have that projection onto the onto the lead vector.
+
+So. Let's come back to our our, um.
+
+Our picture over here. We also said that the that during atrial depolarization, our single equivalent dipole vector traces out a loop,
+
+traces out a loop for for atrial depolarization, for ventricular depolarization.
+
+And you will see for ventricular repolarization.
+
+Here is our triangle. Lead one. Lead two.
+
+Lead three.
+
+So as the cardiac activity is is spreading from the single atrial node which is sort of on the right side pointing towards sort of the left right,
+
+the vector. Is pointing into the positive lead one direction.
+
+So here's our vector. Positive lead, one direction.
+
+Positive lead, two direction and positive lead three direction.
+
+So as the atria are depolarizing. We have a positive projection on lead one.
+
+Lead to lead three. And that gives rise to what is known as the P wave.
+
+The initial positive deflection in lead one. Lead to lead three is the depolarization of the.
+
+Electrical activity. Um, the depolarization of the atria.
+
+Then. As I mentioned, the atria and the ventricles are electrically isolated.
+
+Except normally through a small tissue structure, which is called the atrial ventricular,
+
+not the sole purpose of the a V node is to slow down the propagation velocity
+
+so that the atria can now go through this excitation contraction coupling.
+
+Remember what we've just described is just the electrical depolarization.
+
+Now the calcium induced calcium release and actin myosin cross bridge cycling has to occur so that the atria can actually generate a force
+
+that pushes just a little bit more blood into the ventricles before the ventricles start to go through the same cycle of depolarization.
+
+Calcium. Does calcium release actin? Myosin. Cross bridge cycling.
+
+Fourth generation. So at the conclusion of the, um, depolarization of the atria, there's no more wavefront.
+
+There's no more front between the depolarized and the polarized cells.
+
+So that vector disappears in magnitude, right.
+
+If there's no current left, there's no equivalent dipole vector.
+
+As I said then there is this period of relative quiescence where the electrical activity makes its way slowly through the AV node,
+
+and once it hits the common bundle of his and travels down the bundle branches, the septum depolarize.
+
+This usually from left to right. Which then, as you can see over here in lead one would lead to a negative projection on the lead vector.
+
+So the first. Um, projection that we have.
+
+Onto lead one would be negative, right?
+
+Because the lead vector is pointing from right to left arm, but now the vector is pointing from left to right.
+
+Likewise, in the two we might often see a slight negative deflection.
+
+May also not be quite discernible in lead three.
+
+The initial septal depolarization might show up as a is no projection at all, or is a positive projection.
+
+So the first negative deflection after the p wave is called the q wave.
+
+And then as more and more of the ventricular myocardium continues to engage in that wave of depolarization,
+
+the vector starts again to point sort of from the right towards the left,
+
+um, a direction, and you again see a positive deflection in lead one, a positive deflection in lead two, and a positive deflection in lead three.
+
+So the first positive deflection following the p wave is called the R wave.
+
+And. We have then this this, um, strong positive deflection until the whole ventricular myocardium is depolarized.
+
+And again, the equivalent dipole disappears and we have a full q r.
+
+And then if there's another negative deflection called the s wave.
+
+And that is the hallmark of ventricular depolarization.
+
+It is a very sharp, very narrow, typically highest amplitude, um,
+
+in terms of magnitude of the amplitude structure of uh, or feature of the electrocardiogram.
+
+And then as the ventricle starts to re polarize, we again have a boundary between repolarization and depolarized cells.
+
+This time. And so as this wave goes, not from the IndyCar team to the epic card game to the epic card game to the IndyCar team,
+
+we have another one of these loops, the third loop, which is the repolarization loop of the ventricle.
+
+And that again leads to. An appropriate, uh, um, projection on these three lead vectors in the frontal plane.
+
+And that leads to the T wave. So p wave atrial depolarization.
+
+QRS complex very narrow very sharp very high amplitude ventricular depolarization.
+
+And the T wave is lower amplitude a little bit more spread out ventricular repolarization.
+
+Now. Why is the QRS complex the ventricular depolarization so narrow is because we're making use of the electrical conduction
+
+pathway that very efficiently brings the electrical activity and the depolarization signal to the ventricular myocardium.
+
+So essentially the entire ventricular myocardium, all the muscle cells act over a very depolarize or very short period of time.
+
+And remember that our M vector, our white vector that we're showing over here is the vector sum of all of these.
+
+And if we can activate essentially all the all the cells or majority of the cells at the same time,
+
+then we have very many of these elemental currents that contribute to the vector sum and therefore to the magnitude of that M vector.
+
+If it's more spread out, if it's the nearest neighbor kind of propagation,
+
+first of all, that propagation is slower, so it's a little bit more drawn out.
+
+And the vector sum is not as coherent as when everything is is coordinated.
+
+So that's why the magnitude of the T wave and the magnitude of the QRS complex are different.
+
+And also why the duration over which the depolarization occurs is different from the duration over which the, um, repolarization occurs.
+
+But that now is the essence of the the three projections of the um,
+
+of the electrical activity of the heart and the cardiac cycle throughout the cardiac cycle on these three lead vectors.
+
+Lead one lead to and lead three and two, we have a p wave.
+
+We have a small quiescent period where the, um, electrical activity travels through the um, uh, AV node.
+
+We have the QRS complex, as we call it, um, for the ventricular depolarization.
+
+And we have the T wave, which is the ventricular repolarization comma.
+
+So there's a couple of hands raised. All right. Whoever raised their hands, you can unmute yourself.
+
+Ask. Maybe. Rachel, you can.
+
+You can call on people. I don't have the chat open anymore, so go for it.
+
+Yeah. Uh. Zane, it.
+
+Um, I had a quick question about, like, even though it's like kind of propagating from the left septum to the right, it seems like here, um,
+
+later on that it's like, still like the depolarization is ending on the left ventricular side, and that's why it's showing the S part as negative.
+
+Is that correct? Mhm. Correct. Okay.
+
+And I also was a little bit confused about the direction of like the repolarization
+
+dipole being the same as the people are like depolarizing dipole because it's like,
+
+why is it not like opposite or why am I not. Yeah.
+
+Why is it no the opposite. Because the propagation velocity is in the opposite direction.
+
+So the, the the depolarization goes from endocarditis to epi khadim and the realization goes from epi khadim to endocarditis.
+
+So it's not the first one in. First one out. Uh, so it's the directionality of the wave is is in the opposite direction.
+
+That's why it doesn't it doesn't flip. But if it's in the other direction, wouldn't it be like pointing the other way as well?
+
+I don't, I don't understand um, the, the, the current direction is, is is also reversed.
+
+So if you have two negatives then you have, you have essentially a positive.
+
+Okay. I'm going to think about it. Thank you. Okay. Who's next?
+
+I had a question. It seems like the magnitude of the projected vectors on lead three throughout
+
+the whole sort of cardiac cycle doesn't seem to really occupy a very large,
+
+large range of values.
+
+I'm wondering sort of what information like lead three would offer in terms of like, does you just have reduced signal to noise there,
+
+or does it offer nuances that are important or what does what additional information does it give you?
+
+So it's a good question because you could also argue that, you know, it's sort of the linear superposition, at least algorithmically.
+
+You know, you should be able to reconstruct lead three from lead one and lead lead two.
+
+Right. So it it's um, it can have value, especially in conditions where it's not a normal conduction.
+
+Right. So if as we get through, you know, to arrhythmias and to conduction, um, abnormalities,
+
+then the situation might not be as prototypical as I'm, I'm making a show over here.
+
+But there's another important piece of information that we might have, we might be able to glean from lead three.
+
+Um, as from lead one and lead two that we'll touch on later when we talk about, um,
+
+the access or the mean electrical access, um, during ventricular depolarization,
+
+because it can give you information of how the heart or the, at least the electrical,
+
+um, uh, representation of the heart is oriented in the, uh, in the thorax.
+
+So there's, uh, changes in the orientation can also be an deviations from the normal form.
+
+Normality can also be very important. But a good point, Alexi.
+
+Thank you. Do we have any other thing?
+
+Any. Any other question? Um, so there's been some general questions in the chat about the alien problem.
+
+Um, I don't know if we'll get back to it. We have aliens.
+
+We have. We have more aliens to come. Or the same alien. But but we'll we'll we'll, uh, we'll cover that.
+
+Let me and let me get to that, actually. So then this is our, uh, you know, lead one surface electrocardiogram.
+
+As we said, we have the P, the keywords and the T wave. And we also define intervals over here.
+
+What will become very important is the PR interval is, uh, you know, QRS, um, interval, the, the duration, um, the interval.
+
+We will also briefly talk about sorry, the short interval we will briefly talk about.
+
+And when we talk about ischemia on myocardial infarction, we will also talk about the St segment elevation and depression.
+
+And there are norms that these intervals and these amplitudes should be within.
+
+Um those are listed in the in your course in notes that we that we handed out.
+
+But also Doctor Tatro will have a lot more to say about what is a normal PR interval.
+
+What is a normal course interval. You know, what is um, what is a normal amplitude for the for the QRS complex?
+
+But suffice it to say for now, p ventricular, uh, A3, atrial depolarization,
+
+cure's complex ventricular depolarization, T wave, ventricular repolarization.
+
+And then there's always a trick question is why don't we see a atrial d repolarization.
+
+We see the atrial depolarization. But where do we find the atrial repolarization?
+
+Well. We find it. If we were to find it, we would find it in superposed, you know, with the QRS complex.
+
+But remember that in order to have a macroscopic vector.
+
+That is large enough so that we can sense its magnitude on the surface.
+
+You have to have some of somewhat of a coherent, um.
+
+A vector of some of these individual currents. And if these repolarization happens, you know, on a more random basis,
+
+then you might not have a cure here in some of you might not be able to measure the repolarization, um, at the surface, um, of, of the torso.
+
+So we typically do not. Um, measure or cannot sense the repolarization of the atria because it's a much less myocardium.
+
+And also because, um, the there's no such thing as, as, uh, measurable repolarization wave for the, for the atria.
+
+So that's why we only see the p wave. So as a depolarization of the atria, but not so much the repolarization.
+
+Okay. Before we come back to our alien.
+
+Um. We can define all sorts of of projections, right?
+
+I mean, lead one, lead to lead three.
+
+We're just convenient projections, um, to use simply because it's easy enough to put an electrode on the left arm,
+
+on the right arm, and on the left leg.
+
+But we can also take averages and, and define additional, um, so-called augmented leads and what we are showing over here.
+
+Um, is that we can take the average. Of the voltages measured on the, um.
+
+Uh, on the left leg and the in the right arm, or what they call the foot over here and the right arm,
+
+we take the the average of those two and reference it to the left.
+
+Uh, the left arm. And that would be a vector that points from this position over here towards the left, or from the origin towards the left arm.
+
+We call this AVL for augmented limb lead.
+
+Left arm or left.
+
+We can do the same by averaging the two potentials that we measure at the right and at the left arm, and reference it towards the foot.
+
+That then is called the AVF augmented limb lead, you know, pointing towards the foot.
+
+And likewise we can measure the left arm and we can we can average the left arm and the foot.
+
+Um, um, potentials and reference ID with respect to the right arm.
+
+And this would then be called AVR. So what is commonly then reported,
+
+as we will see in the 12 little electrocardiogram for the frontal plane of the projections are leads one, two and three.
+
+These are original limb leads plus the augmented limb leads which is AVR, AVL and AVF.
+
+And you can very simply remember where they point their point.
+
+If it's AVL, they point from the origin towards the left in this triangle representation from the origin towards the left arm,
+
+from the origin towards the right arm, and from the origin towards the foot.
+
+Again to Alex's point is, what's the point of all of this?
+
+Is it in certain conditions, when you're trying to pinpoint certain pathologies with either the,
+
+uh, um, the origin of, uh, the impulse generation or the impulse propagation?
+
+It's good to have multiple different projections so that you could actually you can actually pinpoint the,
+
+the, the location or the, the specific nature of the abnormality better.
+
+So then one of these triangles over here will become your best friend.
+
+So lead one again. Right arm to left. Right arm to left arm right with directionality.
+
+Lead to right arm to left leg. Lead three is from left.
+
+From left arm to left leg. And then we have AVR, AVF and AVL over here.
+
+And the way that it is customarily then indicated is that with each one of these directions we have a um a number associated.
+
+And the number is the degree of deviation from the horizontal in the clockwise direction.
+
+So in unfortunately not the mathematical definition of deviations which would be counterclockwise positive angles but in the clockwise direction.
+
+In this case, lead one. Is oriented horizontally.
+
+Pointing in this direction shall lead one is associated with zero degrees.
+
+Lead two or let's go with lead AVL over here.
+
+Lead AVL is -30 degrees because it's pointing from the origin to the left.
+
+Um over here lead AVF is plus 90 degrees.
+
+It's pointing from the origin straight down right.
+
+We have a AVR is pointing from the origin to the right arm.
+
+And that would be here negative. Uh um uh 150 degrees.
+
+Right. So for this we would go negative. We don't go over 180 degrees.
+
+And then for uh, the right the um, lead two, we would have 60 degrees.
+
+And for lead three, we have 120 degrees. Okay.
+
+So this, you know, should probably be on your sheet sheet for the midterm exam.
+
+This is just a different representation. As I said before. Zero is lead one plus 60 lead to plus 90 AVF plus 120 uh lead three -30 AVL and -150 AVR.
+
+And that's just again it's only in the frontal plane right.
+
+Okay. We come back to our alien here.
+
+And maybe what I can do is I can bring up the 24 messages over here.
+
+Okay. Um. So let's see.
+
+Maybe what we can do is the following. We were coming up to our usual break time, so why don't we do the following?
+
+We'll take a ten minute break at this point. During that ten minute break, we can take a bio breaks.
+
+We can take you guys can get you a coffee. Unfortunately, we cannot bring you guys the bagels today.
+
+Um. Doing those ten minutes, I can take a look through the, uh, through the questions here in the chat.
+
+But you also work on now the.
+
+Scalar potential of exactly the same configuration.
+
+In the AVF and the AVL. Um, Leeds so augmented.
+
+Lamely pointing towards the foot and the augmented lead, uh, pointing towards the left arm.
+
+All right. So now, according to my watches over here, it's 1125.
+
+Let's say we come back at 1140. I will read through the chat and then we'll discuss, um, the EKGs here for AVF and APL.
+
+All right. Let's take a 15 minute break while we're working on this.
+
+When? Thomas. Can I ask a question about the alien problem like the previous one?
+
+I guess this one's fine too, because the information is the same.
+
+Like you know, it's mentioned in the problem that the velocity of propagation is the same for both tubes.
+
+Is there any significance of that in terms of like how we're mathematically representing the signal, or.
+
+That's just to simplify things, to say that like you don't have to worry too much about like the relative speeds of Propagations
+
+and how that changes the angle between the vectors and therefore the angle and um,
+
+that, um, that vector. So here it's just to simplify.
+
+Okay. And so it's nothing that is baked into the theory here or so.
+
+It's just to simplify and not have to think about an additional parameter.
+
+Okay. Does that make sense? Yeah.
+
+And then when you say that the time needed for the action potential to travel the entire length of cubits point eight seconds,
+
+that's just like the duration of that, like, step function, right when you have that.
+
+Right. Okay. So there's that. Okay. Thank you. So.
+
+Can I ask a quick question also? Yeah. Um, so the reason why we did to a for the previous alien part.
+
+Yeah. Um, was it so I think it was something to do with, like, the cross sectional area.
+
+But I'm trying to see like. Why that is the case in terms of the math.
+
+Like which equation does it correspond to?
+
+Multiplying the amplitude with two. With all of this about the previous question.
+
+So why is why do we? Why did we choose the the the magnitude of the left ha to be two a compared to the to the right hard.
+
+Yeah. So like when we draw, we drew it as if it's, it was like just, um, like constant at two a right.
+
+Yeah. And like why was that?
+
+Or like a corresponds to what here or which equation.
+
+So we could we said a is so we said um let me see.
+
+Let me go back here. Okay. Um, you jump out of this here.
+
+Remember that day that I rode here with my. Yes, I rode here.
+
+That this is. The current density times the cross-sectional area, which let's call it a tilde over here times.
+
+Right. So the current is the current density.
+
+Yeah. Times the area over which the current is actually flowing.
+
+Right. So if you think of the current density as a material property, as sort of an elemental current density,
+
+in order to get the current right, you have to multiply it by the cross-sectional area over which the current density flows.
+
+So that's that's kind of where it enters into into our theory.
+
+In the end we say, well, forget about Jay over here.
+
+We we just we just take a as the magnitude of, of the, um, of the, uh, the current dipole.
+
+And and and the factor of two is just because we didn't want to sort of, you know,
+
+just to make it a little bit more interesting between the right and the left.
+
+The left. Um. The left ventricle.
+
+Okay. I ask a question on that as well?
+
+Sure, sir. Um, so I had originally drawn it as like linearly increasing to two way,
+
+because my thought process was like the way that we drew the magnitude of, um, the end factor to be increasing as it was depolarizing.
+
+But I don't know if in this case it was because it was a cylinder. So it's like as it's propagating up, it's like the same amount as that way.
+
+It's um, horizontal. Okay. Absolutely correct.
+
+So, you know, with with the with the actual human heart rate your recruiting more and more until you have a maximum sort of wave here.
+
+The wave is just going constant at a constant velocity.
+
+Right. And since the cross-sectional area stays constant, essentially what we are assuming is that at any given moment,
+
+the exact same number of cells are participating in that, in that, um, in that depolarization wave.
+
+So that's why it's not like ramping up staying and then coming back down.
+
+So if you had a if you had a taper tube that would go wider, stays current comes back down, you would have something like this right here.
+
+We wanted to make it simple. The moment it depolarize this, you have a constant projection.
+
+And the moment that depolarization is done, boom, you're back at zero.
+
+Okay. Doesn't think you. It's like it's got to this.
+
+Um, can I ask a quick question as well? Um, um, so for the we have three leads, right?
+
+Um, and like all of them give different, um, kind of like shaped waves.
+
+Do they ever get, like, superimposed in their quantitative analysis or are they looked at, like, separately?
+
+Uh, we'll get to that when we talk about how to read a 12 lead EKG so we don't superimpose them on top of one another.
+
+That's what you mean by superposition. We actually look at them, um, almost at the same time.
+
+Um, but, uh, in sort of in chunks of three, as we will see when we talk about the 12 lead electrocardiogram.
+
+Okay. All right. You. Um, I have a quick question about, uh, AVL.
+
+So the it says that the sine is like -30 cosine.
+
+Um, does this, uh, when we're doing projection, does this affect like towards which side.
+
+So if I have uh, vector that's pointing towards the left then that is actually addition instead of subtraction and vice versa.
+
+It changes the polarity of the sign.
+
+Absolutely right. So if we go. Let's see. Um.
+
+Where am I? Can I go back? So, for example.
+
+If so, uh, you were talking about evil. Mhm.
+
+Right. So it's sort of it's it's pointing in that direction.
+
+We only designate the value of -30. But if you, for example, have a, a lead, a uh a current dipole vector that's pointing in the opposite direction,
+
+let's say it, it's pointing sort of um, in this direction over here.
+
+Right. Then the projection onto the AVL vector would be negative.
+
+Right. So in the AVL vector it would be negative in lead one.
+
+It would be negative in lead AVR. It would have a positive projection over here.
+
+Right. Okay. Does that make sense. Yeah yeah that makes sense.
+
+Thank you. Okay. Jump out of here.
+
+Maybe. Maybe five more minutes, and then we resume. Then.
+
+All right, let's let's come back. Um.
+
+I'll bring the alien back up. Here we are.
+
+And, um, so he is our alien heart.
+
+And here's our triangle. Or the our our definition of the various lead configurations.
+
+And the first question was what would be the.
+
+Surface electrocardiogram, given the parameters that we gave in the AVF configuration.
+
+Who wants to take this on? So we're talking about AVF pointing straight down.
+
+Any suggestions? Claudia took us through this last time, so we will not call on her.
+
+Any volunteer. Can it be negative?
+
+Yes it can. I think it starts, um, like, because it's the so the so because there's no projection on the,
+
+uh, left ventricle like propagation direction, I think that's going to be zero.
+
+Um, but for the right ventricle, one um, starting at zero to, um, 0.8, it should be like a negative, um, wave propagating.
+
+Mhm. Okay. Um, and in terms of amplitude, it should be just a because it's just cross sectional.
+
+All right. So what then you have is saying okay we have something that looks like this.
+
+But this is 0.8 over here. Right.
+
+And over here you see that the vector propagation is in the positive you know vertical direction.
+
+Whereas the AVF is pointing from the center here down straight down.
+
+So it's just you know, exactly the opposite direction.
+
+So the projection is constant with negative A over here where A is the magnitude of that current dipole.
+
+All right. So if we go this clear this drawing go to the next slide.
+
+So I'll update the slides over here because I was hiding these slides from you guys.
+
+Obviously this is what AVF would look like.
+
+All right. So now these were the two easy ones right.
+
+One is you know parallel or or antiparallel to the in directionality to the, uh to the left ventricle.
+
+And the other one is uh parallel inter parallel to the right ventricle.
+
+Right. So what about um what about ab what did we say AVL.
+
+Oops. What happened here? It's me.
+
+Some residues. That I just need to take care of.
+
+See, all of this was done last night and this morning.
+
+Because all of this was supposed to be on.
+
+On the blackboard. All right. So did anyone get to AVF.
+
+Uh. Sorry. Abel. Or can walk me through what?
+
+What would be done for Aveo? Share again.
+
+I think someone answered in the chat. Okay.
+
+All right. All right, Tiffany, do you want to take us through?
+
+Yeah. Sorry. Um, since AVL is 30 degrees from horizontal, the magnitude from the right heart is whatever.
+
+Like some magnitude. I call it C Collins cosine of 60 degrees from 10.0 to 0.8.
+
+And then for the left heart it's twice the C.
+
+But now multiply by cosine of 30 degrees from ten .0. 4 to 1.2.
+
+And then you just add them where they overlap. Okay. Thanks.
+
+Exactly right. So um, here's what we had.
+
+Let's go to the next one. So here's our AVL right.
+
+And in the, you know, in the initial period from 0 to 0.4 seconds, the only ventricle that's contributing is the right ventricle.
+
+It has a constant magnitude A right. And so what we need to figure out is what is that projection of a onto our AVL vector.
+
+Right, and that projection in the end will become a over two.
+
+So figure out the trigonometry here. Now, during the next phase.
+
+The between zero point. Uh, four and 0.8 seconds.
+
+We have both the right ventricular depolarization, which stays constant at a over two over here.
+
+Right. But in addition, we have the left ventricular depolarization, which is a constant vector.
+
+Along the, um, along the zero degree axis.
+
+Right? And that contributes eight times square root of three.
+
+Again, it's in the in the trigonometry over here. So the total magnitude that we get over here is a square root of three plus 0.5.
+
+And then between 0.8 and 1.2 6A1 point.
+
+Yeah 0.82 1.2 seconds. Uh, the right ventricular depolarization is over, but the left ventricular depolarization is still happening.
+
+So at that point, we only have the eight times square root of three over here.
+
+And so if we put all of this together.
+
+It looks like this 0 to 0.4 seconds on the right ventricular depolarization, contributing a over two between 0.4 and 0.8 seconds.
+
+It's equal to two plus a square root of three. And then between 0.8 and 1.2 seconds, we have a times square root of three.
+
+And then the depolarization. Wave, or the scalar projection of the electrical activity of that strange configuration onto AVL would look like that.
+
+Right. And we can do checks and balances.
+
+We can say, well, does this make sense? At least directionality directionally.
+
+Well, what we'll see over here right. Is that AVL kind of points in this direction.
+
+And both of these projections will be positive throughout the cardiac cycle at least.
+
+The directionality or the magnitude that the magnitude that the that the um the polarity is positive already makes sense.
+
+All right. Okay, so I hope that clarified a little bit of the, the,
+
+the sort of alien heart problem and how the how the current magnitude, you know, projects onto the, um,
+
+the lead vectors and how we can use sort of these trigonometric relations along with,
+
+you know, with our definitions over here of how to do that projection.
+
+Okay, so let me jump out of this one here. One second.
+
+Clear all of this. Jump out. Move this again!
+
+Out of the way! Okay.
+
+Again, one of those things that is difficult to do over zoom, but that would have been easier in,
+
+in the, you know, on the blackboard is the definition of the mean electrical access.
+
+And when we talk about the mean electrical access we only talk about ventricular depolarization.
+
+So we are only interested in the in in in the time averaged.
+
+Mean orientation of the ventricular depolarization vector.
+
+So what we're showing over here is um, again, we're only looking in the frontal plane.
+
+So only leads 1 to 3 AVL, AVR and AVF.
+
+And what we're doing is we are, um, we are looking, you know, as, as,
+
+as we're going through that depolarization wave, that that vector black vector over here is drawing out this loop.
+
+And the question that we're asking ourselves is what is the mean orientation of that vector?
+
+And one way to do this, to calculate this mean orientation or this mean vector, is to slice up time into discrete elements.
+
+Tend to take the average over all of these discrete elements that we've sliced.
+
+In this case, we start with time equals zero. Then time equals 1 or 1 delta t two delta t all the way to n delta t.
+
+So we have a total number of n plus one slices.
+
+We have n plus one vectors for that particular that spans this loop we take the average over all of them and we get the mean.
+
+The mean vector. Over the course of that ventricular depolarization.
+
+And what this tells us is quite, you know, can be quite important information,
+
+as it tells us a little bit about the electrical orientation of the heart,
+
+which often has also to do with the, um, the physical orientation and in the myocardial mass, um, distribution.
+
+So how can we find the mean electrical axis or this mean vector?
+
+Of course, if you're a computer and you can, you know, any given moment reconstruct these vectors, you can just simply take the average of those.
+
+This is again stuff that is in your notes, but stuff that I would develop normally on the blackboard with you.
+
+But let me take you through what's on the notes. So that you can read through this, you know, at at your leisure.
+
+So any vector. In this plane.
+
+Can be represented. By two lead vectors that obviously cannot be collinear.
+
+Right. Let's say we have one lead vector la and one lead vector.
+
+You remember from, you know, basic geometry, um,
+
+that we can or linear algebra essentially that we can represent any vector in a two dimensional space as we have over here.
+
+Let me go back to my laser pointer over here.
+
+Think of L, A and B as our basis vectors.
+
+Right. And then we can look at this, you know, reconstruct the orientation and the magnitude as a weighted sum of our of our basis vectors over here.
+
+All right. LA and HLB are our unit vectors in this case.
+
+All right. So. The VA and the VB are the weights that we have to assign to these unit vectors.
+
+So VA is then simply m mean dotted into LR and VB is m mean dotted into HLB.
+
+So. Oops. So what I'm going to do, I don't know what I'm doing over here.
+
+So it then follows that our mean vector over here.
+
+Can also be simply represented as the time average.
+
+Of. This. Um.
+
+Um, voltage V a times the unit vector in the load direction and plus the time average of the voltage measured in,
+
+you know, in B times the unit vector in the B direction.
+
+So as we let delta t goes to zero and n goes to infinity.
+
+So we make the transition from the discrete sum to the integral.
+
+What we are saying over here is that our mean electrical access is given by the time average of what we measure,
+
+um, in the voltage on, in, in the Allegra lead and the,
+
+you know, times the LA direction unit vector plus the time average of the voltage that we measure in,
+
+you know, the lead be times the unit vector in B.
+
+And again, I want to emphasize that this is only for the depolarization of the ventricular myocardium.
+
+We only think about the mean electrical axis as the mean electrical axis doing ventricular depolarization.
+
+Now, this is just mathematical, you know, just juggling around, um, how can this actually help us concretely?
+
+So this is just a restatement over here that our V in a mean voltage in A is given by this integral.
+
+The mean voltage in B is given by this integral. But what if we can find a lead vector.
+
+Let's call this. Maybe we should call this, you know la tilde or something.
+
+But well or it happens so that the mean electrical axis dotted into that lead vector is zero.
+
+That can only happen if the integral over the voltage that is measured in that lead vector is actually zero.
+
+Again, over the QRS complex. If that's the case.
+
+Then the mean electrical axis has to be perpendicular to this vector, right.
+
+Because if we have, uh, if, if, if the projection of the electrical activity is zero in this throughout the QRS complex, then the,
+
+you know, by the nature of the dot product M mean has to be orthogonal to that, to that axis or to that to that lead vector.
+
+Right. And that gives us a very quick way of defining the, um, the, uh, mean electrical axis.
+
+Namely, look at the six frontal leads one, two and three.
+
+AVR, AVL and AVF and find the lead.
+
+Who is integral over the QRS complex is approximately equal to zero.
+
+If you if you can find one, then the mean electrical access has to be you has to be orthogonal to that lead orientation.
+
+Whether it's pointing, you know, along the back it's or in which direction, because if it's orthogonal, it could be in two directions.
+
+Right. Which direction we will discern from from the remaining leads.
+
+All right, so here's our orientation. Actually let's jump here first.
+
+Here we have three. See our six projections 123 read only to read three.
+
+Lead AVR it AVL and lead AVF.
+
+All right. We're only interested. We have a P, we have a q r s, and we have a t wave over here, sort of p q r s and t wave over here, right.
+
+P q r us and t wave over here. We're only interested in the QRS complex.
+
+Right now which one of these QRS complex is, if you were to integrate over it?
+
+Would give you approximately zero area. Right.
+
+So that in this case over here would be lead to right.
+
+You have a slight positive deflection. You have a slightly negative deflection of almost equal.
+
+Um. Uh, area. Right.
+
+If you were to integrate just from the beginning to the end of the Kairos complex, you are closest to zero in lead to.
+
+Which means that our mean electrical access. Has to be approximately, maybe not exactly, but approximately orthogonal to lead to.
+
+So here's our lead two. Let me get back to my little pointer over here.
+
+That point to our how do I get back to my. Second.
+
+Uh. Yeah. So our lead two is pointing in this direction, right?
+
+This is our lead two axis. Now we know that we have to be orthogonal to lead two.
+
+So the mean electrical axis is in one of those two directions.
+
+How do we know that it's either pointing in this direction or it's pointing in the opposite direction?
+
+Well, let me erase everything that I've just drawn and let me think.
+
+Look at the other projections. Right?
+
+We know it has to be orthogonal to this one over here. So it could be this direction.
+
+Or it could be this direction. So the question is is it positive?
+
+For example, in lead one, if it's a positive projection in lead one it has to point towards AVL.
+
+Right. And voila! What we see over here, we see a positive deflection in lead one.
+
+Which means that it has to be this one over here, not this direction over here.
+
+So in this case, we can say that the mean electrical axis is pointing approximately in the -30 degree direction.
+
+Okay. So we will look in only in the frontal leads.
+
+123. AVR AVR AVF.
+
+We look for the lead that if we were to integrate over the QRS complex, will give us approximately equal zero.
+
+The mean electrical axis has to be orthogonal to the directionality of that lead.
+
+Now. There couldn't be two options in terms of that orthogonality as you've just described.
+
+Which direction it will point to. You will be able to discern from the other leads.
+
+Whether it's positive or negative in some of the other leads that are pointing in appropriate directions.
+
+Okay. So that's the definition of the electrical axis.
+
+Why do we care? Let me get rid of this again.
+
+Let me come back to my pointer. Why do we care?
+
+Normally our electrical access.
+
+Oh, electrical access or mean electrical access has to do with the myocardial distribution
+
+and how our current sum up and how these currents give us arise give rise to this,
+
+you know, mean electrical vector. Normally we are operating.
+
+In this range over here, somewhere between 0 to 90 degrees plus or minus.
+
+That's normal. But if you have a mean electrical access during ventricular depolarization, that is, um, outside of those quadrants.
+
+So we have, for example, between 0 and -90, right.
+
+Or between um. Uh, 90 and plus 180.
+
+We call this either left axis deviation or we call this right axis deviation.
+
+And those can help us identify abnormalities with our, you know, cardiac orientation but also with muscle distribution.
+
+So. The axis can deviate.
+
+With physical changes of position caused by respiration lying down of body type.
+
+It can point towards ventricular hypertrophy.
+
+Left ventricular hypertrophy causes left axis deviation right ventricular hypertrophy to the right as you will see.
+
+And Doctor Tatro talks about um, uh, conduction abnormalities, blocks of either the right or the left bundle branch.
+
+So left bundle branch blocks HLB, LP cause deviations to the left.
+
+Right bundle branch blocks cause deviations to the right infarctions when muscle tissue
+
+may no longer participate in the electrical activity can also cause axis deviation.
+
+So it's an additional piece of information that can be very helpful in thinking through, um, abnormalities.
+
+Um, in, uh, uh, electrical conduction of the electrical, uh, um, uh, impulse.
+
+But also that can become very helpful when we talk about, um, hypertrophy, additional muscle mass or, uh, infarction when there's loss of muscle mass.
+
+Okay. So there will be additional, um, additional, uh, exercises that we can, you know, go through when we when we read more of the electrocardiogram.
+
+Okay. So let me round out the projection piece by now talking about the chest or what is known as the recording leads.
+
+So we've talked about the frontal lead lead 123 labeled AVR and AVF.
+
+And now we're talking about. Um, the Precor elite.
+
+So we have six front leads, one, two, three AVR, AVL and AVF, and those are, uh,
+
+complemented by six Precor leads that are where the electrodes are placed around the chest, like indicated over here.
+
+And what you're trying to figure out is what is the electrical activity in that, uh, horizontal plane.
+
+And this doesn't project too well. So let me, you know, um, let me improve that, that figure.
+
+I'll try to find a better figure, but we have v1, v2, v3, v4, v5 and v6 and are oriented,
+
+as you see over here in sort of that horizontal plane v1 from the rightmost to the v6, the leftmost electrode.
+
+And we're looking then at electrical activity. Let me actually jump over here.
+
+I'll come back to the heart rate that is then summarized in what is known as the 12 lead electrocardiogram.
+
+So let me orient you here. What we have. Here is time that marches in this direction.
+
+So this is time. Okay. And what the standard electrocardiogram does.
+
+If you hook up the patient, you have a right arm electrode, you have a left arm electrode,
+
+you have a left leg electrode, and then you have these six Precourt elite.
+
+What is shown over here in the first block over here is.
+
+Or maybe actually let me do it. Definitely. The easiest one to think about is the one that's usually at the bottom.
+
+That goes all the way through over here, right?
+
+This is called the rhythm strip. The rhythm strip is one you can select,
+
+which on the electrocardiogram you can select which one of the of these 12 projections you want to have on the rhythm strip as the rhythm strip.
+
+So that is a long recording about I think this is 10s.
+
+Where you have a continuous recording of this particular lead and that lead is indicated over here.
+
+This in our case here is lead to. So this is called the rhythm strip at the bottom.
+
+Okay. And it's it's sometimes good to have a slightly longer recording so that you have
+
+one projection of the electrical activity for a little bit of longer period of time.
+
+Now. The way to think about the other.
+
+Um, piece here of the 12 lead EKG is in terms of these blocks.
+
+Right. We have four blocks of three projections.
+
+And what the electrocardiogram does is that it continuously records.
+
+All 12 projections. But it provides you a visual display of three of these projections at any given time.
+
+So while time is still marching through, you know.
+
+Continuously at discrete intervals.
+
+The electrocardiogram switches between projections.
+
+Standardized. So for the first. I think 2.5 seconds.
+
+It gives you the projections in Leeds one, two and three.
+
+Then it quickly switches, and then it gives you 2.5 seconds of leads.
+
+AVR, AVR and AVF. Then it switches and it gives you three.
+
+The projections of v1, v2 and v3, the first three recorded leads and then in the last projection gives you v4, v5 and v6.
+
+So in each one of these four blocks here.
+
+Here. Here. And here.
+
+Those three projections. Let me focus on the first one.
+
+Are. On the common time axis.
+
+Right. So the time here is exactly the same.
+
+Now, in the second block, the time here is exactly the same. So all three of them are recorded at the same.
+
+Along the same time axis. As a matter of fact, even the rhythm strip is recorded at the same time axis.
+
+And you can see here that the occurrence of the QRS complexes over here.
+
+Actually, let me put back my right. Where's my my pointer or I have my pointer over here.
+
+So here we have a QRS complex. Here we have a QRS complex.
+
+Here we have a Q complex. Here we have a common. They all occur pretty much at the same time right.
+
+So in each one of these four segments. All of these four projections.
+
+You know, the three projections which in each one of these blocks, plus the rhythm strip, they all have the same common time axis.
+
+It's only that at these discrete moments, the egg switches the projections from 1 to 3 to avr, AVL, AVF to v1, v2, v3 and before we five and v6.
+
+And so that in the end is our um, is our uh 12 lead diagnostic electrocardiogram.
+
+All right, let me try to get back my. Let's get rid of all of this.
+
+So this is a very standardized view where the magnitude is shown over here.
+
+Um, the the magnitude calibration is shown over here, and the speed with which this is recorded is also standardized.
+
+And it's usually shown at the bottom and must have been I must have cut it off over here.
+
+Not to confuse people. Oops.
+
+What do we have over here? Let me get rid of this thing.
+
+Let me move this one out of the way. Okay. All right.
+
+Okay. So. This standard 12 lead EKG.
+
+And to Alex's question earlier on in in the lecture, it's good to have multiple projections, many of these different projections.
+
+And yes, you can see, you know, there's some commonality in these projections.
+
+Right. But there's also um, it is you know, it is also gives us usually additional information and as you know,
+
+that, for example, or if I were to ask you here is, you know, can you.
+
+We might be interested in the p-wave activity in atrial depolarization.
+
+You see that there are some leads, for example, lead three over here where you really hardly have any p wave activity.
+
+Right. Now there are other leads, for example AVR over here where you have slightly negative deflection over here, but you can consistently see it.
+
+You can also consistently see it indeed one over here early two over here right away a you know V3 over here you also see electrical activity.
+
+If you see a particular feature or a particular abnormality in, let's say one lead over here,
+
+let's say we would have an abnormality in v3 because v1, v2, v3 and the rhythm strip in this block are all collected at the same time.
+
+It's always good to look at it at these other leads, to see whether you can see the same artifact.
+
+Right. Or whether it's isolated to a particular um, or feature might not have might not have to be an artifact, but at the same feature.
+
+And to see whether that is represented not just in one lead, but across all of these leads, again,
+
+there would be a lot of exercise, a lot of refinement, a lot of, um, um, coming back to these 12 lead EKGs,
+
+especially as Doctor Tatro, um, will speak about abnormalities in rhythm, uh, in impulse generation,
+
+in impulse conduction, uh, and more broadly in, uh, electrocardiogram and electrophysiology.
+
+Okay. So where do we stand?
+
+Let's go back. I skipped over something here. So we talked about the recording lead, the surface electrocardiogram, one of the key information.
+
+One of the most primal, primitive, essential, but essential information that we want to extract from the electrocardiogram is heart rate.
+
+How? Um. Often. And when we talk about heart rate, we usually talk about the the rate at which the ventricles are beating.
+
+So this is a QRS complex over here.
+
+This is the positive deflection is called the R wave right.
+
+And so what we talk about often is the r to r interval or 60 over the r to our interval measured
+
+in appropriate units of beats per minute gives us the rate at which the ventricles depolarize.
+
+So one of the things that we can do is we can count the number of RR intervals in this.
+
+Oh sorry I should say that that the paper here, that is um, uh, this since the speed is standardized.
+
+Right. Um, the distance here of one of these big blocks corresponds to a standard, um, time interval.
+
+In this case, it's point 2 seconds or 200 milliseconds where each one of these small blocks is about 40 milliseconds or 0.0, uh, four uh seconds.
+
+Right. So once we have that timing information, we can count sort of the number of, of intervals,
+
+um, and big blocks and little blocks and um, and then from there derive the heart rate.
+
+Now, another thing that I would have shown you here in, uh, I don't know whether we actually I have this piece of information.
+
+Uh. One second. Uh. I didn't even find.
+
+What we have for you guys is a calipers. So what you see over here, if you look at the distance between zero and the first,
+
+our interval from the first to the second, you can probably appreciate that that interval is very constant.
+
+And what we'll have for you are calipers where you can actually do a measurement.
+
+And you can easily confirm that that interval doesn't change.
+
+Right. So here you have a very regular heart rate.
+
+Right.
+
+You can either count the numbers of big and little boxes and, and and you convert that to a time interval and the time interval to a heart rate.
+
+Or you can follow the algorithm that is given over here.
+
+Or you can follow the algorithm that is given over here.
+
+So. If one of those big blocks of time is zero point, uh, two seconds.
+
+So what? Um, the. Let me find this again.
+
+So here. From here to here, 0.2 seconds.
+
+One if you have a very regular heart rate, one thing that is always.
+
+A trick or a convenient thing to do.
+
+Find yourself a QRS complex where the the R wave coincides as as closely as possible to one of those thick lines over here.
+
+Right. Because then we know that if another bead were to occur over here at the next pick line, that that would only be point two seconds apart.
+
+Now, if another one were to occur over here, this would be 0.4 seconds apart and so on.
+
+Right. If it were one, two, three, four, five blocks away.
+
+Because five times 0.2 seconds.
+
+Is one second. That would be a heart rate of 60 beats per minute.
+
+Right. If you have one beat every second, you have a heart rate of 60 beats per minute.
+
+So one very convenient thing to do is to look across the rhythm strip usually, and to say if I have,
+
+if I can find a keywords complex that is most closely aligned with one of those thick lines.
+
+Right.
+
+Then if there were another QRS complex that were to come at the next thick line that you can confirm would be a heart rate of 300 beats per minute.
+
+Because it would be five beats per second right now.
+
+If you double that interval, you have the rate. So if I go two over, it would be a heart rate of 150.
+
+If I were to go three over, I would divide this rate of 300 by three, and I would have 100 beats per minute.
+
+If I would go for over, it would be 75 beats per minute. Five would, uh, you know, would be one beat per second or 60 beats per minute.
+
+One over would be 50 beats per minute. So 300.
+
+So you align this, you find it yourself across complex.
+
+It's very close to the, um to the thick line 301 5175.
+
+So you see over here that we are very close to 75.
+
+So this to to the next six lines.
+
+So this are our interval of this heart rate corresponding to this, our interval probably around, you know, 7580 beats per minute.
+
+If you really want to be precise you have to, you know, count the small boxes and, and and do a little bit of arithmetic.
+
+But that's a quick way of getting the instantaneous heart rate, which then also becomes the average heart rate.
+
+If you have a very regular pattern of the interval.
+
+So we can exercise this. In the next slide.
+
+So we've seen this over here right. So this is the egg that are 12 degrees CG that I've shown you in the previous.
+
+Um. Um, just a moment ago. So look at this keywords complex over here.
+
+Right. So this is one to the third QRS complex lies conveniently just on top of one of those thick lines.
+
+So if you want to say what is the heart rate, first of all, you would see if you were to pull out your calipers,
+
+you could actually see that that rate is very, very regular.
+
+So if we go one over 301 5175 60, so a heart rate somewhere between 60 and 75 beats per minute.
+
+Again. If you want to be precise, we'll have to count the smaller the smaller boxes right now, because it's also this is the instantaneous heart rate.
+
+And if the if the heart rate is very regular, then the instantaneous heart rate is also um, similar to the to the average heart rate.
+
+Now another thing to recognize is that we're actually showing about ten.
+
+We're showing 10s worth of data here. If you're interested in the average heart rate you can also say how many.
+
+You know ventricular contractions are actually represented here.
+
+Say 12346789 ten.
+
+Right. And so if you have ten contractions over the course of 10s.
+
+Right. Then you multiply this by six in order to get the average heart rate, which in this case would be around 60 beats per minute.
+
+So that's the way of getting at the, you know, at the heart rate and the, um, the ventricular rate.
+
+All right. Um. Getting.
+
+I promise you that there's only one going to be one flight, and you have all my permission to even forget about this slide.
+
+Oftentimes, we get a question. Well, if you have all of these projections in the horizontal plane.
+
+So the pre cordial leads and you have the orthogonal projection in the in the in the front lead, you know, why can't we just reconstruct these loops.
+
+Right. And is there any, um. Uh, is there any value in doing so?
+
+So that gives rise or gave rise to this field of vector choreography.
+
+So at any given moment based on these projections, we can reconstruct the, um, the, the orientation of that dipole.
+
+Right. And what you see over here are three loops.
+
+We have a small loop over here which is the atrial depolarization loop.
+
+Then we have the big blue loop. I mean this this way around which is the ventricular depolarization loop.
+
+And then we have the green loop which is the um the the uh ventricular repolarization loop.
+
+And you can look at this in 3D space and you can look at features thereof and so on and so forth.
+
+Um, there's been there was a big or reasonably sizable field of,
+
+in cardiac electrophysiology and in the engineering applications thereof that looked at this at one point or another.
+
+And it has kind of completely gone to the wayside.
+
+And there was not really anything that was that clinically translated in terms of vector cartography.
+
+I wanted to mention it here because it's an obvious question that if you have projections in the horizontal plane,
+
+you have projections in the vertical plane.
+
+You can reconstruct some of these loops, but the additional information that is provided by reconstructing the entire loops,
+
+rather than the projections as shown in the 12 electrocardiogram, is fairly minimal and has has not translated.
+
+So for the sake of completeness, here it is. You have license to forget.
+
+Okay. So that brings us essentially to the end of the, um, of of the connections of cardiac.
+
+Electrophysiology. Essentially cellular electrophysiology and how to connect the cellular electrophysiology to the surface.
+
+Electrocardiogram. Now the question is, how do we actually go about analyzing these squiggly lines?
+
+And right now I don't want you or we don't want you to engage in a.
+
+Um, exercise of pattern recognition that can come down later when your, uh,
+
+clinical cardiologist like doctor told the doctor Ted rule, right now, the best way to proceed is really algorithmically.
+
+Meaning that what I want you to, to use is an algorithm to, to orient you.
+
+Because these things can get quite complex, and it's very natural to first look at the overt abnormality.
+
+Abnormality that's represented in these, um.
+
+In these, uh, tracings. But one can get very easily swamped by that.
+
+So what what we want to make sure is that we have an algorithm that allows us sort of as a scaffold,
+
+that allows us to anchor our analysis and to actually think through very carefully,
+
+and then look at the abnormality and see whether we can actually connect the connect the
+
+abnormality to a physiological impairment or abnormality that we can pinpoint thereby.
+
+Okay. So what is the what is the algorithm that we want to follow right now.
+
+First and foremost are there find the QRS complexes.
+
+At this stage of your career.
+
+These it's the usually the biggest feature, the most prominent feature of the um electoral uh, of the of the surface electrocardiogram,
+
+as see in this mode is the sharpest it's it's the most, you know, it's the highest amplitude feature.
+
+Can we find them? Yes. What is the rate?
+
+Is the rate regular? Is the shape regular? Right.
+
+That can already give us some hints of what might be happening if the raid is regular, and if the shape is regular.
+
+And if the if they are nice and narrow, as we saw, narrow means less than or the QRS complex less than or equal to about 120 milliseconds,
+
+that usually indicates that once the electrical activity comes through the AV node,
+
+it travels through the electrical conduction pathway,
+
+and the ventricular contraction happens at the same time or very over a very brief period of time,
+
+and that there are no usually no abnormalities at the level of the ventricular contraction.
+
+So ventricular depolarization, I should say. All right.
+
+Once we have the QRS complexes, can we find P waves?
+
+And to find P waves. We will have a lot of examples where we look at single single rhythm strips.
+
+But when we look for p waves in a 12 lead EKG, we usually look across different, different, uh, um, projections.
+
+Right. Um, not just a single lead.
+
+And then the question is, is there a 1 to 1 correspondence?
+
+Right is every P wave followed by a QRS complex, and is every Q complex preceded by a P wave.
+
+In other words, is there a 1 to 1 correspondence and is that corresponding regular?
+
+In other words, is there a constant PR interval interval from the beginning of the pea wave to the beginning of the QRS complex?
+
+Right. That's usually within 120 hundred and 50 milliseconds.
+
+That 1 to 1 correspondence is important. Is the shape regular within each lead right, or does the shape actually change?
+
+If we look, for example, at the rhythm strip and if we have a p-wave in the rhythm strip,
+
+is the shape of the p-wave constant, or does that shape also shift?
+
+All right. 1 to 1 correspondence with every keyword complex preceded by pages.
+
+Prayer followed by a cures complex. What's the shape?
+
+If not every if there are more P waves. Then there are QRS complexes.
+
+Right. That means that not every depolarization of the atria is conducted to the ventricles.
+
+That might give rise to us thinking that there might be something wrong.
+
+Or not normal with the connection. Electrical connection from the atria to the ventricles.
+
+So we would think immediately aha! There might be something wrong with the AV node.
+
+Right. If there's more P waves and there's QRS complex. If that's the case, are there regular patterns?
+
+Are there motifs in which that, you know, abnormality might occur as we will see.
+
+All right. So find the correct complexes. Find the p waves and then define and name the rhythm.
+
+So we will introduce a lot of rhythm supraventricular tachycardia.
+
+We will talk about third degree AV blocks. We will talk about second degree AV block.
+
+You know type. Thank you. Book. Right. The names are not so important right now.
+
+What is more important is that on the basis of our understanding of the normal electrical conduction pathway and what we would expect.
+
+In terms of the projections. Indeed, 123 avr avf one to v1 v2 through v6.
+
+What do we think is the abnormality and what do we think?
+
+The origin, the physiological or pathophysiological mechanistic origin of that abnormality.
+
+So I'm less and less interested in you telling me that this is a dissociation rather than that.
+
+You can explain to me on the basis of what we see in terms of the electrocardiogram, of what it actually means when we use this word.
+
+Okay. All right. So.
+
+We'll close out today with an example. So this is one projection.
+
+It could be a lead. One could be a lead two projection right.
+
+And what we call this over here. Is normal sinus rhythm.
+
+I don't know why I'm telling you this. But let's actually go through this.
+
+Let's go through our algorithm. Do we see QRS complexes?
+
+Let me go here. I would say yes, we do.
+
+Right. We have one over here. Actually, I don't like this screen. Let me go back to rep.
+
+Might be a better contrast. So this looks like a QRS complex.
+
+This looks like a QRS complex. And so on.
+
+This looks like a QRS complex over here. Right. So the first thing of our algorithm is to identify QRS complexes, right.
+
+And if I had my massive caliper and I could show this to you on the big screen downstairs in the lecture hall, you know,
+
+we would go through and say, okay, is the RR interval, is the distance between these QRS complexes approximately constant.
+
+And you can use your fingers and you can actually, you know, see whether that is and it is approximately the case.
+
+All right. Now, number one, we have cubes.
+
+Complexes. Yay! Number two. The spacing of the QRS complexes is approximately constant.
+
+Number three the shape of the QRS complexes.
+
+Look pretty much constant. Right.
+
+So whether I use the fourth or the fifth or the third, third or the first or the seventh, they all more or less look the same.
+
+There's not like some that are vastly bigger than others in terms of or longer than others and vastly bigger than others.
+
+You could kind of cut this out and superimpose on top of one another, and they would all pretty much look the same, right?
+
+Now, the QRS complex should be within about 120 milliseconds.
+
+So if you know the width of the keywords complex should be around three of these small boxes.
+
+And if you were to zoom in over here, you would actually see that's approximately three of the small boxes.
+
+Leaves only one thing for us to do and that is the rate.
+
+Now. Again. What do we want to do? We want to find one QRS complex.
+
+In this case it would be this one over here. Right.
+
+Or it could also be another. This is the only one that we have over here.
+
+And we say, well, this one is false.
+
+Right smack daddy onto one of those thick lines. Right.
+
+So if we go over by one, we have 300 beats per minute by another one 150 beats per minute by another one,
+
+it would be 100 beats per minute and by another 175.
+
+So our heart rate over here, we can immediately say is between 75 and 100 beats per minute.
+
+Right. And if we were to, if we were to do this more carefully, we would actually see that it's a rate of 85 beats per minute.
+
+So we're done with the QRS complexes.
+
+Normal rate. Normal means between 50 and 100 beats per minute.
+
+Regularly spaced. Regular shape.
+
+Normal. Duration less than 100 or less than or equal to 120 beats per minute.
+
+Okay, now the question is what about the P waves?
+
+Do we have p waves? Can we see P waves? Now let me use blue over here.
+
+Yes. Right. We have p q r s t.
+
+We have p q r s t p q r s t.
+
+Right. And. I grant you that sometimes, as we will see, it might be difficult to say, especially if the heart rate is high.
+
+Is this a T wave? Is is a P wave. So things will can get arbitrarily complex right.
+
+Now let's focus on the, on the um, um, on the algorithm.
+
+There is a little wave in front of every cure's complex, and that little wave looks different from that bigger wave over here.
+
+So we have evidence of p q r s t p q r s t p q r s t, and so on.
+
+Right? And the shape of these P waves over here look pretty much all the same, right?
+
+Always positive deflection. Again we could cut them out, superimpose them on top of one another and it would look more or less the same.
+
+Good. So what about 1 to 1 correspondence?
+
+Since we have p q r s t p q r s t. We don't have, let's say pxp and then another p qp.
+
+Right. So it's a 1 to 1 correspondence. Every q complex is preceded by a p wave.
+
+Every p wave is followed by a Q is complex.
+
+So there's a 1 to 1 correspondence which makes us think that the impulse generation originates with.
+
+They say not. Travels across the atria impinges on the AV node.
+
+There's this delay we have. Looks like a normal PR interval of less than or equal to 250 milliseconds.
+
+Right. And then you have that fast ventricular depolarization and then ventricular repolarization.
+
+We call that sequence of p, q, r, s, t, or atrial depolarization a v nodal conduction.
+
+You know, ventricular depolarization. Ventricular repolarization.
+
+Normal sinus rhythm. Normal here because the heart rate is also normal.
+
+And normal sinus rhythm because it's the rhythm is generated at the sino atrial node.
+
+So that's where sinus comes from. Sinus atrial node.
+
+And it propagates through the normal conduction pathway. All right, so let me go and get rid of this thing.
+
+No. We can also have the sinus tachycardia.
+
+I mean that we have a fast heartbeat. Let's go through the algorithm again.
+
+Do we have QRS complexes? Yes we do.
+
+We have these big complexes over here, right? No, I'm not telling you what lead this is.
+
+This is currently not so relevant, right? Whether it's a lead one, two, three, four, whatever.
+
+Rejection is no lead for. But you know projection is not so important.
+
+It's really more the interpretation. So we have QRS complexes.
+
+Again the shape of them all look the same right.
+
+There's not like some that are much wider or much taller than others.
+
+Right. What about the raid here?
+
+The very first one already falls nicely on one of those big lines.
+
+So we have 300, 150/100.
+
+So the next one comes between 100 and 150.
+
+If you were to compute it exactly it's about 125 beats per minute.
+
+So we have a ventricular rate. So we have contributed depolarization.
+
+The irregularly shaped pair have a normal duration.
+
+They are um they are regularly spaced and have a rate that's 125 beats per minute, which is more than what we would expect under normal circumstances.
+
+What about the P waves? Do we have P waves? Yeah, we have them.
+
+Over here, over here, over here and over here.
+
+They might be merged a little bit with the t wave over here.
+
+Right. Because we are at a slightly higher heart rate, but they all kind of look the same.
+
+So. There's no irregularity in terms of the shape.
+
+There's regularity in terms of the timing. And there's regularity in terms of the timing vis a vis the following QRS complex.
+
+And importantly, again, we seem to be having a 1 to 1 correspondence between the P waves r t waves P-wave q r s t wave.
+
+There's no additional. P waves above and beyond sort of the number of QRS complex that we have or there's there are none missing.
+
+Every queries complex is preceded by a T wave, and every T wave is followed by a QRS complex.
+
+All right. Again atrial depolarize sino atrial node depolarization.
+
+Atrial depolarization. We have a p a p r interval that is still about, you know, 150 or so milliseconds.
+
+Right. Sort of nodal delay in the AV node and then fast ventricular depolarization and ventricular repolarization.
+
+Again it's a sinus rhythm.
+
+But because we are above 100 beats per minute, we would call it sinus tachycardia meaning simply meaning that the heartbeat is fast.
+
+But there's nothing else that is wrong here in terms of the conduction initiation and the and the way the propagation of the electrical impulse,
+
+it goes through the normal pathways. And if we have a sinus tachycardia we also have a sinus bradycardia again.
+
+Well now we're indicating to you that this is a lead one configuration.
+
+Right. Do we have QRS complexes. Yes we do. One here, one here, one here, one here and one here.
+
+Is the shape the same? Yes. They all look the same.
+
+They all kind of look the same. You can cut them out, superimpose them all the period or look, you know, look the same.
+
+Um, what's the rate? Is the spacing equal?
+
+Yeah. If we had our calipers, we would demonstrate that the spacing is more or less constant to within a small physiological variation.
+
+But now the question is what is the heart rate. So again the very first one is approximately right on one of those big fat lines.
+
+Going over by one is 301 50, 175 60.
+
+This one is approximately equal on to on this first line, maybe a little bit to the right.
+
+So we're talking about 50 maybe slightly less than 50 beats per minute.
+
+And here we're saying sinus bradycardia because the heart rate is less than 60 beats per minute.
+
+It is below normal. So it's simply um, a bready meaning slow.
+
+Right. So it's bradycardia. Um, but it's still, uh, sorry.
+
+That's the that's the that's the bradycardia part. We talked about the ventricular depolarization.
+
+So the very first bullet on our algorithm. What about the second bullet in terms of p waves.
+
+We have p waves over here right. And as you see that it is kind of has biphasic, uh, shape, but whatever the shape is.
+
+And why it is that way. You see that the shape of the p uh, wave is, um.
+
+Uh, is constant, is not changing. Right.
+
+And every QRS complex is preceded by a P wave, and every P wave is followed by a Q is complex.
+
+So we again have strong evidence to suggest that we are, that the impulse is generated at the level of the p wave.
+
+Going through the A12 myocardium through the AV node into the ventricular conduction system.
+
+From there, quick conduction through the ventricular myocardium and ventricular depolarization.
+
+And then, you know, repolarization over here okay.
+
+Sinus rhythm. Sinus tachycardia.
+
+Sinus bradycardia. All right.
+
+Okay. Maybe in the time that is remaining.
+
+What we have over here is also can be helpful if things get complex.
+
+We have something called a ladder diagram, um, where each one of these lines is almost like a musical score.
+
+But each one of these lines represents an anatomical structure.
+
+And the time between these anatomical structures, um, uh, or the space between these anatomical structures is the space between the,
+
+um, uh, the, the space, the structures that are represented.
+
+So here the first line corresponds to the a V node.
+
+That's sort of the sino atrial node. Then the second line is the atrial myocardium.
+
+Then the third line is the a V node. And then the, the uh the um.
+
+Let's say that. Sorry. The space is sorry. The space in between is the SA node, the atrium, myocardium, the AV node and the ventricular myocardium.
+
+And the horizontal axis. Here is time.
+
+And what this indicates. The space in between is the time it takes for the electrical activity to come out of these various structures.
+
+So we think of the, um, the electrical impulse to start at the sign of atrial node.
+
+And for it to take it takes some time to get out of the signal atrial node.
+
+But once it comes out of the signal, it will note the conduction through the atrial myocardium is actually fairly fast.
+
+So that we just have a drop down of this, um, over here.
+
+Now it hits the the AV node and the conduction through the A.V. node you know, is slow.
+
+The A.V. node delays the conduction, and then it just drops down in very fast conduction through the ventricular myocardium.
+
+So that's what is shown over here. So the way that we use this.
+
+Is that if we have a complex rhythm strip, it's good to orient ourselves, to actually have these different structures and to say,
+
+all right, over here, we have a clearly have a ventricular depolarization.
+
+So that would give rise to that vertical line over here. Here we have an atrial depolarization over here.
+
+We see this in particular in this one bead over here. So we would draw this line over here.
+
+We would connect this line because somehow it has to come from the atria to the ventricle.
+
+That's the a v nodal delay that we have over here. And we usually make a hypothesis of where this originates.
+
+But we can do this with each individual bead.
+
+And that can give us um, rise and can help us identify, um, where you know, what's wrong with, with the conduction pathway.
+
+So I want you to take a minute here, um, to look at this and in your mind, sort of go through the algorithm that we have.
+
+So we have ventricular depolarization.
+
+If yes. Is what is the shape and spacing?
+
+Regular. And what's the ventricular rate?
+
+And second, do we see p waves? Is there a 1 to 1 correspondence between the QRS complexes and the P waves?
+
+What's the shape of the P waves? And then sort of figure out what may or may not be wrong with this, with this rhythm.
+
+So it's a 12:45. Let's maybe take three minutes and then we go through this together.
+
+So again, you know, I think she's complexes.
+
+Are they irregularly spaced? Are they irregular in shape?
+
+What are. You know, what is is the rate.
+
+Um. Uh, the p waves. Can we just turn these p waves?
+
+Are they regularly spaced? Are there regular in shape?
+
+And is there a 1 to 1 correspondence between P waves? Kira's complexes?
+
+Is every Q as complex as preceded by a p wave? Is every p wave followed by a curious complex?
+
+All right. One more minute. Okay.
+
+So do we have QRS complexes? It seems that some of you are nodding.
+
+Yes, we have them here. Here, here, here and here.
+
+Are they regularly? Are they irregular in shape? Uh, yeah, approximately.
+
+Not exactly, but maybe. Right.
+
+So they seem to be nice and narrow. So we're within three of these little boxes.
+
+Right. But this one, for example, looks a little different from the other ones.
+
+What about the rate? 300.
+
+So if you look at this 131 5175 6050.
+
+So this one over here is, uh, less than 50 beats per minute.
+
+What about if you go in the other direction 301 50, 175, 60, also 50.
+
+So seems to be approximately. Same.
+
+So rate is low below 60, right?
+
+So regularly SpaceX's intervals shape more or less the same.
+
+Write rate is low less than less than 50 or 50 beats per minute.
+
+Right. What about. About narrow shape, right?
+
+Narrow shape always suggests to us that it's coming from the conduction pathway,
+
+you know, at or below the bundle, you know, but well, usually the bundle of his.
+
+What about p waves? Do we have ways? Some people are nodding.
+
+Okay. When I usually do this, I start over here in the lecture and then use.
+
+Someone said stop. When I actually hit a p wave.
+
+Okay. Then he says he has a p-wave. All right.
+
+Indicate again by thumbs up. When I actually hit another p wave.
+
+Have to be a little faster. All right.
+
+There was one more and. All right.
+
+So then you have also said so what? If I understood correctly, you said thumbs up over here.
+
+A thumbs up over here. A thumbs up over here for p waves.
+
+Right. Let me continue on over here. Here, here, here, here here here here.
+
+Here. Here. Is there one more? Over here?
+
+Right. Okay. All right.
+
+Anybody else sees any more of your P waves?
+
+Is there one potentially in between the first and the second error that you do?
+
+So Alexa, tell me when to stop. Right there.
+
+Uh, potential. Is this all?
+
+I think there might be one also blocked by the Cure's complex.
+
+The second to last one right there. They're here. Question mark.
+
+I think there's one in between the shrubs and the teeth on the last.
+
+Here. Yeah. All right. Okay, so now look at this.
+
+Now, if that's the case, we would again pick our calipers right.
+
+And see whether these arrows that we've now drawn come actually at a fairly regular interval.
+
+And as you will see, is that this seems to be fairly irregular.
+
+And if we then go back we might actually interpolate another one over here.
+
+Right. Now these can be P waves, right?
+
+It seems that they are irregular, but do we have a 1 to 1 correspondence between the QRS complexes and the and the in and the.
+
+No we don't. Right. It almost seems like.
+
+And let me actually know the beauty of doing it this way.
+
+Otherwise it would have taken out my, my, you know, colored chalk or actually I shouldn't be drawing on the, on the projection thing.
+
+So what you can see over here I'm marking in red the QRS complexes.
+
+Right. The QRS complexes are marching through regularly at a low rate.
+
+But the P waves seem to be marching through regularly also, but in a much higher rate.
+
+What is our what is our p wave rate? So let's find a p wave that starts.
+
+Can we find a p wave that starts approximately at the beginning.
+
+Let's do this over here. Right.
+
+So let's assume that this p wave, the onset of the p wave over here starts more or less at this at this thick line over here,
+
+301 5175 we said that there might be another oops, wrong color.
+
+There might be another P wave over here. Right? So what did we say?
+
+Let's say p wave over here 300 150 175.
+
+So it would be between 75 and might be 80. 85 would be a normal P wave.
+
+Right. We have a normal rate of P waves. And if you look at this paper over here in this paper over here, let's look at the isolated pea waves.
+
+Right. Shape wise, they all look the same, right?
+
+Of course, if they're hidden in a T wave or if they're hidden in the QRS complex, then they might look differently, right?
+
+But it seems that the shape is very similar. The rate is normal.
+
+It's just that the P waves are coming at one rate and the QRS complexes are coming on another,
+
+and they seem to be just marching sort of in and out, right, marching past one another.
+
+So in the last few minutes that we have over here, let me actually march you through this.
+
+So what do we think is happening here? Um, let's go away.
+
+Ventricular aid. We said about 50. Can you find P waves?
+
+Yes. I 1 to 1 correspondence. No, no.
+
+What's the atrial rate? So this is exactly what I've done over here. You see very regular p-wave very regular QRS complexes.
+
+Right here would be something akin to a letter diagram where we have the same nodes firing.
+
+Right. We see that there is that at the onset we have our atrial, you know, depolarization.
+
+But they seem to be a, you know, no correspondence between what the atria are doing and what the ventricles are doing.
+
+Right. And so how can we explain this?
+
+We can explain this that at the level of the a v node, the impulses are blocked.
+
+Right. That's what I've said over here. Complete hard block with nodal escape rhythm.
+
+Remember that the a v node, the sa node, a v node, but also the, uh, the.
+
+Tissue of the conduction pathway below the level of the node. All have other ethnicity.
+
+And if the AV node for some reason is blocked and the ventricles don't see a rhythm,
+
+or don't see a depolarization coming from the atria, which is the highest rate of depolarization.
+
+The ventricles. Would the ventricular conduction pathway would fire at some point, but it would fire at a lower rate than what the atria had.
+
+So here we call this a third degree AV block or complete heart block,
+
+because the atria or the ventricles are blocked from the from the, um, from the impulses coming from the atrium.
+
+Again, the name right now not so important as is on the basis of what we see.
+
+Can we actually reconstruct and can we localize where the issue might be and what the issue might be?
+
+So with that reminder that we have the electrophysiology lab this Thursday during class time, we meet downstairs, uh, in uh,
+
+119, 121 and, you know, down the hallway at the ctor, you would record your own EKG, play around with, uh, recorders.
+
+What to bring? Bring your laptops, as I said, fully charged.
+
+Uh, everything is on canvas for, uh, next Thursday.
+
+So go there, download, um, audacity or the pointers if you don't have Matlab installed, how you can install it from MIT.
+
+And if you want to get on the treadmill, bring your exercise clothes and uh, and uh, protocol, everything is posted on canvas.
+
+Thanks for participating in today's lecture. And, and, uh, um, hopefully this is the last snowstorm for the season.
+
+Or it can we can have more snowstorms. Just stay away from Tuesdays and Thursdays.
+
+That's all I'm asking. All right. Looking forward to seeing you again on, uh, on Thursday in person.
+
+And we'll go over some of this material. So have a good rest of the day tomorrow and see you on Thursday.
+
+Bye. Thank you. Thank you.
+
+Thank you. Uh, super quick question, Thomas.
+
+Yeah. Uh, for Matlab, is online version good or should we have, like, local installations?
+
+I know they recently launched the online version where you don't have to.
+
+I've never played with the online version. So if if it does everything that it does.
+
+Um, as long as you can actually have access to your, um, uh, to the local audio slot, um, it should, it should, uh, it should be fine.
+
+I think it should be okay. I think people last year used the online version, and it was fine.
+
+Okay. See? I didn't see it. All right. Thanks. Yeah.
+
+Valerie. Yeah. I just had a quick question about complete heart block.
+
+So in this case, like is the way to interpret it that the SA node is actually firing normally and the atria contracting normally,
+
+but then the ventricles are not getting this information because of a blockage at the AV node.
+
+Because the way I was thinking about it before was like,
+
+maybe there's like the ventricles are beating normally, but then there's no feedback to the atrium.
+
+I, you know, that's like keeping the heart in the same rhythm.
+
+But I guess that's kind of backwards because the SC node is the normal pacer of the heart.
+
+The S.A node is a normal pacer of the heart, and there's no feedback of the type that you just mentioned,
+
+in the sense that the ventricle feeds back to the atria.
+
+So the the highest rate to the rate is determined by the fastest pacemaker.
+
+And that's usually the SA node. And everything is is is working properly.
+
+It just propagates through the atria through the AV node into the ventricles.
+
+But it wouldn't some reason the AV node is is damaged and doesn't conduct the signal right.
+
+Then eventually tissue that is further down in the AV node or in the common bundle of his will
+
+actually generate a ventricular rate that's much lower than what the atria would provide.
+
+So the signal, it's like the node that's receiving input from the rest of the body that,
+
+like all the metabolic demands are going up, we need like more oxygen needs to pump faster or slower to go to first order.
+
+Yes. But that input also goes to the AV node or to the rest of the myocardium, as we will see when we talk about the control.
+
+But in terms of rate, yes, the modulation of the rate under normal circumstances is mostly related to,
+
+you know, what's happening at the level of the AC node. Um, but when the heart actually wants to, wants to, let's say accelerate, right?
+
+It's not just an influence on the assay node, but it's also an influence on the AV node.
+
+Because if you also want to accelerate the conduction through the AV node, right.
+
+So I'm thinking normally the pacemaker of the of the normal heart rate is or the normal rhythm is at the level of the node.
+
+Okay. Thank you. Sure. I'm all right.
+
+Yeah. Tom, had a quick question. Um, so we're talking about, like, the mean electric cardiac vector and then the mean sort of the axis,
+
+cause I think we're talking about like, sort of like some of the other stuff in, in, like just the vector end up being like horizontal.
+
+So I was just, I think I was lost in there somewhere. I just didn't see how they connect.
+
+Okay. Let me let me bring this up. Um. Let me see.
+
+So let me go back. So what I was saying over here, um.
+
+Let me go. Maybe here. Right. Okay, so what we said.
+
+So there's a there's a bunch of is is it more about the math or is it more conceptual?
+
+I think it's more conceptual. Okay. So here what we're saying is you have you have this loop.
+
+Yeah. And you can define a mean vector.
+
+Right. A time average of all of these little of, of all the vectors in the loop.
+
+You can define a time average right. Yeah. Then the question became how do we actually find this.
+
+A computer can do that right. But how can we actually do this ourselves.
+
+And that's where sort of the math came in. Right.
+
+And and where we said, well, if we actually, if we actually have two basis vectors, but the main recognition is, is down here.
+
+Right. If you can find a lead vector le right, such that the integral over that projection over the QRS complex is approximately equal to zero.
+
+So if I integrate from the beginning of the QRS complex to the end of the QRS complex, and if the if the amount of,
+
+you know, area above this line and below the baseline is more or less the same, right.
+
+Doesn't have to be zero. It can just be opposite directions right of approximately equal magnitude.
+
+Then we know that because this is a dot product over here, then we know that this mean axis has to be orthogonal to that vector.
+
+Does that make sense? Yes. Right now.
+
+Then I said, all right, let's apply this over here. So here the lead two.
+
+If we were to integrate from, you know, from the beginning to the end of the QRS complex, approximately equal.
+
+In, in, you know, uh, sorry, uh, approximately zero if we integrate over it, which means that in this case, let me get this out of the way.
+
+In this case, this is, uh, this is, uh, lead Avi, uh, this, uh, this is lead to over here.
+
+Right? So at this point, we know that our mean axis has to be orthogonal to lead to lead to is our plus 60 degree.
+
+So it must be orthogonal to this dashed line over here.
+
+Right. Right. Now it could be pointing this direction or it could be pointing the other direction.
+
+So we have to disambiguate that. Right?
+
+Yes. So how do we did some weight? That is okay.
+
+We know that our lead one is pointing in this direction, right?
+
+Uh, that's it right. Now, if it's positive in lead one as we see over here.
+
+Right? Right. Must be pointing into the -30 degree.
+
+If it were negative, if we were to see a negative deflection in lead one over here.
+
+And you can you can you could also pick two if you want. Right. Okay.
+
+Then it would have to be pointing in the opposite direction.
+
+And it would be minus or plus 150 degrees over here. Does that make sense.
+
+Yeah. So this would be a left deviate a left axis deviation a exactly.
+
+This would be a left axis deviation. Correct.
+
+Got it. Okay. Yep. That's that was very clear. Thanks.
+

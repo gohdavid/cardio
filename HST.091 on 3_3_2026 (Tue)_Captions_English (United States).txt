@@ -1,0 +1,2289 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Hello? Can you hear me through the thing? Um. Oh.
+
+It's there. Maybe I just slipped. Is that better?
+
+That's better. It was upside down before. Hi, everyone.
+
+Um, so it's it's really great to be back with all of you guys.
+
+We usually do this pretty interactive because it's really important for those of you that
+
+have clinical aspirations to understand the EKG and what we're going to be doing with it.
+
+And, um, I wanted to show this picture because back in 1997, when I graduated from the esteemed program,
+
+that's me there, my father snapped this picture with, like, an old school film camera.
+
+Do you guys see someone that, you know in the foreground of that picture?
+
+Look at that happy guy. Look at that happy guy.
+
+It's like you could feel it in the back of your head. I'm so relaxed.
+
+So smiley. It was very good. So happy to see that there are actually quite a few other prominent people in this.
+
+You you'll recognize that through your, um. She's a prominent plastic surgeon now.
+
+He's a prominent pediatric surgeon over at children's. So there's there's people in that picture just by accident.
+
+But there is the future after HST. So that's what of that picture is meant to let you know.
+
+So we're going to be talking about the surface egg. And the reason, you know, the reason I put in this slide is I don't know if you remember, Thomas,
+
+last year there was somebody that I started to show the EKG stuff,
+
+and one of the people in the front row said, wait, is this really how you interpret this?
+
+You don't have like. A computer that scans it.
+
+You don't have something that runs an AI tool on the egg and tells us what is is on it.
+
+And I said, no, you just literally somebody prints it out on a piece of paper, they hand it to you and they ask you what what you think.
+
+And it's still like that. Like, if I, I'm in the recovery room and one of my patients has just had a procedure and they're having a problem,
+
+and I go in there and the nurse does an EKG on them, they basically print it out on a piece of paper, give it to me, and that's it.
+
+Um, so I think this is one of the most cost effective tests in cardiology.
+
+You can take it out in places where there's almost no technology at all available.
+
+You just need a little bit of electricity to make it happen.
+
+It gives you insight into underlying heart disease. It gives you insight into disease progression.
+
+You can make diagnosis of acute cardiac emergencies and sometimes even acute noncardiac emergencies from the EKG,
+
+but it contains a lot of complex information. So it's important to have like a system for how you how you evaluate it.
+
+So in my talks we're going to see this slide together a lot.
+
+And I feel like even now I sit and watch this movie play again and again because there's so many things in this movie.
+
+So what you have here is you have the heart, obviously.
+
+Right atrium, left atrium, right ventricle, left ventricle.
+
+You guys kind of know the structure of the heart a little bit, right?
+
+So then once once you have that in your head, you want to think about the structures in the heart that carry electrical impulses.
+
+So the heart is primarily a pump, but it's governed by electrical impulses.
+
+So the first thing is the sinus node, which is up here.
+
+So everything starts up here.
+
+A lot of people think of the sinus node as being a structure on the inside surface of the right atrium, but it's actually not.
+
+It sits on the epicondyle outside of the heart surface between the superior vena cava and the right atrium.
+
+So it sits right outside there. There are rarely people whose sinus node is overactive, and we want to actually zap it with a catheter.
+
+It's very hard to do from the inside surface of the heart because it's on the outside surface.
+
+It is really near this big ridge in the right atrium that's called the crista terminal,
+
+and it acts almost as a transmission line for the electrical impulses out of the sinus node.
+
+It shoots some of the impulses down the lateral wall of the right atrium, and it connects up with something else over here.
+
+Do you see how the signals go preferentially over to the left atrium through this muscular band up here, this band is called Bachmann's Bundle.
+
+And it carries the impulses rapidly over to the left atrium.
+
+So there's some hope that the two atria could be coordinated in their contraction.
+
+And so usually for both structures, the electrical signals go through first.
+
+And that triggers the contractile response of the heart.
+
+And so that's how the function of the heart is coordinated. So we've got crista terminus.
+
+We've got Bachmann's bundle. We have atrial contraction the rest of the atrial signals.
+
+So it goes through the Krista terminals across the floor of the tricuspid valve area, the floor of the right atrium.
+
+But it also comes down the septal wall here. And eventually we hit this structure which is the AV node.
+
+So the AV node is a very interesting structure. It is there to protect your ventricle.
+
+So the ventricles are the main pumping chamber of the heart. They're what gives you your pulse if you feel your pulse.
+
+Um, but the AV node is to prevent rapid signals from the atria, preventing too many of them from getting through to your ventricles.
+
+So normally, these valves, this is where the tricuspid valve is located.
+
+This is where the mitral valve is located. Those valves are fibrous.
+
+They don't allow any electricity to pass. So they basically block the signals.
+
+That's why you see the signal kind of go around here and around here because it can't go through this way.
+
+The only way in is through the specialized conduction system here.
+
+So the AV node, which is the first entry point into that conduction system, slows the impulses down.
+
+You notice first there's this activation that happens really fast.
+
+Boom. And then we hit the AV node and everything is quiet for just a second like nothing's happening for just a moment.
+
+And then we hit the natural conduction system there.
+
+And it goes really fast after that. Do you appreciate that? At this moment there's like nothing.
+
+And then there's a lot of rapid activity. Now the natural conduction system of the heart is called the hiss Purkinje system.
+
+It's the hiss bundle is is measured or it starts right at the bottom of the AV node.
+
+And that's where the two bond bundle branches of the heart are still together.
+
+They haven't broken into their branches their ramifications yet.
+
+So here they travel together for just a moment.
+
+Then they split off into the right bundle branch, which goes serves the right ventricle and the left bundle branch, which serves the left ventricle.
+
+But the left ventricle is so big it needs the its bundle branch is bigger, stronger and has two big divisions of it.
+
+So there's an anterior farcical. But you see up here and there's a posterior farcical here.
+
+And when I one of the things I love about this picture is in old texts,
+
+you'll see these as just like single branches, like twigs on a tree, but they actually have been shown on histology.
+
+They infinitely ram ify into the tissue. Like, if you could take a biopsy down here and look at it under a microscope,
+
+you would see it just like infinite, tiny, tiny ramifications of the conduction system.
+
+Now, how does this work? So the difference between the cells that form the Purkinje system and the myocardium,
+
+that's right next to them is the difference is the conduction velocity.
+
+And the other thing is that the Purkinje system is somewhat insulated from the surrounding tissue.
+
+That's why you don't have stuff from here that propagates directly over to here.
+
+You don't see that happen. Um. So the the activation of the heart basically follows these branches and goes straight down to the apex.
+
+And then you see the the whole ventricle get activated sort of from the apex to the base.
+
+And all of this branching allows the heart ultimately to contract as a pump in a unified way.
+
+And we'll see that when this breaks down, when we talk about this later, when one side goes first and the other side goes second,
+
+that can actually cause problems from a pumping standpoint for the heart.
+
+Okay. So that just kind of gives you the lay of the land.
+
+Does that make sense to everybody before we move forward? So this is the system.
+
+You don't have to use my system, but you should have some system.
+
+So this is a good system to have. You may as well use it until you figure out something for yourself that's better.
+
+The main reason to have a system like in medicine a lot, when you go on the wards, you'll have the same kind of thing.
+
+For chest X-rays, you'll have a little system, and it's mainly so you don't miss anything because oftentimes you'll do.
+
+An EKG or you'll do an X-ray. And there's one really, really obvious finding.
+
+But there's something really important down here that's much smaller.
+
+And if you don't have a systematic way of going through it, you're going to miss something.
+
+So the way we usually do it is we look at the rate, the rhythm, the axis, the intervals.
+
+We look for upper chamber enlargement, atrial enlargement.
+
+And then we look for lower chamber thickening, usually for the lower ventricular hypertrophy.
+
+So those are the things we're going to learn about. And now you guys have been introduced a little bit to the EKG.
+
+Write to the paper speed and all that kind of thing.
+
+So on the paper speed here you have tiny boxes that are 40 milliseconds, big boxes that are 200 milliseconds, one second is five big boxes.
+
+And there's always a little mark at the beginning of an EKG called the standardization mark.
+
+And it will tell you what is one millivolt. You'll occasionally see people whose, um, EKG, for whatever reason, is really tall.
+
+And in order to fit it into the EKG printout, it'll print it at half standardization.
+
+So the 1,000,000 volt is is like half of that.
+
+And so that little, that little square wave at the beginning of the printout will tell you what the standardization for the EKG is.
+
+Okay. And you guys have heard that there are three waves we look at on the each of the heartbeats, the P wave, the QRS complex and the T wave.
+
+The P wave corresponds to atrial contraction.
+
+This little spot here where nothing's happening, corresponds to that AV node activation where nothing was happening.
+
+That's where the AV node conduction occurs. And there's the QRS interval where the ventricles are contracting.
+
+And then there's the T wave where everything is getting reset and re polarized getting ready for the next heartbeat.
+
+Okay. So. The rate.
+
+One small box, 40 milliseconds. One big box. 200 milliseconds.
+
+One of the ways you can figure out the heart rate. Is to figure out the number of milliseconds per beat.
+
+And so. And 60,000 milliseconds per minute. You know, the milliseconds per beat.
+
+You can calculate the beats per minute. Right.
+
+When most of us are looking at these EKGs, we sort of know as you go down the big boxes, we start one box.
+
+If you have two accesses that are one box apart, it's a heart rate of 300.
+
+If there are two boxes apart, it's a heart rate of 150. If it's three boxes, it's 104 boxes, 75, 60 and 50.
+
+So that's a good reference for when you're looking at the EKG to try to decide what the rate is.
+
+So does somebody want to tell me the heart rate? Very good.
+
+So we've got five boxes or 1000 milliseconds, and the heart rate is 60.
+
+Perfect. There's a little secret thing on the EKG.
+
+Does anybody see these little things? You know what those are.
+
+Say it loud if you know what it is. A pacemaker. Yeah.
+
+So the pacemaker is actually programed at 60. That's why this is like exactly at 60.
+
+Okay. What's the rate? Yeah.
+
+Very good. 150. Two boxes.
+
+400 milliseconds. 150 beats per minute. Very good.
+
+If you were going to be cheeky. You could say, do you want the rate of the P waves or do you want the rate of the QRS?
+
+Because if you look from far away, there is not just one P-wave.
+
+For every QRS here there's one, two, three, four, five, six, seven like that.
+
+So there are twice as many P waves as there are QRS. So the atrial rate is actually twice that.
+
+How about this one? Speak up, speak up.
+
+Yeah, exactly. So seven boxes, 1400 milliseconds, 43 beats per minute.
+
+And you could again say, which one do you want? So that's the ventricular rate which is pretty slow.
+
+The atrial rate here in contrast to the other one there more P waves than the QRS is.
+
+But the heart rate is really slow. So here we've got a heart rate that's about 100 beats per minute with the atrial beats.
+
+So one, two three boxes right. But the lower chamber is only going at 43 beats per minute.
+
+Great. All right. So the next step we're going to start talking about some of these intervals a little more.
+
+I'll go back to that in just a minute. So when we're thinking about the cardiac events we want to make sure when we're looking at the P wave,
+
+the QRS and the T wave, we sort of went over this a little bit already.
+
+But you should be thinking in your mind, you should have like a model for what's happening to the heart at the time of each of these things.
+
+So you've got your sinus node getting activated here.
+
+You've got your p wave, all that stuff happening, Bachmann's bundle, crista terminus, all that stuff is all in the P wave, right?
+
+That no, nothing is happening. Time is the AV node.
+
+And then the QRS is when the bundle branches and the ventricles are being activated, and then the T wave is when you're recovering.
+
+Yeah. Yeah.
+
+So you want the abnormalities of repolarization of the atrium.
+
+So when when we do ablation procedures, um, for common arrhythmias like atrial fibrillation is a good example of that.
+
+We put tiny, tiny catheters all around in the atria.
+
+Um, and we're able to measure local electric grams in different configurations.
+
+And there's one particular configuration that's they call it a unipolar configuration.
+
+The patient has a patch on their leg, and you have the tip of the tiny catheter in the heart.
+
+And you're able to measure very small activity, very, um, refined regional activation of the atrium.
+
+There you can see evidence of changes in both the depolarization and repolarization of the atrium.
+
+But you need to be just like right in there with a teeny teeny catheter.
+
+Yeah. You would never be able to see it on the surface.
+
+The EKG is all about what's big enough to see on the surface, because it's not true that there are no cells being activated in the wave.
+
+You know, there are definitely cells being activated in there, but they don't produce anything that you can detect on the surface.
+
+Okay, so here's just sort of a preview of the different types of rhythms that we're going to talk about.
+
+We're going to talk about sinus rhythm. So that refers to rhythm that's coming from the sinus node.
+
+It can be normal. It can be too fast. It can be too slow.
+
+So if it's too slow we call it sinus bradycardia. So less than 60 beats per minute.
+
+If it's too fast we call it sinus tachycardia to more than 100 beats per minute.
+
+There are fast rhythms that come from the atria toward the ventricles.
+
+Those are called supra ventricular tachycardia. Why they didn't call them atrial reentrant tachycardia or some other name.
+
+I don't know why, but they're called super ventricular tachycardia. They come in a bunch of different varieties.
+
+One of the ways. So I should say for the sinus rhythm.
+
+One of the things that we often look at is the p wave morphology.
+
+There should be a p wave in front of every QRS.
+
+We look at what whether it looks like from a vector standpoint, it's coming plausibly from the region of the sinus node.
+
+So from high to low. Um. When we look at sweets, we look at the relationship of the chefs to any P waves that might be there.
+
+And don't worry if you can't see the P waves here. A lot of people can't, but sometimes there are.
+
+They can be a 1 to 1 relationship with the ventricles and the atrium.
+
+They can be a 2 to 1 like that other AST little strip that we saw where there are twice as many P waves as the workers.
+
+But they are. They give you a fast rhythm that's usually above 100 beats per minute,
+
+and they have a bunch of different mechanisms we'll talk about when we get to that part.
+
+Ventricular tachycardia are rhythms that come from the tissue of the lower chamber of the heart,
+
+and they usually originate from outside of the Purkinje system.
+
+So one of the consequences of that, instead of it being a narrow beat,
+
+like what we see in sinus rhythm that goes through the his Purkinje system, SVT is that go through the his Purkinje system.
+
+The ventricular tachycardia beats are wide and bizarre looking because they're originating in that slowly conducting ventricular myocardium.
+
+So that's ventricular tachycardia usually regular wide complex rhythm greater than 100 beats per minute.
+
+And then the irregular rhythms we have I don't really have them up here.
+
+Atrial fibrillation and ventricular fibrillation. We'll look at that a little bit later together.
+
+And then the other thing is this last, uh, strip that I showed you where you were measuring the heart rate is heart block here,
+
+that you've got your p waves going along trying to get the heart to go faster,
+
+but the signals get blocked either in the AV node or in parts of the his Purkinje system.
+
+And therefore you're left with escape beats from the conduction system.
+
+So when the, um, when the AV node or the his Purkinje system is blocked, all those little yellow parts of the conduction system.
+
+All of these guys have the capacity to become little pacemaker cells.
+
+They're just like a lot less reliable than the natural pacemaker of the heart and a lot less reliable than the proximal part of the Purkinje system.
+
+But you can see little beats come out of these, uh, parts of the conduction system, and that's what produces the beats when you have heart block.
+
+We'll talk about the different kinds of heart block. All right.
+
+So here are the different kinds of heart block. Um, so the first the the way that these are named is sometimes a little bit confusing,
+
+but unfortunately we are stuck with the nomenclature that they use in the hospital.
+
+So you have to learn this. So when we're talking about the EKG we look first at the PR interval.
+
+Let's just take a look and make sure we're all recognizing what that is.
+
+So the PR interval is everything from number one to the end of number three.
+
+So it basically gives you a little bit of a measure of how healthy the atrium is.
+
+And it gives you a little bit of a measure of how healthy the a.v node is.
+
+So that's the PR interval. So when that starts to be prolonged one big box is the upper limit of that.
+
+So if the PR interval is more than one big box it's abnormal.
+
+So some people call that first degree AV block.
+
+Some people call it PR prolongation. A lot of Electrophysiologist hate AV block because it implies that something is blocked.
+
+Nothing is blocked. It still conducts, but it conducts very slowly.
+
+So we call it PR prolongation most of the time, but you'll find plenty of people call it first degree if you block.
+
+So what is second degree AP block then? That's the next stage of not all the signals from the upper chamber getting to the lower chamber.
+
+So basically it's that that's not some.
+
+But not all of the P waves are conducted. And we'll look at some examples of that in a moment.
+
+There are two types of this. The first is called wanky back block.
+
+And it usually occurs at the level of the AV node.
+
+So what happens in wanky bog type two block is that the sinus node gets activated, the atrium gets activated, the a.v node gets activated.
+
+But it's really slow and it activates the ventricles. But when the next beat comes the A.V. nodes are not ready yet.
+
+And so it takes longer for it to get to the ventricles.
+
+So what you see is on successive beats, the PR interval gets longer and longer,
+
+and eventually there is actually block where it can't get through, um, to the ventricles.
+
+The second type of block, the type the mobitz type two.
+
+You see that in that situation, the AV node works relatively well, but the Purkinje system is what's diseased.
+
+So you see that the problem with the Purkinje system is it has a little different behavior than the A.V. node,
+
+the A.V. node, because it has that delay component.
+
+It's able to do that thing where the PR interval gets longer and longer, the historic energy system tissue is all or none.
+
+It either conducts or it doesn't. And so what you see in this case is that you'll see bits where the PR interval is steady.
+
+But suddenly you'll see the P wave doesn't conduct at all.
+
+This is actually a lot more dangerous than the first type. The first type you could find a athletic person who say, runs marathons.
+
+They're really fit. Their heart rate is really low. You put a monitor on them at night.
+
+They might have wonky back type walk.
+
+And that's just because when you're really fit, you have very high vagal tone and that can make your AV node conduction slow.
+
+But that person, if you run them on a treadmill, everything will tighten up.
+
+It'll all look very normal as they exercise. Um, but the person like this, you usually wouldn't be exercising them anyway.
+
+But if they are blocking suddenly that if in the type two mobitz type two block, if you were to exercise them, their block would get worse.
+
+Um, so that's, uh, if that's dangerous, you would never want to exercise someone having that kind of block.
+
+And then the third degree heart block is complete heart block where you basically
+
+see P waves going and you see whatever ventricular escape there is going.
+
+Um, there's no relationship between the two. So there's that's called complete heart block.
+
+And that's probably the most, most dangerous. And your rhythm depends on those like escape beats.
+
+Yeah. You sometimes do so that we do talk about like the company it keeps.
+
+So, uh, people who are in these first two categories often have a narrow QRS, like, very healthy looking heart.
+
+Otherwise, the people with Mobitz type two.
+
+And like, if you could find the people, the people who come in with third degree AV block,
+
+if you look back and find an EKG that they had maybe a year ago,
+
+two years before, you'll find that they often have evidence of conduction disease in their his Purkinje system on those EKGs.
+
+And it's like the last little bit gave out. So they very often have abnormal QRS complex.
+
+Yeah. Uh huh. Nothing.
+
+You're lucky to have whatever heartbeats you have until we give you a pacemaker.
+
+Mhm. Yeah. So. So first degree AV block we see very commonly just even in healthy people.
+
+So if you were to walk around um an emergency department and there are people with all different types of things,
+
+somebody who fell off their bicycle, somebody and, but and on the other end of the ER, you might have somebody who is having a heart attack.
+
+Right. The person who fell off their bicycle has pain.
+
+Maybe they fractured their leg pain gives you a vagal response too.
+
+So you can get this and this from pain very easily.
+
+You can even pass out from it. But that's reversible.
+
+My phone's ringing. Oh. Oh. It's Bruce.
+
+That's okay. No. Sorry. Do you want to talk to Bruce? I'm sure he remembers you.
+
+Um, yeah. So, so so those are more often in people with more normal hearts.
+
+They can be a problem though, because as we all get older, with every decade of life,
+
+both both our sinus rate and our AV node conduction gets a little bit slower.
+
+So that's a little bit this this type of pace. If you get a pacemaker for this, it's an emergency.
+
+Like there's no discussion.
+
+We could choose you don't go to them and say hey, we could manage this with medicines or we could manage it with the procedures.
+
+I know this is a pacemaker, or if you can't, don't get a pacemaker.
+
+This is all not going to go on for much longer. You might die. Um.
+
+But for these, for these ones, as we get older, you see people who are like in their 80s, for example, they'll be having wanky back.
+
+So not all the signals are getting through. And even when they exercise, it doesn't tighten up anymore.
+
+It doesn't give them 1 to 1 Ave connection, and they feel really short of breath when they try to exercise because their atrial rate will go up,
+
+but their ventricle won't keep up with it. So they they lose a lot of their exercise capacity.
+
+That kind of person, if you give them a pacemaker, they actually feel a lot better too.
+
+Um, so. That that can be, but that's much more of a like.
+
+Are you ready for it? How much is it bothering you? I'm not worried you're going to die from this kind of thing.
+
+So we the these to have, like, are almost at both ends of life.
+
+There's the athlete on one side and then the elderly person who's, you know, just kind of pooping out on the other side.
+
+Yeah. Yeah.
+
+When the when the p wave comes and there's no QRS after it, it'll be actually easier.
+
+Once we talk about we'll we'll show some some examples and then make it a lot more clear.
+
+So here's an example of first degree AP blocks.
+
+This is PR prolongation. So here we see the p wave.
+
+Here we see the QRS. And here's a nice QRS that happens to fall on a heavy line here.
+
+So we know that 200 milliseconds is here right.
+
+Two 4280 so this is 280 milliseconds.
+
+So that is PR prolongation, right. So that's that's an example of first degree AP block.
+
+There's not really anything we do to treat it. We just sort of look at it and say oh that doesn't look that healthy for that person.
+
+If they're the older person, if they're the younger athlete, then we're like, oh, there's probably a really fit and they're doing okay.
+
+As long as they don't have dropped beats or shortness of breath or anything like that, it's not a problem.
+
+So here are examples of the two types of of second degree heart block.
+
+So here is one keyboard block. So here we have a P wave a QRS, a P wave a QRS.
+
+And notice this PR interval. Just a little bit longer, right?
+
+And which part is getting longer of the PR interval? The part where nothing's happening.
+
+See, if I look at that, that's the part where it's nothing's happening. That's in part where nothing's happening there.
+
+That's the part there. And then this one doesn't even get all the way through.
+
+So that's when people block. So it gets longer longer longer. And then we have a drop to beat.
+
+One of the most important things to rule out when you're looking at a strip like this,
+
+it's very important to take your calipers and measure that the p waves are occurring regularly.
+
+Because there are some people that have extra beats from the upper chamber of the heart that can kind of mess up your AV conduction a little bit,
+
+and it can make it look like you have heart block when you don't.
+
+And the way to make sure that you don't is to make sure that the P waves are regular.
+
+So that's that's the type one. Now this is the more concerning one.
+
+Here is the one where we have the PR into the Pave, the QRS.
+
+And that's the period where we're doing nothing. Exactly the same.
+
+Exactly the same. And then suddenly. No shoes.
+
+So that's much more worrisome. This these are sort of almost cartoon tracings.
+
+These aren't from real hearts, but they at least show what the tracing supposed to look like.
+
+Um, very often you'll see, uh, more frequently dropped beats when there's type real type to block.
+
+But even something like this is concerning. Like if somebody passed out, they came to the emergency room, they put you on the heart monitor,
+
+and they saw that that would make us worry that you might need a pacemaker.
+
+So here's third degree heart block or complete heart block.
+
+Those are the same thing. Um, so the p waves are no P waves are conducted the the rhythms dependent on these subsidiary pacemakers.
+
+So here you see these increases.
+
+When you first look at it, your brain wants to say, oh, maybe this guy is connected to there.
+
+Maybe, right? But then I look over here and there's no real plausible, like there's a pave way over here, but that's pretty far away.
+
+And then over here, the p-wave is right next to it. So then if I take a left drive your calipers, I can use Thomas's caliper.
+
+These are really heavy, you know. If we.
+
+Well, maybe it'll make it. Yeah. If we look at that.
+
+Those are totally on time, right? So they have no relationship to these p waves that are going along.
+
+Oh, there's little markers they show you. These are the P waves.
+
+There you have the P waves and then you have the QRS, as they have no relationship at all to the, uh, to the atrial rhythm.
+
+The one of the things that's good to look at when you see these kind of dissociated rhythms,
+
+and you're trying to decide if there's any influence the atrial rhythm is having at all.
+
+If the QRS is are all the same. They should be regular.
+
+They should have no variability at all, because sometimes there can be a little bit of conduction that gets through.
+
+If anything brings that beat a little bit early, like supposing the QRS was over here instead,
+
+you'd be like, oh, maybe there's there's still a little bit of conduction there.
+
+It's not complete, complete heart block. The other thing that we sometimes see is this, which is intermittent third degree A.V. block.
+
+And thank goodness it's intermittent because there would be very, very few QRS complexes.
+
+Right? If it was always like that.
+
+So here you're in sinus rhythm and suddenly there's no conduction.
+
+For several beats and then it resumes conduction afterwards.
+
+So we call that either intermittent or some people call it paroxysmal high grade A.V. block.
+
+One of the problems with this is there are a bunch of different words that mean the exact same thing.
+
+So if someone says paroxysmal high grade, every block, they're saying the same thing is intermittent third degree a block.
+
+And you could say, why is there no beat happening in here?
+
+This is only happening by chance when you see somebody like this.
+
+One of the things you worry about is that this could go away and you'd be left with this, in which case the patient has no pulse at all.
+
+Um, so you don't have a lot of time for this person. Was there a question in the back?
+
+Oh, I thought I saw something. So here are some more real life examples.
+
+What was that? Oh. Is there. Oh, sorry. Yeah. Sorry.
+
+So. Yeah.
+
+It could, it could. It could poop out after a certain amount of time.
+
+Yeah. And even like an extra beat from the lower chamber of the heart might be enough to make it poop out.
+
+Because very commonly one of the things will do emergent for people like that is will put a tube in their groin where the femoral vein is,
+
+and put a little wire up into the right ventricle and use that as a temporary pacemaker to leave time to put in a permanent one.
+
+As soon as we pace their heart, one beat. There are no more intrinsic beats from the heart.
+
+Usually when we do that, we always have to be prepared. Yeah.
+
+A little bit.
+
+So one of the things that we feel is a little bit concerning is supposing instead of doing this, each of these shoes is looked different.
+
+That would mean that we're depending on a few different pacemakers in that his Purkinje system,
+
+which you'd think would be good, but it usually means it's because they're lower down.
+
+So the further from it that, uh, every node, his bundle area that the escape beats are coming from,
+
+the lower down they are, the wider, the more bizarre looking, the less dependable they are.
+
+They're still better than not having any heartbeats, for sure, but they're not likely to stick around very long.
+
+That's a good way of thinking about it, because there are people that get heart block at the level of the AV node.
+
+So like the kid in the E.R. that broke his leg could get paroxysmal AV block that has nothing to do with the his Purkinje system.
+
+So that could be somebody that's got very high vagal tone, and they get so much stimulation of the heart from the vagus nerve,
+
+from their pain that they you've probably seen or heard of somebody that's passed out when they get an IV put in or when they have,
+
+um, a lot of pain from, from surgery or after breaking.
+
+They're breaking a bone they can pass out.
+
+The reason they pass out is because the conduction time through the AV node, through it, through a reflex becomes suddenly very, very slow.
+
+So that person only has sort of the wanky back vagal side of things.
+
+The person that has conduction disease though, in the ventricles.
+
+And the historic hinge system, the type two AV block the the that can progress to complete heart block.
+
+Right. So there it can happen. So that's partly because this is like a cartoon.
+
+That's why I brought you some of these that are more like realistic because these are from actual patients and this is more often what they look like.
+
+Let me show you. Was there another question about this before we go on? Did you ever say, oh, it's the same question.
+
+Okay. So this these are actual patients.
+
+So here's a good example of sinus bradycardia. Right.
+
+We see slow sinus rates. Um we know what you will talk about vectors at some point.
+
+But generally if you're if your p waves are positive and lead to that means that it's a signal
+
+that's going down heading towards the inferior leads and inscribing a positive deflection.
+
+So positive and lead two is consistent with sinus rhythm.
+
+Sinus Breda cardia. Here here's an example of mobitz one.
+
+Here's the P wave. Here's the QRS. Here's the p wave.
+
+And that the QRS comes a bit longer. In that time where we're doing nothing is longer.
+
+And then here this one blocks, you see that it's a little harder to see when it gets stuck on the end of the T wave like that.
+
+And then when we come back here it's short again the PR interval.
+
+And then it gets longer again. So that's what typical wanky back type block looks like.
+
+This is more often what we see with Mobitz two where this person this is v1.
+
+So you can see that the QRS, it's a little wider.
+
+It doesn't totally look normal. Um, the PR interval maybe at baseline is a little bit longer.
+
+You know, it's not uncommon for them to have a little bit of AV node disease.
+
+But here we have a steady PR interval and then a dropped beat steady PR interval and a dropped beats.
+
+So that's that's sort of more those other tracings weren't really from people.
+
+They're kind of drawn cartoons of tracings. And this this is from a real EKG.
+
+So that's um, that's an example. And then here you guys have seen this now a couple of times is the complete heart block example.
+
+So if we look again at the relationship between the P waves and the QRS, there's no clear relationship between the P waves.
+
+And it shows the QRS are regular and slow.
+
+And the atrial beats are within a normal kind of range.
+
+And so both of those are indicative of conduction disease below the AV node.
+
+Urgent, temporary and then likely permanent pacing. So here's an example of something different.
+
+What would you say about this rhythm? It looks irregular.
+
+Great. Yeah. Mhm.
+
+Yeah. So every p wave and chefs seem paired together, right?
+
+Right. But it's irregular a little bit.
+
+So what could make like this beat come early? Maybe.
+
+Maybe? Yeah. This is a little bit of a what am I thinking type of thing.
+
+But one of one of the things you might notice is the p waves are actually kind of different between the different feet, right.
+
+These are probably real ectopic beats.
+
+Like they're trying to tell you that this is and this is an atrial beat that came from somewhere other than the sinus node.
+
+But it's pretty common in older people, especially older people whose sinus node is starting to poop out.
+
+They have scar tissue in the upper chambers of the heart.
+
+Some of their little areas of the heart can start to develop abnormal automaticity, we call it.
+
+So throw out extra beats from other parts and it can make the beat the beating irregular.
+
+Um, but it can also, uh,
+
+show you different p wave morphologies that are indicative of like the different spots in the atrium that the that the beats can come out of.
+
+This is not heart block, but it sort of makes you think about it because of the irregularity that you see with your eye.
+
+How about this one? So it's marked some beats for you here.
+
+One. Two. Three. There's a section here where it looks a lot like the other tracing, right?
+
+There are some P waves that are maybe changing a little bit, but it's pretty regular, right?
+
+What do you think about this beat? And then this speed as well.
+
+Not followed by a QRS. Now there's something that can happen when you have an early beat that happens.
+
+It could come just naturally when the A.V. node is not ready to conduct.
+
+So this is pretty early, like the the T wave.
+
+There's not really a number for this that you could say, but it's early and it's the T wave hasn't even finished yet.
+
+Like in contrast to these guys that conduct pretty readily.
+
+So this one is what we would call a blocked PAC.
+
+So a blocked premature atrial contraction.
+
+I hope in their stuff do they use these. Okay, so there are another thing where there are a couple of names for something that's exactly the same.
+
+Premature atrial contraction passive and AP atrial premature beat.
+
+They both refer to exactly the same thing. So that's this one is very clearly that this one is likely that as well.
+
+This is another bit that came a little bit earlier and the waves had been coming before.
+
+And most likely this and this and this are not indicative of any particular kind of conduction disease.
+
+It's just extra beats. So we don't want to mistake that for some of the heart blocks that we saw before.
+
+Okay, maybe I'll introduce this. Now this is a ladder diagram.
+
+So it's a way to represent the different cardiac events.
+
+By showing how they progress through the heart. So here's the sinus node.
+
+Here's basically conducting through the atria. Going through the atria.
+
+And then there's a time when that's the conduction slows down and that's getting to the AV node here.
+
+So that's that time when nothing's happening. And then this is the ventricles.
+
+And it's the idea is that it's supposed to give you it doesn't include the T wave.
+
+The two wave is not part of this. This is just how the signals are propagating through the heart.
+
+The idea is that the time from here to here gives you a little bit of an indicator of how things are getting through.
+
+So if you see something where we're blocking in the AV node,
+
+you would draw this and then you would draw a little line like that that shows that it's blocked in the A.V. node.
+
+If you see something that's blocking in the his Purkinje system, you would draw to here and then draw a little line of block, that kind of thing.
+
+So that's the idea of the ladder diagram. It can be a good way to.
+
+Represent some of the things that are happening on the EKG that we see.
+
+So here's just sinus rhythm, right? You know, maybe a slightly prolonged PR interval but otherwise sinus rhythm.
+
+So the sinus is right at the beginning of the p wave.
+
+This is the PR interval here through the through the AV node basically including the atrial contraction as well.
+
+And then you see that it goes down to the ventricle. And so when you when you look at it from far away you can see yeah starts at the sinus
+
+node propagates through kind of normally every beat goes through the ventricle.
+
+So here. What do you think? Yeah, a complete heart block.
+
+Very good, very good. So what we see is we see atrial beats.
+
+Bum bum bum bum bum going regularly across.
+
+We see ventricular beats. Going regularly across.
+
+But if we look at like our little two types of triangles, there's no relationship between the two types of triangles, right?
+
+And. What you can see is this is what would be our ladder diagram if that were the case.
+
+So we think we think in this case that the block is in at the level of the A.V. node that's there.
+
+Just saying that for for the sake of argument. So we get here are below that below the level of the avenue.
+
+Sorry. They get through the atrium, through the A.V. node.
+
+And in the middle of that is where we block. And then we have escape B it's coming out here.
+
+And so you can see that these guys are regular. These guys are going through the latter.
+
+And that's kind of it's a little bit representative of what we do in our procedures,
+
+because what we do is we stick catheters in the different parts of the heart.
+
+And so you can actually see electrical activation.
+
+So instead of seeing this kind of thing, you have a catheter near the AV node in the atrium that gives you this part.
+
+You have a catheter near the a.v node in the bundle that gives you this part.
+
+And then you have a catheter in the ventricles that gives you that part. So you can actually measure a lot of that stuff directly.
+
+Okay, how about this one? It's a little trickier, but you can read the latter diagram should tell you what they think is happening.
+
+What's that? Say that again.
+
+Atrial block okay. Right. So we usually when we talk about those so which of those types of block do you think was happen is happening there.
+
+That of the ones that we talked about before. So like we have this sinus activation here, right?
+
+That looks like it's a pretty normal beat, right. We have this one here, and then here we have a pack or a sign of speed that came.
+
+And didn't conduct to the ventricle. Right. So it blocked. Right.
+
+It's a blocked beat. The question is is it on time or is it late?
+
+The. So here we have these guys.
+
+That guy looks like he's a little bit late, so it's almost like it should have conducted.
+
+You would think if the conduction were normal. It's not too early.
+
+Certainly. So this one blocked here. And then what happened after that?
+
+What's that? It's an escape pit.
+
+So there was it blocked and the sinus was not able to come in to produce another beat.
+
+So there's no other sinus activity. So most of the ones we've seen so far.
+
+There was another sinus beat that came in, but this person's sinus happened to pop out just at this moment.
+
+Didn't give any beads. I think it actually might have pooped out here.
+
+And this is like an atrial escaped beat kind of beat.
+
+That's why it's so late. But now there's been no QRS for quite some time.
+
+And one of those low down escape pacemakers in his Purkinje systems like, hey, nothing's happening.
+
+So I'm going to fire off like my, my, they all have these calcium currents that are slowly building up.
+
+And during this time, this escape guy's calcium current reached the point where it's going to trigger another beat, right?
+
+So it threw out what's essentially a ventricular extra systole.
+
+But it's happening because it's an escape, but it's happening because it's been so long since there's been another beat.
+
+Here, and then we're back to sinus rhythm after that.
+
+So what did we have? We have sort of a sinus pause and a ventricular escape beat with a blocked beat in the atrium here.
+
+Does that make sense? Okay, how about this one?
+
+These are things not not necessarily that we've talked about, but see what you think it might be based on the latter diagram.
+
+Yeah. Yeah, yeah. Uh huh. It's a little tricky.
+
+It's a little messy because the P waves aren't exactly regular, so.
+
+But it doesn't look good either way. It looks like both the sinus node and the AV conduction are not super reliable,
+
+so it's a little hard to classify that because you can draw a ladder diagram that shows what's happening,
+
+but you can't necessarily put it right into one of those bins.
+
+It depends on the patient. So if this only happens, say at night when the person's sleeping, it might not do anything about it.
+
+But if it's happens during the day when they're trying to walk around, if they've had a history of passing out or something,
+
+that it could be a reason that you might need to do something about it.
+
+There are a lot of people that do stuff like this. If they have sleep apnea, that's something.
+
+If you guys talked about that in the pulmonary stuff.
+
+There are a lot of people who are a little bit bigger, can have this problem where their airway collapses a bit at night,
+
+and they get these periods of time where they snore very heavily, and that can cause stuff like this to happen.
+
+But that's not necessarily something that you need a pacemaker for.
+
+It's 1130 now. The way. Yeah, we will do this one and be the last one.
+
+That sounds good. Okay, cool. All right. So this is something we haven't quite directly talked about yet.
+
+Does someone want to try? So is it regular or irregular?
+
+It's regular. Is it narrow or is it wide? Uh, who said, I can't tell if it's repolarization or if it's the p wave?
+
+That's a very good question. So this is the QRS.
+
+So the QRS is narrow, but there's something in the T wave.
+
+It's upside down. So what is that?
+
+The latter diagram is trying to tell you what it might be. It's a p-wave.
+
+It's a retrograde p-wave, right? So this is something called junctional rhythm.
+
+So the just after the AV node, the when the bundle starts is called the AV junction.
+
+And that area probably has the most automaticity of all the ventricular stuff.
+
+So a lot of people can get into it can happen even to totally normal people actually that you can have junctional rhythm.
+
+So this is a junctional rhythm where you're having an automatic pacemaker firing right at that AV junction spot.
+
+And what does it do? It sends a signal up to the atrium that makes an upside down p-wave and the signal down to the ventricle at the same time.
+
+That makes that t wave happen as well. So of the QRS and the T wave happens.
+
+So you can tell from the ladder diagram that these guys are going along.
+
+And each one produces a p wave and each one produces a QRS.
+
+So that's. Yeah. Yeah.
+
+Yeah. So that that's a really good point. So when the heart contracts.
+
+Right. So when you're in sinus rhythm you have atrial contraction then.
+
+And usually at that point the tricuspid valve is open and sends all the atrial blood into the ventricle.
+
+When you have this happen the atrium contracts against a closed AV a closed uh, tricuspid valve.
+
+Also mitral valve on the left side. What ends up happening then is the, um the pressure from the atrial contraction backs up.
+
+It often gives people like a catching sensation in their chest.
+
+They sometimes feel like they could feel something in their neck a little bit on each heartbeat.
+
+And it can even trigger something called a baroreceptors reflex,
+
+which is there's little sensors in your neck by your carotid body that are supposed to monitor oversimplification, but monitor blood pressure.
+
+And they're like, oh, there's too much, and I should make it lower. And so it makes them invasive, dilate.
+
+Then their blood vessels, blood pressure goes down and they feel lightheaded.
+
+So they get this funny combination of feeling, this sort of catching in their chest,
+
+feeling stuff in their upper chest and in their neck, and then they feel kind of lightheaded with it.
+
+So strangely, that's called pacemaker syndrome, even though it has nothing to do with a pacemaker.
+
+And the reason for that is that the first pacemakers just had a wire in the ventricle,
+
+and all they could do was paste the ventricle and cause via conduction.
+
+So you weren't dead, but you didn't feel great. Yeah.
+
+So it was just one of those things. So why don't we stop there?
+
+Because I think the next slide goes on to different stuff. Right, guys?
+
+How are you? Yeah.
+
+There is one thing I was going to bring up, since a couple people ask me the same question, so that probably means it's a relevant thing.
+
+So people wanted to know, why did I call this an escape bit?
+
+Because some people have read about something called a premature ventricular contraction, which is a PVC we call it.
+
+Sometimes that is an extra beat from the lower chamber of the heart,
+
+just like those extra beats from the upper chamber of the heart that we were talking about before.
+
+So why did I call this an escape beat instead of a PVC?
+
+The reason I called it an escape beat is it's from some subsidiary pacemaker that's very low in the heart.
+
+And what we were talking about, I think you guys talked about action potentials a little bit the last time.
+
+So a typical myocytes has an action potential that looks like this.
+
+Right. And it gets its action potential gets started usually by propagation from a neighboring myocardial cell.
+
+But a pacemaker cell is a little bit different. It doesn't have a resting potential that stays at one spot.
+
+It has a little time of activation of the resting potential till it reaches a threshold,
+
+and then it sends, uh, action potential that starts off the next heartbeat.
+
+And depending on what level of the ventricle you are.
+
+So if you imagine that you're one of those Purkinje cells going down there that they each imagine them,
+
+each with a number on them, that they each have a number that they wait till they fire if there's no QRS,
+
+because normally if there's a normal QRS in the ventricle, those, uh, pacemaker cells,
+
+it's way to these are way too slow because the normal rate just keep the normal heartbeat that comes by.
+
+Resets this all the time. So it keeps getting reset.
+
+So it lives its whole life getting reset and not acting as a pacemaker the whole time until there's no heartbeat.
+
+Then it sits there and all of a sudden it has enough time that it can fire and produce a QRS.
+
+And that's what this is. This is like all of a sudden, there's now been long enough that that one ventricular pacemaker has fired.
+
+And that's why we call it an escape bead instead of a PVC.
+
+Because this is not abnormal automaticity. This is like the automaticity that's intrinsic to the tissue.
+
+It's not that important like for disease necessarily.
+
+But to understand the pathophysiology is kind of important. So that's that's why I refer to this as an escape.
+
+Okay, so we were going to move from talking about rhythm strips to talking about the whole 12 lead EKG.
+
+Have you guys you've seen that a little bit when you did your lab, is that right.
+
+The the 12 full 1280 Q somewhat. Okay.
+
+So this is the setup for no matter where you go, this is what you do for your 12 lead EKG.
+
+You have a right arm, left arm electrode right leg, left leg.
+
+And then you have these pre cordial leads that are placed like this around the rib cage where V1 and V2 are opposite the sternum here.
+
+And then these sort of go across the chest with V6 in the mid axillary line here.
+
+So those are all the different the different leads that we put.
+
+If you order an EKG, there are a lot of medical assistance to get trained and how to put these on.
+
+They'll put them on and then they'll print out the 12 lead. So the limb leads are what we call unipolar.
+
+So what do we mean by that. So there's a there's a ground for them that is basically all of the impedance of the whole system.
+
+It's sort of merged into one. Like if you're in the EPI lab there's something we call the Wilson Central Terminal,
+
+which is a huge impedance resistor that has all of the various equipment we have, like through a very heavy, uh, resistor.
+
+And that's the ground. So it's in the, in that EKG machine, it could just be the EKG machines ground.
+
+So. So here we have AVR to the right arm AVF and then AVL.
+
+And those are that those are the positive ends of those electrodes.
+
+Then there are the bipolar lim lim leads that are between the two.
+
+So the lead one is going to be between the arms.
+
+The lead two is going to be from the right arm to the left leg.
+
+And then the uh, lead three is going to be from the left arm to the left leg.
+
+So we're going to that's going to help us figure out the cardiac axis.
+
+So when we're talking about activation from a unipolar electrode, you might have heard me talk about this when we were mentioning the P waves.
+
+Before that we were looking in lead two, and we saw that the P waves were positive in lead two.
+
+And I said that that was an inferior type of electrode.
+
+I had activation from the sinus node heading toward it and it was inscribing a positive deflection.
+
+So this is very similar for the whole rest of the EKG.
+
+So what you have is if you have a recording electrode and you have this, uh,
+
+activation that's proceeding past the electrode like this, it starts over here.
+
+If this was a move, it would play like moving across like this. So, like here to here and then to here.
+
+During this phase, the activation is heading towards your electrode.
+
+So it inscribes a positive deflection. As soon as it hits your electrode, it kind of comes back down to the baseline.
+
+And then as it continues past it goes below the uh, the baseline and then the activation stops.
+
+The only reason it comes back up to baseline is because if the cardiac activation were to stop, it would come back up.
+
+So that's the that's the principle that we're thinking of.
+
+So when we look at stuff and look at different leads of the of the EKG, we know which parts of the heart they represent.
+
+And then we think about the direction of activation relative to those electrodes.
+
+So here is an example of looking at for example lead one right.
+
+So lead one when something is. So we're looking at the patient.
+
+This is the right side of the patient. So we do everything.
+
+It's very confusing at first because all the things I'm going to say about like the right side,
+
+I'm talking about the right side relative to the patient on the board there.
+
+Um, so this side so things that start on the right side of the heart, that head towards the left side.
+
+Inscribe a positive deflection in lead one. Right.
+
+So that could be depending on where things are happening. That could be the right atrium.
+
+It could be the right ventricle. It could even be parts of the inter ventricular septum that are close enough to that area at all.
+
+If they activate this way, they'll make a move one positive. If we've got stuff that activates in this direction, right?
+
+It makes lead one positive, but not quite as much, right?
+
+This is all just vector stuff, right? So very just intuitive.
+
+So you understand if you've got stuff that activates exactly perpendicular to V1.
+
+It gives you nothing. And if you've got stuff that activates.
+
+In sort of towards the right lower quadrant like that.
+
+It's going to inscribe a negative deflection.
+
+So that's usually stuff that has its origin up here on the lateral part of the heart will activate this way.
+
+And it'll cause a negative deflection in. And so that's going to be true for all of these electrodes.
+
+There's going to be 12 electrodes. They all have the same principles.
+
+Then the pre cordial lead. So the ones on the limb leads give you that axis in the vertical.
+
+The ones that go around here, it's almost like taking a slice of the middle of the heart going right through here.
+
+And it gives you an idea of the activation in this plane.
+
+So it gives you the one gives you this and the other gives you this.
+
+And there are some places where you missed parts of the activation in between those.
+
+But you'd be surprised how much this gives you.
+
+So if there's a friend of mine, Josh Cooper, we should give you guys the YouTube channel for a Josh Cooper because he's got great videos.
+
+He's got an amazing EKG, uh, video on there.
+
+He's an electrophysiologist at temple. He's a director of electrophysiology there.
+
+And he was a fellow here probably 22 years ago, something like that.
+
+But he says that instead of calling them the right ventricle and the left ventricle, they should be called the front ventricle and the back ventricle.
+
+Because that's really true how they're oriented, especially at this level.
+
+Things change a lot as you go up towards the outflow tracts.
+
+But here if you put so V1 and V2 on either side of the sternum and and you're looking at those, those are mainly overlying the right ventricle.
+
+They're parts of the right atrium also that that kind of come near there.
+
+You can see here you wouldn't be too unusual to get like some far field stuff from the right atrium there.
+
+But V1 and V2 are looking at the right ventricle. So stuff that originates from the right ventricle is going to be, uh,
+
+seen like if stuff is going away from the right ventricle or towards the right ventricle.
+
+So things that originate in the left ventricle will head towards those leads.
+
+And the stuff that originates in the right ventricle will head away from those leads.
+
+And that's going to be important when we look at bundle branch blocks. Because if you don't understand that then and they're very confusing.
+
+Then when you get out to V5 and V6 that's pretty much all left ventricle over here.
+
+And this transition point can be very different person to person.
+
+So there's relatively few things that depend on these particular electrodes, except to look at the flow across those different electrodes.
+
+So this is just sort of a this is a gross pathology of a heart.
+
+It's just showing you sort of where some of these electrodes lie relative to the heart itself.
+
+So here are your limb leads.
+
+And then those calculated leads we talked about. Right.
+
+Go around the heart. This is right atrium. This is right ventricle here going out to the outflow tract here.
+
+And then this bulge that you see sticking out is the left ventricle.
+
+And that's the same thing here. Here's the left ventricle.
+
+Peeking out on the side.
+
+If you were to be able to go around there, that would be five and V six would be around the side of that, all on the left ventricle.
+
+But V1 and V2, a little bit of the right atrium, but mostly the right ventricle.
+
+Anterior wall V3 kind of right at the AV groove.
+
+At the ventricular groove for this patient, um, V4 is over here in V five and V6.
+
+So it's just good to always have a model for how that situated.
+
+So what's the normal way the pre cordial leads are activated.
+
+Now for some of this we don't have all of the explanation for the very early parts of the activation of the heart.
+
+I often get a lot of questions about what causes this very first activation pattern.
+
+And we know it happens, but we don't know exactly why.
+
+We are still learning a lot about how the system is activated, especially at that proximal part.
+
+Um, I'll tell you more about that when we talk about different kinds of pacemakers.
+
+But even the way that the Purkinje system is relative to what I learned when
+
+I was in medical school is completely different from what we think of now.
+
+So this very early part of the of the QRS activation from a very sort of in a very sort of unsatisfying way,
+
+I have to tell you, this is how it happens. And we don't totally know exactly how some people think that there's a septal farcical.
+
+You know how we said the left bundle divides into anterior and posterior fascicles?
+
+There's there. I mean, it's not that some people think there is a septal farcical.
+
+It hasn't been proven yet. Whether that septal facile is responsible for this early activation,
+
+or if it's just the difference in the relative activation between the left ventricle, which is much more mass, the right ventricle is much smaller.
+
+And so that's the vector sum. The net force is just heading in that direction.
+
+So what we see is at the very early forces we see in V1,
+
+we see activation headache starting on the LV side of the septum and heading towards the the right ventricle.
+
+So what do we see. We see that inscribes a positive deflection in V1.
+
+It just inscribes a negative deflection in V6. They're almost mirror images of each other.
+
+If you think about it. The next part is this all goes down that his Purkinje system and spreads out to the sides.
+
+Right. So that's the next the next step. So the main vector of that is definitely influenced by the amount of left ventricular mass that there is.
+
+So this the reason this main vector is going this way and not this way is because there's
+
+so much more left ventricular activation than there is right ventricular activation.
+
+So here what do we see? We see that the part that was going towards is now slightly going away in V1, right.
+
+And in v6 the part that was going away is now going toward right.
+
+In C, we see that. So now we've activated the apex.
+
+We've. We're activating the more basil aspect.
+
+The right ventricle is essentially done already. But the left ventricle is still activating a little bit.
+
+So this vector through a whole rest of the time.
+
+So this you know so we see it go from here to here right and here.
+
+And then we're done kind of thing. So this is that is the continuation of this to make a whole QRS complex.
+
+Right. So here and then this goes is down going.
+
+And then once it's completed it comes back up to baseline.
+
+And here again, once it's completed, it comes back down to baseline.
+
+So typically there's something that we call the pre cordial progression.
+
+So normal pre cordial progression looks like this.
+
+Where in V1 you have initially an AR wave and then an S wave.
+
+This is called. So our s deep s wave.
+
+And as we go around the AR wave part grows.
+
+And that should be the way it normally is if there's normal activation of the heart.
+
+And so the what we call the pre cordial transition,
+
+where it goes from being more negative to more positive is usually between v3 and v4 the way it's shown here.
+
+Yeah. Oh, definitely.
+
+Definitely. It helps you. It can help you localize extra pathways.
+
+It can help you figure out what part of the heart is more disease.
+
+And the other like there are diseases where the right ventricle becomes really big, or there are diseases where the left ventricle becomes really big,
+
+and it helps you to sort out exactly where that is and where the abnormalities are.
+
+The other thing that's very interesting in the disease where the right ventricle becomes really big.
+
+It's often replaced with fatty tissue. It's something called RBC arrhythmia genic right ventricular cardiomyopathy.
+
+And that is uh, it doesn't generate as much, uh, voltage on the surface EKG.
+
+And you can really tell a lot from the activation of the heart of the right ventricle from how these leads appear.
+
+Yeah. Yeah.
+
+Oh, they. So that's the one that gives you this. These are the aliens.
+
+These ones. They are.
+
+They are measured against a ground electrode. Yes. Yes.
+
+Yes, yes. Mhm.
+
+Yeah, that's that impedance thing that I was talking about at the beginning where you have the one, um, one big resistor.
+
+Okay, so now for your limb leads. So now instead of looking at the pre cordial leads, we're going to look at the limb leads.
+
+And we're just going to look at lead AVL and lead AVF.
+
+Okay. So here these are this this location is supposed to be representative of like where the left the left arm and the left leg are kind of located.
+
+So when we start with that septal activation it initially goes toward AVF and goes away from AVL.
+
+And then here as we come around. The apex.
+
+The same events we were talking about before it now continues to come toward AVF, but turns around and goes a little bit away from AVL.
+
+As it comes around, it's more or less isoelectric. And then as this comes around even further.
+
+This becomes positive. This become.
+
+This turns around and starts to become more negative.
+
+And you basically are left with normal activation of evil like this with this tiny little shove and then a positive R wave.
+
+And then here you have an R wave and what's called an S wave.
+
+So this is just sort of a summary of the our wave progression.
+
+So this is the pre cordial leads we were just talking about.
+
+We see our first step is the septal activation which is left to right which is indicated by the one here but the one here and the one here right.
+
+The second is RV and LV depolarization simultaneously.
+
+And then the last. And then these two are happening at the same time.
+
+But it's like it's at this with the LV more heavily represented.
+
+So you get more of an hour wave until the termination of the universe there.
+
+And this one is negative because it's mainly heading away. Even though the RV is being activated, the LV is being activated more.
+
+And so that makes this negative. So that's the same as what we were just talking about before.
+
+So here's an example of what a 12 lead EKG looks like.
+
+V1 is here. V2 is here.
+
+V3. Therefore.
+
+V5 and V6. So what do we see?
+
+We see a little R wave. Big deep s wave.
+
+And we see that the R wave grows here.
+
+And by v4 which is this one. The R wave is more than the S wave here, and then it's completely positive by the time we get to v six.
+
+So that's just an example of what a real EKG looks like there.
+
+Yes. There is no right.
+
+So they can be different. So this one just has all of the leads.
+
+So if you wanted to find this is one two and three this is avr avl avf.
+
+This is v1 v2 v3. This is v4 v5 v6.
+
+So sometimes you'll get this is the all the 12 leads.
+
+But sometimes you'll get a rhythm strip of 1 or 2 leads actually usually two leads at the across the bottom.
+
+That's just one of the leads. Like for example, sometimes it's V1 and lead two.
+
+They'll just do the whole thing all the way across, because when they do it,
+
+when they print it out like this, you only get like one, two, three, four beats of each type of lead.
+
+Like this is V5 and you only get four beats.
+
+So if you're interested in knowing, what would it look like? V5 if we were over here, then the rhythm strip helps you figure that out.
+
+Yeah.
+
+It's very similar to what's happening with the Precor, with the Precor leads, very similar to what's happening with the lead, the the limb leads.
+
+So that's what this picture was supposed to give you an idea of.
+
+It's still the net activation in the direction of the of each electrode.
+
+So this is V1 here and v6. And you can see the the net vector is supposed to be this arrow here.
+
+Does that make sense? That's the. Sure what you mean.
+
+Started off. That's exactly what.
+
+But we have one year here. Other one the they're looking at that right.
+
+Looking at the party effect the protection of. Right now.
+
+For example, something very similar.
+
+To what? Average. Now it's pointing from the heart.
+
+That's right. Yes.
+
+We are still looking at that project. Want to? No longer.
+
+It's going. Yeah. Yeah, exactly.
+
+Just that no reference. All the.
+
+We want to. Projection toward.
+
+Does that make sense? We.
+
+Once you have. If you are.
+
+That. For 12. Yeah.
+
+So this picture shows all the electrodes on this and the body where they sit for the 12 lead.
+
+And so for the recordings it's just all six of the recording leads.
+
+And then these are what are the constitute. Yeah. Do you want to. Yeah I want to make one more comment because.
+
+Nobody asked about the light. Yes. You haven't talked about this.
+
+This is. Often causes. Right.
+
+The electronics of the device. My back.
+
+The body. It's not a.
+
+All your. So.
+
+Well, the other one. Yeah.
+
+And very often, like in the epi lab, we set this all up and my nurses sometimes won't put the right leg on.
+
+And you'll see all the signals are very, very noisy. And then they'll put the right leg on and then.
+
+I'll see them. All right.
+
+So what kinds of things can change the our way of progression.
+
+So this little cartoon is supposed to be a person kind of laying on their back.
+
+This is their spine. This is their front. And here's v1 v2 v3 before v5 v6.
+
+Right. Can you guys appreciate that? That's the heart there.
+
+So if there are things about the heart or things about the outside of the heart,
+
+even that can change some of the measurements relative to the electrodes that we have on the body surface.
+
+Then there are certain characteristic patterns that we can, uh, we can diagnose.
+
+So let's think about it. So one of the most common things for both of them, if they look like they're wrong,
+
+if there's something about the patient's body that's a little bit different, it can make the progression look different.
+
+Like there's some people that have something called a pec just excavating where their sternum goes way into their chest.
+
+Then if you put those leads across, you're going to see a very different ah wave progression.
+
+The ah way progression is going to be delayed.
+
+The other thing is if you have a very large individual or different anatomic differences with the person,
+
+it's going to change where the electrodes are relative to the heart for that person.
+
+So um, when we talk about poor ah, wave progression.
+
+So that means it stays negative for too long.
+
+Uh, when we look at the ah, wave progression here, it's, it should be we should be going up to a full ah wave by like V5 and V6.
+
+But if it stays looking kind of like that for further out, then that's called poor.
+
+Ah wave progression. And so there are a couple of things that could be responsible for that.
+
+One is that their heart just happens to be a little bit rotated, which is it happens.
+
+Some people's hearts are a little bit different in their chest. So if you have a clockwise rotation it'll delay the hour with progression.
+
+If you have a counter clockwise rotation it will cause the R progression to be too good.
+
+You'll get all the way up to an hour, wave in uh, in like three, four or something like that.
+
+Um, but then there are other things. Have you guys talked about myocardial infarction?
+
+Said all, yet nothing. So when you have a heart attack, a big chunk of the heart muscle dies.
+
+So when you have and hopefully not. But when a person has a heart attack, when someone has a heart attack, that's what happens.
+
+Is that a whole bunch of stuff, it dies and then it doesn't generate any electrical forces there.
+
+So that basically is the same as causing a clockwise rotation,
+
+because you're almost measuring stuff that's away from that area that's infected too early.
+
+So that's the both the anterior and the interest.
+
+Am I kind of create these negative pre cordial, uh, deflections that can, uh, manifest as, as similar to a clockwise rotation.
+
+And then we'll talk a little bit later about left bundle. Branch block can also create that thing.
+
+If you have RF progression that's too good. Meaning that like your R waves start.
+
+To look like this. If this lead looks like that, that would be our way of progression.
+
+That's too good, right? It should be growing slowly and become positive by V4.
+
+And if this was over here, then that would be too good.
+
+Our way of progression. So there's a couple of possibilities.
+
+One is the rotation that we mentioned. Um, opposite to this.
+
+If you have a posterior infarction back here,
+
+that can do it because you lose all the forces from the myocardium that's normally there because it's basically dead.
+
+Uh, right. Bundle branch block, which we'll take a look at.
+
+Um, and then Wolf Parkinson White can also do this.
+
+This is a disease that we'll also talk about later when we talk about SVT.
+
+It's where you have an abnormal electrical connection in the heart that causes certain parts of the heart to be activated too early.
+
+So this I should probably have put a little bit at the beginning. This is just nomenclature from when we're talking about the the QRS complex.
+
+You might have noticed me talking about Q waves and S waves and things like that.
+
+I should have put this a little bit at the beginning.
+
+So when we talk about when we when we were talking about the rhythm, we would talk about the middle part of the heartbeat as being the QRS complex.
+
+And the reason it's called the QRS complex is it's comprised of sort of three waves.
+
+So the first part is the Q wave, which is the down going component.
+
+The tall part that goes up above the baseline is called the R wave.
+
+And the part that goes down below the baseline is the S wave.
+
+Right. So um, you'll sometimes see when there's no Q wave if it just goes like this, this is the R wave and this is the S wave.
+
+If there's only a positive component it's just referred to as an R wave.
+
+It's still okay to call this a QRS. But when we're talking about like the waves within the QRS, this is the R wave.
+
+Some people will call this a monotonic R wave because it's just one big bump that goes down.
+
+And then this is called a QRS complex. If it's just down and it goes up, you can't tell if it was this part or if it's this part.
+
+But it's all together. So they call it a QRS complex. And then if you have two R waves this is called an R, S R prime pattern.
+
+And we'll see this in right bundle branch block very often. So those are is that okay with everybody.
+
+That's just the nomenclature thing. Yeah. Yes there is, there is.
+
+Yep. So that would be the opposite. Like if you did the mirror image of this, it would be a QR complex.
+
+The are always goes up, and if there's something before it, it's a queue.
+
+If there's something after it, it's it's there's. Yeah.
+
+And you know where the baseline is. So this baseline I usually determine from the when you're looking at the EKG the baseline is usually defined.
+
+Oh this isn't a great example. But by the TP segment is the baseline.
+
+So if you were to draw a straight line right at the TP segment, that's where the baseline would be taken to be.
+
+Yeah. Uh huh. The first two.
+
+So. Yeah. So this this is so this is an r s r prime.
+
+Yeah. This is the escapee.
+
+So this one has a q, r and an S wave that has all three.
+
+Yeah. Is everybody okay with that?
+
+So this is just an example of a sort of a better looking 12 lead EKG.
+
+We've got here we can see a pair of shoes and a T wave, a P-wave, a QRS and a T wave.
+
+Here we're going to look at our pre cordial leads. We've got the little R wave and then an S right.
+
+Our wave is growing. It's growing a little bit more and growing a little bit more.
+
+When we get to V4 and then to B5 and that to B6, it's a little bit more clear than the other example.
+
+So when we look at the 12 lead EKG, we tend to group the leads together.
+
+Like especially when we're doing diagnosis of heart attacks and what arteries involved in a heart attack, but also for other rhythm reasons.
+
+We might want to know what region of the heart corresponds to what part of the EKG.
+
+So we usually will group certain certain parts of the of the EKG together.
+
+So leads one and AVL are our lateral leads.
+
+So they basically if you have stuff that's heading towards them they're heading for more right sided things.
+
+If they're heading away they're heading for more left sided things in general.
+
+The other grouping we have are the inferior leads, which are these ones two, three and AVF two.
+
+Remember was the one we were talking about with the P wave.
+
+So those are supposed to be representative of activation kind of down at the bottom of the heart.
+
+So if you have stuff that's heading from high up towards those leads they're going to inscribe a positive deflection.
+
+So that group two three and AVF is a group together.
+
+The basil and septal leads are V1 and V2, because they're kind of close to the base of the heart and close to the inter ventricular septum.
+
+So that's kind of these aren't like perfect for every heart.
+
+But on an average, normal heart, that's kind of what we would see.
+
+And then the last grouping is V5 and V6, which are kind of our apical lateral leads.
+
+So they're like lateral the left ventricle but close down to the apex of the football of.
+
+They'll be like right, right down at the left ventricle. So those are kind of the groups that you want to keep in mind.
+
+Yeah. Yeah. Sort of.
+
+I mean, they're meant to be. They're meant to correspond to the different parts of the vector activation.
+
+So they're of different. I think probably the best way to think of that is that diagram that we were looking at where,
+
+um, we were looking at how big the signal is depending on the activation of the heart.
+
+Right. So if you have a lead, you know, all the leads are going to have their own.
+
+Electrode representation of of their activation.
+
+So for lead one it's a horizontal. And if you have a heart that's being activated exactly 90 degrees to it,
+
+it's not going to show up anything on that lead because so perpendicular activation activation.
+
+Right. If they're if it's at an angle but heading away it'll inscribe a negative deflection.
+
+But the amplitude will reflect how much in line you are with the vector.
+
+Right. If you're perfectly in line with the vector, it'll be at its maximum.
+
+If it's like this, then only this component of the vector is going to be represented, so it will be somewhat shorter.
+
+Does that make sense in each of the vectors? Each of the Lim leads represents, along with its constructed lead.
+
+Represents a part of the axis circle, which is actually what we're going to be doing next.
+
+So it's really important to understand this before we do that. Yep.
+
+Yep, yep. You would. You can describe it. It's not cancer.
+
+That's actually a good point too. So it's not consistent.
+
+Like this is an Rs. This is an Rs.
+
+But this is a QR. This is a QR. Right.
+
+So it's the same exact heart beat. It's stuff happening at exactly the same time.
+
+But you the nomenklatura is different. Yeah. Yeah.
+
+It's just a way of describing the particularly the QRS designation.
+
+Okay. So this is a little bit oversimplified to be to start with because the normal axis
+
+does include a little bit of this part that's called leftward and right word axis.
+
+But in general this is how we think of all of the pre cordial leads.
+
+So we have lead one lead AVL lead AVR and then the inferior leads two three and AVF.
+
+So like when I call those lateral leads we group them together over here.
+
+The inferior leads over here. And these all represent together.
+
+We can use them to calculate the QRS axis.
+
+And there's a range of normal for the QRS activation.
+
+And different disease conditions can make the axis go one direction or the other.
+
+So there are different ways of figuring out the, the, uh, QRS axis.
+
+And there's some sort of simple ways and there's some ways that are a little bit more complex, but maybe give you more detail.
+
+So first you want to maybe determine what quadrant we're talking about.
+
+So let's take a look. So the QRS in lead one is positive.
+
+So that means we're in this half of the circle. Right.
+
+And then in AVF the QRS is positive.
+
+So that's puts us in this part of the circle. So then you know kind of quick and dirty you know you're in this part.
+
+So some people would say it's not so critical to know exactly where in that quadrant you are,
+
+because we know we're in the normal quadrant of the axis.
+
+But if we wanted to know it in a little bit more detail.
+
+One of the things we can do is exploit that thing that we were looking at, where the flat lead, it's always perpendicular to the flat lead.
+
+We don't really get a flat lead normally in natural cardiac activation.
+
+But what we can have is what we term in isoelectric lead.
+
+So you try to find a lead that's there that usually has the smallest amplitude.
+
+And it has the closest we can get maybe to the upward going part being matching to the lower part.
+
+The lower going part. So there even. So that's basically what we're going to call our isoelectric lead.
+
+So in that in case that's that's AVL in that case right.
+
+This one. So we know the QRS is going to be the the axis is going to be perpendicular to this lead.
+
+So then what do we want to look at next to determine which which way it goes.
+
+You know it either goes this way which would be some crazy place or it goes this way.
+
+So if we look at lead two we can then figure out.
+
+So two three AVF. This is lead two.
+
+Lead two is positive. So that puts our axis there.
+
+Does that make sense to everybody? We're just basically looking at the perpendicular axis to where we're where we're looking.
+
+So that would put us. These sectors are each 30 degrees. So it would put us at 60 degrees right there.
+
+So this is a little bit more. You know, correct that the normal axis can go all the way from -30 to plus 100 on this, uh, sector.
+
+This area, once you go past zero, is called a leftward axis.
+
+And once it's past 90, it's called a rightward axis.
+
+When we get into this quadrant, this part of the sector, we call it left axis deviation.
+
+When we get over here we call it right axis deviation.
+
+And up here this is called the northwest corner. This is like extreme left or extreme right.
+
+Uh axis deviation. It's unusual to be in this quadrant unless there's something pretty abnormal about the heart or the activation.
+
+So if you have a left to access, there are many things that could be causing that.
+
+There could be mechanical shifts. So if you're pregnant and your heart goes up like that, that could make for a left axis.
+
+If you have a series which means your belly is full of fluid, it also pushes your heart up in a very similar way.
+
+Obesity does the same kind of thing. Um, a left bundle branch block.
+
+We'll talk later about why that's the case. Left ventricular hypertrophy.
+
+So that means you have a lot more left ventricular muscle. So the muscle actually contributes more to the vector.
+
+So that changes the axis of activation just in and of itself.
+
+And then these two we'll talk about when we do the bundle branch blocks and the hemi blocks for the right word axis.
+
+Similarly mechanical shifts. So in emphysema.
+
+So people who have lost a lot of lung tissue, they get something called a teardrop heart.
+
+So the heart gets almost looks like it's suspended like that.
+
+It moves the heart sort of rightward.
+
+Um, and so that can happen if you have an issue with your diaphragm on the right side that swings your heart over towards the right, that can happen.
+
+Uh, if you get your right side of your heart is enlarged, for whatever reason, that can also do it.
+
+Um, right ventricular. And then the right bundle branch block and left posterior, uh, hemi block.
+
+We can talk about when we talk about our blocks and hemi blocks. But those are the kinds of things that you want to think about.
+
+So things that move the heart over, move things that move the heart over,
+
+or things that change the relative weight of the right and left ventricle, uh, can change the axis.
+
+So here's the bundle branch block part. Okay. So what are we going to be talking about here.
+
+Do I have the little the thing yes I do.
+
+Okay. Before we talk about that uh slide let's revisit this picture again for just a moment.
+
+We've got 20 minutes left. Yeah. Okay.
+
+All right. So, um. So the idea of bundle branch blocks is that as people age, their Purkinje system starts to break down a little bit.
+
+The weaker bundle is the right bundle branch. So usually people get right bundle branch blocks before left.
+
+But a lot of the intrinsic heart diseases that they get,
+
+like when you get a heart attack or if you get other diseases that impact the heart muscle because there's so much heart muscle over here.
+
+Sometimes those patients actually get a left bundle branch block first.
+
+So the ways that you can get a bundle branch block is that you can get say for example, imagine that this is blocked.
+
+So then instead of it going shooting through both of these it makes it to about here.
+
+It goes fast through here. And then it has to go slow all the way over to here.
+
+Okay. That's what happens when the right bundle is blocked.
+
+When the left bundle is blocked, if the whole thing is blocked, it's back here that it's blocked,
+
+then everything goes straight through here and there's slow conduction through the myocardium.
+
+And this stuff is the last stuff that gets activated. Within the left bundle branch, there are two fascicles.
+
+There's the anterior farcical and the posterior farcical.
+
+So if this one is blocked, then you get relatively more activation that comes around like that.
+
+If this one is blocked, then sorry. If this one is blocked, then you get relatively more activation that comes around like that.
+
+So that's going to be the overall concept of what we're thinking about when we see these bundle branch blocks.
+
+And when we say hemi block, what we're talking about is one of those fascicles being blocked.
+
+So here. Is right bundle branch block.
+
+So this little diagram is supposed to be a little bit of that picture with the heart kind of removed and just the conduction system remaining.
+
+So here's the sinus node. This is the atrium here.
+
+This is the AV node. Here's the highest bundle. Here's the right bundle.
+
+And the left bundle splits into the anterior farcical and the posterior farcical.
+
+So V1 is over here okay.
+
+So if we get. A right bundle branch block.
+
+What happens? We get rapid conduction over to the left bundle and a lot of activation towards V1.
+
+And the generally for for both types of bundle branch block.
+
+You know when you go down both of the fascicles,
+
+it makes your QRS complex nice and narrow that that late activation that goes around the bundle branch makes it take longer.
+
+So it makes your QRS activation a little bit longer.
+
+So your QRS is going to be wider.
+
+And the other thing to keep in mind is that in right bundle branch block, the whole left bundle is still activated completely.
+
+Normally the right bundle has a portion that's not activated normally, but the left bundle is activated normally.
+
+That's why people actually often feel perfectly fine with the right bundle branch block.
+
+It doesn't impact their overall, uh, how they feel.
+
+So what do we see on the EKG when you develop a right bundle branch block?
+
+So we have that initial. Septal depolarization, right?
+
+Number one on V1 it goes up in v6.
+
+It goes down. Then the next thing we see is the rapid.
+
+Depolarization of the left ventricle. So this next little part looks just like what it looked like normally.
+
+That's the left ventricle part right. But then this last little bit you get this rounded q r s wave.
+
+Right. And we get an r s our prime.
+
+And now do you notice this r prime doesn't look as sharp as this.
+
+Why is it not as sharp? Because it's happening slowly.
+
+It's happening slowly in the myocardium. Not using the his Purkinje system.
+
+So you get this little RC prime. Some people call it bunny ears, which are the sign of the right bundle branch block.
+
+So in the big, uh, that's the path, a mnemonic sign for a bright bundle branch block.
+
+Is this in v1? All right, so let's see.
+
+Yeah. So this is an example of that.
+
+It's maybe not like the world's best example, but here we are v1 right.
+
+We have an r s r prime. You can see it here two Rs.
+
+Our prime r s r prime.
+
+Right. But then the pre cordial activation if you look out here if you didn't look at v1
+
+v2 and v3 and just looked at particularly at V5 and v6 almost looks normal right.
+
+Almost looks normal. It could be that there's just like a little more S wave here, a little more s wave here, but very subtle.
+
+So I think if you were blindfolded to the right ventricular, the leads that are more over the right ventricle, you think it looks pretty normal?
+
+Yes. Yes.
+
+Yes. Why don't we finish this part two? Maybe we'll do it at the end of the blocks and hemi blocks.
+
+Because I think they all kind of go together.
+
+Um, and we might it might bleed a little bit into the next section, but we will come back to that with them all together.
+
+I think that probably makes the most sense for this.
+
+It's a little bit easy to say. So the right bundle branch block is associated with our wave progression.
+
+That's too good because you start with the R wave already there in the in the V one.
+
+Right. What did it look like before in v one. So this is what we had before, right?
+
+We had a little R wave and a big S wave, and we were waiting for this to grow into an hour wave by V5 and V6.
+
+Right. And in the case of the right bundle branch block, we already have in our wave right from the beginning.
+
+And that's remains positive through the out to V6.
+
+So in contrast, left bundle branch block is the opposite of what we just talked about.
+
+So we're going to go down the right bundle normal right ventricular activation.
+
+Right. And then we're going to conduct over to this left bundle that's blocked.
+
+Right. And the lateral wall of the left bundle left ventricle is going to be the last thing that gets activated.
+
+And because the left ventricle is so much bigger there's going to be a lot of late muscle getting activated.
+
+And where is that all happening. It's going away from V1 right.
+
+So it's going to make a negative deflection in V1 and V2.
+
+And it's going to stay negative for a little while. So here's what it looks like.
+
+Step one we have that septal depolarization with a little bit.
+
+You don't often see such a actual notch there, but I think they drew it there just so that they could draw in all the cardiac events.
+
+But you see, you see this sort of if they call it a QRS complex because this it never makes it back up to the baseline there.
+
+So you've got the septal depolarization and you have the RV depolarization there.
+
+And usually not enough to make a little notch there. But sometimes you'll see it and then it will just come up and have a big wide repolarization.
+
+So all of this stuff is happening away from V1.
+
+That makes it negative. V6 is the opposite. Notice how wide the QRS is now because there's a huge amount of delayed activation of the left ventricle.
+
+So here now you see the depolarization the R wave there.
+
+And so this is what they call that monotonic or modify R wave.
+
+That's a classic for the left bundle branch block.
+
+Yeah. A negative peak, like an RSA prime kind of thing.
+
+Yes it is. It's because this is so much later.
+
+The right ventricle is all done. By that time.
+
+And the other thing is that V6 is only overlying the left ventricle, and the right ventricular component is too small to see over there.
+
+In the case of V1, you're really right over the right ventricle.
+
+So you might see it. Oftentimes you don't really see the right ventricular activation on the surface.
+
+It's happening in there. But I think it would be hard to to figure out that it's happening.
+
+So if you look at the QRS appearance and bundle branch block in V1 for left bundle branch block,
+
+usually get a QRS complex and then right bundle branch block, you get the R prime.
+
+In V6 you get this broad of physic r wave and then in v6 here you get uh like a q r s morphology in the right bundle branch block.
+
+The other thing that becomes evident, you'll see it better on the EKG examples is when you have a wide QRS.
+
+This deflection here is not part of the QRS. This is the T wave.
+
+The tea wave is opposite the main axis of the QRS, which is opposite.
+
+So if you look at normal, normal activation.
+
+Here. So in a lot of the normal leads, you'll have the QRS and the T wave kind of following each other the same direction.
+
+But when you have a widened QRS, you'll have the repolarization going opposite to the chefs.
+
+So here in the right bundle branch block example, the leads where it's wide.
+
+So see it's wide. Here in V1 the t wave is opposite wide T wave opposite but narrow T wave the same.
+
+Right. So you you noticed that a lot more with the left bundle branch block.
+
+It looks kind of crazy. Here's the example of left bundle branch block. So here we have the we have a.
+
+Why didn't shares more than 120 milliseconds is what I mean with wide and QRS.
+
+We didn't say that specifically. So that's more than three little boxes.
+
+And it's got this. Cuz with the two way of going opposite here and you see you don't really see that right button.
+
+Right ventricular.
+
+I think that's just the for the purposes of that cartoon, you I, you don't often see it very explicitly that little notch on the downstroke here.
+
+And then in V6 you see the Mont Aphasic are wave right here.
+
+It's this is concordant. But very often you'll see it opposite the t wave down.
+
+But, uh, so that's what that's what a left bundle branch. So if you look at that, it's something you kind of just recognize the wide.
+
+Down going cuz in V1 the positive are wave in v6 that's left bundle branch block.
+
+Oh, this talks about what I was just saying. So we call secondary changes so that the repolarization as well as the depolarization is abnormal.
+
+And the T wave direction is opposite to the main QRS in the leads where the QRS is wide.
+
+They're called secondary changes because they're due to activation outside of the normal conduction system.
+
+So that's due to the activation that happens around the blocked bundle basically.
+
+We sort of looked at that already. Should we?
+
+We can. I can keep going. Huh? A little bit more.
+
+Five more minutes. Okay. So we talked a little bit about left axis deviation and right axis deviation.
+
+One of the things that can cause left axis deviation is anterior vesicular block,
+
+and things that can cause right axis deviation is posterior vesicular block.
+
+How does that work? And maybe we'll talk about that for just a little bit here.
+
+Oh, actually, this is just a little more on regular access. Okay.
+
+Hang on one second. I'm just going to skip this just for a minute.
+
+So we get to talk about the killer blocks before the end of the thing.
+
+Um, so if you remember, there's basically the the posterior farcical and the anterior facet of the left bundle.
+
+V one is out here. Right. So we're still going to be activated mainly away from V1.
+
+But you here's your normal activation with the left posterior farcical and the left anterior farcical.
+
+And here's your normal QRS. If we were mapping it on to that wheel that we were looking at before.
+
+What happens if we block just the anterior fascicles?
+
+So this guy is blocked and the activation has to proceed around it like that.
+
+It changes the activation. To cause it to be left axis.
+
+So the left and to your hemi block because of where it's blocked, it makes that late activation happen in the left axis deviation direction.
+
+And the opposite happens when you have posterior hemi block.
+
+You end up with the activation compensating for this being blocked, and it moves the axis over to the right word direction.
+
+Right. So here's an example of an axis that we can figure out.
+
+So two and avf in this case two and AVF are both almost isoelectric in kind of opposite ways.
+
+So whereas two and AVF these two right.
+
+So the. The true axis is somewhere perpendicular to these guys.
+
+So what's a lead that's perpendicular to these guys?
+
+Maybe like AVL we have we have one right.
+
+Lead one. The main axis of lead one is negative.
+
+So that means we're way over. We're somewhere in here.
+
+We're way over in the right axis deviation territory. So that's an example of a patient with right axis deviation.
+
+This one. Evil, completely negative, evil completely negative.
+
+So in that half. Right. Three is positive.
+
+Where's three? Positive, right. And greater than AVF in amplitude, right?
+
+So the taller one is closer to the real direction of the axis.
+
+So that puts us over here. So that gives us right.
+
+Active right. Axis deviation. And this is a person with left posterior for secular block.
+
+So why do they have posterior for secular block. They have slightly widened QRS but it doesn't meet the 120 criteria.
+
+So it's like 110 usually 101 ten something like that a little bit widened.
+
+They don't have any criteria for any other chamber enlargement in the ventricle, which we'll talk about later.
+
+But that all looks okay. And they're positive in these inferior leads.
+
+Like you eventually start to see a pattern for these things that the left axis deviation ones are negative.
+
+In the inferior leads. The right axis deviation is positive in the inferior leads.
+
+And you can almost sort of eyeball it. And then you can calculate it yourself later.
+
+Once you've seen that that's the case. So this is an example of left posterior for secular block.
+
+So this is an example of anterior vesicular blocks. So here again we see the QRS is slightly wide right AVL is positive.
+
+So whereas AVL it's here right.
+
+So that means we're in this path right.
+
+And then the we've got uh negative deflections in these three and AVF right.
+
+So we're kind of over here. Between three and AVF left axis deviation.
+
+So again this is an example of left anterior vesicular block because it is left axis deviation
+
+with slight shows widening with um no evidence of other reason to have uh left axis deviation.
+
+So that's the left anterior circular block in. Yeah.
+
+So. Yeah. Right?
+
+Right. They're not exactly like that. So it's that we don't have like one where there's no signal.
+
+But if the shares up going component and down going component are close to the same,
+
+you can use them in a similar way and they're almost opposite each other.
+
+Right. Like this one. The S wave is a little bit bigger than the R wave, but they're close to equal.
+
+And the other one is the opposite. The R wave is close and the S wave that they're close to equal.
+
+So you can it can give you an idea that even though they're not low amplitude,
+
+the fact that they have almost equal up going in down going components can you can use that as the isoelectric lead for the main vector.
+
+And then uh, look at the other leads to sort of confirm your suspicions.
+
+The other thing I'd say about this example is a quick check is if you look at leads one and AVL, they're both negative.
+
+There's nothing else that can be but right axis deviation in most cases.
+
+So that's the fact. Even if you just look at lead one, if lead one is completely negative,
+
+that puts you way over on the right side for most cases unless you're way up in the northwest quadrant.
+
+Okay. Time to stop. Okay. Yes.
+
+Continue. Supraventricular? Yes.
+
+Yes. Oh, yeah.
+

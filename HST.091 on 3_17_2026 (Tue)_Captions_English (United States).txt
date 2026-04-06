@@ -1,0 +1,2437 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+Thank you. Thanks, everybody. You don't usually get clapping before you start talking, but, um.
+
+Yeah, what Colin says is absolutely right. It's a pleasure for me to be here.
+
+Definitely. We've had people in the past, and you definitely don't have to.
+
+It's not required to, like, pass the class or anything. But if you are interested, we do procedures every day at I'm at Brigham and Women's Hospital,
+
+so if you wanted to come there it would probably be there, but also at Mass General, which is a bit closer here.
+
+We could also arrange for, uh, folks to either shadow in clinic or look at procedures.
+
+Um, and we just need to kind of maybe if you guys could coordinate and if there's anybody that's interested in coming,
+
+we can figure out the timing and stuff. It's mostly coordinating with your schedule.
+
+That's the hardest thing because there are cases every day, but they're not. You know, we just have to do the timing if you want to.
+
+Okay, great. So this is actually the first class who we've gotten through all the material up until this point at this stage.
+
+In the past, there have been like a lot of questions and things that have slowed it down a little bit.
+
+And this is like the first time we've made it this far. So I thought we would just review all the things we've looked at, um, to this point.
+
+So you guys now are probably sick of this little picture. You've seen it a bunch of times now, you know, the sinus node is up here.
+
+It sends impulses through the upper chambers of the heart.
+
+It uses the Krista terminals. It uses Bachmann's bundle to get over to the left atrium.
+
+Then everything hits the sinus.
+
+Note there's a V node where everything stops for just a moment and then goes down to the bundle branches, and that's what produces your heartbeat.
+
+The atrial contraction produces your p-wave. The his Purkinje activation produces your QRS complex, and the electrical recovery produces the T wave.
+
+We talked about the system for looking at EKGs.
+
+So we talked about the rate, the rhythm, the axis and the intervals.
+
+We went over chamber enlargement. We looked at atrial enlargement.
+
+We looked at ventricular hypertrophy. So we know how to do those things.
+
+And I just wanted to review some of the ventricular rhythms because we did them a little bit fast at the end of the last session.
+
+So when we talk about ventricular rhythms, we're talking about stuff that either comes out of the Purkinje fibers here,
+
+which each have their own little ability to have automatic fibers,
+
+stuff that comes out of the ventricular myocardium, that or when you've had a heart attack or some other injury to the heart.
+
+You can get a piece of scar tissue in the ventricle that causes the heart to not conduct normally through that area.
+
+And you can get reentry, you can get, uh, beats that get stuck going around and around the scar tissue.
+
+And they produce ventricular tachycardia.
+
+So we talked about how on the EKG, because most of these beats are not coming from the natural conduction system.
+
+They're coming from the myocardium that has slower conduction velocity.
+
+They are going to produce a wide complex QRS on the surface eg.
+
+Um, we're going to see that that you can have either single extra beats which are called PVCs, premature ventricular contractions.
+
+Um, you can have little runs of extra beats that are also wide complex tachycardia.
+
+If it's 4 or 5 beats, say, and then it stops. We call it non sustained ventricular tachycardia.
+
+If it goes on for 30s or longer it's called sustained ventricular tachycardia and the ventricular tachycardia.
+
+Clinically it comes in two flavors.
+
+It can be somebody with a normal heart but just has abnormal cardiac pacemaker activity in the lower chambers of the heart.
+
+Or it can be somebody who has heart disease and has scar tissue in the lower chamber of the heart.
+
+That can be from an old heart attack. It could be from an autoimmune disease that attacks the lower chambers of the heart.
+
+When people some people who got Covid got something called myocarditis,
+
+where the heart muscle becomes inflamed and they healed with a scar tissue involving the lower chamber of the heart.
+
+All of those things can cause potentially dangerous, uh,
+
+ventricular tachycardia when we have someone carry a monitor and we see the non sustained ventricular tachycardia,
+
+that by itself is not dangerous even in people with a lot of heart disease.
+
+But maybe it's a clue for us that we need to do more investigation to look
+
+and see if they're at risk for developing sustained ventricular tachycardia.
+
+So the ventricular tachycardia we see can be benign or life threatening.
+
+Then we talked about ventricular fibrillation, which is an irregular, very, very rapid beating in the lower chamber of the heart.
+
+Very irregular. And that is always life threatening.
+
+That is not associated with having any blood pressure whatsoever.
+
+The patient will usually collapse and fall to the ground. They'll need to be defibrillator resuscitated once that happens.
+
+Um, and we're going to talk about that a lot in the second half of today's presentation.
+
+So just to remind you what some of these different rhythms look like.
+
+Here we have a rhythm strip going across, right.
+
+We see a P wave across and a T wave, and then we see this beats here again.
+
+We see a P wave, a QRS and a T wave. And then we see this beat here.
+
+So these are wide beats. They are occurring in a pattern.
+
+And what did we call this. We called this ventricular by Germany.
+
+So when the beats are when extra beats are happening in an every other beat type of sequence, we call that by Germany.
+
+It can be atrial by Germany. If the extra beats are premature atrial contractions causing the extra beats.
+
+So in that case they would be narrow beats. But in this case they are wide beats.
+
+There's no p wave in front of them, as far as we can tell. Um, and so these are ventricular.
+
+So if every other beat is a ventricular beat we call it ventricular by Germany.
+
+The other thing that we notice is this here is an arterial pressure monitor.
+
+So sometimes people will get like a little tube put into their radial artery to monitor them during a procedure.
+
+Or if you're in the ICU very sick. They'll get a tracing of your blood pressure pulse.
+
+And what you can see here is the the QRS happens here for the sinus beat sinus rhythm there.
+
+And that produces this pulse wave. The PVC itself generates very low pulse wave here.
+
+Maybe doesn't generate even a peep of pulse wave at all that you can see.
+
+Well very low. So if you are feeling the person's pulse and counting the beats, or if you're wearing a pulse oximeter, do you guys know what that is?
+
+It's like a little infrared thing that can count your heartbeats.
+
+It will not detect the PVC. And even though the heart rate in general here may be kind of normal, it will only count these as the heartbeat.
+
+So the EKG will always tell you the true heart rate for these kinds of people.
+
+But this kind of situation, the pulse and the a pulse oximeter will give you half the heartbeat.
+
+And so that's called pseudo bradycardia. So uh, ventricular by Germany can cause pseudo bradycardia.
+
+This next thing that we're looking at here is a similar phenomenon to what we're seeing here.
+
+The one thing is, if we look at all the PVCs, they are all the same.
+
+They look like the shape is the same. And so you would think that the origin from the heart of all those beats is likely the same.
+
+So these are called mono morphic mono morphic PVC.
+
+So this would be sinus rhythm with ventricular by Gemini.
+
+And the PVCs that we see are mono morphic. So here it's a little bit different.
+
+It is I think sinus rhythm actually the rhythm of the native complex is it's a little hard to see.
+
+There's a p wave here. There's a QRS here.
+
+So that makes me think over here. There's a p wave here and a QRS there.
+
+You notice the shows that are conducted right P wave shape because they're not as nice and normal looking as this one here.
+
+So it might not be that surprising to know that this person has a little bit of heart disease.
+
+So the QRS complex is here a little wide.
+
+It might be the case that you would identify a bundle branch block if you were to look at their full 12 lead EKG because the QRS is a little bit wide.
+
+Um so this is our sinus rhythm. And then this beats this one.
+
+And this one. Are both PVCs, but they look different, right?
+
+They have different shape. So they're likely coming from different parts of the heart.
+
+And when people have diseased hearts, it's very common to get PVCs from different locations.
+
+That's what we're seeing here. PVCs from different locations.
+
+So we would call these Clio morphic PVCs.
+
+Or you could just say PVCs of two different morphologies.
+
+That would be also appropriate.
+
+But that's important when we think about the how sick the heart is, it's also important when we in the procedure think about whether we could target,
+
+like if we decided that these had to go away for whatever reason, that we could zap one spot in the heart and make them all go away.
+
+This kind of person, maybe their heart is too sick to think about doing something like that.
+
+You'd be more likely to think of maybe a medication that might help better for this person to be without their PVCs.
+
+Now this one is a little bit different from the others, so it's still quite complex beats, right?
+
+And these are kind of happening in a perfectly regular way, but it's slow.
+
+It's less than 100 beats per minute, right? Three big boxes.
+
+That would be 100 beats a minute. It's less than 100 beats a minute.
+
+So it's not ventricular tachycardia. That's the one thing that makes this not ventricular tachycardia.
+
+You also see this narrow beat come in here.
+
+And that is most likely because there is a p wave right in here that connected to the ventricle.
+
+It happens to be a capture beat. Do you guys remember we talked about capture beats.
+
+We'll look at that a little bit on the next slide as well to explain how that works.
+
+But if there's the p way the sinus node is going on its own sort of through this whole thing.
+
+And every now and then it may hit the right timing to conduct down to the ventricle.
+
+And so that that normal complex is happening from the atrium to the ventricle.
+
+These beats are actually coming out,
+
+probably from some little part of the natural conduction system that has a little bit of an ability to have what we call automaticity.
+
+It has a little bit of capacity to be a pacemaker. So we call this an idiot ventricular rhythm.
+
+So it's a regular wide complex tachycardia.
+
+Um it's less than 100 beats a minute. And that's video ventricular rhythm.
+
+So those are all the different types of of ventricular rhythms that we can see that are slower.
+
+And then these are the faster ones. So these are the two fast ones that we talked about.
+
+One is mono morphic ventricular tachycardia.
+
+And that's when each beat resembles the beat before it.
+
+Right. The other way we can describe this is polymorphic ventricular tachycardia.
+
+And we talked about two different types of polymorphic ventricular tachycardia.
+
+We talked about ventricular fibrillation which almost has no pattern at all.
+
+It looks just like this. But it has like no pattern at all.
+
+And then we talked about the plot, which usually happens when the acute interval is too long.
+
+Um, and it causes this type of intrigue.
+
+It's still ventricular fibrillation I guess technically, but it has this undulating pattern to how the ventricular tachycardia goes.
+
+And if you take a look, there aren't really distinct heartbeats,
+
+like if you had X-ray vision and you could see the ventricles during this year, the ventricles are not contracting at all like this.
+
+They're just moving around like that.
+
+So the the rhythm that you see here, even though you say, oh, this is one big box and it looks like it's about 300 beats per minute.
+
+It doesn't really reflect what the heart is doing because the continuous activation of the heart,
+
+it's just what it's doing relative to the electrodes that we have to measure.
+
+Even if you had an electrode inside the heart, you wouldn't see all of the activation.
+
+You'd have to have electrodes all over the heart to see all the activation.
+
+From the ventricular fibrillation. But though this one is also like we talked about at the beginning,
+
+can be either in a normal heart person or it could be in a person with structural heart disease.
+
+So it could be life threatening depending on the type of patient.
+
+This is always life threatening even if the patient has no structural heart disease.
+
+So you guys might remember this slide. We spent some time on it the last time, but I think it's worth reviewing because it's pretty important.
+
+So this when you see a wide complex tachycardia there are two possibilities.
+
+One is it's SVT that's conducting with a bundle branch block type pattern.
+
+And so that's why it's wide. The other possibility is that it's ventricular tachycardia.
+
+And sometimes you can't be sure.
+
+You know, one of the reasons that we do catheter studies in some of these people is you sometimes look at the EKG and you're like,
+
+wow, I'm not really 100% sure what that is, but there's some things that you can look at to try to decide.
+
+And one of the most important things is via dissociation.
+
+So here if we look when we look from far away, like most of the beats look like, they're the same width, right?
+
+These beats here in the middle all look like they have the same width.
+
+The other thing that we notice is there are these little divots in the T wave every now and then.
+
+There's one here, there's one here. There's one here.
+
+There's one here as well. So we file that away for later.
+
+The other thing that we see is that there are two bits in particular that don't look like all the other beats.
+
+There's this speed. And there's this piece.
+
+And they both have one thing in common that they have one of those little divots not that far from that.
+
+So if I told you this was a puma and this was the shoes, that goes with it, this is the p-wave and this is the QRS going with it.
+
+Would you believe me? So that's what we're sort of talking about is happening.
+
+So if you imagine the A and the V right, the A has the sinus node doesn't know that there's ventricular tachycardia going on.
+
+Right. And then you have your ventricular tachycardia going on here.
+
+It's supposed to be regular. It doesn't totally look like that. But then what happens when the when the sinus node lines up exactly the right way.
+
+It produces a QRS. Or when it lines up just the right way.
+
+It can fuze with the QRS. So this is what we call a capture beat.
+
+And this is what we call a fusion complex right.
+
+So this one. OOP.
+
+Yeah. There we go. So this one here, the narrow one the P wave is able to get through.
+
+It's a capture beat. And this one here.
+
+The P wave gets through, but it's a little wider and it almost looks like a cross between this cross.
+
+And this. She's right.
+
+If you if you fuze them together, if you imagine two wavefronts of activation that collide with one another, it would be something in between.
+
+So this you would get this which is a fusion complex. Does everybody get that.
+
+So all. When you see those things that's evidence that you have VA dissociation.
+
+The reason that that's important is it means that the atrium cannot be involved in the tachycardia.
+
+That's why it has to be ventricular tachycardia.
+
+So the fact that you see them completely dissociated from one another, you know, the atrium is playing no role.
+
+But if you had an SVT, the atrium would be usually involved.
+
+So that's that's why you would look for that as evidence.
+
+Oh, yeah. Yes, yes.
+
+So the P waves if you go through here, there's this one actually I'll use your little caliper guy.
+
+We may not be able to see them all, but there's one here and there's one here.
+
+You see those guys? You may not see them in both leads, but it's helpful to see, to look at, look for them in both leads.
+
+There's one here, there's one here, there's one here.
+
+So you almost in your mind's eye, have to subtract it from where the t wave would be expected to be.
+
+That's why you see the downward part.
+
+But you see how that the St segment on this side looks a little bit different than what the St segment looked like over here.
+
+So that's the other P wave. Then this one probably falls right in the middle of the QRS so you can't see it.
+
+But then the next one comes here, right? And you see it peeking out.
+
+There it is again. And there it is again.
+
+And then this one I think, falls in the shoes again. So you can see the p waves are going along at this rate the whole time.
+
+Yeah. Any other questions?
+
+So I brought some EKGs and stuff for us. Was there a question?
+
+So, you know, last time I brought you a case from our inpatient service.
+
+This is another one. So this is one.
+
+This is a real case. It came we took care of this patient last week.
+
+So this is a 30 year old medical resident, which may be one of you guys might be who had no sleep and a ton of caffeine.
+
+And felt an irregular pulse. Is unusual.
+
+Uh uh uh uh uh.
+
+Couldn't sleep because they were having anxiety about their new rotation that they're starting the next day.
+
+Does everyone know what that is referring to?
+
+When I was an intern. I never slept for three days at a time.
+
+Right. But this this medical, this medical resident has no sleep and a lot of caffeine and felt their pulse was rapid.
+
+So asked a colleague to hook them up to a rhythm strip.
+
+So, does someone want to interpret this? Is it good or is it bad, bad, bad?
+
+To someone want to elaborate on bad? It's irregular.
+
+Yeah. Do you see any normal beads?
+
+Yes, there are normal beats here. There's this.
+
+Because it could be. If he has a sick heart. Maybe his beats always look like that, you know.
+
+But there are normal beats there. Right here. Here.
+
+Here. Here. Here.
+
+Okay, so now what are these other beads? Yeah.
+
+They do. They do. They're a little different than what I showed you before.
+
+So we talked about ventricular tachycardia being regular.
+
+But when it's coming from one of those little pacemaker cells, those cells can sometimes fire in an irregular way.
+
+So this is ventricular tachycardia. It's a little bit hard to see his P waves and stuff.
+
+But there are every now and then there's some stuff that looks like there probably p waves in there.
+
+So there probably is VA dissociation in these in these groups.
+
+The problem also is when you have so many extra beats, sometimes it resets your sinus node and the sinus note doesn't fire on time.
+
+You notice this beat doesn't clearly have a p wave in front of it.
+
+So it may be a junctional escape B because the sinus node was suppressed.
+
+So the question is, does he have a structurally normal heart?
+
+Like that's the big question. Is he somebody that you just say, okay, don't have so much caffeine.
+
+Improve your sleep. Go home. Or do you do more workout?
+
+So we don't really know that from this. But this is his EKG, his 12 lead EKG.
+
+They gave him a little bit of a medicine called metoprolol, which is a beta blocker.
+
+It blocks some of the effects of adrenaline on the heart through the beta receptors.
+
+It stopped that rhythm. And then his EKG looked like this.
+
+So are you worried? Are you not worried?
+
+Does someone want to read this EKG for me? This is his real EKG.
+
+This was taken last week. He's waiting to hear from you.
+
+Am I okay? Can I go back and be on call?
+
+Do I have to hit the hit list to bring in a colleague to take my call for me?
+
+Oh, you don't even know what the hit list is. The hit list is what you have to hit when you're sick and you can't work.
+
+But there's a lot of. Societal pressure against fitting a Hitler.
+
+You want to try? Okay. Okay. Yes.
+
+That's always the best way. Um. He's very cooperative, right?
+
+On his right, he's like. Exactly. Yep.
+
+Yep. Yes.
+
+Yeah. I agree. Yeah.
+
+Perfect. Um. Yes.
+
+Uh huh. So too is positive.
+
+You do. Does anyone.
+
+You can phone a friend. You can phone a friend. Yeah.
+
+Yes, yes. So. Yes. So evil is negative also.
+
+What did we say? Lead one. Be negative. Honestly, when someone hands me an EKG, this is where I look first for the axis.
+
+Because if it's if the main axis of lead one is negative, lead one is the one that points all the way this way.
+
+And if it's going this way, then there's something wrong, right?
+
+So what do you think both AVL and lead one.
+
+Yes. Pretty significant. Significant.
+
+Right. Axis deviation. Right. Yeah.
+
+And then I'm just going to take away that little circle while we talk about the rest.
+
+Yes. We see.
+
+A big, tall archway where you're not supposed to have an archway.
+
+Yes. No, I know, I know. So in general, in general, in V1, you should be kind of negative and slowly get more positive out to the leads.
+
+Unless you've got too much right ventricle, in which case you have an archway too soon.
+
+And so that's what you have here. You have an archway that's too thin.
+
+So that's that's what that. So this suggests this is consistent with right ventricular hypertrophy.
+
+Yeah. Yeah. And, um.
+
+Anything else you want to look at here on this EKG?
+
+I don't think there's that much remarkable, but we should probably look at the PR interval.
+
+Right. So what would be abnormal for the PR interval?
+
+Correct. So here it looks like he's just about at the upper limit of normal, you could say for a 30 year old.
+
+But I think this one, this show starts right on the line.
+
+He was on the inside of one big box, so that's pretty normal.
+
+How about the show's duration? Pretty normal.
+
+Yeah, it's got the suggestion that it's a little bit, you know,
+
+but it's I don't think it makes one 20 milliseconds anywhere, which would be three boxes.
+
+This is probably where it's the widest. I always look for where it's the widest and see.
+
+Yep. And then the cute interval. Yeah.
+
+Yeah, that's a good, good rule of thumb. Yeah, absolutely.
+
+That's it's that looks really great. It's definitely on the inside of that.
+
+So when we talk to this guy a little bit more, it's actually a little bit sad.
+
+He had a brother who died suddenly in his teens from a genetic cardiomyopathy.
+
+And it turns out that he. Uh, no, this is right ventricular.
+
+So this is this is, uh, it looks like RV, but it's really.
+
+So the apical variant usually affects the apical leads more.
+
+You usually see two wave inversions in three, five and six.
+
+Um, and you'll see a left axis deviation. So there are different forms of hypertrophic cardiomyopathy is what Doctor Stultz is referring to.
+
+And those um, are genetic, uh, diseases where the left ventricle becomes hypertrophy.
+
+So which type of axis deviation would you have. Left axis, so we'd have left axis deviation.
+
+So these guys would all be negative. And the, uh, what can happen for some of them.
+
+So there are different varieties of hypertrophy that people get. Sometimes it's just that the chamber is uniformly thickened.
+
+There are some where the apex is really just a big chunk of muscle.
+
+And those people, over time, even can develop an aneurysm down there because you have more muscle than your heart has blood supply to deal with.
+
+So that can even become like a little heart attack over time.
+
+And it's not because the arteries are blocked, it's because there's too much muscle for the amount of blood supply that you have.
+
+And so that can create an aneurysm down there. All of that makes V5 and V6, which you guys now know, sit right over the apex of the heart right here.
+
+These guys start to look really weird. They start to not have very much voltage.
+
+They get two wave inversions over here. And so that's what those folks that have the apical variant hypertrophic cardiomyopathy.
+
+The reason that that's so important and to have some level of suspicion about it,
+
+that's the one situation where someone might have had an echocardiogram, an ultrasound of the heart.
+
+They say it's normal, it looks great, but the EKG is abnormal.
+
+And you say, wait a minute, I think we should get a CT or an MRI to look at the heart a little better,
+
+because I know that the ultrasound doesn't see that apex totally well in every person.
+
+Like sometimes it's looking between your ribs. It doesn't see the apex super well.
+
+It can completely miss the apical variant, hypertrophic cardiomyopathy.
+
+So if you're really concerned clinically and you know your EKG is abnormal, you want to look.
+
+Yeah. Yes you could.
+
+It doesn't totally meet criteria, all the criteria, but I would say here.
+
+So certainly based on the rule we said but with the atrium.
+
+Uh, so normally the atrium is biphasic, with the up going part representing the right atrium and a down going part representing the left atrium.
+
+And here we only see the right atrial component. So you're absolutely right that that goes along with right atrial enlargement.
+
+The only thing here is for it to really be corroborated in lead to you would want to see this tall p-wave in.
+
+Oh sorry. This is lead to lead to standing too close to the screen.
+
+V two you want it to be two and a half boxes high over here for it to be like a slam dunk for right atrial enlargement.
+
+But you're absolutely right that the V1V1 appearance is very consistent with that.
+
+Yes. Yes.
+
+Correct? Correct. Exactly. So I have another one for you.
+
+Who wants to try this one? Anybody.
+
+You want to try? Yeah. Yeah. Okay. Yeah.
+
+That's okay. Yeah. That's how. That's how it should. That's how it happens in life.
+
+Yeah. That gets to study it beforehand. Um. Mhm.
+
+Mhm. Uh, I was like, yes.
+
+Yeah. The heartbeat goes from here to. So, like, uh, let's see, this one starts on a box.
+
+So this one two. Uh, yeah.
+
+Yeah. Oh, you've got the the pointer. Very good.
+
+Hey. Yes. These are very cooperative.
+
+Yeah, I'll just point out one thing. I wonder if when you looked at two, were you confused that these were both?
+
+Was that what you were thinking? Okay. Okay.
+
+Just bad accounting. Okay? MIT and all that? Yeah.
+
+Uh. Okay, so it looks like you're okay.
+
+Yes. Yeah.
+
+Okay. Is. Or you want to do it in your head.
+
+No assistance required. Okay. I shall.
+
+Okay. Uh huh.
+
+Yeah. Yeah, yeah.
+
+Uh huh, uh uh huh.
+
+Yeah. We got some.
+
+It seems. It seems so. There's another reason that when they give me an EKG, I always look at lead one first.
+
+Yeah. Do you know what I'm saying? Yes. The leads are switched.
+
+That's why it was like this. Like blew up. Lead one for you to, like, give you more attention, to lead one.
+
+So the thing that you always want to look at. So if you're in the clinic, they give you an EKG.
+
+You look at lead one it's negative. And lead one you're like, huh?
+
+Am I expecting that? And then you look at the p wave.
+
+If the p wave is also negative, then you're like, huh?
+
+Because then either the sinus nodes over here, which would be really weird but happens it's it's not like it doesn't happen, right?
+
+But how do we figure out that there's Dexter Cardea? Sure our way of progression should not be normal, because as you're as it goes.
+
+So if your heart. So if you have Dexter cardio, what do you have? Everything's flipped over the whole hearts.
+
+On the right side you have these pre cordial leads that are marching away from the heart.
+
+So the our wave should get smaller and smaller and smaller as they go away from the heart.
+
+So this should get smaller smaller smaller. It does not.
+
+So we know the heart is in the left side of the chest where it belongs.
+
+Right. So we know that this is a lead switch.
+
+So, you know, they hand you the EKG, you hand it right back to them and said, please fix the lead.
+
+Right. In the clinic.
+
+Like literally like that maybe two times in 20 years.
+
+So it's like unlike, like if you play the odds game and it is not 100% true that there's nothing besides Dexter cardio like if you have
+
+a unique ventricular like there's some congenital heart disease is also that can produce something like that,
+
+but they also will look pretty abnormal over here.
+
+Like if you only have one ventricle and it's really large and it's mostly over here, like sometimes it can look like that.
+
+But it's um, all of those things are very unusual circumstances.
+
+Most of the people I know about with Dexter Carty. It's funny how when you're a cardiologist, things happen in life.
+
+People will come up to you and say, hey, you know, my heart's on the wrong side of the chest, just in case.
+
+Like people who work at the hospital, if I ever arrest and you're around because they know you're always around, right?
+
+They're like, if I arrest, just remember, my heart's on the wrong side of my chest.
+
+I filed it away. Someday, later. 20 years later?
+
+Maybe. But it definitely happens.
+
+But I would say, you know, 95, 99% of the time, really, if it's like that, it needs to sniff the weeds, needs to be fixed.
+
+But you went through exactly the right process because as you go through, you can't reconcile the access.
+
+It doesn't make any sense. So that's got to mean that the data is incorrect.
+
+Right. Okay, who wants to talk about this one?
+
+So this is a little bit different display but the same information.
+
+So when somebody does an exercise test there's a test we do where we put on a 12 lead EKG and we have the person go on a treadmill.
+
+It's the called the Bruce protocol. It starts flat and pretty slow.
+
+And every three minutes it gets a little faster and a little steeper.
+
+And we have the whole EKG running simultaneously.
+
+So it looks a little different. You have to sort of use a little mental gymnastics.
+
+So you have uh one, two, three avr avl AVF like that.
+
+And then the audio leads down below.
+
+So at least the idea of this is when you if you have say one extra beat and you only have the one, you know what it looks like in all the.
+
+So you get a rhythm strip basically of all the leads. Anybody want to try?
+
+Yeah. You wanna try? Sure. Yeah.
+
+Stay at this part first just to read the part that's like, not up.
+
+Like we can all give it a pass that it's some abnormal stuff is happening in the second.
+
+Yeah. This one is on the line here. Yeah. They're pretty close.
+
+60, right? That's pretty nice. Do you got any? Yeah.
+
+Okay. There is. Yep.
+
+Yeah. And before you say that, you should also look at that lead two and see that it's positive right.
+
+So that's looks good. Yeah okay. Mhm.
+
+Yeah, yeah. Looks pretty normal. And lead free is isoelectric.
+
+So perpendicular to. So that looks pretty good. Yeah.
+
+Mhm. It's not bad.
+
+It should be between three v3 and v4. Yeah, it's sometimes a little funky for these exercise tests,
+
+because the person standing up and sort of laying down like they are for most of the other EKGs.
+
+So it can be slightly different, but this is pretty normal. Even so, it should be both V3 and v4.
+
+Yeah, but I don't think. Oh, right.
+
+There's no there's no ventricular hypertrophy. That's true. Mhm.
+
+That looks good, right? Biphasic. Right. It has a up going and a down going component there lead to it's it's up going.
+
+But it doesn't look more than two boxes going to have two boxes.
+
+Yeah. So that looks. Normal.
+
+Yeah. Normal. Mhm.
+
+Yes. Probably like that.
+
+Yes. It is irregular.
+
+Yeah. So this. So there are a couple of different things. You're absolutely right that I think this one here is a PVC.
+
+What do you think? This one is here. Do you think it's.
+
+It's sinus. It looks like it's a little too early, right?
+
+Because before the scientist was doing this. Right. So why is it early?
+
+It could be junctional. What is another way you can get a totally narrow, complex extra?
+
+Or the atrium. Right. So do you see on this t wave there's this little pointy thing.
+
+That is a p wave there. And if you look up here too, you can see it's pointy going the other way.
+
+You can see it maybe here a little bit. So that is an atrial beat, an extra atrial beat.
+
+And that conducts down to the ventricle here. So that's a premature atrial.
+
+Premature atrial contraction. Okay, good.
+
+Then this one. Mhm.
+
+Like. Mhm. Yes.
+
+Mhm. It's very wide and bizarre looking.
+
+Yeah, I would give you that just also because we had the PVC before.
+
+Yeah. So this is a very interesting tax. So this is a person with a um.
+
+With with a moderator band. Tachycardia.
+
+Don't write this down is very unusual. But what's really interesting is in the heart.
+
+This. It's in the right ventricle.
+
+There's a band that goes across the right ventricle called the moderator band.
+
+And it has some structural importance for the right ventricle.
+
+You know, the left ventricle is shaped like a football. It's structurally very sound.
+
+The right ventricle. And that's so it looks a little bit I don't know.
+
+Some people say it looks like a baseball glove grabbing the left ventricle.
+
+But it's not a round structure like it's it doesn't have as much structural integrity.
+
+So this moderator band helps in some ways to hold the right ventricle together.
+
+But it also has this very interesting property that little pieces of the right bundle travel through it.
+
+And when the right ventricle gets a little stressed or in or damaged in some way,
+
+very minor damage, it can develop pacemaker activity inside the moderator.
+
+And it's usually exercise induced. So this person has exercise induced moderate or banned uh tachycardia.
+
+Yeah. It's a little bit like.
+
+It does, it does. That's because that's exactly because of this.
+
+Because when this. So. Yes. So the reason for that is when you have an origin from pieces of the right bundle,
+
+it produces a left bundle branch block type configuration because it's coming through parts of the.
+
+Yeah, that's definitely more than you needed to know for this, but that's that's, uh, for for this, I was mostly seeing PVCs.
+
+That's a pack. And then you get up, run a ventricular tachycardia.
+
+It's the timing and it's the shape of the P wave.
+
+So take a look at that. If we say that this is a sinus wave.
+
+So like let's look over here where we know what it looks like.
+
+So the shape of stuff tells you a lot about the origin in the heart of where it's coming from.
+
+So if we look at the P waves here and then we look at the beat that's right here, we see that it's more positive.
+
+Right. And the normal P wave.
+
+So that suggests it's both early. So it's come before it's supposed to.
+
+And it has a different. Here's another one.
+
+You want to try. Yeah.
+
+Uh huh. Yeah. That's fair. Yeah. Uh huh.
+
+Uh huh. Mhm.
+
+Yeah. Yes.
+
+Yes. Yes. Uh huh.
+
+Right. Mhm.
+
+Let's let's not jump to the end. Let's do all this stuff, though. Yeah.
+
+Uh huh. Yeah.
+
+Sinus rhythm looks good and then lead to its positive. S rhythm.
+
+Right. And our P waves are positive up here. Right. Mhm.
+
+And then the PR interval. Pretty good, right?
+
+Pretty normal within one box. Yeah. How about the shoes?
+
+Yeah. You have to start up here at where it's like at its widest.
+
+It's really wide. How about this one? You can go from here to here.
+
+It's probably like 180 milliseconds or something like that.
+
+Would you give me that? So it's wide. It's really wide.
+
+So why do we think it's wide? If we say that the most common reason it might be wide would either relate to a left or right bundle branch block.
+
+Which of these is this most consistent with? So left.
+
+Left because right is the bunny ears and left is the down going one.
+
+So it's not perfect for the so the only that the other thing that.
+
+So usually for left bundle branch block you would be wide angle down going here and tall and positive here.
+
+But in this case this is a patient with really bad cardiomyopathy.
+
+The right ventricle is huge. The left ventricle is huge.
+
+And they have a left bundle branch block. So they don't have the tall are wave that.
+
+So the two things we usually see for left bundle branch block is the down going part in V1 and a positive part in V6.
+
+But it's not positive because of the. Somebody.
+
+Somebody. It's because a lot of the left ventricle is disease and it doesn't generate the voltage.
+
+Yeah. In this particular patient. So actually without even talking to the patient, you see this EKG and you know they're very, very sick.
+
+You know this person has a sick heart. Both his right ventricle and left ventricle is disease.
+
+You know the left ventricle the left bundle is also blocked.
+
+And so the likelihood is you're going to walk there and walk in there and see that they have heart failure.
+
+The normal. The normal thing is left bundle gives you left act normal normal life.
+
+That's but the here it's a little different. Just because the disease is so much.
+
+Yeah, yeah. No, they're well, in some they go together in certain diseases, but the one doesn't cause the other.
+
+Yeah. And the branch block.
+
+Yeah. I know, it's weird. It's it's a it's I shouldn't I should probably not have shown this case,
+
+but I just thought it was interesting because you can tell so much about the person's heart from their.
+
+Let me see. I think this is. Oh, I've got two more. I've got a bunch more.
+
+We can stop whenever you guys are bored, and we'll go to the next section after.
+
+Okay, how about this one? Let me know when. Also when the coffee is.
+
+It's here. He's. He's getting mine. And then they can.
+
+Okay. All right. Who wants to try this one?
+
+Let's do it just by diagnosis. If you see the diagnosis, call it out.
+
+So I'll start to walk through it and you tell me if you see it. Oh, did someone say it?
+
+What did you say? Well. Perkinson. Why does everybody see it?
+
+So we have our p wave. And the problem comes when you start to try to measure the PR interval.
+
+You can measure the PR interval. But where's the start of the QRS.
+
+Is it right there that we're right there. See how there's this little slurring right there.
+
+See how there's slurring right there. That's the delta wave that tells you that there's an accessory pathway.
+
+So this was a young lady I saw in clinic with.
+
+And that's the whole reason this is positive up here too is the slurring of the Delta wave is making that positive.
+
+Okay. Anybody want this to do?
+
+This one? This one isn't a diagnosis one, but you can just sort of say what's happening.
+
+It's not quite, but it's. What is? It is if you said it. Try Gemini.
+
+Right. Try Gemini. Every third one is a PVC 1 to 1 to bum, one to everybody.
+
+See that cryogenic. And this one, we're going a little fast, so we see all of them.
+
+So you'll have them to look at for later. Sawtooth.
+
+What is that? It is atrial flutter.
+
+Very good. And this one.
+
+First degree AV block and then. Yep. So here if you look the QRS here first degree every block and.
+
+Oh, sure. Yeah. So. Yes.
+
+And also us. Right?
+
+Yeah. Good. Good point. Good point. Yeah. We didn't go through all the little details of the EKG, but the big picture.
+
+Atrial flutter. Take a look here in V1. There's.
+
+Regular P waves going through and this is after.
+
+So if you the patient had just come in they would have 2 to 1 rhythm.
+
+We can give intravenous medicine to slow the ventricular rate down so that you can see the flutter waves.
+
+And that reveals the sawtooth pattern here. That makes it the actual flutter.
+
+But you're absolutely right that an irregularly irregular ventricular response would make you think of atrial fibrillation.
+
+And then the next thing you would do is look to see what the atrial activity is.
+
+And what you see here is that there's actually. Yeah.
+
+Yes, this is a little funny business. So there's a little bit of conduction system disease.
+
+It's actually very much similar to the one that we were going to look at next.
+
+So there's a marked left axis deviation here.
+
+Right. And we also see that the cure is complex.
+
+It's just a little bit it doesn't quite make 120 but it's probably like one.
+
+Um, so this is probably a left anterior block.
+
+And that's what we were sort of supposed to be looking at here, that this is an example also of a left into your block.
+
+You've got PR prolongation also with this one. So first degree AV block.
+
+And we're negative negative negative here. So marked left axis deviation.
+
+So this is a patient with uh left hand here. I think that's the last one.
+
+Oh, no. Oh, I threw so many in here in the end. You said to do a bunch of EKGs, so I think threw a whole bunch in here.
+
+How about this one? So wide complex tachycardia.
+
+Right. It looks regular. So what are we looking for? Yeah.
+
+You're looking for pervs, right? The other thing that can give you a clue as to a P, whether there are P waves, there is.
+
+If the rhythm changes anywhere, you might be able to tell that there's a p wave there.
+
+You might not see them so specifically. Maybe you can see a little bit.
+
+Yeah, there might be there might be there.
+
+That's it. The fusion. That's the key.
+
+Is there a fusion beat there. That's it. That's the money.
+
+Because when you're looking at the wide complex tachycardia and all of a sudden you see a narrow beat sneak through, you're like, oh I see you, right.
+
+That's the ventricular tachycardia. Hey, do you like this?
+
+Very hard to do. So that's a very interesting.
+
+So I try to take a look at the place where I can see the best, both the beginning and the end.
+
+So for me I would start I would start right here.
+
+And I would end right there. But if you take this lead, it's going to be very hard.
+
+And in the EP, because there's there's a the QRS and the T wave kind of go right into each other.
+
+And so it's a little bit hard to tell where that inflection point is here.
+
+I think you can see the inflection point pretty well. But there are some some tracings where you really can't see it at all.
+
+What we'll usually do in the EP lab is we'll make a tracing that look just like the the exercise test, where they're all simultaneous,
+
+and you try to look at the earliest point on all the leads, and you look at the latest point on all the leads and then.
+
+Try to figure out the cure and duration. You can go that route. Yes.
+
+Correct. Because even anywhere where the earliest part of ventricular activation is seen,
+
+that is still the beginning of the QRS, no matter you know where where it is which lead.
+
+Yeah. So you don't know 100% for sure unless you know what the EKG looked like before we went into the tachycardia.
+
+But it's pretty narrow, and I'd like to say it doesn't have a ton of features of the other one.
+
+So it could be a capture beat, but it's a little odd for a sinus complex.
+
+So it's probably got a little fusion. So I think the fusion beat is the best answer like up here.
+
+These are all simultaneous right. So this looks a little funny.
+
+And so I would say it's probably. It helps to see it.
+
+I think you see it here, actually. I think that's the p-wave that makes that become.
+
+You have to look in all the lead sometimes, but it can be very hard to say.
+
+Once you see that, you realize that there's probably dissociated P waves.
+
+Here elsewhere in the in the cardiogram so you can play little games where you try to figure out where all the P waves are.
+
+But I think they're there. Um. Yeah.
+
+We just. We would call it ventricular tachycardia.
+
+That's it? Yeah. This is just ventricular tachycardia.
+
+And the thing that tells us it's been trinculo tachycardia as opposed to some other rhythm,
+
+is the fact that we have this narrow beat right in the middle of it that's preceded by a P waves there.
+
+Yes. So this is different. So once we start talking about VAT where is the VAT coming from.
+
+Most of the votes come from the left ventricle. And because most of the heart disease is in the left ventricle.
+
+So one of the games that we play a little bit before we do procedures is we'll try to localize this.
+
+So we know it's from high up. We know it's negative in one and evil.
+
+So a very leftward structure. So one of the places people can commonly get um arrhythmias from is the top of the mitral annulus,
+
+the mitral, unless it's like a clock face when you look at the left side of the heart there.
+
+And so up at that top corner between the aortic valve and the mitral annulus is a very common place that can come from.
+
+And that's where this one. Should we let people go get their.
+
+Yeah. I don't think we're good. Yeah. The last one is provocation.
+
+That's the brochure that. Yeah. Well.
+
+They're coming. It's okay. This. The second part is more fun stuff anyway.
+
+All right. So this last little section is going to be more like sort of fun stuff.
+
+Like it's not things you necessarily need to know for everything.
+
+I don't know how much Thomas is going to ask you about later, but it'll be all on the exam.
+
+It will all be on the exam. Sorry, not fun stuff. So we're going to talk about, um, devices, um, and sudden death.
+
+Um, so that's like dramatic things for the second part.
+
+So we're going to first talk. We talked a lot about bradycardia and the different types of bradycardia that we have.
+
+We're going to talk a little bit about pacemakers. We're going to talk about defibrillators.
+
+And we're going to talk about sort of epidemiology of sudden death.
+
+So what are the indications for pacing. So there's symptomatic bradycardia.
+
+So what does that mean. It means bradycardia. That gives me some kind of symptoms.
+
+So that can be disease at the sinus node. So sinus bradycardia it can be the AV node or distal conduction disease.
+
+So we talked a little bit about how people are different right.
+
+If I take a athlete that has sinus bradycardia that could be actually a um
+
+adaptive thing from being so fit and have them exercising as much as they do.
+
+But if you take that person that's really slow at the beginning and have them exercise, their heart rate will go up normally.
+
+But if I take an 85 year old person that's sitting there with sinus bradycardia, they try to exercise.
+
+Their heart rate might go from 40 only to 50, and they might feel terrible when they exercise.
+
+So that could be a sign that they have symptomatic bradycardia.
+
+So that person, if you gave them a pacemaker make their resting heart rate 60.
+
+And when they exercise make it go up to 120 they might feel a lot better.
+
+Then there's the other group that we talked about where not all the P waves get through to the to the ventricle.
+
+So all the P waves, they they sometimes they could have wanky back where the PR gets longer longer longer and drops or they have complete heart block.
+
+Then they might need a pacemaker to, uh, to support their rhythm.
+
+And one of the points I make down here is that these rhythms, these slow rhythms, can either occur spontaneously,
+
+meaning you just show up with your slow rhythms, or a lot of the time, patients will have faster rhythms.
+
+Some of the time we give them a medicine to slow the fast rhythms down, and when they pop back to normal rhythm, then they're too slow so they could.
+
+That's what we call drug induced. So some people, particularly with wanky back and sinus bradycardia,
+
+you can see a lot worsening of some worsening of their bradycardia while we're trying to treat their tachycardia with medicine.
+
+So this is a chest X-ray of a person with a pacemaker.
+
+So it's as if you're looking through me like this. So this is the right hand side and this is the left hand side of the patient.
+
+This is the pacemaker here. This large radio opaque area is the battery.
+
+Uh, and there's two wires attached to a little tube here.
+
+They go into the subclavian vein and follow that vein into the heart.
+
+Here's the superior vena cava. Here's the right atrium.
+
+And here's the right ventricle. So the there's two wires.
+
+One is a little hard to see, the one in the atrium, but you can see the one that goes down to the right ventricle.
+
+Now the wires at the end, they're very floppy like a noodle.
+
+If you were to touch them, they don't have any like structure to them.
+
+But they have a hollow tube through the center.
+
+And there are these stylesheets that you can put through them to shape them while you're directing them to different parts of the heart.
+
+The very tip has a tiny screw on the end that you can basically turn a little inner.
+
+Uh uh, little.
+
+There's an inner part to the electrode you can turn, and it deploys the screw at the end of the the lead to turn it, to hold it into the heart muscle.
+
+So what do the pacemakers do? They basically deliver electrical impulses.
+
+They depolarize the myocardial cells near the lead tip, such that the signals propagate into the contiguous myocardium,
+
+and it produces a heartbeat where there wouldn't be a heartbeat otherwise.
+
+And they can be delivered in many ways, depending on where the leads are and how the pacemaker is programed.
+
+So there are so many types of pacemakers now. There are many, many.
+
+I think when I first started doing this, there were only only the first three.
+
+And now there are there are many other ones. So the it depends where you put the lead.
+
+So if you put the lead in the right atrium, it could sense and pace just from the right atrium.
+
+So if you have sinus node dysfunction only that would be a good pacemaker for you.
+
+If you're a node in your system are healthy, you might only need that a lead in the right ventricle only.
+
+Probably the best person for that is someone who's stuck in AFib.
+
+But there have been responses really slow or there in heart block below that.
+
+Then they just have a single wire in the lower chamber of the heart that can replace the heart beats.
+
+The most common pacemaker has a wire in both the atrium and in the ventricle that can
+
+replace some of the sinus node function and some of the ventricular function as well.
+
+Then there are some devices that can actually be used to help heart failure.
+
+We're going to talk about that a little bit further down in the talk.
+
+But that's called up by a ventricular pacemaker.
+
+So you put two ventricular leads one in the lower chamber of the one in the right lower chamber of the heart,
+
+and one that places the left ventricle in some way. And then there are some that that pace a portion of the his Purkinje system.
+
+These are probably probably the newest ones that are actually able to recruit some of the damaged portions of the conduction system for pace.
+
+So how do these pacemakers work? So inside the pacemaker there's a little bit of firmware.
+
+It's a little computer, not very smart that can do a few different functions.
+
+It can measure signals from the distal tip of the wire.
+
+And there's a tiny bipolar electrode down there can sense the signals.
+
+And so this cartoon is meant to sort of show you what that signal might look like.
+
+So this is like the bipolar tip of that, uh, that pacing wire.
+
+If we were to draw a line, we usually set a fence, which we call the sensitivity.
+
+And we say everything above that line. I want you to count as one.
+
+Like this is one beat.
+
+And we set, for example, if we set a heart rate of 60, when it sees this beat, it starts counting, counting, counting, counting, counting if it gets.
+
+If this beat happens before that timer has elapsed, it doesn't do anything.
+
+It's that's called inhibition. So it decides not to do anything, but it resets its counter and then it goes along along along along.
+
+But this time the one second timer elapses and it hasn't seen another intrinsic beat from the patient.
+
+So it says, oh, I need to put one in. So it puts in just a little bit of current through the system.
+
+It causes an extra beat. That's a paced beat.
+
+So usually on the EKG you'll see this little artifact which is that pulsing from the device.
+
+And then that signal propagates into the myocardium and it produces a QRS.
+
+The shape of the QRS is dependent on where that lead is in the.
+
+Okay. If you have two wires, you end up with two clocks.
+
+So if you have an atrial and a ventricular wire, which is the most common configuration you end up in,
+
+these are programable like I've just given examples of a heart rate of 60 and 200 milliseconds.
+
+They communicate. There's a radio frequency communication device that you can talk to the device and change the settings, uh, and stuff.
+
+So this is these are just examples of how you might set it. So here we've set our PR interval at 200 milliseconds.
+
+And we've set our heart rate again at 60.
+
+And so it'll be watching for two things. So when you have a wire in the upper chamber of the heart, it only sees atrial events.
+
+If you have a wire in the lower chamber of the heart is only sees the ventricular events.
+
+I put this together in one thing just for ease of display, but in real life there are two tracings.
+
+One has the atrial information and one has the ventricular information.
+
+So the device would sense so put. So when there's a p wave that happens the device would sense atrial activity and
+
+start two counters one for the PR and the other which we call the easy delay.
+
+This is called the AV delay. And then the other one for the heart rate right.
+
+So here this one's waiting waiting waiting for a QR rest.
+
+So it senses an atrial beat. And if it doesn't sense a QRS within 200 milliseconds, it paces the heart and puts.
+
+Right. The second timer is waiting for another wave to happen.
+
+If that didn't happen, it would pace the atrium as well.
+
+And in this case there happens to be an intrinsic shares.
+
+So it does not pay. Does that make.
+
+Oh, you have some. Oh, wow.
+
+Because I didn't bring my old stuff. Yeah. They're probably.
+
+They're really old. Oh my gosh. You better not have a nuclear pacemaker.
+
+Be careful. You tell me. Those are pretty.
+
+It's like pre-owned ones. That's a better looking.
+
+So if you're in sinus rhythm, there are a couple different ways your EKG can look.
+
+If you have a dual chamber pacemaker. If your heart rate happens to be high enough, the pacemaker is not going to do anything because you're going to.
+
+It's just going to be watching and measuring those clocks, and it's not going to be doing anything in particular.
+
+So it'll just look normal. You might not see anything on the EKG that indicates there's a pacemaker there at all.
+
+If, however, your sinus node doesn't work, you might see this.
+
+Do you guys see this pacing spike right before the P wave?
+
+That means the device is putting in the P waves, but you're using your own his Purkinje system to produce the.
+
+In this case, it's the opposite that there's a p wave that the patient is having on their own, but their AV conduction doesn't work.
+
+And so the device is putting in the extra the beat to make the whole heartbeat happen.
+
+And then there's some people that don't have enough beats in the atrium or the ventricle.
+
+They pace. Then they have pacing for the atrium and pacing for the ventricle.
+
+So those are all. And the way we look at these are, uh, written as the, the way the marker channels are inside the pacemaker.
+
+So the pacemaker will tell us I'm doing atrial sensing in ventricular sensing here.
+
+I'm doing atrial pacing and ventricular sensing here I'm doing atrial sensing ventricular pacing.
+
+And here I'm doing. Kind of pain. So that's kind of.
+
+What it looks like now. The Achilles heel of the whole system that I was just showing you are actually these wires that go into the heart.
+
+If you guys get to touch them and take a look at them, they have to survive all the number of heart beat like they see here,
+
+a huge amount of of, um, motion in the course of their life,
+
+the likelihood that they could eventually have a problem,
+
+break or develop some kind of high impedance situation or the insulation might erode over time.
+
+The other really dangerous thing that can happen with pacemakers is people can get infections.
+
+So, uh, we all have bacteria in our mouths, particularly when we have dental work done.
+
+There's bacteria that can get in our blood. And one of the big worries we have with patients with pacemakers is that those could
+
+sit down on the pacing wires and cause this really serious heart valve infection.
+
+Uh, right there. And so one of the reasons for those reasons, especially patients who are on dialysis because their kidneys don't work,
+
+are particularly at risk for getting an infection like that, partly because their immune system is low, but also for the dialysis.
+
+They have to have a tube inserted like periodically three times a week.
+
+So that itself is a setup. So for that, for that, for those reasons and some others, these leaderless peacemakers were developed.
+
+So this is a new device. It's probably about this day.
+
+It is self-contained and has all of the stuff.
+
+It needs to be a just a single chamber pacemaker.
+
+It can't do much to do a little bit of coordination between the upper and the lower chamber, but not a lot.
+
+But it can keep your your heart pacing. And the good thing about it is it's very localized once this is deployed.
+
+So this is the system. It comes up from the vena cava.
+
+And it's the devices deployed here.
+
+It has they're showing it with the little strings still attached. But once you uh once you let it go, it's just this part that stays in the heart.
+
+And that, but because it's so localized has a much lower risk of infection.
+
+Yeah. Looks like it's. Yeah.
+
+So they're so the ones like the one I was showing you here these these days.
+
+So it's a very interesting thing. There were some bigger ones, some of these big ones that you're passing around.
+
+There were old pacemakers that were kind of giants that could have a battery life of up to 20 years.
+
+Um, and I think the oldest one of those I ever changed out was like.
+
+21 years. But this, these ones that we typically put in now are smaller, and the battery life is of the order of 8 to 10.
+
+Um, when the battery runs down to the the implant procedure for one of these.
+
+We make a little incision by the shin between the shoulder and the pectoral muscle.
+
+We make a little pocket under the skin, and we put the wires in.
+
+The wires usually stay there. They can use. They can last for a pretty long time.
+
+When we when the battery runs down, people come in for we call it a battery change.
+
+But you change out the whole unit. So you do a little incision over the over the device.
+
+You take this out and you unplug the leads from the can and put another pacemaker.
+
+So it's usually about a 20 minute procedure. Most even older people can go through that without a lot of problems.
+
+Um, so that's what those are like.
+
+And then some of these lead less ones, especially unfortunately, the dumber they are, the longer they last the like, the less features they have.
+
+So some of the most basic of these can last up to 20 years.
+
+Uh, once they go in. But, uh, functionally, for a lot of people, it's.
+
+So we don't often use these for very young people. So the interesting thing that happens, maybe I'll use my picture that's already here.
+
+When people get heart failure, a lot of times people get a left bundle branch block.
+
+Because they have disease in their left ventricle. So if you imagine what happens.
+
+So supposing this chamber, your left ventricle is very weak.
+
+Right. We get block to the left ventricle.
+
+So electrically what's happening. We've got stuff that comes down.
+
+The right bundle comes over this way and goes this way.
+
+And this part of the heart is the last that's activated, right?
+
+That's bad for several reasons. The other thing you should keep in mind is the width of the QRS reflect how long it takes the heart to be activated.
+
+So the mitral valve has these two structures on it called papillary muscles.
+
+Like that. And imagine what happens to the mitral valve function if one side gets activated
+
+and then the other side gets activated sequentially instead of together,
+
+which is what they're normally doing. You end up with mitral regurgitation here.
+
+The other thing you get is this part of the heart. If your heart muscle is very delayed, the mechanical function.
+
+Do you remember that very first slide actually, that we looked at with the PVCs, the biochemical PVCs?
+
+Let me go back. I have to. What the delay was between the pulse wave and the.
+
+From the QRS to the pulse wave. You see the chefs here and.
+
+And the pulse wave from this is a little while after.
+
+When your heart is sicker. That is very exaggerated.
+
+And so this little part of the heart can end up being activated after the aortic valve has actually closed at the end of systole.
+
+It's called systolic regional contraction.
+
+So if you imagine you have a sick heart, the worst thing you can do is force it to contract against a closed aortic valve.
+
+Right. That's going to make it really, uh, a lot more dysfunctional.
+
+And so the left bundle branch block by itself can cause the cardiomyopathy to be.
+
+So this slide just sort of tells about the things we were just talking about.
+
+But if you look at this, this is a special type of echocardiogram that reconstructs the inside surface of the left ventricle.
+
+So if you imagine this is just the left ventricle, the mitral valve would be on top here.
+
+The apex would be down here the earliest part.
+
+So the inter ventricular septum is here. So that this part here is like right there.
+
+And this part here is like there.
+
+So if you imagine this gets and this is timing.
+
+So the purple is early and the red is late.
+
+And so if you train your eye here and look for these little, these little, uh, geometries, there's this one.
+
+And this one you can see one is here and one is over here.
+
+And what you can see is this one goes in, in, in, in and this one bulges out late.
+
+Bulge, bulge. Right. So late.
+
+That's the ineffectual inefficient contraction that the left bundle branch bra block creates so it can make people's pumping function.
+
+We measure the pumping function of the heart by something called the ejection fraction.
+
+It can make the ejection fraction go down. It can make heart failure symptoms worse.
+
+So how can we overcome that? There are two ways. And the first way is this.
+
+This is called by ventricular pacing or cardiac resynchronization.
+
+And the goal is to pace the right and the left ventricle simultaneously.
+
+So there's this vein called the coronary sinus that goes along the back wall of the mitral annular area.
+
+This is the mitral annulus region right here. So you have the normal pacing wires one in the right atrium one in the right ventricle.
+
+But then you have a third wire that goes into the coronary sinus.
+
+And the coronary sinus has these branches that go down over the left ventricle.
+
+And so the idea is that you put one right in that basil part, the part that's activated really late.
+
+And you can pace that early to cause the electrical to cause electrical resynchronization.
+
+So instead of this really late thing, you end up with this going this way.
+
+And you have the wire in the right ventricle that goes this way. And they kind of meet in the middle.
+
+So here's an example of mapping of that. So the up and up top here it's a little may be hard to understand.
+
+But this is the right ventricle. This is the left ventricle. And this red is supposed to represent the propagation of the impulse.
+
+So the left bundle branch block. Or even with right ventricular pacing it can produce this wide QRS.
+
+You see the activation progressed through the inter ventricular septum with late activation at that lateral left ventricular wall.
+
+That should be pretty much similar to that. Um, and once you turn on that extra lead, you end up with two wave fronts of activation,
+
+one that comes sort of through the inter ventricular septum, and the other one that starts at the lateral wall.
+
+And they kind of collide in the middle of the chamber.
+
+And what you can see is between these two, look at the shows duration.
+
+Maybe just look at V3 and look at how wide the QRS is super wide.
+
+This is almost 200 milliseconds QRS duration.
+
+And when you turn on that pacing V3 look, you can see a big pacing artifact.
+
+But you see this little narrow guy here. So it means the total duration of the left ventricular activation has become less.
+
+Because we're pacing from that other beef from that other site.
+
+The other thing you can see is if you measure acute hemodynamics,
+
+when you turn that left ventricular pacing on, you can see that the pulse pressure gets better.
+
+You can see it gets better. The systolic aortic pressure can get better.
+
+And this shows the EKG which of course gets narrower because we're not we're taking less time for the whole heart to contract.
+
+The other thing that was so revolutionary about this particular type of pacing,
+
+it was it was the first therapy for cardiomyopathy patients that could improve their ejection fraction without increasing the myocardial load.
+
+Like a lot of the other medicines we give people to make their heart failure better when they got very sick could actually have the opposite effect.
+
+It would make them feel better transiently.
+
+But you know, they weren't going to survive as much as long because their heart was working harder and it didn't have a lot of reserve.
+
+This is a therapy that because it takes the heart that you have and makes it more efficient, it takes away that late activation over here.
+
+It actually decreases the metabolic demands of the heart, which is really nice.
+
+The alternative way of achieving this, because a lot of people couldn't get this therapy.
+
+If you didn't happen to have a branch over there that you could stick that wire in,
+
+or you'd have to have an open heart surgery to get it screwed directly onto your heart.
+
+There's another way, and this may be becoming the standard way of sort of just taken off recently.
+
+So here's just the historic Purkinje system. We've got the right bundle.
+
+Here's the the bundle up there. Left hand to your farcical left post.
+
+Your farcical. And what we've appreciated is that they've developed these particular type of pacing leads.
+
+So it's a similar to what we were talking about before, where there's a small screw on the end of a wire.
+
+You can it's it's a very tiny lead that as you turn it, you can make it advance into the septum.
+
+And you can basically go from recruiting the right bundle to recruiting parts of the left.
+
+So you can actually by pacing these areas,
+
+you can overcome some of the left bundle branch block directly by recruiting the fibers of the left bundle directly in the.
+
+So this is just an example of that. This is a patient. Oh does anyone want to say what this rhythm is.
+
+There P waves here, right? Complete heart block.
+
+Perfect. Yes. Very good. So this so there's this is basically a junctional escape.
+
+And the person's in complete heart block.
+
+And what they did is they took this lead and screwed it in so that it could get parts of the septum right in the middle of that.
+
+Uh, that tissue that, that contains the, the bundle branches.
+
+And you can see that they got a narrow QRS.
+
+With the pacemaker activity,
+
+and it actually sometimes has a little bit of a look like Wolf Parkinson White where it has this little slurring right there.
+
+Because if you're not, if you're capturing some of the surrounding muscle, it has a little slurring related to the muscle because it's very uncommon.
+
+And if you wanted it, you could program it so that it just selectively captures the his Purkinje system.
+
+But you lose a little bit of a safety factor on the pacing.
+
+If you had anything that happened to the lead, you wouldn't have. We like to have a little bit of range of of safety factor on the program to output,
+
+but it's not that uncommon that you see with the clue that this isn't really.
+
+Well, Parkinson White is that there's a pacemaker spike before that that's slurring that you see.
+
+So those are the different types of pacemakers that we have. We're going to shift gears now and talk about cardiac arrest.
+
+So this is from an old Holter monitor.
+
+Um, that was done on a patient having a cardiac arrest.
+
+And it has a lot of features of what we see in patients that have cardiac arrest.
+
+One of the things is that it happens early in the morning.
+
+And these early morning hours are very characteristic.
+
+There's something about the circadian patterns of adrenaline and medication delivery
+
+and stuff that makes cardiac arrest much more common in those early morning hours.
+
+And the thing that's very tricky about that, it's going to come up again and again is if you have a cardiac arrest and there's nobody around.
+
+You need someone to come resuscitate you. How do they know how to come?
+
+How do they know where to go? How to find you? That's. That's probably one of the biggest problems in cardiac arrest.
+
+Um, what you see here is at the beginning, the patient was in this irregularly irregular rhythm.
+
+Probably a-fib just these first four beats. Then they went into a rapid.
+
+Disorganized rhythm. This is probably somewhere between a ventricular flutter.
+
+And ventricular fibrillation. And here it looks much more organized.
+
+So it's probably ventricular flutter or ventricular tachycardia here.
+
+And then here it degenerated to ventricular fibrillation.
+
+So what usually happens after you've been in a very fast ventricular rhythm for a period of time.
+
+Your heart starts to not get blood flow because your blood pressure is too low.
+
+Your coronary arteries don't get their perfusion.
+
+Your heart starts to get this Chemex throughout, and then you get ventricular fibrillation and then you have asystole.
+
+The other thing you need to think about is this started. At 6:02 a.m.
+
+All done at six. So the patient died during that.
+
+With this filter monitor on. We don't like to get Holter monitors like this, obviously, but it's.
+
+But one of the big problems in public health is if people have this kind of event and there's somewhere with a nobody can call for help or help,
+
+can't get to them in this amount of time, then you can't save their life.
+
+So there are over 400,000 out of hospital cardiac arrests per year in the United States.
+
+The majority of these are in patients having a heart attack.
+
+Um, and many of those patients did not know that they had risk factors for coronary artery disease.
+
+So like when you go to your PCP and they check your, uh, cholesterol, they check your blood pressure, they listen to your heart.
+
+All of those things.
+
+There's an opportunity to prevent these types of sudden death episodes, getting people to stop smoking, getting people to reduce their obesity.
+
+All of that stuff is ways of preventing these types of types of, uh, of of events.
+
+Because most of these are patients that are having their very first.
+
+They had already. There's a 95% out of hospital mortality.
+
+And that's exactly because of this issue of getting to the patients.
+
+When I first started in electrophysiology, you would talk to these sudden death survivors that are in your clinic and you be like.
+
+You have the most amazing story there. Like I was going for a run.
+
+I've been going for 15 miles and then I like, just didn't feel good and I collapsed and I was right in front of the fire station.
+
+They ran out and they resuscitated me. And here I am. And you're like, wow, that is so amazing.
+
+The others and, you know, other folks will say stuff like, I was in my car.
+
+I kind of didn't feel good. I pulled over, I ran out of the car to get help, and then I collapsed and the woman in the house was a nurse.
+
+She ran out and she was fascinated me. And now here I am. And they all have these incredible, improbable stories.
+
+And you know why? All the other people are dead.
+
+The people that don't have that story, that didn't happen to be near somebody that could resuscitate them.
+
+They're all dead. So that's the problem.
+
+That's why we try for prevention recognition of high risk populations.
+
+Right. Um, and we need to also think about different ways to identify these patients.
+
+So who is possibly at risk? So we know that people who have reduced pumping function of the heart are at risk.
+
+People who've had an old heart attack, people who have severe lightheaded spells or passing out spells.
+
+People who have non sustained VTE on their monitor but haven't had a cardiac arrest.
+
+Sometimes that's a flag that we need to look at them in more detail.
+
+People with structural heart disease. So people who have very thick and heart muscles such as hypertrophic cardiomyopathy,
+
+we were talking about earlier with Colin, some valve problems, people are born with them or they acquire them later in life.
+
+Leaky or too narrow. People who are born with heart artery malformations of the arteries do not develop properly and they get ischemia.
+
+Um, in different situations, people with a family history of sudden cardiac arrest, like the case we were talking about earlier today.
+
+Family history is very important. And certainly people who have a personal history of sudden cardiac arrest are very high risk for having another one.
+
+The problem with cardiac arrest is we all know that these people are the those are basically the people we were talking about on the previous slide.
+
+Right. These people individually are high risk for having a cardiac arrest, but they represent a very small piece of the general population.
+
+So the general population, each of the people has a very low risk of having a cardiac arrest.
+
+But there's so many more of these people than they are.
+
+There are these people that these people represent a huge proportion of the people having a heart.
+
+So we need to. If we really want to impact this number, we can definitely protect these people.
+
+But these people, we usually know about them already. These people, the vast majority.
+
+So what is the way that we help those people? Things to keep in mind.
+
+You know, sudden death before the age of 35.
+
+I think the reason I have this slide there is just to show you what the different diseases that people have.
+
+Um, I think when I was in medical school, probably the they used to talk more about these diseases.
+
+So the patients with anomalous coronaries were the patients with thickened heart
+
+muscle being like overrepresented in the young patients because of the epidemic,
+
+epidemic of obesity, actually atherosclerotic coronary artery disease is way at the top.
+
+You used to be thinking that like a 30 year old with a ventricular arrhythmia, very unlikely to be having a heart attack.
+
+Not true anymore, very likely to be having a heart attack if they're having a cardiac arrest.
+
+This is just to show you that that concept we were talking about before, that the likelihood of successful resuscitation goes down,
+
+is this is actually like a curve that looks like this, not a straight line, but the chance of success is reduced by 7 to 10% each minute.
+
+And what they mean by success you really have to have success with like cognitive recovery.
+
+I think that's one of the biggest things for these. So the problem is that most of the events are not with witness.
+
+There's difficulty reaching the victims within 6 to 8 minutes,
+
+and early availability of defibrillation to shock the heart back to normal is very important.
+
+So this is a study they did some years ago. Now looking at 80 days.
+
+And now there's ads everywhere around here. Does everyone know where the nearest is here.
+
+Where is it? You don't know? What are you guys going to do if he goes down?
+
+He's going to put the AG on. It's what is right out there. Call a doctor.
+
+Yeah, that's a good idea. Call a doctor. Yeah, but now the aids are everywhere.
+
+Before they did this study.
+
+Um, there was a nice editorial that was written by Douglas Snipes, who used to be the president of the Heart Rhythm Society,
+
+and what his argument were with everybody knows what an 80 is, right?
+
+An automated external defibrillator. Um. So he said that, you know, fire extinguishers, they save buildings, but Aids save people.
+
+So there should be as many aids around in the. As there are fire extinguisher.
+
+And so that was sort of the idea of this, of some of this data.
+
+So the national average, if you're just, you know, in a random place in the United States and you have a cardiac arrest, the survival rate is 5%.
+
+In Boston, it's a little better. Why? Because we're a smaller city.
+
+You can drive around easier. There's so many doctors in. Many hospitals.
+
+It's very hard to not not run into doctors. Seattle better community resuscitation program.
+
+You. You good? Community resuscitation effort.
+
+One of the biggest problems resuscitating people in the field is that average people don't feel comfortable resuscitating people.
+
+They don't feel comfortable going up to a stranger, touching them, doing chest compressions.
+
+There was a study that showed um for women being resuscitated at the.
+
+It is partly because bystanders didn't. Comfortable touching the women and like doing the chest.
+
+It's really important. So community resuscitation. Important.
+
+Also, I would say if you are planning to go on the wards and you've never taken like Blas or A-Class or any of that stuff,
+
+I would consider doing it because it's nice to be able to. Um.
+
+Rochester, Minnesota. Really small really is no traffic.
+
+Easy to get around, lots of hospitals. That's pretty much why they do so well.
+
+My favorite is the casino study though, because that's out of Las Vegas.
+
+What they did is they basically said, you know, what are they doing at the casinos?
+
+They did. They have security guys that are watching the people counting cards, doing all their stuff.
+
+They're doing a lot of things that increase your likelihood of having, uh, cardiac arrest, too.
+
+They're they're drinking, they're smoking, having surges of adrenaline and all that stuff.
+
+And so the and the, the, the security guys are watching you all the time.
+
+So all they did was they give the totally untrained medical people, gave them a defibrillator.
+
+Said when you see the guy at table four go down, just run over there, put the ad on them and that will take care of the rest.
+
+And that was able to improve the survival. So you realize you just need the defibrillator to get there really quickly.
+
+Oh I didn't include so that and that neat things that are happening on the defibrillator front.
+
+On the aid front are there's a they're looking at drones to fly the,
+
+the ads to people with a little audio thing that can interact with the people that are on site and tell them what to do.
+
+Um, I think that that's probably the future of a lot of this, because then it doesn't make any difference how much traffic there is,
+
+because honestly, traffic is probably the biggest barrier to a lot of these people.
+
+Yeah. Yes.
+
+Right. So the ANC is able to read the, um, the rhythm through the pads that you put on.
+
+They have that's basically these pads that have jelly, that which is the adhesive that sticks to the patient.
+
+It will interpret the rhythm and it will tell you shock advised or shock not advised.
+
+So if they've collapsed and they don't have a shock rhythm, it won't do anything.
+
+It will tell you the shock, not advised. Um, if you are a health care provider, you can override the automated features on the EEG.
+
+But most of the time in the community, you're just doing it on the basis of that.
+
+If it's an adult that's had a sudden collapse, the likelihood that it's a shock rhythm, if it's within the first few minutes is pretty high.
+
+Um, and so I think that it's, it's, it's pretty, pretty reasonable at doing the.
+
+So what about those people in the bottom half of that slide I was showing you that are a higher risk.
+
+That's somebody that I think that has like say a ten. A risk of having a cardiac arrest like those kind of people.
+
+It's probably not acceptable to rely on this kind of community aid resuscitation system to save them.
+
+So what do we do? We implant something called an implantable defibrillator, very similar to the pacemaker that we talked about before.
+
+Um, it can have a wire that goes two wires, one that will go in the upper chamber of the heart and one that will go in the lower chamber.
+
+And unlike the pacemaker wires, these are a little special.
+
+They have these coils on them. I don't know if you can appreciate from here to here is a exposed coil.
+
+And there can be a shock delivered between the can, uh, and the coils.
+
+So here's just another chest X-ray of a person with a SIM with a defibrillator.
+
+We sometimes call it an ICD for implantable cardioverter defibrillator.
+
+Um, this you can sort of tell sometimes people in the ER ask me, like, how can I tell if it's an ICD or a pacemaker?
+
+The ICDs are usually bigger. Um, there are two radio opaque areas.
+
+One of them is a um battery and the other is a.
+
+Notice that the ICDs usually identify the two separate parts there.
+
+There are two wires in this one. Again, there's one you can just barely see going in the atrium there.
+
+And then there's one going in the ventricle here. And you can see there's a bipolar electrode pair down here.
+
+And you can see the coils of the coils are usually they're programable how they deliver the shock.
+
+But mostly they have a shock vector.
+
+This is the sort of the default vector, uh, that goes from the coil to a combination of the, the SVC coil and the.
+
+Together,
+
+and defibrillation is just a matter of getting enough of the cardiac mass between the two electrodes that you're using to do the defibrillation.
+
+Um, and if you get enough in there, then it just basically cleans the slate and lets the sinus node start up again.
+
+So commonly encountered issues. Just like with the, uh, pacemakers.
+
+The wire is really the Achilles heel of the system.
+
+There can be changes in lead impedance. These are higher stakes for defibrillators because if there's a new problem,
+
+there could be noise that tricks the device into shocking the patient when they're not supposed to.
+
+So it's much more of a problem for, uh, defibrillators than for pacemakers.
+
+You can get lead fracture, lead dislodge like the lead falling out of where it's supposed to be.
+
+You can get, uh, long charge times on capacitors. That's usually a manufacturer problem.
+
+Uh, because these are devices. Even though they're they're manufactured to very, very high tolerance.
+
+Um, there's still can be problems. So batteries and capacitors,
+
+we usually have a home monitoring system for all the people with both pacemaker and
+
+defibrillators that can communicate either to their smartphone or a bedside monitor.
+
+Um, and it's, it screens the device for problems at night.
+
+Sometimes people, strangely enough,
+
+who have arrhythmias at night and get successfully treated by their defibrillator don't even know about it till the next morning.
+
+And when the device sends me information, we call them and ask them if they're okay.
+
+So when I come in in the morning, I have a bunch of messages. From their pacemakers and.
+
+Tracking, um, the different things that might have happened.
+
+So just like we were talking about with the APD, how does it know what to shock and what's the right thing?
+
+It's a variant of how the pacemaker works.
+
+This is a little cartoon showing what we would expect to see from the, uh, electrode down in the right ventricle.
+
+Here's the ventricular channel. And so here's a cartoon of the P-wave, the QRS and the T wave.
+
+And this is supposed to be somebody going into ventricular fibrillation.
+
+So on the ventricular channel, again we program a fence called the sensitivity at about that high.
+
+And we say everything above this I want you to count as one.
+
+So these blue dots are what the defibrillators. And you tell it, okay.
+
+If you count too many of these blue dots in too short a time, I want you to charge up and shock the patient back to normal with.
+
+That's basically. There's it's slightly, slightly more complicated, but that's basically how it works.
+
+So this is what sinus rhythm looks like. Pay attention to it.
+
+It's for, like, tests and stuff. Um, so this is the atrial electrode.
+
+This is the ventricular electrode. So sinus rhythm.
+
+What do we see. We see the upper chamber and then the lower chamber. So this down here is what we call the marker channel.
+
+So that's the defibrillator trying to tell me what it thinks is going on.
+
+So we have the real life what the signal looks like. And then we have the marker channel.
+
+So here we see the atrium. Interestingly, when you put a wire in the right atrial appendage, it actually over lies the ventricle just a little bit.
+
+So seeing a tiny far field signal from the ventricle is not that uncommon.
+
+So that's what you're seeing here. So the big signal is the atrium. And this is a far field signal from the ventricle.
+
+This is the signal in the ventricular. Why are these should be approximately at the same time.
+
+So we see atrium ventricle atrium ventricle. And what it's telling me is as ASV.
+
+Right. So it's saying, I just see stuff happening.
+
+I'm just looking at it. I'm not doing anything. What happened here?
+
+It's a premature baby. And where did it come from? The atrium or the ventricle?
+
+The atrium. Right. So we see we're coming along here, the site this is actually the number of milliseconds between these two.
+
+So 900 milliseconds. 890 close to the same.
+
+But then this one comes in at 610 which is much earlier.
+
+Right. So that's a pack. That conducted to the ventricle.
+
+Still, the device has done nothing. But then what happened here?
+
+It went, it waited and there was no more. No other atrial beats that said, oh, I better pace the atrium.
+
+What? Pace the atrium. And then it conducted down. And so that pack probably suppressed the snow just a little bit.
+
+And it was enough that the counter here elapsed and it. Yeah.
+
+So this is still the this 1040 is still from here to here.
+
+But this 990 is what exceeded. Lower rate limit for the atrium.
+
+So this that has a clock that was waiting here for another atrial beat and it's like, oh, there's not enough.
+
+And then conducted to the ventricle. But the 1040 is from here.
+
+Yeah. No, it just.
+
+It's just looking. Just describing. Yeah. So when we say oh, sorry.
+
+Yeah, yeah. Oh, yeah. Yeah.
+
+So you mean this sig? This signal? Very hard to interpret.
+
+I think that's an auto gain phenomenon in this case, because in real life on the EKG, it's actually a bigger signal.
+
+Sometimes it depends. It really depends. So I wouldn't I wouldn't judge by the size of the signal.
+
+Um, but the marker will always tell you what's going on with that. Usually atrial tissue.
+
+Yeah, usually not from the sinus node itself somewhere in the atrium.
+
+But we can't say too much about it because we can't in this case.
+
+We're like looking really close up at like where basically that signal, it's coming from a wire that's sitting in the atrium.
+
+So it's looking it's coming from something like that which has a field of view about this much.
+
+So we can't really tell you too much about where it came. So yeah, when you have a premature beat.
+
+So the sign is snow. It is here, right. And imagine you have an early beat.
+
+That depolarize is the sinus node. It then causes it to reset.
+
+And it may take a moment to get going again, especially in people who have a little bit of heart disease.
+
+And so probably that's why the. But why?
+
+It's, um. It's prevents the. Okay.
+
+So the other thing that we get. So if you imagine that these numbers were plotted on a graph.
+
+So when I get it downloaded to me, I sort of get a PDF form from all these people with remote monitors.
+
+And we'll get something that has a graph of these intervals.
+
+And these intervals if there's a two wire device. So here's an example of a patient who had an episode where they were shocked by their.
+
+And this is a single wire defibrillator. So one wire in the ventricle.
+
+The purple dots are the V intervals.
+
+So we started in a rhythm that was between 900 and 1200 milliseconds.
+
+So probably sinus rhythm at 16th or something like that going along pretty much the same heart rate.
+
+Here. When it goes down, the cycle length is getting lower.
+
+So the heart rate is getting faster, so the space between the heartbeats is getting shorter.
+
+So these are probably a couple of extra beats, but nothing big deal.
+
+Big deal went back to normal. But then all of a sudden, what do we see?
+
+It went down to something that's about 200 milliseconds.
+
+That's about 300 beats in that. 300 beats a minute, 300 beats a minute, 300 beats a minute.
+
+This time, zero is when it's like, hey, something's going on.
+
+That. I was told that if it goes like this, I should shock the heart back to normal.
+
+This is how long it takes to charge up. And then shock the heart.
+
+And then the rhythm goes back to something closer to normal. So we sort of know from just those little plots that that's what it is.
+
+This is what I get when I see the, uh, tracing.
+
+So here's V cents one. You know, 1010 milliseconds.
+
+So about a heart rate of 60 a little bit slower V cents b cents b cents.
+
+All of a sudden here, when it switches from the v cents to F's that means that it's gotten it's gone into a rhythm that it's programed is too fast.
+
+It doesn't do much more about the diagnostics. It's just like this is too fast.
+
+And so it's saying, I see that it's too fast. Here it says IFC, it's too fast for long enough to charge up the capacitors.
+
+So I'm charging charging, charging. And then here it says charge and charge delivered.
+
+Boom. And then back to normal rhythm after that. That was basically a life saving shock.
+
+So if I get a message like that in the morning, I call them up and I say, hey, Mr. Smith, you got a shock last night.
+
+You feeling okay? He's like, yeah, but that person would have been dead if they didn't have the defibrillator.
+
+Yeah. Right.
+
+So it all depends on the arrhythmia. So this kind of thing is perfect because it makes your blood pressure very low.
+
+You're aware awareness is usually low. With luck you're sleeping.
+
+There are people who don't even wake up when it happens. So this is like perfect.
+
+There are a lot of situations that are not perfect, so if you're in slower of attack, the worst thing are people that go into recurrent v tach.
+
+That's like 170 or 180 beats a minute. So it's enough to make them feel awful, but not enough to really make them unaware of what's going on.
+
+So there is another way that the device can try to stop the arrhythmia for those patients.
+
+It can try using the pacemaker function to pace just a little bit faster than than the arrhythmia that it sees.
+
+And sometimes it'll pop them out of the arrhythmia back to normal.
+
+Um, so that's kind of. So this is, um,
+
+so the one of the problems we have with devices like this is there are so many electronic devices in our environment that can produce electronic.
+
+There's a lot of stuff.
+
+Like I had a patient show up with noise detected on their defibrillator because they were using a wireless microphone in a band.
+
+And so whenever he was holding the microphone, his defibrillator was picking up a little bit of noise from the device,
+
+especially if he got it too close to the defibrillator can.
+
+So we want to try to get our patients to avoid environmental things that can cause noise,
+
+because the device is not always very good at picking that up. So this is an example of noise detected on a defibrillator.
+
+It can be either because the wire is having a problem like a fracture, or it can be something outside the body that's.
+
+Noise. So when we look at it with our eyes, we can kind of tell that there's QZ here with noise superimposed.
+
+It is really hard for the device to figure that out. And you see that the device is sensing all kinds of crazy things during this.
+
+And eventually what happens. It charged up, it said VFR one.
+
+I'm going to do the first therapy in the BF zone. I'm going to charge up the capacitors and shock the patient.
+
+This is the worst. They're totally minding their own.
+
+So since this time, there have been some modifications to the protocols for the devices that if they're open,
+
+there are certain features of that that are suggestive of noise.
+
+If you get intervals that are very, very, very short, closer than like 110 milliseconds,
+
+that's very likely to be noise rather than actual biological activation.
+
+And so the device will actually turn down the likelihood of shock in that case, but it will trigger an alert through the wireless system to us.
+
+And it'll also start alarming like the device will start alarm.
+
+Uh, if that starts to happen, but that's probably one of our biggest problems with the device.
+
+So the wire fracture is a huge problem, especially when young people get these devices.
+
+The new kid on the block is the subcutaneous defibrillator.
+
+So the wire is completely outside of the chest wall and all the sensing happens more like EKG electrodes.
+
+The tracings look like EKG electrodes. So this is the download from this device.
+
+You can see there's, um, I think this is a little bit of AFib that they're having.
+
+It's a little irregular his rhythm. But then he goes into v tach here.
+
+And this in this case the device didn't do anything to get him out of it.
+
+It happened to stop on its own. But that's at least what the tracings look like.
+
+The problem with this device is it needs a lot more energy to get to the heart,
+
+because you have to get through the lungs and the chest wall and all that stuff, whereas the other one is like sitting right in the heart.
+
+So the problem is that as a result, the can has to be much.
+
+So for petite patients, this is a big challenge for bigger people.
+
+It's it's less of a problem. We have time to talk about this.
+
+Yeah. Go ahead. Yes.
+
+So this is a huge problem with this device. So there's um, there are people are working on different algorithms actually the biggest problem.
+
+It doesn't look like it here is something called t wave over sensing.
+
+So this is the T wave down here. It looks pretty small.
+
+But sometimes when young people exercise, they can get their heart in a different position relative to the electrodes so that the T wave grows.
+
+And then every QRS gets two counts instead of one, because the T wave is so tall relative to the QRS.
+
+There's also some some features. There's an EKG tool.
+
+They have to pass that their, um, their baseline EKG can't be too abnormal.
+
+There are also people who, when they exercise, they get a rate related bundle branch block.
+
+And that can be a big problem too. So like supposing when you exercise you develop a left bundle branch block.
+
+It could be that there you have the T wave over sensing where you don't at baseline.
+
+So it is definitely a problem. So they've developed something.
+
+They call it the smart pass filter. It's a filter that takes the beginning of the shares and attenuates the T wave a lot.
+
+And that's actually helped a lot when the very first generation of this device had probably a 10%,
+
+uh, inappropriate shock rate when they first started. And that particular filtering of the T wave really helped a lot to reduce that problem.
+
+Yes. So it's a controversial thing. So there are two.
+
+Two kinds of things or three probably. So first is if the device is malfunctioning, like if the lead is fracturing.
+
+The worst thing that can happen is it could shock you and put you into an arrhythmia that it then can't get you out of.
+
+Because it's not sense. So, like, literally, the device could kill you, right?
+
+The other problems are that like, um. If you're if the device is, um.
+
+What were you to tell me again? Your question. There are three things. Oh, that's that the consequences of the shock.
+
+So there's a it's controversial as to whether shocks can actually cause worsening heart failure,
+
+but there's a little bit of signal from some of the larger clinical trials of, of, um, of device implantation.
+
+But there's a suggestion that it's hard to know from observational trials is that people who get more ventricular arrhythmias are often sicker.
+
+So teasing out whether the shocks are making them sicker or they're sicker because they're getting the ventricular arrhythmias is a little bit tricky.
+
+Um, the other problem, though, is that getting shocks from your defibrillator,
+
+if you were going to design a system to give you post-traumatic stress, being awake and getting an ICD.
+
+So people have really they're happy they're alive, but they're like really unhappy that the device had to shock them.
+
+So we do a lot to try to prevent the shocks.
+
+Any other questions? So I was going to finish up by talking about this.
+
+This is sort of more just for interest. Does anybody recognize this?
+
+So this is the. Angles and the bills from a few years ago.
+
+Right. This is Damar Hamlin, number three.
+
+And I want you to watch a couple of things. So he runs tackle, stands up.
+
+Takes a couple steps. Collapses. Right.
+
+Does it look like he got injured? Not really right.
+
+It really doesn't. And he seems kind of surprised, right?
+
+Is everybody familiar with this event? Yeah, yeah.
+
+So I wanted to spend the last little bit just talking about sudden death in adult athletes.
+
+It's a really important public health area, and it's also a really interesting area of specialization within electrophysiology.
+
+There's a whole group at MIT that's sort of devoted to this.
+
+Um, the overall incidence you see there, um, the age it increases with the age of athletes, for sure.
+
+Um, and it don't have to be that old age greater than 35 is when you're considered
+
+a master's athlete for the purposes of this kind of these kind of studies.
+
+Um, males greater than females, blacks greater than whites, increasing dynamic component of the sport.
+
+So whether it's basketball, hockey, soccer. The underlying.
+
+Oftentimes what you find is that there's an underlying disease.
+
+So a lot of them are, uh, what we call inherited, uh, channel apathy.
+
+So these other epi causes are the people with the long CT syndrome we talked briefly about got us syndrome.
+
+Um, there's Wolfe, Parkinson white. We talked about.
+
+I don't think we mentioned CPT, but that's another inherited disease where you can get arrhythmias.
+
+But the other causes are the ones we saw in that autopsy series.
+
+Hypertrophic cardiomyopathy, at least in US populations, is at the top.
+
+Anomalous coronaries osteo cordis, which is what we think the Tomar Hamlin had, is in about 3%.
+
+And those people supposedly have structurally normal hearts, uh, myocarditis like the post Covid people and then RBC,
+
+like the gentleman whose EKG we looked at earlier today, the resident with the caffeine.
+
+So what is commotion? So there's a this is a diagram of it.
+
+There's a friend of mine, Mark link, who's at UT southwestern now. He used to be at Tufts.
+
+Spent his whole career investigating this area.
+
+The idea is to usually in someone with a structurally normal heart, it's more likely to occur at a young age with higher velocity impact.
+
+And it's usually a projectile. So usually it's a hockey puck, a lacrosse ball, a baseball, a fist or elbow.
+
+They're like judo and karate, uh, ones where person.
+
+But the the thing that's in common is that the patient is struck in the center of the chest, right by the sternum.
+
+The reason it's a younger person is because the thought is the chest wall hasn't completely ossified yet.
+
+Uh, and so the, the strike causes actual deformation of the chest wall and impacts the heart wall to the extent that it can cause an extra beat in an.
+
+The timing has to be exactly right. I don't want to show you.
+
+So, um, we look at least mentioned that for their young athletes, 12 to 25 years,
+
+Masters athletes are in the greater than 35 year range, according to American Heart Association.
+
+What do we do? First? Screening of athletes. There's this 14 point, uh, evaluation that includes history.
+
+Like, have you had chest pain? Have you passed out? Do you have a history of high blood pressure?
+
+Have you ever been restricted from sports in the past? Family history.
+
+So asking about any close relatives that have had any cardiac problems and then physical examination.
+
+But interestingly in the US a routine 12 is not recommended.
+
+The problem with EKGs, they say, is because there are too many false positives, too many false negatives,
+
+and the cost of such initiatives to have specialists come and read all the EKGs.
+
+In Europe, it's very different. Especially the Italians,
+
+recommends 12 lady KG and all young and young interviewers prior to participation in competitive sports because they feel that it is cost effective.
+
+So what is the difference between the different populations?
+
+Some of it is the epidemiology of the problem.
+
+You know, a lot of young people.
+
+So supposing you screen people at the beginning of high school for hypertrophic cardiomyopathy by EKG, you might not see anything on the EKG yet.
+
+Maybe when they're older it could be abnormal, but maybe they don't have enough hypertrophy yet.
+
+As a kid in high school that you'd see anything. And in the US there's a lot more hypertrophic cardiomyopathy than there is.
+
+The other diseases that are more common in, like the European populations are are RBC,
+
+the right ventricular disease, and other inherited cardiomyopathy that really show up on the EKG.
+
+Yeah, it reflects the population. It just in the US we're very heterogeneous population in some of the European communities, particularly in Italy,
+
+there's a little bit more, um, founder effect in some of the regions that that make some of the other diseases a little.
+
+For the Masters group.
+
+They recommend the EKG just because as soon as you're older, there's more likelihood that you might have some underlying heart disease.
+
+And we definitely want to do an exercise. Treadmill testing for those who are over 45.
+
+The European screening is much more similar for the older population.
+
+The interesting thing is, if we look at the NFL, right, what's the NFL?
+
+I after I saw the DeMar uh, Hamlin uh episode.
+
+I was so impressed by the NFL and there were. The whole thing.
+
+So data for the combined medical exam. You get an EKG, you get a stress test, you get a trans thoracic echocardiogram,
+
+and you get something called a cpat, which is an exercise performance evaluation.
+
+Looks at your exercise capacity from both a pulmonary and a cardiovascular standpoint.
+
+So this is much more than what is recommended. Uh, by the.
+
+Certainly they have an emergency action plan before every game.
+
+They have a.
+

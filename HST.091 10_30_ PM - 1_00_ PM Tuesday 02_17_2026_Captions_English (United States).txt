@@ -1,0 +1,2301 @@
+[Auto-generated transcript. Edits may have been applied for clarity.]
+All right. Good morning. Thank you.
+
+Um, familiar faces in unfamiliar places, but welcome.
+
+I think this might be one of the only lectures, so very few that you have in the MIT campus where you actually have a window,
+
+because when you take repro next year, I think it's going to be across the courtyard on the third floor of that building,
+
+one which also does not have any windows.
+
+So HSC manages to focus your entire attention to the electrifying lectures that will be delivered day to day to you.
+
+Right. Okay. So today you can look out the window. Um, uh, few people are sick, including your intrepid ta.
+
+Rachel. So I will be passing around this thing today. Colin is traveling.
+
+Uh, the food should be arriving here. But if you guys over here see someone poking their head in,
+
+wondering whether they can come in and they have a bunch of food, just wave them in, right?
+
+To tell them they can put it up here. We will not interrupt the lecture, but we do want to have our food, right?
+
+We don't want to leave it on the hallways for the hungry undergraduates to come like the locusts.
+
+Okay. Um, yes.
+
+Today's lecture. So, um.
+
+We put it all together, and, uh, if you wish,
+
+and if you're so inclined to compare the lectures that are presented to you to a symphony, today is the grand finale, right?
+
+The first lecture, sort of the like. Peace that flows and ebbs a little bit easy to listen to.
+
+Second lecture equally third lecture, venous return curve.
+
+There's always a piece in the middle that you feel like I don't quite know what to do with that.
+
+Right. Maybe a little disharmony, maybe a little fast, maybe a little slow.
+
+Right. Today, even the dude long haired dude, you know, in the percussion with a triangle is going to get up at the end.
+
+It's banging this thing, right? So as you will see, there will be a groundswell.
+
+It will be unmistakable. All right. So today we'll have a brief review of the venous return curve and the ventricular output curve.
+
+Or output characteristics that we've, um, covered in the last two lectures.
+
+Then we have to talk a little bit about the pulmonary vasculature and some peculiarities of the
+
+pulmonary vasculature that you might have already covered a little bit in your respiratory class.
+
+If not, then we'll cover it first. They will cover it last second.
+
+Um, but you will hear probably at least twice. And then we would put it all together and we'll end with some clinical examples.
+
+Right. This will be it for hemodynamics and cardiac mechanics or cardiovascular mechanics.
+
+Next lecture I think will already transition to electrophysiology.
+
+We are progressing at a breakneck speed in order to be able to cover all the material that we need to cover.
+
+So at the end of this lecture, it's a good point to take a pulse to see whether this material is solidifying.
+
+You have a chance to do that. You know, we do that together when we talk about the clinical examples,
+
+but you also have a chance to do that in the current problem set that's out to on Thursday.
+
+And then the next problem set I will put out where we also cover the material that we're covering today okay.
+
+But we are progressing rather rapidly. And if you're not fine, if you fall behind a little bit, maybe on your reading it's a good time to catch up.
+
+Okay. Because we switch gears on Thursday and we'll talk about electrocardiogram or electrophysiology.
+
+All right. So with that, a brief review of the peripheral circulation and not the hardware, the isolated ventricle.
+
+So this by now is second nature, right.
+
+What we're showing here is the model of the peripheral circulation.
+
+And as I said don't be intimidated at all by the circuit elements.
+
+You can phrase this in terms of fluid mechanics.
+
+Mechanical engineering analogs we're using here the language or the graphical representation of electrical circuits.
+
+Resistance is resistance to blood flow. We defined the perfusion pressure as the upstream pressure minus the downstream pressure right.
+
+And the flow through this is the upstream pressure minus the downstream pressure over the resistance.
+
+These elements over here. Simply the rubbery, elastic properties of vascular segment.
+
+They can stretch if the internal pressure is larger than the external pressure.
+
+So if the trends mural pressure, the pressure across the vascular wall or across the ventricular wall is positive, right?
+
+They distend they distend like a birthday balloon, right?
+
+You push an internal pressure larger than external pressure.
+
+The wall is elastic up to a certain limit.
+
+It will expand. That is simply represented here by this.
+
+Element outside pressure so far is we've we've always assumed that this is atmospheric pressure or reference pressure,
+
+what we call here, the ground, which is zero tissue pressure with exceptions, is essentially zero is zero.
+
+Uh, atmospheric is atmospheric pressure can change.
+
+Of course, when we have edema, for example, in the peripheral circulation. We talked about that talk about pulmonary edema also today.
+
+Right. Now the same. Vascular representation.
+
+Lung vascular representation over here. Elasticity of the veins and a tiny resistance to units return.
+
+So far we've defined the filling pressure as the mean right atrial pressure with reference to atmosphere.
+
+We'll talk about intra thoracic pressure today in the lecture when we talk about the
+
+heart lung pumping unit and the closed chest arrangement of the heart lung pumping unit.
+
+Now, the characteristic that we did and I will not go into the details anymore other
+
+than to say that this is our graphical representation of the venous return curve.
+
+Here is our independent variable, the filling pressure which is the downstream pressure.
+
+The dependent variables are cardiac output. Everything else depends on parameters of the peripheral circulation.
+
+Systemic circulation. Resistance, microvascular resistance, RA rv resistance to venous return,
+
+the compliances of the arterial systemic arteries of the compliance of the um.
+
+Uh systemic veins mean systemic pressure defined as total descending wall blood volume over total compliance total the standing blood volume.
+
+The standing means pressure is being generated, meaning total volume minus total zero pressure filling volume of the arteries and veins.
+
+Okay, that is it. That's it, right?
+
+The slope is given by this expression that we derived, you know, in classes also in your notes.
+
+And if you are interested in the algebraic solution here we have a pressure
+
+difference where the mean systemic pressure plays the role of the upstream pressure,
+
+the filling pressure, the downstream pressure. This is a constant.
+
+Right. If the numerator and the denominator is a constant and then over sum weighted sum of the resistances of the circuit.
+
+Vascular collapse entering the thorax.
+
+Over here. We've also shown this picture in the closed chest arrangement right when the chest is closed.
+
+The intra thoracic pressure, also known as pleural pressure, is negative,
+
+which means that even if the internal pressure here in the right atrium is zero with reference to atmosphere.
+
+The trans mural pressure is zero minus approximately -four millimeters of mercury.
+
+So the trans more pressure here is positive. Where does the vascular collapse occur?
+
+At the entry points into the thorax where the tissue pressure external pressure might be zero over here might be zero over here.
+
+And the internal pressure might become slightly negative.
+
+The moment this turns more pressure becomes negative. The superior inferior cable in any other venous structure entering blood into the thorax,
+
+right collapses and goes into a state of flow limitation, which is not a constant collapse,
+
+meaning it doesn't go to zero,
+
+but it's established essentially by the upstream pressure minus the outside pressure becomes independent of the downstream pressure.
+
+All right. Okay. We played around with the parameters and we said, well, what happens if we change the mean systemic pressure?
+
+The slope doesn't change, right? Because the mean systemic pressure, the vascular volume doesn't change in here.
+
+Now, if we change the compliance, if we affect the change in mean systemic pressure by affecting the compliance,
+
+then it will be both the slope and the offset that changes.
+
+But by and large, as we will see when we talk about the control of the cardiovascular system.
+
+The compliances of the lumped compliance. The overall compliance of the arterial systemic tree and the venous system.
+
+Lump compliance, even under smooth muscle contraction, actually stay fairly constant.
+
+Right. The filling status of the veins might change, the vascular resistance might change,
+
+but the overall compliance of the systemic arteries and the systemic veins as a whole stay stay approximately constant.
+
+So. Therefore, we always think of the changes in mean systemic pressure, the changing either in total blood volume, transfusion or hemorrhage.
+
+Right, or a change in the zero pressure feeling volume through the vasomotor tone of the veins.
+
+So no change in slope, but change in the offset.
+
+Right. And what you can see over here is just even a minor change,
+
+let's say from PMS from in systemic pressure of seven to maybe eight to maybe nine or so can change.
+
+You know where we might be operating? Quite substantially.
+
+All right. We'll talk more about this, too. It's the latter half of the course of today's lecture.
+
+Okay. So PMS changes the offset, right?
+
+Primarily mediated through changes in volume or total volume of zero pressure filling volume.
+
+If we change another important variable which is resistance.
+
+RA or RV don't enter into PMS.
+
+Right. So it's really just the slope that changes. And the and RV is also essentially constant over here.
+
+So all of that resistance is mediated by the microvascular resistance where we have that
+
+industrial strength vascular smooth muscle in these pre capillary sphincter muscles.
+
+You know, precalculus ahead of the, you know, upstream of the capillary vessels to bring that mean a ton of pressure down.
+
+Okay. No change in the offset over here.
+
+But a significant change in the resistance. Okay so much, I think for the re review of the venous return.
+
+And you have an opportunity to exercise that in the in the problem set.
+
+This is an important. Slide.
+
+As I pointed out previously, to understand the behavior of the single ventricle or the muscle fiber.
+
+What we said over here is that when we passively if you take a muscle fiber out of the heart, we passively stretch it.
+
+It behaves like a rubber, right?
+
+A little bit more tension or, you know, pulling on it to a certain length produces a little bit more tension, or we apply a little bit more tension.
+
+It extends to a certain length. Right.
+
+This is this passive behavior. It's just a rubber band.
+
+Right. Now once we stimulate. Either at constant length.
+
+Or against the constant load, the peak active pressure that's being generated.
+
+Collapses on what we will call this end systolic.
+
+Pressure volume relationship, in this case the length tension relationship.
+
+Write the points don't fall onto two curves.
+
+Whether you do it at constant force or you do it at constant length.
+
+Right. It's one characteristic curve that is being generated.
+
+The peak active tension. Now the more I stretch.
+
+Or the more preload I provide to the muscle fiber, the higher the peak pressure or tension that's being generated.
+
+Right. Well, think about this. Let's say you have a little bit of more venous return to the heart, right?
+
+For whatever reason. A little bit of more venous return to the heart will stretch the muscle fibers a little bit more,
+
+meaning that the next contraction will actually be a little bit more forceful.
+
+Meaning that it can actually give out a little bit more volume.
+
+Of stroke of stroke volume right in the neck speed, thereby returning the heart to its normal filling status.
+
+So even without any neural feedback, without, you know, any,
+
+any sensors that have to go through some neural pathways to figure out how high the blood
+
+pressure or how high the cardiac output ought to be intrinsic in this relationship,
+
+that more within limits, more preload gives you a higher active tension that's being generated,
+
+means that there is an intrinsic regulatory process of the heart that can deal with volume that's too low.
+
+Right of filling one in. That's too high. Okay.
+
+Also has implications that we will see for, um.
+
+Uh, close chest operation of the heart when we have an inter thoracic pressure that's, uh, non-zero.
+
+Okay. What this allowed us to do, to say, hey, listen, this is cool, right?
+
+Because. It almost looks like this little fiber that we have can be modeled as a two state spring.
+
+It's either in a floppy state. When it's passive or it's in a stiff state when it's active.
+
+Right. And we made the transition from there to the model of the ventricle where the, the,
+
+the the role of the of the length is now given by the role of the volume chamber volume.
+
+And the role of the tension is played by the pressure.
+
+And we said we operate between an end diastolic pressure volume relationship and systolic pressure volume relationship.
+
+And all the dynamics happen in here. Because the ventricle, as you see over here, is essentially a receptacle.
+
+It's a balloon that can take volume. Right.
+
+We also model it as a capacitance, as a storage element essentially.
+
+And that storage element can be in one of two states and transition between the two
+
+states and diastolic or filling state and systolic state at the end of each action.
+
+Okay. All right.
+
+So far, I'm just repeating all the things that we've already said. But I want to bring all of this together.
+
+Now, again, don't be intimidated.
+
+What we have over here is simply a constant preload. It's a battery, right?
+
+And we have a constant afterload.
+
+That's exactly the kind of thing that we had last time with the two reservoirs, where one reservoir is feeding the other reservoir.
+
+Look at the at the slides from last time. The diodes over here are simply unit directional flow devices.
+
+These are all valves mitral valve, aortic valve, tricuspid valve, pulmonic valve.
+
+And then we have our our cycling ventricle. Over here we made arguments that that cycling between the diastolic state high capacitance
+
+state and the systolic state actually happens over very brief periods of time.
+
+All right. We're spending most of our time, of course, in diastole.
+
+Right? Two thirds of the cardiac cycle, approximately one third of the cardiac cycle, approximately insists ventricular systole.
+
+Right. Including a contraction. But that transition between the end diastolic compliance and the necessary compliance happens fairly, fairly quickly.
+
+And so in this configuration where we have a constant preload and constant afterload.
+
+Right. Constant preload FX constant afterload PA our cardiac cycle is simply um defined by these four phases.
+
+Phase four is filling. Phase one ice contraction until we reach the constant afterload.
+
+Right at that point, aortic valve opens. We eject against the constant preload.
+
+At the end of systole. Aortic valve closes.
+
+I make relaxation until a mitral valve opens and the cycle repeats itself.
+
+Okay. We have a dead volume or a zero pressure filling volume of the ventricle.
+
+We assume that the zero pressure filling volume in systole and diastole are the same.
+
+The difference between these two volume states is our stroke volume, right?
+
+Simply defined as the end diastolic volume and systolic volume, where we've taken into account over here is that the dead volume is the same,
+
+so that it drops out over here and over here in diastolic volume.
+
+Technically this. Right and systolic volume ESV.
+
+Technically this if you subtract the two, the dead volume drops out and we left with this.
+
+Okay. We also defined the, um, ejection fraction.
+
+Now we can use this formula. To define the ventricular output curve and I'm always walking over there.
+
+I can also do this over here. So. This is our equation that we've just used.
+
+Heart rate F times the entire solid filling the entire solid volume minus the and systolic volume.
+
+Right. If you can see. Um, you might not be able to on the other side.
+
+That's the nice thing about this guy. Right now.
+
+If. The feeling pressure is such that we can.
+
+Sorry. If if if the feeling pressure is such that we can.
+
+Or the cardiac mechanical such that we can never reach the arterial pressure.
+
+So the aortic valve never opens. Our ventricular output is zero, right.
+
+Meaning that there's a combination of c s over CD times PA.
+
+Right where we're not reaching the, um, aortic pressure.
+
+The afterload. Now. CD ten.
+
+So within the normal limit of behavior.
+
+We have a linear relationship, or technically affine, but who cares?
+
+Between the feeling pressure. Input pressure to the ventricle and the output.
+
+Remember, on the venous return curve we had a linear relationship to within limits.
+
+Between the downstream pressure and and the venous return. Here we have a linear relationship.
+
+Between the filling pressure and the ventricular output.
+
+Up until we reach the maximum filling volume of the ventricle, and we assume that there was really a hard wall that we hit, right.
+
+And at that point, no matter how much. More.
+
+We try to increase the feeling pressure. The ventricular output plateaus simply because the ventricle can feel more than that.
+
+And that's when we end this regime three over here where the ventricular output is limited, not by time,
+
+three, not by the filling pressure itself, but by the maximum pressure over by the maximum volume that the.
+
+That the, um, the ventricle can take. I'll go back here.
+
+This we talked about in the second lecture. Right ventricular left ventricular curve.
+
+Left atrial curve. And. Aortic root pressure.
+
+Right or arterial blood pressure. At the root of the order and we said mitral valve closure.
+
+Aortic valve opening, peak systolic pressure. Aortic valve closure.
+
+Mitral valve opening. Right between 1 and 2 ISO will limit contraction between 2 and 4.
+
+We have ejection between 4 and 5. We have relaxation between five and the next one we have filling.
+
+Now we can transition from the pressure versus time axis over here to the pressure volume axis over here.
+
+If we supply you with the corresponding ventricular volumes that.
+
+Correspond to the individual points on the graph over here.
+
+Likewise, if we give you this and we give you the timing information of this, at least we can reconstruct the ventricular pressure volume curve.
+
+Right. Pressure over here.
+
+Aortic valve opening. Also the diastolic. Arterial blood pressure.
+
+Don't mistake the end. Diastolic pressure of the left ventricle with the end or the diastolic arterial blood pressure.
+
+Two very different pressures. Right. This on the order of 5 to 8.
+
+Normally this on the order of 80. Right.
+
+That's why we always try to emphasize the ventricular end.
+
+Diastolic pressure is the end of filling. Right.
+
+And the arterial diastolic pressure is when just before the aortic valve opens.
+
+Sometimes people get a little bit confused about that. We want to keep that separate.
+
+All right. We talked about varying the preload and the afterload here.
+
+Again we're in that constant preload constant afterload arrangement.
+
+We increase the afterload meaning arterial blood pressure.
+
+Stroke volume significantly reduces.
+
+Ejection fraction significantly reduces. Few millimeters of mercury.
+
+Of change. Increase in the feeling pressure can restore our cardiac output because CD is so large, the slope of one over CD therefore very shallow.
+
+Normally right, very shallow. Just a few millimeters of mercury can make you move from here to here.
+
+Right? So a lot of ability to regulate stroke volume quite substantially by just moving a few millimeters.
+
+American pointed out that you have all that venous reservoir, right,
+
+of your hepatic circulation of your splanchnic circulation of all these large
+
+veins that have a lot of capacity sitting right upstream of the right atrium,
+
+meaning if there is a little bit of smooth muscle contraction,
+
+you can mobilize a lot of this dead volume and modulate that filling pressure quite substantially by just a few millimeters of mercury.
+
+You can you can modulate cardiac output, uh, stroke volume, cardiac output quite substantially.
+
+We talked about contractility. Um, increasing contractility makes the slope of the end systolic pressure volume relationships deeper.
+
+Meaning if we're actually doing this. All other things being equal, we substantially increase stroke volume.
+
+If we're reducing the contractility, right, we make it substantially larger.
+
+So modulation of the systolic pressure volume relationship.
+
+Either in health, fight or flight response as we will see.
+
+Right? Or you getting on a treadmill and you starting to exercise right.
+
+Your contractility will go up. Right will increase.
+
+Someone has a heart attack, or you just had your big Thanksgiving meal and you are in postprandial coma, right?
+
+You're going to the couch, you're lying down, you have the rest and digest response the opposite of the flight and fight or flight response.
+
+Contractility is going down okay. These are neurally mediated pathways.
+
+We talked about the fact that the, um, diastolic relaxation is a oxygen dependent mechanism.
+
+So if your heart is in an oxygen deprived state, you are, um, also not just changing the contractility,
+
+but also what is known as the lucid tropic state of the heart, meaning the efficiency and the rate with which the heart can actually contract.
+
+And that has to do with the calcium re uptake into the sarcoplasmic reticulum.
+
+So if you have a heart attack, your end systolic pressure volume relationship will go down and your end diastolic pressure relationship will go up.
+
+The effect of this is a significantly increased.
+
+Feeling pressure. Right, and it's significantly reduced stroke volume, as we'll see in one of the clinical examples that I'll show at the end.
+
+All right. I think this is all by way of review,
+
+but I wanted all of us to have this at the tip of our fingers before we now transition to the function of the integrated cardiovascular system.
+
+The horns are playing. The trumpets are getting ready. Right? Uh, even the violas, uh, you know, starting to move.
+
+So we're getting there. So coming back to the very first lecture, what is the function of the cardiovascular system?
+
+First and foremost, to supply the brain with oxygen.
+
+Right now, if it's not the brain, it's the heart.
+
+Without the heart, no brain. Right. Without the brain, no control.
+
+Right. So but first and foremost, perfused the CNS with oxygenated blood to your liver can be shot.
+
+Your kidneys are gone. Multi-Organ failure.
+
+Your heart is still trying to pump blood to the brain. That's it.
+
+There's other mechanisms over here that all have to do with one way or another,
+
+with perfusion meaning pushing blood around the vasculature in adequate rates.
+
+Right. Transport over here. Nutrients, waste products.
+
+Pick up communication. Heat exchange protection.
+
+Maybe not so much, but yeah, you also have to get to the wound and you have to release your, um, stuff.
+
+Okay. What determines cardiac output? In the intact circulation.
+
+Sorry. Yes. So. Interesting.
+
+Cardiac output. It's heart rate.
+
+Time. Stroke volume. Self-evident.
+
+Right. You put that on the board. The first lecture. So.
+
+If I were to pace you or an animal in front of us.
+
+And they were to double the heart rate. I would double the stroke for.
+
+Oh, sorry. I would double the cardiac output. We all agree.
+
+All right, hold that thought. It's the pump, of course.
+
+What determines cardiac output? Right for.
+
+You have that big muscle sitting there. Right. What we said.
+
+Is that we pretty much have an infinite reservoir almost sitting right at the entrance to the right ventricle.
+
+Cardiac output is what the heart can push out, what the heart can pump,
+
+and therefore cardiac output is limited only by the ability of the heart to pump.
+
+Makes sense. Right. So if you're in that camp, if you were to go to a conference.
+
+Decades ago, cardiovascular physiology, let's say 60 or 70 years ago, you would have a huge following.
+
+But you would be yelled at by the other half of the people in the audience.
+
+Why? It makes so much sense, right?
+
+We've built it up that way. However. Increasing heart rate.
+
+Only minimally increases cardiac output. How is that possible?
+
+Heart rate. Cardiac output is heart rate times. Cardiac times.
+
+Stroke line. Self-evident. Well, if I measure your heart rate and if I measure your cardiac output.
+
+If I measure your heart rate in a measure of your stroke volume, that is your cardiac output.
+
+And then a pace. The measure heart rate and measure stroke one.
+
+You know, heart rate. You know, cardiac output. So what's the problem here?
+
+Nope. Stroke volume is not in the intact circulation.
+
+Stroke volume is not independent of heart rate.
+
+So if I if if I measure the stroke volume and I measure the heart rate, I can multiply that to and by definition that is your cardiac output.
+
+Right. But it's a fallacy to say a double heart rate, therefore a double cardiac output, because stroke volume is no longer independent of heart rate.
+
+Okay. Replacing the heart with a pump of nearly infinite capacity increases cardiac output very little.
+
+Increasing blood volume in that reservoir.
+
+Can change cardiac output near instantaneously, meaning I raise that reservoir just a tiny bit.
+
+Cardiac output jumps up instantaneously.
+
+Changes in total peripheral resistance. Significant, I should say.
+
+Changes in total peripheral resistance, as we will see, can dramatically change cardiac output.
+
+For example, we've already talked about an AV fistula right.
+
+So a big short circuit. Between.
+
+The main artery and the main vein, or if you have a stab wound at a place, for example,
+
+the groin, where a large artery and a large vein go right next to each other.
+
+And it just happens that the knife is between the two of them. So they actually, you know, lacerate both.
+
+And there's a big there's a big, um, short circuit.
+
+Right? Has nothing to do with the heart has all to do with the peripheral circulation.
+
+Right. Changes cardiac output dramatically as we will see.
+
+Okay. So something is not right. So you are at that conference right.
+
+And you are in the left half of the room in the blue corner.
+
+And then who is in the red corner. Right. Who are the people who are yelling at you that you are wrong?
+
+The people who believe in the peripheral resistance or the peripheral concept.
+
+Meaning that we know that the vessels feeding the heart.
+
+A collapsible. Right.
+
+Same for the inferior cava. So the heart can only pump out what the peripheral circulation gives.
+
+It gives it back. So, in fact.
+
+It's a peripheral circulation and the behavior of the peripheral circulation.
+
+That determines cardiac output. Make sense?
+
+The way that we've built it up. Right. However.
+
+When tremendous amounts of blood are allowed to return to the heart, a limit in cardiac output is eventually reached.
+
+Right. Meaning if you take the. If we take the the if we get rid of that vascular collapse.
+
+Right. We cannot increase cardiac output ad infinitum.
+
+And the heart is compromised. Cardiac output always decreases irrespective of what the peripheral circulation gives it back.
+
+And recovery from cardiac failure always leads to an increase in cardiac output,
+
+meaning that we don't change anything on the side of the peripheral circulation.
+
+Right. The heart is allowed to recover.
+
+We get cardiac output back. So how do we reconcile all of this now that I've confused you thoroughly?
+
+Hopefully, right now comes the big resolution, right?
+
+Thesis. Antithesis. Synthesis. So here's our block diagram.
+
+Right. Right heart. Pulmonary circulation.
+
+Left heart. We've talked about this. We've talked about this in isolation.
+
+We talked about that in isolation. Doesn't matter whether we use the perspective of the right heart or the left heart.
+
+Right. Let's talk about the function.
+
+The intact function of the heart lung pumping unit. Here.
+
+And in order to do that, let's represent this first in terms of our circuit diagrams.
+
+And then we'll talk about the pulmonary circulation.
+
+So. Nothing is new here.
+
+It just looks ugly. Okay. Right heart.
+
+Exactly what we had before. Wealth going in.
+
+Wealth going out. Time varying capacitance on the right side of the heart.
+
+Same looks on the left side.
+
+Valve going in. Valve going out. Time bearing balloon over here.
+
+Right. This also looks very familiar. Right.
+
+An arterial capacitor, a microvascular resistance venous capacitor,
+
+and resistance to venous return is exactly the same circuit representation that we had for the peripheral circulation.
+
+Only applied to the pulmonary circulation.
+
+Okay. So let's look at the function of this.
+
+Block over here. The pulmonary vasculature. Let me let me make a few arguments for you about the peculiar behavior of the pulmonary vasculature.
+
+First, what does it look like? Well, it looks like on the left, if you have a radiograph where you have put some dye in here, radial pink dye,
+
+you have that very fine aberration that travels along the bifurcations of the respiratory system sort of bronchi various generations.
+
+Right. Once you get down to the individual alveoli you have a network.
+
+Of capillary vessels that engulf essentially each individual alveolus.
+
+Right. And you have the arteries and veins here going in close up position.
+
+And you have a very delicate structure.
+
+Right. The alveolar wall very thin so that diffusive processes can happen very quickly.
+
+We said that diffusion that that oxygen uptake and CO2 removal is perfusion limited.
+
+So in 0.25 seconds or so right.
+
+The diffusive equilibrium is established when the transit time of an erythrocyte
+
+or of any blood cell through the pulmonary microvascular shows 0.7521 seconds.
+
+So we have triple quadruple redundancy here. Right.
+
+So very fragile. Uh, tissue at the level of the alveolus and very, very thin walled structures of the pulmonary capillary.
+
+Right. Individual, um individual alveolar.
+
+So individual endothelial cells. Not much connective tissue, not much.
+
+You know, uh, structure, uh, support structure to keep these open.
+
+Right. As I'm standing here and as you are sitting here, your heart somewhere over here.
+
+Right? Now there's a part of the lung that is below the level of the heart.
+
+There's a part of the lung that's above the level of the heart.
+
+And as with the vessels that return blood to the heart, we have three pressures to take care to, to keep track of.
+
+We have the upstream pressure. Right. We have the downstream pressure.
+
+And we have the outside pressure, which in this case is alveolar pressure, right.
+
+This here is lung. This here is capillary.
+
+Right. Arterial pressure.
+
+Venous pressure. Outside pressure. Now, if my right ventricle is generating a certain pulmonary arterial pressure PPA.
+
+And that go against gravity. The hydrostatic hydrostatic pressure that I measure above, the level of the heart is reduced.
+
+By the water column. That I'm supporting over here.
+
+Meaning that pressure here is higher than this pressure over here,
+
+simply because the weight of this water column adds to the hydrostatic pressure that's generated by the heart.
+
+Does it make sense? Okay. Hydrostatic.
+
+That means that the pressure over here, arterial side is higher than the pressure over here is higher than the pressure over here,
+
+and it's higher than the pressure over here. Right now, the perfusion pressure doesn't much change because the same holds true over here.
+
+The pulmonary venous pressure over here is higher than over here higher than over here higher than over here.
+
+And if this column is communicating it's exactly the same hydrostatic level.
+
+Meaning that the road here on this side and on this side cancel out.
+
+Right. But what? Is reduced.
+
+But reduced, as you can see, as indicated by the, you know, width of these pathways is it trends from the oil pressure.
+
+Right? Because this pressure over here is higher than this.
+
+Pressure over here is higher than this pressure over here is higher than this pressure over here.
+
+Right. Which means that the vascular distention towards the base of the lung is higher to then towards the APC's.
+
+Can you even get to the point where the blood flow through the apex of your of your lungs is might be, might be zero because of collapse?
+
+And this might be static collapse. Right. So if, if it goes up too high over here.
+
+Right. This pressure over here might drop below the outside pressure.
+
+And this pathway is collapsed. All right.
+
+So because the vascular walls are flimsy, right?
+
+Because you're exposed to the atmospheric pressure as an outside pressure and because you're
+
+actually moving against gravity if you're standing up in the in the gravitational field.
+
+Let's assume for a second that your pulmonary arterial pressure.
+
+Right goes up. Because there's a transient increase in venous return.
+
+All right. How can the pulmonary vasculature react to it passively?
+
+Just biomechanically right. If this pressure goes up.
+
+Right. The pressure here goes up, the pressure here goes up, the pressure he goes up.
+
+The pressure here goes up. Right. What can happen is that you're actually popping open parallel pathways, increased recruitment of parallel pathways.
+
+If the pressure is if the left if the right ventricular pressure, pulmonary artery pressure are going up.
+
+Right. Likewise, if this pressure is going up, it can also lead to increased tension.
+
+Right. Because now this pressure is higher. The luminal pressure luminal intra luminal inside pressure is getting higher.
+
+At the same outside pressure you're descending the vasculature a tiny bit more.
+
+You have more lower resistance. You can actually push more blood flow through.
+
+Right. So there is a dual effect if the pressure goes up.
+
+If this were a static resistance this pressure goes up.
+
+The downstream pressure stays the same. The perfusion pressure would increase.
+
+You're pushing more flow through. But what I said is a dual effect, increased pressure.
+
+Over here you recruit more parallel pathways and you distend more pathways that already exist.
+
+The resistance goes down. Right. You recruit more parallel pathways.
+
+Meaning that your resistance is going down and the already established pathways also reduce the resistance because the luminal distention goes down.
+
+So your driving pressure goes up. And your resistance goes down.
+
+What's happens to flow? It goes up even more.
+
+Okay. Meaning that the resistance to blood flow through the pulmonary circulation.
+
+Is not constant. On the systemic side.
+
+We said that this ray peripheral vascular resistance, microvascular resistance,
+
+we dumped it into a single resistance that we assume constant without any neural influences.
+
+Okay. That is not the case for the pulmonary, uh, vasculature.
+
+As a matter of fact, here we see this is the pulmonary vascular resistance PVR.
+
+And this is the upstream pressure the pulmonary arterial pressure.
+
+Right. If the vascular resistance were constant.
+
+That graph would look like this. Independent of the upstream pressure.
+
+Independent of the downstream pressure. But what is kind of a mean pulmonary arterial pressure?
+
+Maybe around 15mm of mercury or something around that. Maybe ten.
+
+Right. But what you see over here, if you're changing.
+
+Increasing the downstream pressure. That.
+
+Resistance is going down. Increased downstream pressure leads to increased distention.
+
+Right. Or if we increase the upstream pressure, the resistance also goes down.
+
+Okay. So highly nonlinear, the pulmonary vascular resistance as a function of the downstream pressure, and as a function of the upstream pressure.
+
+Exactly and precisely because of that recruitment of parallel pathways and because of the distention of already existing pathways.
+
+All right. So this is a change in pressure over the flow also resistance.
+
+So this is simulation. This is actual data right.
+
+Once you go to a certain limit when everything is popped open and everything is distended you're plateauing off.
+
+But once you are actually operating in the normal regime of mean pulmonary artery pressure,
+
+you see that that sort of curvy linearity of that characteristic kicks in, right?
+
+And is also dependent on the left atrial pressure quite substantially, actually.
+
+All right. So in other words.
+
+The non-linearity. All right. Okay, let me let me help the guy.
+
+You're eagerly awaited. Oh. Come in. There's a table over here.
+
+All right. Good job. So.
+
+What does this. Yeah, we can help.
+
+Please do. So what does this imply? So maybe I should stop here.
+
+All the eyes are on the food. One more slide, please.
+
+So what does this imply? Right. Any fluctuation?
+
+If you stay with me for this slide, you really earn your bagel. All right. So let's see here.
+
+Any increase? In the pulmonary artery.
+
+Pressure over here is will be self-limiting in the sense that if this goes up over here.
+
+This resistance goes down to the trench, the perfusion pressure goes up.
+
+So you have an increase in flow through here.
+
+But the resistance also goes down, which even has a further effect of increasing flow through the pulmonary vasculature.
+
+Meaning this increase over here is self-limiting in the sense that to first order approximation,
+
+the assumption that we can make is under normal operating conditions.
+
+The pulmonary arterial pressure. The afterload of the right ventricle is approximately constant.
+
+And it has all to do with the fact of that non-linearity of the pulmonary vascular resistance.
+
+Which means that our cardiac output curve.
+
+Cardiac output curve is given by the frequency.
+
+Heart rate filling pressure times the end diastolic compliance of the right ventricle.
+
+Minus. The end systolic compliance of the right ventricle.
+
+Times the pulmonary artery pressure. So in terms of, you know, the trumpets are going the even the double basses are, you know, throwing away.
+
+Right. The guy with the timpani is doing this. Right.
+
+And as I said, the long haired dude with the triangle is standing right because his big finale is coming.
+
+What might seem like a sleight of hand over here, right, is that I've replaced.
+
+The ventricular output of the right ventricle.
+
+With the cardiac output, which is the output of the heart lung pumping unit.
+
+And what I'm saying is, if and as long as we can make this assumption, which is good for a wide range of physiological conditions.
+
+Then we can forget about the dynamics of the downstream pulmonary vascular pulmonary vasculature.
+
+We can assume the pulmonary artery, the afterload of the right ventricle to be constant,
+
+and the heart lung, the output of the heart lung pumping unit only dependent.
+
+On the filling of the right ventricle. Against the constant afterload of the pulmonary circulation.
+
+All right. Thank you.
+
+This is the equivalent of someone sneezing right at the middle of the grand finale of the of the of the symphony.
+
+Right. So the point here is the following.
+
+The left ventricle. Is the one with the thick myocardium.
+
+Industry strength pump. The right ventricle.
+
+Is that flimsy? Appendage, almost the shell that sits, you know, right around wraps around the left ventricle.
+
+And what I'm telling you here is the output of the heart lung pumping unit.
+
+Is determined under normal conditions. By the performance of the right ventricle.
+
+Not by the performance of the left ventricle.
+
+Think of the right ventricle as a booster pump, as a preamplifier, as something that brings the signal up to a certain level,
+
+and the left ventricle as the industry strength pump that can pump anything that the right ventricle gives it.
+
+Right. So. When Doctor Staats teaches this lecture.
+
+He says, think of Arnold Schwarzenegger circa Terminator two, right, and Pee-Wee Herman.
+
+Right. And they actually passing a bucket of water, which is a pump.
+
+Right. Do you think it's Arnold or Pee-Wee Herman that limits the flow of water?
+
+It's not Arnold. Right under normal circumstances.
+
+It's the right ventricle. That limits cardiac output.
+
+Right because of the assumption of because of the non-linearity.
+
+You can make the assumption that the pulmonary arterial pressure is constant.
+
+All right. You've earned your bagels. We'll come back and we'll put it all together.
+
+All right. Let's continue.
+
+We had very good questions and very good discussions during the break. So let me go over some of the things again.
+
+But. Okay, so let me get go over this again and let me make sure that at least at this stage, we understand.
+
+If pulmonary vascular resistance were constant, it would be a horizontal line in this graph, right?
+
+It would be independent of the upstream pressure and independent of the downstream pressure.
+
+That's a constant resistance, right?
+
+That is not the case because of the distension or parallel the distension and the recruitment of parallel pathways.
+
+Right. The total resistance, or one over the total resistance of parallel pathways,
+
+is the sum of the individual parallel one over the individual parallel resistances.
+
+So the more resistance is, the larger the and over here the lower the resistance.
+
+Okay. And the more that we descend, the lower the resistance.
+
+I said I make very sparing reference to the hog and possibly law of resistance being proportional to one over radius to the fourth.
+
+Here is one of those exceptions. Right?
+
+As you distend. As you descend, the resistance goes down.
+
+Right. So meaning that as the upstream pressure.
+
+Let's focus on the upstream pressure.
+
+As the upstream pressure goes up, because of the increased recruitment, because of the distension, the pulmonary vascular resistance goes down.
+
+What is this? What is the functional consequence of this?
+
+The functional consequence of this is this. Assume this.
+
+Resistance where? Constant. If this upstream pressure goes up, this downstream pressure remains constant.
+
+The flow through here would go up simply because the perfusion pressure goes up.
+
+Right. So far, so good. But this is not constant.
+
+Meaning that as this pressure is going up.
+
+Flow is going up because of the increased perfusion pressure, but the flow is going up even further because the resistance is going down.
+
+Right. That's what this is showing over here. No, this is what this is showing over here.
+
+Pressure going up. Resistance going down. Right.
+
+What happens if you start at a nominal pulmonary artery pressure P0 right P0 over here PA zero.
+
+Pulmonary artery pressure. Let's say your body likes to operate at this point over here.
+
+And let's say for whatever reason the right ventricle is giving out a little bit more when stroke volume.
+
+Right. All other things being equal. You're moving to a new point over here, right?
+
+Your pulmonary artery pressure is going up because all other things being equal.
+
+Your pulmonary artery pressure is going up because more stroke volume has been given out by the right atrium.
+
+Right ventricle. But that leads biomechanically passive.
+
+To a decrease in the pulmonary vascular resistance,
+
+meaning increased flow through the peripheral to the pulmonary vasculature, which means that you're moving back.
+
+Towards this point. What happens if you overshoot and you find yourself on this side of the nominal pulmonary arterial pressure?
+
+Now the upstream pressure has gone down.
+
+So the perfusion pressure has gone down. So the reduced flow and your vascular resistance is higher.
+
+So, leading to a further reduction in flow compared to normal.
+
+Meaning that if you find yourself on this side of the pulmonary artery pressure.
+
+The non-linearity of the pulmonary arterial, the pulmonary vasculature would bring you back towards the nominal operating point.
+
+So it's essentially a self-regulating process. Meaning that within certain limits.
+
+And we'll talk about where it might break down.
+
+The pulmonary arterial pressure can be assumed to be constant.
+
+The pulmonary arterial pressure is assumed to be constant.
+
+But back in this regime, what we had with the two beakers, right, a constant preload, a constant afterload.
+
+Here we don't have a constant preload because whatever the peripheral circulation is giving us back that that's what determines the filling pressure,
+
+right. But we have a constant afterload. We assume that pulmonary arterial pressure is constant.
+
+Right. Because of the non-linearity of the pulmonary vascular.
+
+Pulmonary vasculature. Now if this is constant, then the right ventricle doesn't care about anything that is further downstream.
+
+All it sees is a constant afterload. Right.
+
+So it gives out what it gives out, right? It gives out what the preload and the diastolic pressure volume relationship of
+
+the right ventricle determines the enter starting moment Historic pressures to be.
+
+Right. In steady state. The left ventricle pumps out what the right ventricle gives it.
+
+Right. It's a definition of steady state. That can be transient phenomena where that is not the case.
+
+But all of this is predicated on steady state. Right.
+
+So if the right ventricle gives out a little bit more of stroke volume.
+
+Right. The end diastolic volume and the internal solid pressure of the left ventricle will go up a little bit.
+
+If that goes up a little bit, these myocytes tracks are a little bit more.
+
+These tracks are a little bit more. The pressure that they can generate, peak pressure goes up.
+
+So with the next stroke of the left ventricle, the left ventricle gives out a slightly higher stroke far.
+
+Right. But it can only give out what the right ventricle gives it.
+
+So in a normal circumstances, it's the right ventricle, the flimsier of the two chambers.
+
+That determines cardiac output. That makes sense.
+
+Okay. That's why I said maybe it looks like a sleight of hand over here because I've just replaced ventricular output.
+
+By cardiac output and the. Pulmonary artery pressure with a constant.
+
+Pulmonary artery pressure. But it all relies on the non-linearity of the pulmonary vasculature.
+
+And the fact that if you find yourself on either side of this.
+
+The biophysics of this non-linearity is such that you would come back.
+
+To the normal operating point. Okay. So.
+
+The right ventricle. Cancel. Yes. Uh, yes, we had that question during the break as well.
+
+What's the physiological reason? What's the you know, we can talk about it, but in the end.
+
+Right. What? God. In her infinite wisdom.
+
+Right. Created. Who am I?
+
+To understand. I have no idea. Right. You can. You can come up with with with teleological reasons.
+
+Right? It's it's very flimsy circulation. Right.
+
+It might not have much dynamic range on the level of the pulmonary capillary.
+
+Right. What do I know?
+
+Not much. I don't even know why. The tricuspid valve has three casts on the right side, right?
+
+And two cuts on the left. It bothers me for the heck of me.
+
+Right where the high pressure is on the left side,
+
+where you think that the pressure or the force per unit leaflet would be lower on the left side than on the right side.
+
+Why is that happening? Sorry.
+
+That's a different story. That's a different story.
+
+I tried. Nobody enlightened me.
+
+Maybe it'll come back to cardiovascular physiology.
+
+The right ventricle can still saturate. Right.
+
+So we still have a maximum elastic limit that might saturate over here.
+
+So the maximum cardiac output all other things being equal if we get to high filling
+
+pressures right is still the maximum filling capacity of the right ventricle.
+
+Does look right. It's going limit faster than.
+
+Very good question. Very good question.
+
+Yes it does. Right. However. It's related to this.
+
+Um, yes it does. In.
+
+Can the left ventricle ever be limiting? Right.
+
+Uh, the answer is yes. So here we are on the left ventricular side.
+
+So once you actually go up to 30mm of mercury.
+
+Right. The left ventricle, sort of the curvy linearity of the left ventricle and diastolic pressure volume relationship becomes high.
+
+Um. However. And here's what your question to be addressed is.
+
+Um, there is a functional limit that we'll get to in a minute.
+
+Right. So. Left ventricular output curve.
+
+Exactly the same as the right ventricular output for a way back to the ventricular output curve zero.
+
+Under certain circumstances, you have a linear portion over here the preload is the left atrial pressure.
+
+Preload to the left ventricle is the left atrial pressure.
+
+Afterload. Arterial pressure. Right.
+
+The left ventricle also has a maximum filling pressure of filling volume right.
+
+As we said, that is usually not reached until 30 40mm of mercury.
+
+But there's a functional limit that limits us beforehand.
+
+And that is what we call the pulmonary edema threshold.
+
+If the left atrial pressure gets too high, the downstream pressure.
+
+To pulmonary blood flow gets to high. Which means that you're entering a state of pulmonary edema the same way that we had peripheral edema.
+
+If the downstream pressure hydrostatic pressure is getting too large,
+
+you're starting to extract as a plasma fluid into the interstitium or, you know, fluid into the interstitium.
+
+You're getting into a state of pulmonary edema. Reduced oxygenation.
+
+It's a functional limit rather than a mechanical limit of the left ventricle.
+
+And that's when all of the assumptions that we're making about PPA being constant and these kinds of things, you know, go out the window.
+
+Okay. All right. Um.
+
+The, uh, the afterload of the heart lung pumping unit is the arterial pressure.
+
+Right afterload of the right ventricle is the constant pulmonary artery pressure.
+
+But the heart lung pumping unit the preload is the filling pressure.
+
+The afterload is the arterial pressure. And here is the question can the afterload ever become limiting?
+
+Is. If you look at this last equation that we had over here, right.
+
+Cardiac output Vmax of the left ventricle minus the systolic compliance of the left ring times the arterial pressure.
+
+We have now the afterload on the x axis. And we have the cardiac output on the y axis.
+
+Right. So we are asking ourselves the question,
+
+what is the upper limit of left ventricular cardiac output as a function of the afterload of the heart lung pumping unit?
+
+Right. I said that whatever the right ventricle gives it, the. Left ventricle can pump out.
+
+To within limits. So this line over here is just.
+
+This functional relationship, right? If arterial blood pressure is zero.
+
+Then the cardiac output is F times Vmax. Right.
+
+If par is Vmax over kz.
+
+Then we have zero cardiac output, right? So this is just the left ventricle.
+
+Maximum filling of the left ventricle, limiting cardiac output.
+
+If we're in a state of reduced left ventricular contractility, X being impaired, right, that end systolic pressure volume relationship coming down.
+
+This manifests itself as a reduction. Over here.
+
+Right. So where do we usually operate?
+
+Let's assume this is the right ventricular output, right?
+
+The right ventricle is just putting out something that we are representing over here.
+
+Right. And we are then changing the arterial blood pressure.
+
+Right. The left ventricle. Can put all of this out and then some.
+
+Until we hit this curve over here.
+
+Right. So over this range of arterial blood pressure, of afterload of the heart lung pumping unit.
+
+It's the right ventricle that limits performance. Right.
+
+Once we hit this point over here, then it becomes the left ventricle.
+
+That limits the performance. Right. So there is a dependance on afterload.
+
+So the left ventricle is not an infinite pump.
+
+Right. And of course, if we have a heart attack.
+
+This left ventricular function can impair and can encroach on what the right ventricle gives out.
+
+So assuming that it's a left ventricular wall infarct for example. Right.
+
+Because now this, that this, the compliance is reduced.
+
+And you're hitting that intersection point earlier. Right.
+
+But over a comparatively large range of arterial blood pressures, the hard lung pumping unit can actually pump, um, in a load independent manner.
+
+Right. Load independent means that I don't care what against what I have to pump.
+
+What? But eventually even our myocytes, you know, will not be able to do that anymore.
+
+Okay. So then we operate in three regimes.
+
+The normal regime where the right heart establishes the cardiac output.
+
+Right. The feeling pressure is such that we haven't reached the right ventricular maximum filling volume.
+
+Left ventricle is not in failure, and we assume that we have right ventricular constant right ventricular afterload.
+
+PA zero is approximately equal to constant.
+
+That means that our cardiac output output of the heart lung pumping unit, the entire thing is given by the performance of the right atrium.
+
+Right ventricle. Right. Region two.
+
+The right ventricle saturates. We become independent of the filling pressure.
+
+And the maximum right ventricular volume. Determines cardiac output.
+
+Still independent of arterial blood pressure. Systemic arterial blood pressure.
+
+Now in region three, when the left ventricle fails and limits, then the cardiac output is four times the maximum volume of the left ventricle,
+
+minus the systolic compliance of the left ventricle times the afterload of the heart lung pumping unit with just PA.
+
+So only in that region three that our heart lung pumping unit.
+
+Is limited by the left ventricle and therefore becomes susceptible.
+
+Two increases in. A systemic arterial blood pressure.
+
+Okay. So this is a diagrammatic representation.
+
+And you have that in your books in your in your notes.
+
+Region one over here. Right. So mean arterial blood pressure mean right atrial pressure which is also what we call the filling pressure.
+
+Right. And cardiac output. Region one.
+
+The higher the mean right atrial pressure. The higher the cardiac output.
+
+Until we're getting so large. That the right ventricle becomes limiting.
+
+That's the plateau over here. Right.
+
+Independent, reasonably independent of mean arterial pressure.
+
+Look at this pressure here. This is simulation, of course, but.
+
+But 30, 60, 9120. So this is minute to a pressure minute to relieve pressure 150 is still pretty much constant independent of mean arterial pressure.
+
+Right. Until the pressures become so high.
+
+That when you change the mean right atrial pressure, you're falling off that cliff.
+
+Right. And then it's the left ventricle that becomes limiting in that region three.
+
+Okay. We'll talk a lot more about that. Region three when we talk about heart failure.
+
+All right. And. And myocardial infarction.
+
+Side note. So far we've talked about.
+
+The behavior. Of the heart lung pumping unit, where the outside pressure was essentially atmosphere, which I mentioned previously.
+
+It's essentially an open chest configuration. Right.
+
+But in the closed chest. Because in the open chest, what's the normal pressure in the open chest?
+
+The transmitted pressure is the feeling pressure minus the outside pressure. Right.
+
+And that's our atmospheric pressure. Now in the closed chest.
+
+We do have an intra thoracic pressure that's negative.
+
+Right. So this is the pressure that we're interested in.
+
+Outside pressure is zero in the closed chest. There's a pressure difference from the body surface.
+
+To the pleural space. Right. Any of those of you in HSC, what is it 100 have in respiratory physiology?
+
+Have probably spent the last few weeks thinking about that. Right.
+
+And that's what keeps the of course, what keeps the lungs open. Right.
+
+What determines FRC functional residual capacity.
+
+That's a question. Exactly right.
+
+Thank you very much. Right. It's the tendency of the chest wall to expand.
+
+Right. And the tendency of the lung tissue to, to, to, to to collapse.
+
+Right. And if you have a space between those spaces, zone of apposition.
+
+Right. If you have two forces that go in opposite direction, you eventually reach a limit.
+
+And that limit sets up a negative intra thoracic pressure.
+
+Right. So if we close the chest wall, the transmission pressure across the right atrium, left atrium, left ventricle.
+
+The right ventricle is luminal pressure. Pressure inside minus intra thoracic pressure.
+
+Right. So it's the filling pressure with reference to atmosphere minus the intra thoracic pressure or pleural pressure.
+
+Right. So the way that you can model it if over here if you want you have a battery over here.
+
+And that says that you have an additional negative pressure over here that says that it's not this pressure minus ground,
+
+but it's this pressure minus this pressure over here. Right. What happens to our interest, our cardiac output curve when we substitute PV star for PV?
+
+Well, it's just the translation. Of that curve.
+
+Right, because at the same nominal pressure measured with reference to atmosphere, the negative pressure around it.
+
+Pulls these myocytes a little bit more, right?
+
+Because now, rather than having zero transmission pressure, you actually have a transplant pressure of negative four.
+
+Right, and your vasculature is still open. Right.
+
+So in the closed chest configuration,
+
+the transmission pressure across the cardiac structures is the luminal pressure minus the intra thoracic pressure.
+
+So there's usually and tidal breathing minus negative four ish millimeters of mercury.
+
+So what that means. Is that our cardiac output curve doesn't go to zero over here or to zero over here, but it's shifted towards the left.
+
+Meaning that at zero feeling pressure know measured with reference to atmosphere, we're actually not collapsed.
+
+We are actually in a state where the heart is able to provide a cardiac output because of the negative transmission pressure.
+
+And that has implications also for the way that we breathe.
+
+Right. Many of us probably have never breathed negative against negative pressure.
+
+Right. But some of us might have breathed, breathed against positive pressure.
+
+Anybody has ever been ventilated. Hopefully not.
+
+But how many scuba divers do we have? Huh?
+
+Maybe a half dozen. Right. So if you actually put on the BCD, the buoyancy control device.
+
+Right. And you strap on your, your, your oxygen, like, normally it's air tank, right?
+
+Not pure oxygen. Right. And you breathe, you do a little bit of suction.
+
+But the way that it works, it opens the wound. You have a little bit of negative pressure that you have a little bit of inspiratory pressure.
+
+The valve opens and that tank pushes. Right.
+
+That is positive pressure breathing. Right.
+
+Anybody here playing the oboe or any woodwind instrument or or.
+
+All my all my musical analogies are lost, it seems. Trumpets.
+
+Any instrument. All right. Okay. A few.
+
+Okay. All right. So the oboe has a very tiny, very tiny mouthpiece, right.
+
+If you see an oval player. Right.
+
+Next time you go to see the BSO, look at the neck of the oboe player or the trumpet player when they actually, you know, do an attack, right?
+
+Boom. The neck is going like this. Right.
+
+And what happens to the intra thoracic pressure? How do they actually generate that pressure.
+
+It's like tiny little mouthpiece for the oboe for the, you know, English horn French horn.
+
+Both, right? You contract your abdominal muscles.
+
+You know, you're pushing up against the, the thorax, right.
+
+And your indoor thoracic pressure can go up to 50mm of mercury or more if you're lifting something heavy.
+
+What do you do? You contract your abdomen muscles, right.
+
+And then you're trying to lift something up, right? Weightlifters.
+
+Olympic weightlifters, right. Have to be very stiff.
+
+That pivot in the hip. Right. The way that you make the stiffness by contracting all the muscles that you have of your upper body.
+
+How do you not do it like this? Right. So that intra thoracic pressure can go up way high.
+
+Right. What happens to your cardiac output if you're operating somewhere over here goes way down almost zero.
+
+We probably talk about something called about salvo maneuver.
+
+If you haven't heard of this, it's essentially you take a deep breath in and then you try to exhale against the closed glottis here.
+
+It's like a training maneuver. Right. But when we talk about the, um, the cardiovascular reflex mechanism, if you look at heart rate behavior.
+
+It's going to be a very. Cool,
+
+a very interesting indicator of hydrated response and potentially autonomic neuropathies because you're cutting off essentially all of venous return,
+
+right? Heartbeats of course. Right.
+
+And you're looking for very characteristic response of heart rate to that restraining maneuver, what you do during that time.
+
+So you're going into thoracic pressure from -four millimeters of mercury to plus 20 to plus 30.
+
+And then you're releasing. Okay. All right.
+
+So cardiac output curves heart lung pumping unit.
+
+Right. What do changes in heart rate too. Well what is our unknown.
+
+We assume normal region one.
+
+Right. Cardiac output is heart rate times c d over p f minus CSRPPA0.
+
+In the isolated heart lung pumping unit. Right.
+
+This is exactly equal to this. In the isolated hard lung pumping unit, the slope.
+
+Of our cardiac output curve. Directly proportional.
+
+To. Cardiac to. To heart rate. Right. So we increase heart rate.
+
+We increase the slope. We decrease heart rate. We decrease the slope. Right.
+
+What happens to the that input output relationship of the heart lung pumping unit if we change the total peripheral resistance?
+
+Nada. Nothing. Yeah, right.
+
+Because total peripheral resistance is a is is it characteristic is a parameter of the peripheral circulation.
+
+It's not a parameter of the heart lung pumping unit. So it doesn't change.
+
+It's independent thereof. Right. Same way that we said what happens to the peripheral circulation characteristic when we change heart rate?
+
+Nothing. Heart rate is a parameter of the heart lung pump pumping unit.
+
+Right. So keep this concept separate. Sympathetic tone.
+
+Your fight or flight response, right? You are.
+
+Sitting here. You just had your bagel. Maybe you had a coffee.
+
+Right. So coffee means that you might be in a somewhat stimulated state, right?
+
+That affects heart rate and in fact, contractility.
+
+Contractility as an offset over here. Heart rate as a slope.
+
+Right.
+
+And if you are in your postprandial state, as I said after your Thanksgiving meal and you are hanging out at the couch in your parents place, right?
+
+You are in your rest and digest state. Heart rate decreases and your characteristic behavior of the heart lung pumping unit changes.
+
+What about resistive load? I said so resistive load means after load right?
+
+Means peripheral resistance. And through that we mean arterial blood pressure.
+
+So from one half the normal to afterload of the heart lung pumping unit to about 1.3.
+
+More or less the same. So you have to, as we already saw from that three dimensional plot, right?
+
+You have to go to very high levels of load before you limit the behavior of the hard, long pumping unit.
+
+Meaning if your blood pressures mean arterial blood pressure goes up from.
+
+90 to 100 and 80 to 110. Your heart on pumping unit doesn't care.
+
+It can push against us. Now, if you're meaner to a blood pressure, meaner to a professional systolic mean arterial blood pressure than 60.
+
+That's bad. Right? And even at that level, your heart lung pumping unit says I'm out of here, right?
+
+I can pump against that level of load. Even Arnold at some point says I've had enough.
+
+Right. Can't do it anymore. And that's what happens over here.
+
+And of course, if you go above that. Right.
+
+Okay. So. The finale is here.
+
+You've all anticipated it, right? Everything.
+
+The whole orchestra is going crazy. What determines cardiac output?
+
+We still haven't answered. This is our input output relationship of the heart lung pumping unit.
+
+Right. And we had the input output relationship now many times of the peripheral circulation.
+
+In steady state. Right. Here are the relationships.
+
+Heart. Lung. Pumping unit. Input pressure to the heart lung pumping unit is the flow coming out of the heart lung pumping unit.
+
+Q. Ignore that for a second.
+
+Over here. Peripheral circulation.
+
+The downstream pressure is the feeling pressure and the flow going through the peripheral circulation is Q.
+
+Here are our characteristics. Heart lung pumping unit.
+
+Venous return equation. Right. So what determines cardiac output in steady state?
+
+Those two units have two. Those two flows, venous return and cardiac output have to be the same.
+
+Right they have to match. So. Can we determine this?
+
+Yes we can. Right. Here's our cardiac output equation.
+
+Here's our venous return equation. Right.
+
+If we eliminate the feeling pressure from these two or from one of them, put it in the other.
+
+Here's what we good. Ugly. Look at it.
+
+It leaves a mark in your retina. You never have to look at it again.
+
+Right. Don't even put on your cheat sheet for the midterm exam. Right.
+
+It doesn't matter. It's an algebraic solution to eliminating the filling pressure over here.
+
+Plugging in what you have over here and resolving it for Q nobody ever uses this equation.
+
+And thou shalt not. Right, because the simpler representation is here.
+
+In steady state. The reason why I have been harping on this,
+
+that we are characterizing the venous return curve as a function of the venous return going through the heart,
+
+coming back from the peripheral circulation as a function of the mean right atrial pressure,
+
+and the cardiac output coming out of the heart lung pumping unit as a function of the mean right atrial pressure.
+
+Is that in steady state they have to be the same. And there's only one point of intersection between these curves.
+
+When I asked you at the beginning of the third lecture, well, what does cardiac output do when we're actually doubling the peripheral resistance?
+
+Well, now you can tell me. Right. Because the peripheral resistance.
+
+Is a is a parameter of the venous return curve of the.
+
+Of the of the peripheral circulation.
+
+The cardiac output curve doesn't care about peripheral resistance as long as it's 1.6 or 1.63 times higher, right?
+
+As long as we're in region one, right? What happens is that this point over here, the mean systemic pressure will be the same.
+
+This slope will increase. And the new intersection point.
+
+Will be over here. So we can determine what cardiac output will be.
+
+If we double the heart rate, if we change the peripheral resistance, if we change total blood volume.
+
+Because in steady state. But the heart lung pumping unit gives out.
+
+Has to equal but the venous return, but the peripheral circulation gives back.
+
+So there is no such thing as a cardiac concept or a peripheral circulation concept.
+
+In steady state, those two have to intersect. Right.
+
+So you're duly dependent both on the performance of the heart through the cardiac output curve.
+
+And the performance of the peripheral circulation through the venous return curve.
+
+And now we can predict. We can see what cardiac output does under a different.
+
+Conditions. End of the symphony.
+
+Okay. Now. We play around with this concept.
+
+One thing that we are doing over here. Is we're breathing.
+
+And when we're breathing, we're actually changing what our intra thoracic pressure inhalation.
+
+The main muscle of inhalation is. There's a diaphragm, right.
+
+Innervated by the. All right. Okay, good.
+
+Good. So. Phrenic. Right. Diaphragm. Diaphragm descends into thoracic pressure becomes more negative.
+
+If interest rates pressure becomes more negative. Is akin to negative pressure breathing.
+
+Right. How much does cardiac output increase during inhalation?
+
+Take a deep breath and as much as you can right until you reach.
+
+What is it called? Total lung capacity.
+
+Right. How much do we increase cardiac output?
+
+About 15%. Not all that much. Right.
+
+Because we operating fairly close. To that plateau.
+
+Now we're doing a big exhalation. Until we can't squeeze any more.
+
+And it hurts, right? That's akin to positive pressure ventilation, right?
+
+And we can actually drop our cardiac output quite substantially because we're squeezing on the right atrium on the inter thoracic.
+
+That's what we're actually reducing transfer pressure of the intra thoracic structures.
+
+Right. So as we're breathing in and we're breathing out what's happening to our cardiac output.
+
+It's changing. All right. So as we are just passively doing title breathing, our cardiac output actually fluctuates.
+
+Right. Goes up doing inhalation goes down during exhalation.
+
+There are also neural pathways that act on this time scale, as you will see.
+
+But as we're breathing in, breathing out, you're just moving up and down the venous return curve.
+
+Right. So that gives rise very passive mechanical rise to oscillations in cardiac output with the, um, frequency of breathing.
+
+One thing I forgot to mention over here that I wanted to say, let's come back to this over here.
+
+Cardiac output is heart rate times talk for. And I let you down the wrong path of thinking that if I double heart rate, I double cardiac output.
+
+Right. But then what we also said is that stroke volume here is not a constant, but stroke volume is a function of heart rate, right?
+
+And. One of the, however, is that I told you.
+
+When we talked about the cardiac concept. However, if you actually actually pace an animal.
+
+And you change the heart rate. Increase the heart rate.
+
+Cardiac output is not changing much.
+
+Reason why is because you're also operating fairly close to the maximum over here to the plateau of the venous return curve.
+
+So if you're changing your heart rate, you're changing the slope over here.
+
+Right. If you're changing your heart rate a lot, you can make that slope quite steep.
+
+But by how much does your heart rate go up? Your cardiac output goes up.
+
+Less than 10%. Right. Because you're operating very close to that knee of the venous return curve.
+
+Very close to that plateau has to do with the fact also that the stroke volume is dependent on heart rate over here.
+
+So. What happens to cardiac output.
+
+If we increase the arterial and venous tone. Smooth venous smooth muscle tone.
+
+So we're squeezing the arteries in the peripheral circulation.
+
+And we're squeezing the veins. For squeezing the arteries.
+
+What parameter on the peripheral circulation changes? Resistance.
+
+RA the micro circulatory resistance. That leads to a change in the slope.
+
+Right. Becomes flatter. Because resistance is going up, one of the resistance is going down.
+
+Right. What if we're actually squeezing the veins? Think of the veins as a capacitance vessel.
+
+If you're squeezing the vascular smooth muscle, they will shrink and the zero pressure filling volume of the veins will go down,
+
+and therefore the descending volume will go up. Which means that we're actually going from this to this to this.
+
+Right. Anything happening on the side of the heart lung pumping unit.
+
+When we change resistance within limits, or the peripheral circulation or descending volume of the peripheral circulation limits.
+
+No, these are not parameters of the peripheral circulation of the heart lung pumping unit,
+
+so that heart lung pumping in the units just stays the same.
+
+But one thing that you see over here, if you squeeze the arteries and veins, you can actually change your cardiac output quite substantially.
+
+Coming back to the point that you have the Venus Reservoir over here, right?
+
+And with that venous reservoir, you can actually have quite a bit of change.
+
+In the offset over here. Okay.
+
+Now, if you take this to the extreme and open this large Ave fistula.
+
+Right. Forget about with compensation for a second. All right.
+
+What you see over here? The solid line is our control line.
+
+Over here. Over here and over here.
+
+Right. And then you essentially drop IRA down to close to zero.
+
+And initially the mean systemic pressure doesn't change.
+
+This slope. Goes way up. And just by having a lot more, by having that reduced resistance, you have a lot more violence return.
+
+Right. You still have to operate on this intersection point over here.
+
+So your cardiac output goes from about five liters per minute in this particular representation, maybe to 13l per minute.
+
+Because you have a lot of runoff of the arterial volume into the venous volume increase in the venous return.
+
+Right. If you have that very low resistance pathway between a large artery and a large vein.
+
+Right. What happens to arterial blood pressure? Goes way down.
+
+Right. Because you have a very low resistance. Cardiac output goes up very significantly, but resistance has gone way down.
+
+Blood pressure tends to go down. Blood pressure tends to go down.
+
+As you will see, we have sensors throughout the arterial system that tries to maintain arterial blood pressure constant.
+
+This will be the block after the electrophysiology. Right.
+
+And so what are the effective mechanisms that we have. We can bring heart rate up.
+
+We can increase contractility.
+
+We can increase resistance, which would not be very effective over here because you have this massive short circuit and we can squeeze the veins.
+
+Right.
+
+And what is indicated over here is that the compensatory response that we have a lot more to say about is that heart rate increases contractility,
+
+increases heart rate increases even more, contractility increases even more,
+
+so that cardiac output will further increase in order to compensate for the
+
+significant drop in blood pressure that you usually see with these kinds of fistulas.
+
+We'll talk about that in a lot more detail about the compensatory response.
+
+The key here is to determine. If you have an insult in the uncompensated, uncontrolled cardiovascular system, right?
+
+What is the primary parameter that's being that that is being affected, right.
+
+Heart attack systolic compliance of the heart.
+
+Probably all of the of the left ventricle. Diastolic compliance of the left ventricle.
+
+How does this affect the performance of the cardiac output and venous return curves?
+
+Here's a common one. And when we talk about the, um.
+
+Um. The control block of the class will come back to this.
+
+An interesting experiment that one would not be able to do anymore, because someone took the entire class of medical students,
+
+tilted them up, and if they hadn't fainted at that point, they did a blood draw.
+
+Reduce the blood volume until fainting. And then they said, oh, you just going to give the blood back people?
+
+And, um, she took them back. And people come back like this, right?
+
+No longer possible. For better so that we're clear normal.
+
+So when this is all that we've done today, right, we all got up.
+
+And at the end of the lecture we will all get up again. Right.
+
+So here is our normal cardiac output. And venous return curve, right?
+
+Tilt or tilt table test. The patient is lying horizontally on a on a table, and that table can actually just tilt up like this.
+
+Head up not head down. Head up. Right. And you're measuring the blood pressure.
+
+You're measuring that. You can measure the cardiac output. You're measuring the heart rate response.
+
+Right. But what happens when you actually lying down like this.
+
+And then you're getting up in the morning. Well.
+
+Your main body axis is now aligned with gravity, right?
+
+When you're lying down over here, it's like, yeah, there's a gravitational vector this way.
+
+But, you know, anterior posteriorly it doesn't do much. Right.
+
+We have bipeds. So when we're up like this.
+
+Gravity is acting along the main body axis, and it's trying to pool blood in our dependent vasculature below the level of the heart.
+
+Right. And so the way to think about a tilt is essentially.
+
+A massive increase in zero pressure filling volume. Right.
+
+Because the blood that is now passively pooled in your dependent vasculature, um, is not participating in the distension of the vessels.
+
+Right. Or it's not actively participating in, in descending pressure.
+
+So the first thing to to think about this is you essentially lose the sending volume, right?
+
+So you mean systemic pressure goes down.
+
+And then you have an increase or compensatory increase in resistance, which then changes the slope a little bit.
+
+Right. So you go from this point A.
+
+To this point P, where you're already compensated a little bit by an increase in heart rate and an increase in contractility.
+
+Right. But in terms of cardiac output, as I'm standing over here,
+
+my cardiac output is lower than the cardiac output that I would have if I were to be lying down.
+
+And if someone faints. And what do you do? Fainting.
+
+For, let's say, hypovolemic mechanisms, sort of not basal vagal or or um.
+
+Um, higher order um reactions.
+
+People can faint if they see something gruesome. Right. That's an interpretation of the brain.
+
+But if you have like lower volume. You fall down, right?
+
+And usually what happens is you come right back. Why?
+
+Because when you go down, the gravitational gradient is abolished,
+
+and all the volume that has been extra visited in the dependent vasculature, right, comes back.
+
+You're moving from this point over here to this point over here.
+
+You're increasing your venous return. By the moment that you increase your venous return, your cardiac output comes up.
+
+Perfusion to the brain goes back up right. And people come right back.
+
+So fainting is a very effective protective mechanism.
+
+All right. All you have to do. Hopefully protect the.
+
+Protect the head, not knock yourself on the way down. Right.
+
+But if still someone is not there, what do you do? You raise the legs.
+
+Right? Because this way you bring even more volume back to the heart.
+
+All right, so that's why you bring down the head. Jacket.
+
+Sweater. What is underneath that? Right. And then you raise the legs so that there's more venous return coming back.
+
+Cardiac output pop back up, blood pressure comes back, and people usually pop back up.
+
+What happens is I mentioned if you actually tilt and then hemorrhage the people.
+
+Right. Now you're losing. Total blood volume mean systemic pressure goes down even further.
+
+Yeah. Your resistance goes up a little bit more. It tries to compensate for a double whammy.
+
+Right. But your cardiac output is very far down in here because we're operating close to that knee.
+
+Your increase in heart rate is never really that effective. Right.
+
+So changes in cardiac output. A very effectively mediated by changes of what happens what comes back to the heart.
+
+Now contractility can make a difference. Heart rate can make a little bit of a difference.
+
+But in the closed loop circulation, isolated changes in heart rate doesn't push your cardiac output by all that much.
+
+Um. Have a little bit more time.
+
+Uh, changing the sympathetic stimulation, both heart and vasculature.
+
+And this gets complicated, but I'll just give you an overview.
+
+As I said, we'll come back to all of this. Again, solid line is our baseline.
+
+Right now we stimulate the sympathetic system, meaning that it's a fight or flight response.
+
+And we're getting ready to fight. We're getting ready on the treadmill. We're really ready to do you know that exercise, right?
+
+We're revving up. So what happens to heart rate?
+
+Heart rate is increasing. Right. Contractility is increasing.
+
+Right. As we're actually as our sympathetic nervous system gets activated,
+
+we have release of epinephrine norepinephrine in, you know, at the level at the side of the vascular smooth muscle.
+
+So the smooth muscle constricts both on the arterial side and on the venous side.
+
+Right. Arterial venous side change in mean systemic pressure.
+
+We have essentially an increase in the we have a decrease in the zero pressure feeling volume, an increase in the, um descending volume.
+
+Right. And we have a reduction in the slope over here because of the increase in the peripheral vascular resistance.
+
+The opposite is true. If we give spinal anesthesia and we abolish these reflex mechanisms.
+
+Right. And we're going down in slope, cardiac and heart rate and we're going we're releasing as a tone a baseline tension of the arteries and veins.
+
+Right. So we're reducing that tension. And we have essentially a decrease in the mean systemic pressure because we're
+
+affecting an increase in the um in the zero pressure filling volume of these vessels.
+
+And a normal state is one of slight constriction of these vessels.
+
+Let's see. Exercise would come back to.
+
+Okay. So I think I we gave some of these things on the, um, uh, on the problem set.
+
+Maybe not this one. Maybe it's going to kind of come on the next one.
+
+But one thing that I wanted to go through with you briefly, um, actually, let me take this one,
+
+is how to think through step changes, both from the cardiac output venous return curve and from the PD look kind of perspective.
+
+And a very effective way to think about this is here we have the left ventricular volume.
+
+And the left ventricular pressure.
+
+And here. We have the right atrial pressure, which is also our feeling pressure.
+
+And we have the cardiac output venous return.
+
+So our baseline looks something like this.
+
+And this intersection point happens close to zero.
+
+And our end systolic and diastolic pressure volume relationship is here.
+
+And or and systolic pressure volume relationship is here. And let's say we're operating.
+
+Like this. Okay. So.
+
+Want to translate between those two. And.
+
+The first thing that we want to do. Let's say we constrict the veins. This should be horizontal.
+
+Over here. A useful approach to problems like this is to think about a step change.
+
+Meaning. Let's say. We have a step increase in the tension of the veins only.
+
+Right. So from time t0 to the next timestep, there's a step increase in the.
+
+Tension of the of the venous vessels. Right.
+
+Think of it this way that they're, that you have a rubber band. Right.
+
+And that those, that rubber band is, is stretched to a certain distance.
+
+And now someone comes by, flips the switch, and all of a sudden the spring constant is much stiffer, right?
+
+You hold it to the same distance. But the attention that you have to the force that you have to apply is much higher.
+
+Right. The equivalence here is that you're actually squeezing the vessels.
+
+Right. And you have a step increase a step decrease in the zero pressure filling volume.
+
+That means you have a step increase in the total, the standing.
+
+Volume. Right. So the step increase over here would be going from something like this over here to something like this over here.
+
+That slope stays the same and you end up over here.
+
+Right. That means that the venous return coming back to the right heart.
+
+Sees a step increase. Right.
+
+Squeeze your veins. You're pushing more volume instantaneously to the right heart.
+
+All right. Let's say that you're at the end of your feeling pressure or towards the end.
+
+When that step increase happens. Right.
+
+You have now. An additional volume that has been returned.
+
+All other things being equal, your heart does exactly the same thing.
+
+It increases to the same afterload. It comes back on the same ancestry pressure volume relationship.
+
+And if that happens. You just increased your stroke volume.
+
+Right. No.
+
+Whatever the right heart sees and gives out.
+
+The left heart can pump in region one unless otherwise indicated.
+
+We're always operating in region one of this part of the course, right?
+
+When we get to the path of physiology, Colin will modulate that statement, right.
+
+But this is how you can think of a step increase over here.
+
+And how this translates into step increase over here now. Now you have increased.
+
+Your heart lung pumping unit has given out an increased stroke volume over here.
+
+Right. Total peripheral resistance is still the same.
+
+What happens to arterial blood pressure in the next cycle? Cardiac output has gone up a little bit.
+
+Heart rate stays the same. Peripheral resistance blood pressure has to go up right.
+
+So in the next cycle around you might still actually see. A little bit of an increase over here, but not arterial blood pressure has gone up.
+
+So now you might come to something that looks like this.
+
+Right. And you will you will actually see a new steady state that emerges.
+
+We're just squeezing a little bit of the veins. Leads to an increased stroke volume.
+
+Right. Because you have a transient one.
+
+On the transient, you have a, you know, step increase in, in in venous return that's affected by this offset over here.
+
+Right. So that's what we've drawn over here.
+
+This is sort of the blue where we already have sort of an increase.
+
+You're not coming back to the same diastolic blood pressure. You come back to a slightly higher pressure.
+
+And this is how you can think things through a little bit. And we'll help you with that.
+
+I mean, it takes a little bit of exercise because. With the cardiac output.
+
+In Minions Return Curve, you have the previous loops and you have these pressures versus time.
+
+And how are we going to put all of these together? We'll get some exercise in that.
+
+Right. The important point of emphasis for today is, um.
+
+Before I go to a couple of other things is, is is really the that integrated function of the heart lung pumping unit and
+
+the peripheral circulation as a closed loop circuit right in steady state.
+
+What comes back through the peripheral circulation and what is given out through the heart lung pumping unit has to be the same.
+
+Right. And all of that dissecting and mathematics and algebra that we did.
+
+And the arithmetic, the sort of the mental arithmetic that we did to try to understand the biophysics of both the peripheral circulation,
+
+but also the heart lung pumping unit today. All leads to the fact that we can now do that intersecting of these two input output relationships.
+
+And we can go through exactly this kind of exercise where we say, number one, which parameter is affected by the pathology.
+
+Or by the injury. Number two. Is this a parameter of the peripheral circulation, or is that a parameter of the heart lung pumping unit?
+
+Right. If it's a parameter of the heart lung pumping unit, the peripheral circulation will not change.
+
+In the uncontrolled state. Stays the same.
+
+Right. If it's the parameter of the heart lung pumping unit, what is changed at the heart rate going down is either going up.
+
+The contractility going down is contributor going to be in region one or in region two or in the region three?
+
+Right. The perimeter of the peripheral circulation, the heart lung pumping unit.
+
+The cardiac output curve does not change. It stays the same.
+
+The point of intersection of the two will change, because that is ultimately the new cardiac output,
+
+and that determines both of the performance of the heart lung pumping unit and the performance of the peripheral circulation.
+
+That's the definition of that intersection point, and that's our cardiac output.
+
+Okay. So try to think in terms of these algorithms, or at least for most of us, it will help because,
+
+as I said at the beginning of the first or the third lecture, the heart and the cardiovascular system.
+
+Is nonlinear. It's time varying on multiple levels.
+
+Right. It's controlled. We haven't talked about this yet or we started talking about a little bit, but you haven't talked about it in depth, right?
+
+It's closed loop. And that's exactly the point that we are not very good in thinking in terms of closed loop.
+
+But now we have a very concrete way of thinking about it at the intersection of the heart lung pumping unit.
+
+And what determines the cardiac output is the intersection of those two curves.
+
+Right. That's the essence of today's lecture. We can work through a few more examples, or I can just take you through it here.
+
+We already talked about blood loss, hemorrhage, tilting right. Blood loss, simple change, reduction in mean systemic pressure.
+
+Cardiac output curve doesn't change with changes in the total volume.
+
+So it's that it's it's a reduction in the mean systemic pressure resistance.
+
+You know, uh, the slope of this curve stays the same if you're actually going into a reduced venous return state.
+
+Right. You're right. Hard. Has a reduced ventricular output.
+
+That reduced ventricular output on the right heart is translated to the left heart.
+
+You're you're you're moving down the and study pressure volume relationship.
+
+Ultimately also the arterial blood pressure goes down right.
+
+And your and your and your p value moves to the left.
+
+Okay. And again, if we give you the timing information.
+
+Arterial diastolic arterial blood pressure, peak arterial blood pressure, and end systolic arterial blood pressure,
+
+we could reconstruct the arterial blood pressure waveform of the systemic arterial system and the left ventricular blood pressure.
+
+If we were to give you the timing information. Pneumothorax.
+
+Now you have a stab wound to the chest. Not to the groin.
+
+We get stab wounds to all sorts of body parts, right?
+
+What happens? Well, you lose your negative intra thoracic pressure, at least on one side of the lungs.
+
+Quite akin to positive pressure ventilation, meaning that you actually have no longer that negative pressure to keep distended.
+
+Right. You're shifting significantly to the right. If you are shifting significantly to the right in your cardiac output curve,
+
+your venous return curve stays the same into a thoracic pressure, not a parameter of the peripheral circulation.
+
+Right now, your cardiac output goes way down over here, right?
+
+Venous return goes down. Right ventricular output goes down.
+
+What happens to left ventricular output and diastolic pressure volume going down right.
+
+Just because they're squeeze on the heart. Right.
+
+So talking about evolution again it's like the negative pressure really keeps things nice and open.
+
+All right. I think the last one that I have.
+
+What is this? Myocardial infarction. The big one. All right.
+
+We'll talk more about of course, when we talk about ischemia, heart disease.
+
+But that's our first lecture. The case the old lady.
+
+Right.
+
+Control and systolic pressure, volume relationship, and systolic and diastolic pressure of one relationship and systolic pressure volume relationship.
+
+Equilibrium point over here, right. And systolic capacitance and does solely comprise the capacitance of the right or the left heart,
+
+depending on where the myocardial infarction is, is not a parameter of the peripheral circulation.
+
+Right. So peripheral circulation characteristics stays exactly the same.
+
+Right. What happens to the slope? And systolic and diastolic capacitances are compromised.
+
+Right. So, you know, sliding down that.
+
+And that that means this return curve, right?
+
+Cardiac output slides down. And systolic compliance goes up.
+
+And diastolic compliance goes down. One over those compliances is what determines the slope in this representation.
+
+Right. Narrowing down so you can maintain.
+
+The same stroke volume. You can maintain the same cardiac output.
+
+You continue. You can maintain the same stroke volume at massively increased and diastolic pressures.
+
+If this becomes a lot steeper. Right. Your diastolic pressure has to go up.
+
+You're running danger of reaching that.
+
+Pulmonary edema threshold. Right now.
+
+You can also operate on a smaller stroke volume.
+
+Maintain your cardiac output by increasing. Heart rate.
+
+Right heart rate one of the key determinants of metabolic need of the heart.
+
+You're in a state of oxygen. Relative oxygen mismatch between what the heart needs.
+
+And what the hard gets now. Heart rate is going up, meaning that you're actually increasing.
+
+The mismatch. And more and more injury ensues.
+
+Right and you're moving even further up that and solid pressure volume relationship.
+
+And now you're probably at around 30 or 40mm of mercury fluid is backing up in the left atrium.
+
+And your patient is a danger of going into pulmonary edema.
+
+Okay. And systolic and diastolic compliance both change.
+
+As I said, we obviously have a lot more to say about this when we talk about the,
+
+um, ischemic heart disease taught by the illustrious Professor Colin Stoltz.
+
+Um. That's it. We've covered all of cardiovascular mechanics.
+
+We've we've covered the cardiac cycle. That's it.
+
+We will have a few lectures on the electrophysiology, then a few lectures on a couple of lectures on control of the cardiovascular system.
+
+When we talk about sympathetics parasympathetic, you know, renin angiotensin system and then its pathophysiology.
+
+Right. If you have questions, come see us.
+
+Right. Let us know if you're struggling with some of the material.
+
+But one thing I want to make clear is we're going rapidly and we have to go rapidly.
+
+Otherwise we're not going to cover the material. All right. All right. Thanks.
+
+We'll see you on Thursday. Back in 25. Thank you.
+
